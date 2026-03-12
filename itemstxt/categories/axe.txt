@@ -1,0 +1,200 @@
+T4_MAIN_AXE:Adept's Battleaxe
+T4_MAIN_AXE@1:Adept's Battleaxe
+T4_MAIN_AXE@2:Adept's Battleaxe
+T4_MAIN_AXE@3:Adept's Battleaxe
+T4_MAIN_AXE@4:Adept's Battleaxe
+T5_MAIN_AXE:Expert's Battleaxe
+T5_MAIN_AXE@1:Expert's Battleaxe
+T5_MAIN_AXE@2:Expert's Battleaxe
+T5_MAIN_AXE@3:Expert's Battleaxe
+T5_MAIN_AXE@4:Expert's Battleaxe
+T6_MAIN_AXE:Master's Battleaxe
+T6_MAIN_AXE@1:Master's Battleaxe
+T6_MAIN_AXE@2:Master's Battleaxe
+T6_MAIN_AXE@3:Master's Battleaxe
+T6_MAIN_AXE@4:Master's Battleaxe
+T7_MAIN_AXE:Grandmaster's Battleaxe
+T7_MAIN_AXE@1:Grandmaster's Battleaxe
+T7_MAIN_AXE@2:Grandmaster's Battleaxe
+T7_MAIN_AXE@3:Grandmaster's Battleaxe
+T7_MAIN_AXE@4:Grandmaster's Battleaxe
+T8_MAIN_AXE:Elder's Battleaxe
+T8_MAIN_AXE@1:Elder's Battleaxe
+T8_MAIN_AXE@2:Elder's Battleaxe
+T8_MAIN_AXE@3:Elder's Battleaxe
+T8_MAIN_AXE@4:Elder's Battleaxe
+T4_2H_AXE:Adept's Greataxe
+T4_2H_AXE@1:Adept's Greataxe
+T4_2H_AXE@2:Adept's Greataxe
+T4_2H_AXE@3:Adept's Greataxe
+T4_2H_AXE@4:Adept's Greataxe
+T5_2H_AXE:Expert's Greataxe
+T5_2H_AXE@1:Expert's Greataxe
+T5_2H_AXE@2:Expert's Greataxe
+T5_2H_AXE@3:Expert's Greataxe
+T5_2H_AXE@4:Expert's Greataxe
+T6_2H_AXE:Master's Greataxe
+T6_2H_AXE@1:Master's Greataxe
+T6_2H_AXE@2:Master's Greataxe
+T6_2H_AXE@3:Master's Greataxe
+T6_2H_AXE@4:Master's Greataxe
+T7_2H_AXE:Grandmaster's Greataxe
+T7_2H_AXE@1:Grandmaster's Greataxe
+T7_2H_AXE@2:Grandmaster's Greataxe
+T7_2H_AXE@3:Grandmaster's Greataxe
+T7_2H_AXE@4:Grandmaster's Greataxe
+T8_2H_AXE:The Hand of Khor
+T8_2H_AXE@1:The Hand of Khor
+T8_2H_AXE@2:The Hand of Khor
+T8_2H_AXE@3:The Hand of Khor
+T8_2H_AXE@4:The Hand of Khor
+T4_2H_HALBERD:Adept's Halberd
+T4_2H_HALBERD@1:Adept's Halberd
+T4_2H_HALBERD@2:Adept's Halberd
+T4_2H_HALBERD@3:Adept's Halberd
+T4_2H_HALBERD@4:Adept's Halberd
+T5_2H_HALBERD:Expert's Halberd
+T5_2H_HALBERD@1:Expert's Halberd
+T5_2H_HALBERD@2:Expert's Halberd
+T5_2H_HALBERD@3:Expert's Halberd
+T5_2H_HALBERD@4:Expert's Halberd
+T6_2H_HALBERD:Master's Halberd
+T6_2H_HALBERD@1:Master's Halberd
+T6_2H_HALBERD@2:Master's Halberd
+T6_2H_HALBERD@3:Master's Halberd
+T6_2H_HALBERD@4:Master's Halberd
+T7_2H_HALBERD:Grandmaster's Halberd
+T7_2H_HALBERD@1:Grandmaster's Halberd
+T7_2H_HALBERD@2:Grandmaster's Halberd
+T7_2H_HALBERD@3:Grandmaster's Halberd
+T7_2H_HALBERD@4:Grandmaster's Halberd
+T8_2H_HALBERD:Elder's Halberd
+T8_2H_HALBERD@1:Elder's Halberd
+T8_2H_HALBERD@2:Elder's Halberd
+T8_2H_HALBERD@3:Elder's Halberd
+T8_2H_HALBERD@4:Elder's Halberd
+T4_2H_HALBERD_MORGANA:Adept's Carrioncaller
+T4_2H_HALBERD_MORGANA@1:Adept's Carrioncaller
+T4_2H_HALBERD_MORGANA@2:Adept's Carrioncaller
+T4_2H_HALBERD_MORGANA@3:Adept's Carrioncaller
+T4_2H_HALBERD_MORGANA@4:Adept's Carrioncaller
+T5_2H_HALBERD_MORGANA:Expert's Carrioncaller
+T5_2H_HALBERD_MORGANA@1:Expert's Carrioncaller
+T5_2H_HALBERD_MORGANA@2:Expert's Carrioncaller
+T5_2H_HALBERD_MORGANA@3:Expert's Carrioncaller
+T5_2H_HALBERD_MORGANA@4:Expert's Carrioncaller
+T6_2H_HALBERD_MORGANA:Master's Carrioncaller
+T6_2H_HALBERD_MORGANA@1:Master's Carrioncaller
+T6_2H_HALBERD_MORGANA@2:Master's Carrioncaller
+T6_2H_HALBERD_MORGANA@3:Master's Carrioncaller
+T6_2H_HALBERD_MORGANA@4:Master's Carrioncaller
+T7_2H_HALBERD_MORGANA:Grandmaster's Carrioncaller
+T7_2H_HALBERD_MORGANA@1:Grandmaster's Carrioncaller
+T7_2H_HALBERD_MORGANA@2:Grandmaster's Carrioncaller
+T7_2H_HALBERD_MORGANA@3:Grandmaster's Carrioncaller
+T7_2H_HALBERD_MORGANA@4:Grandmaster's Carrioncaller
+T8_2H_HALBERD_MORGANA:Elder's Carrioncaller
+T8_2H_HALBERD_MORGANA@1:Elder's Carrioncaller
+T8_2H_HALBERD_MORGANA@2:Elder's Carrioncaller
+T8_2H_HALBERD_MORGANA@3:Elder's Carrioncaller
+T8_2H_HALBERD_MORGANA@4:Elder's Carrioncaller
+T4_2H_SCYTHE_HELL:Adept's Infernal Scythe
+T4_2H_SCYTHE_HELL@1:Adept's Infernal Scythe
+T4_2H_SCYTHE_HELL@2:Adept's Infernal Scythe
+T4_2H_SCYTHE_HELL@3:Adept's Infernal Scythe
+T4_2H_SCYTHE_HELL@4:Adept's Infernal Scythe
+T5_2H_SCYTHE_HELL:Expert's Infernal Scythe
+T5_2H_SCYTHE_HELL@1:Expert's Infernal Scythe
+T5_2H_SCYTHE_HELL@2:Expert's Infernal Scythe
+T5_2H_SCYTHE_HELL@3:Expert's Infernal Scythe
+T5_2H_SCYTHE_HELL@4:Expert's Infernal Scythe
+T6_2H_SCYTHE_HELL:Master's Infernal Scythe
+T6_2H_SCYTHE_HELL@1:Master's Infernal Scythe
+T6_2H_SCYTHE_HELL@2:Master's Infernal Scythe
+T6_2H_SCYTHE_HELL@3:Master's Infernal Scythe
+T6_2H_SCYTHE_HELL@4:Master's Infernal Scythe
+T7_2H_SCYTHE_HELL:Grandmaster's Infernal Scythe
+T7_2H_SCYTHE_HELL@1:Grandmaster's Infernal Scythe
+T7_2H_SCYTHE_HELL@2:Grandmaster's Infernal Scythe
+T7_2H_SCYTHE_HELL@3:Grandmaster's Infernal Scythe
+T7_2H_SCYTHE_HELL@4:Grandmaster's Infernal Scythe
+T8_2H_SCYTHE_HELL:Elder's Infernal Scythe
+T8_2H_SCYTHE_HELL@1:Elder's Infernal Scythe
+T8_2H_SCYTHE_HELL@2:Elder's Infernal Scythe
+T8_2H_SCYTHE_HELL@3:Elder's Infernal Scythe
+T8_2H_SCYTHE_HELL@4:Elder's Infernal Scythe
+T4_2H_DUALAXE_KEEPER:Adept's Bear Paws
+T4_2H_DUALAXE_KEEPER@1:Adept's Bear Paws
+T4_2H_DUALAXE_KEEPER@2:Adept's Bear Paws
+T4_2H_DUALAXE_KEEPER@3:Adept's Bear Paws
+T4_2H_DUALAXE_KEEPER@4:Adept's Bear Paws
+T5_2H_DUALAXE_KEEPER:Expert's Bear Paws
+T5_2H_DUALAXE_KEEPER@1:Expert's Bear Paws
+T5_2H_DUALAXE_KEEPER@2:Expert's Bear Paws
+T5_2H_DUALAXE_KEEPER@3:Expert's Bear Paws
+T5_2H_DUALAXE_KEEPER@4:Expert's Bear Paws
+T6_2H_DUALAXE_KEEPER:Master's Bear Paws
+T6_2H_DUALAXE_KEEPER@1:Master's Bear Paws
+T6_2H_DUALAXE_KEEPER@2:Master's Bear Paws
+T6_2H_DUALAXE_KEEPER@3:Master's Bear Paws
+T6_2H_DUALAXE_KEEPER@4:Master's Bear Paws
+T7_2H_DUALAXE_KEEPER:Grandmaster's Bear Paws
+T7_2H_DUALAXE_KEEPER@1:Grandmaster's Bear Paws
+T7_2H_DUALAXE_KEEPER@2:Grandmaster's Bear Paws
+T7_2H_DUALAXE_KEEPER@3:Grandmaster's Bear Paws
+T7_2H_DUALAXE_KEEPER@4:Grandmaster's Bear Paws
+T8_2H_DUALAXE_KEEPER:Elder's Bear Paws
+T8_2H_DUALAXE_KEEPER@1:Elder's Bear Paws
+T8_2H_DUALAXE_KEEPER@2:Elder's Bear Paws
+T8_2H_DUALAXE_KEEPER@3:Elder's Bear Paws
+T8_2H_DUALAXE_KEEPER@4:Elder's Bear Paws
+T4_2H_AXE_AVALON:Adept's Realmbreaker
+T4_2H_AXE_AVALON@1:Adept's Realmbreaker
+T4_2H_AXE_AVALON@2:Adept's Realmbreaker
+T4_2H_AXE_AVALON@3:Adept's Realmbreaker
+T4_2H_AXE_AVALON@4:Adept's Realmbreaker
+T5_2H_AXE_AVALON:Expert's Realmbreaker
+T5_2H_AXE_AVALON@1:Expert's Realmbreaker
+T5_2H_AXE_AVALON@2:Expert's Realmbreaker
+T5_2H_AXE_AVALON@3:Expert's Realmbreaker
+T5_2H_AXE_AVALON@4:Expert's Realmbreaker
+T6_2H_AXE_AVALON:Master's Realmbreaker
+T6_2H_AXE_AVALON@1:Master's Realmbreaker
+T6_2H_AXE_AVALON@2:Master's Realmbreaker
+T6_2H_AXE_AVALON@3:Master's Realmbreaker
+T6_2H_AXE_AVALON@4:Master's Realmbreaker
+T7_2H_AXE_AVALON:Grandmaster's Realmbreaker
+T7_2H_AXE_AVALON@1:Grandmaster's Realmbreaker
+T7_2H_AXE_AVALON@2:Grandmaster's Realmbreaker
+T7_2H_AXE_AVALON@3:Grandmaster's Realmbreaker
+T7_2H_AXE_AVALON@4:Grandmaster's Realmbreaker
+T8_2H_AXE_AVALON:Elder's Realmbreaker
+T8_2H_AXE_AVALON@1:Elder's Realmbreaker
+T8_2H_AXE_AVALON@2:Elder's Realmbreaker
+T8_2H_AXE_AVALON@3:Elder's Realmbreaker
+T8_2H_AXE_AVALON@4:Elder's Realmbreaker
+T4_2H_SCYTHE_CRYSTAL:Adept's Crystal Reaper
+T4_2H_SCYTHE_CRYSTAL@1:Adept's Crystal Reaper
+T4_2H_SCYTHE_CRYSTAL@2:Adept's Crystal Reaper
+T4_2H_SCYTHE_CRYSTAL@3:Adept's Crystal Reaper
+T4_2H_SCYTHE_CRYSTAL@4:Adept's Crystal Reaper
+T5_2H_SCYTHE_CRYSTAL:Expert's Crystal Reaper
+T5_2H_SCYTHE_CRYSTAL@1:Expert's Crystal Reaper
+T5_2H_SCYTHE_CRYSTAL@2:Expert's Crystal Reaper
+T5_2H_SCYTHE_CRYSTAL@3:Expert's Crystal Reaper
+T5_2H_SCYTHE_CRYSTAL@4:Expert's Crystal Reaper
+T6_2H_SCYTHE_CRYSTAL:Master's Crystal Reaper
+T6_2H_SCYTHE_CRYSTAL@1:Master's Crystal Reaper
+T6_2H_SCYTHE_CRYSTAL@2:Master's Crystal Reaper
+T6_2H_SCYTHE_CRYSTAL@3:Master's Crystal Reaper
+T6_2H_SCYTHE_CRYSTAL@4:Master's Crystal Reaper
+T7_2H_SCYTHE_CRYSTAL:Grandmaster's Crystal Reaper
+T7_2H_SCYTHE_CRYSTAL@1:Grandmaster's Crystal Reaper
+T7_2H_SCYTHE_CRYSTAL@2:Grandmaster's Crystal Reaper
+T7_2H_SCYTHE_CRYSTAL@3:Grandmaster's Crystal Reaper
+T7_2H_SCYTHE_CRYSTAL@4:Grandmaster's Crystal Reaper
+T8_2H_SCYTHE_CRYSTAL:Elder's Crystal Reaper
+T8_2H_SCYTHE_CRYSTAL@1:Elder's Crystal Reaper
+T8_2H_SCYTHE_CRYSTAL@2:Elder's Crystal Reaper
+T8_2H_SCYTHE_CRYSTAL@3:Elder's Crystal Reaper
+T8_2H_SCYTHE_CRYSTAL@4:Elder's Crystal Reaper

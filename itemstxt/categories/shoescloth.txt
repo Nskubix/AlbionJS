@@ -1,0 +1,225 @@
+T4_SHOES_CLOTH_SET1:Adept's Scholar Sandals
+T4_SHOES_CLOTH_SET1@1:Adept's Scholar Sandals
+T4_SHOES_CLOTH_SET1@2:Adept's Scholar Sandals
+T4_SHOES_CLOTH_SET1@3:Adept's Scholar Sandals
+T4_SHOES_CLOTH_SET1@4:Adept's Scholar Sandals
+T5_SHOES_CLOTH_SET1:Expert's Scholar Sandals
+T5_SHOES_CLOTH_SET1@1:Expert's Scholar Sandals
+T5_SHOES_CLOTH_SET1@2:Expert's Scholar Sandals
+T5_SHOES_CLOTH_SET1@3:Expert's Scholar Sandals
+T5_SHOES_CLOTH_SET1@4:Expert's Scholar Sandals
+T6_SHOES_CLOTH_SET1:Master's Scholar Sandals
+T6_SHOES_CLOTH_SET1@1:Master's Scholar Sandals
+T6_SHOES_CLOTH_SET1@2:Master's Scholar Sandals
+T6_SHOES_CLOTH_SET1@3:Master's Scholar Sandals
+T6_SHOES_CLOTH_SET1@4:Master's Scholar Sandals
+T7_SHOES_CLOTH_SET1:Grandmaster's Scholar Sandals
+T7_SHOES_CLOTH_SET1@1:Grandmaster's Scholar Sandals
+T7_SHOES_CLOTH_SET1@2:Grandmaster's Scholar Sandals
+T7_SHOES_CLOTH_SET1@3:Grandmaster's Scholar Sandals
+T7_SHOES_CLOTH_SET1@4:Grandmaster's Scholar Sandals
+T8_SHOES_CLOTH_SET1:Elder's Scholar Sandals
+T8_SHOES_CLOTH_SET1@1:Elder's Scholar Sandals
+T8_SHOES_CLOTH_SET1@2:Elder's Scholar Sandals
+T8_SHOES_CLOTH_SET1@3:Elder's Scholar Sandals
+T8_SHOES_CLOTH_SET1@4:Elder's Scholar Sandals
+T4_SHOES_CLOTH_SET2:Adept's Cleric Sandals
+T4_SHOES_CLOTH_SET2@1:Adept's Cleric Sandals
+T4_SHOES_CLOTH_SET2@2:Adept's Cleric Sandals
+T4_SHOES_CLOTH_SET2@3:Adept's Cleric Sandals
+T4_SHOES_CLOTH_SET2@4:Adept's Cleric Sandals
+T5_SHOES_CLOTH_SET2:Expert's Cleric Sandals
+T5_SHOES_CLOTH_SET2@1:Expert's Cleric Sandals
+T5_SHOES_CLOTH_SET2@2:Expert's Cleric Sandals
+T5_SHOES_CLOTH_SET2@3:Expert's Cleric Sandals
+T5_SHOES_CLOTH_SET2@4:Expert's Cleric Sandals
+T6_SHOES_CLOTH_SET2:Master's Cleric Sandals
+T6_SHOES_CLOTH_SET2@1:Master's Cleric Sandals
+T6_SHOES_CLOTH_SET2@2:Master's Cleric Sandals
+T6_SHOES_CLOTH_SET2@3:Master's Cleric Sandals
+T6_SHOES_CLOTH_SET2@4:Master's Cleric Sandals
+T7_SHOES_CLOTH_SET2:Grandmaster's Cleric Sandals
+T7_SHOES_CLOTH_SET2@1:Grandmaster's Cleric Sandals
+T7_SHOES_CLOTH_SET2@2:Grandmaster's Cleric Sandals
+T7_SHOES_CLOTH_SET2@3:Grandmaster's Cleric Sandals
+T7_SHOES_CLOTH_SET2@4:Grandmaster's Cleric Sandals
+T8_SHOES_CLOTH_SET2:Elder's Cleric Sandals
+T8_SHOES_CLOTH_SET2@1:Elder's Cleric Sandals
+T8_SHOES_CLOTH_SET2@2:Elder's Cleric Sandals
+T8_SHOES_CLOTH_SET2@3:Elder's Cleric Sandals
+T8_SHOES_CLOTH_SET2@4:Elder's Cleric Sandals
+T4_SHOES_CLOTH_SET3:Adept's Mage Sandals
+T4_SHOES_CLOTH_SET3@1:Adept's Mage Sandals
+T4_SHOES_CLOTH_SET3@2:Adept's Mage Sandals
+T4_SHOES_CLOTH_SET3@3:Adept's Mage Sandals
+T4_SHOES_CLOTH_SET3@4:Adept's Mage Sandals
+T5_SHOES_CLOTH_SET3:Expert's Mage Sandals
+T5_SHOES_CLOTH_SET3@1:Expert's Mage Sandals
+T5_SHOES_CLOTH_SET3@2:Expert's Mage Sandals
+T5_SHOES_CLOTH_SET3@3:Expert's Mage Sandals
+T5_SHOES_CLOTH_SET3@4:Expert's Mage Sandals
+T6_SHOES_CLOTH_SET3:Master's Mage Sandals
+T6_SHOES_CLOTH_SET3@1:Master's Mage Sandals
+T6_SHOES_CLOTH_SET3@2:Master's Mage Sandals
+T6_SHOES_CLOTH_SET3@3:Master's Mage Sandals
+T6_SHOES_CLOTH_SET3@4:Master's Mage Sandals
+T7_SHOES_CLOTH_SET3:Grandmaster's Mage Sandals
+T7_SHOES_CLOTH_SET3@1:Grandmaster's Mage Sandals
+T7_SHOES_CLOTH_SET3@2:Grandmaster's Mage Sandals
+T7_SHOES_CLOTH_SET3@3:Grandmaster's Mage Sandals
+T7_SHOES_CLOTH_SET3@4:Grandmaster's Mage Sandals
+T8_SHOES_CLOTH_SET3:Elder's Mage Sandals
+T8_SHOES_CLOTH_SET3@1:Elder's Mage Sandals
+T8_SHOES_CLOTH_SET3@2:Elder's Mage Sandals
+T8_SHOES_CLOTH_SET3@3:Elder's Mage Sandals
+T8_SHOES_CLOTH_SET3@4:Elder's Mage Sandals
+T4_SHOES_CLOTH_KEEPER:Adept's Druid Sandals
+T4_SHOES_CLOTH_KEEPER@1:Adept's Druid Sandals
+T4_SHOES_CLOTH_KEEPER@2:Adept's Druid Sandals
+T4_SHOES_CLOTH_KEEPER@3:Adept's Druid Sandals
+T4_SHOES_CLOTH_KEEPER@4:Adept's Druid Sandals
+T5_SHOES_CLOTH_KEEPER:Expert's Druid Sandals
+T5_SHOES_CLOTH_KEEPER@1:Expert's Druid Sandals
+T5_SHOES_CLOTH_KEEPER@2:Expert's Druid Sandals
+T5_SHOES_CLOTH_KEEPER@3:Expert's Druid Sandals
+T5_SHOES_CLOTH_KEEPER@4:Expert's Druid Sandals
+T6_SHOES_CLOTH_KEEPER:Master's Druid Sandals
+T6_SHOES_CLOTH_KEEPER@1:Master's Druid Sandals
+T6_SHOES_CLOTH_KEEPER@2:Master's Druid Sandals
+T6_SHOES_CLOTH_KEEPER@3:Master's Druid Sandals
+T6_SHOES_CLOTH_KEEPER@4:Master's Druid Sandals
+T7_SHOES_CLOTH_KEEPER:Grandmaster's Druid Sandals
+T7_SHOES_CLOTH_KEEPER@1:Grandmaster's Druid Sandals
+T7_SHOES_CLOTH_KEEPER@2:Grandmaster's Druid Sandals
+T7_SHOES_CLOTH_KEEPER@3:Grandmaster's Druid Sandals
+T7_SHOES_CLOTH_KEEPER@4:Grandmaster's Druid Sandals
+T8_SHOES_CLOTH_KEEPER:Elder's Druid Sandals
+T8_SHOES_CLOTH_KEEPER@1:Elder's Druid Sandals
+T8_SHOES_CLOTH_KEEPER@2:Elder's Druid Sandals
+T8_SHOES_CLOTH_KEEPER@3:Elder's Druid Sandals
+T8_SHOES_CLOTH_KEEPER@4:Elder's Druid Sandals
+T4_SHOES_CLOTH_HELL:Adept's Fiend Sandals
+T4_SHOES_CLOTH_HELL@1:Adept's Fiend Sandals
+T4_SHOES_CLOTH_HELL@2:Adept's Fiend Sandals
+T4_SHOES_CLOTH_HELL@3:Adept's Fiend Sandals
+T4_SHOES_CLOTH_HELL@4:Adept's Fiend Sandals
+T5_SHOES_CLOTH_HELL:Expert's Fiend Sandals
+T5_SHOES_CLOTH_HELL@1:Expert's Fiend Sandals
+T5_SHOES_CLOTH_HELL@2:Expert's Fiend Sandals
+T5_SHOES_CLOTH_HELL@3:Expert's Fiend Sandals
+T5_SHOES_CLOTH_HELL@4:Expert's Fiend Sandals
+T6_SHOES_CLOTH_HELL:Master's Fiend Sandals
+T6_SHOES_CLOTH_HELL@1:Master's Fiend Sandals
+T6_SHOES_CLOTH_HELL@2:Master's Fiend Sandals
+T6_SHOES_CLOTH_HELL@3:Master's Fiend Sandals
+T6_SHOES_CLOTH_HELL@4:Master's Fiend Sandals
+T7_SHOES_CLOTH_HELL:Grandmaster's Fiend Sandals
+T7_SHOES_CLOTH_HELL@1:Grandmaster's Fiend Sandals
+T7_SHOES_CLOTH_HELL@2:Grandmaster's Fiend Sandals
+T7_SHOES_CLOTH_HELL@3:Grandmaster's Fiend Sandals
+T7_SHOES_CLOTH_HELL@4:Grandmaster's Fiend Sandals
+T8_SHOES_CLOTH_HELL:Elder's Fiend Sandals
+T8_SHOES_CLOTH_HELL@1:Elder's Fiend Sandals
+T8_SHOES_CLOTH_HELL@2:Elder's Fiend Sandals
+T8_SHOES_CLOTH_HELL@3:Elder's Fiend Sandals
+T8_SHOES_CLOTH_HELL@4:Elder's Fiend Sandals
+T4_SHOES_CLOTH_MORGANA:Adept's Cultist Sandals
+T4_SHOES_CLOTH_MORGANA@1:Adept's Cultist Sandals
+T4_SHOES_CLOTH_MORGANA@2:Adept's Cultist Sandals
+T4_SHOES_CLOTH_MORGANA@3:Adept's Cultist Sandals
+T4_SHOES_CLOTH_MORGANA@4:Adept's Cultist Sandals
+T5_SHOES_CLOTH_MORGANA:Expert's Cultist Sandals
+T5_SHOES_CLOTH_MORGANA@1:Expert's Cultist Sandals
+T5_SHOES_CLOTH_MORGANA@2:Expert's Cultist Sandals
+T5_SHOES_CLOTH_MORGANA@3:Expert's Cultist Sandals
+T5_SHOES_CLOTH_MORGANA@4:Expert's Cultist Sandals
+T6_SHOES_CLOTH_MORGANA:Master's Cultist Sandals
+T6_SHOES_CLOTH_MORGANA@1:Master's Cultist Sandals
+T6_SHOES_CLOTH_MORGANA@2:Master's Cultist Sandals
+T6_SHOES_CLOTH_MORGANA@3:Master's Cultist Sandals
+T6_SHOES_CLOTH_MORGANA@4:Master's Cultist Sandals
+T7_SHOES_CLOTH_MORGANA:Grandmaster's Cultist Sandals
+T7_SHOES_CLOTH_MORGANA@1:Grandmaster's Cultist Sandals
+T7_SHOES_CLOTH_MORGANA@2:Grandmaster's Cultist Sandals
+T7_SHOES_CLOTH_MORGANA@3:Grandmaster's Cultist Sandals
+T7_SHOES_CLOTH_MORGANA@4:Grandmaster's Cultist Sandals
+T8_SHOES_CLOTH_MORGANA:Elder's Cultist Sandals
+T8_SHOES_CLOTH_MORGANA@1:Elder's Cultist Sandals
+T8_SHOES_CLOTH_MORGANA@2:Elder's Cultist Sandals
+T8_SHOES_CLOTH_MORGANA@3:Elder's Cultist Sandals
+T8_SHOES_CLOTH_MORGANA@4:Elder's Cultist Sandals
+T4_SHOES_CLOTH_FEY:Adept's Feyscale Sandals
+T4_SHOES_CLOTH_FEY@1:Adept's Feyscale Sandals
+T4_SHOES_CLOTH_FEY@2:Adept's Feyscale Sandals
+T4_SHOES_CLOTH_FEY@3:Adept's Feyscale Sandals
+T4_SHOES_CLOTH_FEY@4:Adept's Feyscale Sandals
+T5_SHOES_CLOTH_FEY:Expert's Feyscale Sandals
+T5_SHOES_CLOTH_FEY@1:Expert's Feyscale Sandals
+T5_SHOES_CLOTH_FEY@2:Expert's Feyscale Sandals
+T5_SHOES_CLOTH_FEY@3:Expert's Feyscale Sandals
+T5_SHOES_CLOTH_FEY@4:Expert's Feyscale Sandals
+T6_SHOES_CLOTH_FEY:Master's Feyscale Sandals
+T6_SHOES_CLOTH_FEY@1:Master's Feyscale Sandals
+T6_SHOES_CLOTH_FEY@2:Master's Feyscale Sandals
+T6_SHOES_CLOTH_FEY@3:Master's Feyscale Sandals
+T6_SHOES_CLOTH_FEY@4:Master's Feyscale Sandals
+T7_SHOES_CLOTH_FEY:Grandmaster's Feyscale Sandals
+T7_SHOES_CLOTH_FEY@1:Grandmaster's Feyscale Sandals
+T7_SHOES_CLOTH_FEY@2:Grandmaster's Feyscale Sandals
+T7_SHOES_CLOTH_FEY@3:Grandmaster's Feyscale Sandals
+T7_SHOES_CLOTH_FEY@4:Grandmaster's Feyscale Sandals
+T8_SHOES_CLOTH_FEY:Elder's Feyscale Sandals
+T8_SHOES_CLOTH_FEY@1:Elder's Feyscale Sandals
+T8_SHOES_CLOTH_FEY@2:Elder's Feyscale Sandals
+T8_SHOES_CLOTH_FEY@3:Elder's Feyscale Sandals
+T8_SHOES_CLOTH_FEY@4:Elder's Feyscale Sandals
+T4_SHOES_CLOTH_AVALON:Adept's Sandals of Purity
+T4_SHOES_CLOTH_AVALON@1:Adept's Sandals of Purity
+T4_SHOES_CLOTH_AVALON@2:Adept's Sandals of Purity
+T4_SHOES_CLOTH_AVALON@3:Adept's Sandals of Purity
+T4_SHOES_CLOTH_AVALON@4:Adept's Sandals of Purity
+T5_SHOES_CLOTH_AVALON:Expert's Sandals of Purity
+T5_SHOES_CLOTH_AVALON@1:Expert's Sandals of Purity
+T5_SHOES_CLOTH_AVALON@2:Expert's Sandals of Purity
+T5_SHOES_CLOTH_AVALON@3:Expert's Sandals of Purity
+T5_SHOES_CLOTH_AVALON@4:Expert's Sandals of Purity
+T6_SHOES_CLOTH_AVALON:Master's Sandals of Purity
+T6_SHOES_CLOTH_AVALON@1:Master's Sandals of Purity
+T6_SHOES_CLOTH_AVALON@2:Master's Sandals of Purity
+T6_SHOES_CLOTH_AVALON@3:Master's Sandals of Purity
+T6_SHOES_CLOTH_AVALON@4:Master's Sandals of Purity
+T7_SHOES_CLOTH_AVALON:Grandmaster's Sandals of Purity
+T7_SHOES_CLOTH_AVALON@1:Grandmaster's Sandals of Purity
+T7_SHOES_CLOTH_AVALON@2:Grandmaster's Sandals of Purity
+T7_SHOES_CLOTH_AVALON@3:Grandmaster's Sandals of Purity
+T7_SHOES_CLOTH_AVALON@4:Grandmaster's Sandals of Purity
+T8_SHOES_CLOTH_AVALON:Elder's Sandals of Purity
+T8_SHOES_CLOTH_AVALON@1:Elder's Sandals of Purity
+T8_SHOES_CLOTH_AVALON@2:Elder's Sandals of Purity
+T8_SHOES_CLOTH_AVALON@3:Elder's Sandals of Purity
+T8_SHOES_CLOTH_AVALON@4:Elder's Sandals of Purity
+T4_SHOES_CLOTH_ROYAL:Adept's Royal Sandals
+T4_SHOES_CLOTH_ROYAL@1:Adept's Royal Sandals
+T4_SHOES_CLOTH_ROYAL@2:Adept's Royal Sandals
+T4_SHOES_CLOTH_ROYAL@3:Adept's Royal Sandals
+T4_SHOES_CLOTH_ROYAL@4:Adept's Royal Sandals
+T5_SHOES_CLOTH_ROYAL:Expert's Royal Sandals
+T5_SHOES_CLOTH_ROYAL@1:Expert's Royal Sandals
+T5_SHOES_CLOTH_ROYAL@2:Expert's Royal Sandals
+T5_SHOES_CLOTH_ROYAL@3:Expert's Royal Sandals
+T5_SHOES_CLOTH_ROYAL@4:Expert's Royal Sandals
+T6_SHOES_CLOTH_ROYAL:Master's Royal Sandals
+T6_SHOES_CLOTH_ROYAL@1:Master's Royal Sandals
+T6_SHOES_CLOTH_ROYAL@2:Master's Royal Sandals
+T6_SHOES_CLOTH_ROYAL@3:Master's Royal Sandals
+T6_SHOES_CLOTH_ROYAL@4:Master's Royal Sandals
+T7_SHOES_CLOTH_ROYAL:Grandmaster's Royal Sandals
+T7_SHOES_CLOTH_ROYAL@1:Grandmaster's Royal Sandals
+T7_SHOES_CLOTH_ROYAL@2:Grandmaster's Royal Sandals
+T7_SHOES_CLOTH_ROYAL@3:Grandmaster's Royal Sandals
+T7_SHOES_CLOTH_ROYAL@4:Grandmaster's Royal Sandals
+T8_SHOES_CLOTH_ROYAL:Elder's Royal Sandals
+T8_SHOES_CLOTH_ROYAL@1:Elder's Royal Sandals
+T8_SHOES_CLOTH_ROYAL@2:Elder's Royal Sandals
+T8_SHOES_CLOTH_ROYAL@3:Elder's Royal Sandals
+T8_SHOES_CLOTH_ROYAL@4:Elder's Royal Sandals

@@ -1,0 +1,150 @@
+T4_OFF_TORCH:Adept's Torch
+T4_OFF_TORCH@1:Adept's Torch
+T4_OFF_TORCH@2:Adept's Torch
+T4_OFF_TORCH@3:Adept's Torch
+T4_OFF_TORCH@4:Adept's Torch
+T5_OFF_TORCH:Expert's Torch
+T5_OFF_TORCH@1:Expert's Torch
+T5_OFF_TORCH@2:Expert's Torch
+T5_OFF_TORCH@3:Expert's Torch
+T5_OFF_TORCH@4:Expert's Torch
+T6_OFF_TORCH:Master's Torch
+T6_OFF_TORCH@1:Master's Torch
+T6_OFF_TORCH@2:Master's Torch
+T6_OFF_TORCH@3:Master's Torch
+T6_OFF_TORCH@4:Master's Torch
+T7_OFF_TORCH:Grandmaster's Torch
+T7_OFF_TORCH@1:Grandmaster's Torch
+T7_OFF_TORCH@2:Grandmaster's Torch
+T7_OFF_TORCH@3:Grandmaster's Torch
+T7_OFF_TORCH@4:Grandmaster's Torch
+T8_OFF_TORCH:Elder's Torch
+T8_OFF_TORCH@1:Elder's Torch
+T8_OFF_TORCH@2:Elder's Torch
+T8_OFF_TORCH@3:Elder's Torch
+T8_OFF_TORCH@4:Elder's Torch
+T4_OFF_HORN_KEEPER:Adept's Mistcaller
+T4_OFF_HORN_KEEPER@1:Adept's Mistcaller
+T4_OFF_HORN_KEEPER@2:Adept's Mistcaller
+T4_OFF_HORN_KEEPER@3:Adept's Mistcaller
+T4_OFF_HORN_KEEPER@4:Adept's Mistcaller
+T5_OFF_HORN_KEEPER:Expert's Mistcaller
+T5_OFF_HORN_KEEPER@1:Expert's Mistcaller
+T5_OFF_HORN_KEEPER@2:Expert's Mistcaller
+T5_OFF_HORN_KEEPER@3:Expert's Mistcaller
+T5_OFF_HORN_KEEPER@4:Expert's Mistcaller
+T6_OFF_HORN_KEEPER:Master's Mistcaller
+T6_OFF_HORN_KEEPER@1:Master's Mistcaller
+T6_OFF_HORN_KEEPER@2:Master's Mistcaller
+T6_OFF_HORN_KEEPER@3:Master's Mistcaller
+T6_OFF_HORN_KEEPER@4:Master's Mistcaller
+T7_OFF_HORN_KEEPER:Grandmaster's Mistcaller
+T7_OFF_HORN_KEEPER@1:Grandmaster's Mistcaller
+T7_OFF_HORN_KEEPER@2:Grandmaster's Mistcaller
+T7_OFF_HORN_KEEPER@3:Grandmaster's Mistcaller
+T7_OFF_HORN_KEEPER@4:Grandmaster's Mistcaller
+T8_OFF_HORN_KEEPER:Elder's Mistcaller
+T8_OFF_HORN_KEEPER@1:Elder's Mistcaller
+T8_OFF_HORN_KEEPER@2:Elder's Mistcaller
+T8_OFF_HORN_KEEPER@3:Elder's Mistcaller
+T8_OFF_HORN_KEEPER@4:Elder's Mistcaller
+T4_OFF_TALISMAN_AVALON:Adept's Sacred Scepter
+T4_OFF_TALISMAN_AVALON@1:Adept's Sacred Scepter
+T4_OFF_TALISMAN_AVALON@2:Adept's Sacred Scepter
+T4_OFF_TALISMAN_AVALON@3:Adept's Sacred Scepter
+T4_OFF_TALISMAN_AVALON@4:Adept's Sacred Scepter
+T5_OFF_TALISMAN_AVALON:Expert's Sacred Scepter
+T5_OFF_TALISMAN_AVALON@1:Expert's Sacred Scepter
+T5_OFF_TALISMAN_AVALON@2:Expert's Sacred Scepter
+T5_OFF_TALISMAN_AVALON@3:Expert's Sacred Scepter
+T5_OFF_TALISMAN_AVALON@4:Expert's Sacred Scepter
+T6_OFF_TALISMAN_AVALON:Master's Sacred Scepter
+T6_OFF_TALISMAN_AVALON@1:Master's Sacred Scepter
+T6_OFF_TALISMAN_AVALON@2:Master's Sacred Scepter
+T6_OFF_TALISMAN_AVALON@3:Master's Sacred Scepter
+T6_OFF_TALISMAN_AVALON@4:Master's Sacred Scepter
+T7_OFF_TALISMAN_AVALON:Grandmaster's Sacred Scepter
+T7_OFF_TALISMAN_AVALON@1:Grandmaster's Sacred Scepter
+T7_OFF_TALISMAN_AVALON@2:Grandmaster's Sacred Scepter
+T7_OFF_TALISMAN_AVALON@3:Grandmaster's Sacred Scepter
+T7_OFF_TALISMAN_AVALON@4:Grandmaster's Sacred Scepter
+T8_OFF_TALISMAN_AVALON:Elder's Sacred Scepter
+T8_OFF_TALISMAN_AVALON@1:Elder's Sacred Scepter
+T8_OFF_TALISMAN_AVALON@2:Elder's Sacred Scepter
+T8_OFF_TALISMAN_AVALON@3:Elder's Sacred Scepter
+T8_OFF_TALISMAN_AVALON@4:Elder's Sacred Scepter
+T4_OFF_LAMP_UNDEAD:Adept's Cryptcandle
+T4_OFF_LAMP_UNDEAD@1:Adept's Cryptcandle
+T4_OFF_LAMP_UNDEAD@2:Adept's Cryptcandle
+T4_OFF_LAMP_UNDEAD@3:Adept's Cryptcandle
+T4_OFF_LAMP_UNDEAD@4:Adept's Cryptcandle
+T5_OFF_LAMP_UNDEAD:Expert's Cryptcandle
+T5_OFF_LAMP_UNDEAD@1:Expert's Cryptcandle
+T5_OFF_LAMP_UNDEAD@2:Expert's Cryptcandle
+T5_OFF_LAMP_UNDEAD@3:Expert's Cryptcandle
+T5_OFF_LAMP_UNDEAD@4:Expert's Cryptcandle
+T6_OFF_LAMP_UNDEAD:Master's Cryptcandle
+T6_OFF_LAMP_UNDEAD@1:Master's Cryptcandle
+T6_OFF_LAMP_UNDEAD@2:Master's Cryptcandle
+T6_OFF_LAMP_UNDEAD@3:Master's Cryptcandle
+T6_OFF_LAMP_UNDEAD@4:Master's Cryptcandle
+T7_OFF_LAMP_UNDEAD:Grandmaster's Cryptcandle
+T7_OFF_LAMP_UNDEAD@1:Grandmaster's Cryptcandle
+T7_OFF_LAMP_UNDEAD@2:Grandmaster's Cryptcandle
+T7_OFF_LAMP_UNDEAD@3:Grandmaster's Cryptcandle
+T7_OFF_LAMP_UNDEAD@4:Grandmaster's Cryptcandle
+T8_OFF_LAMP_UNDEAD:Elder's Cryptcandle
+T8_OFF_LAMP_UNDEAD@1:Elder's Cryptcandle
+T8_OFF_LAMP_UNDEAD@2:Elder's Cryptcandle
+T8_OFF_LAMP_UNDEAD@3:Elder's Cryptcandle
+T8_OFF_LAMP_UNDEAD@4:Elder's Cryptcandle
+T4_OFF_JESTERCANE_HELL:Adept's Leering Cane
+T4_OFF_JESTERCANE_HELL@1:Adept's Leering Cane
+T4_OFF_JESTERCANE_HELL@2:Adept's Leering Cane
+T4_OFF_JESTERCANE_HELL@3:Adept's Leering Cane
+T4_OFF_JESTERCANE_HELL@4:Adept's Leering Cane
+T5_OFF_JESTERCANE_HELL:Expert's Leering Cane
+T5_OFF_JESTERCANE_HELL@1:Expert's Leering Cane
+T5_OFF_JESTERCANE_HELL@2:Expert's Leering Cane
+T5_OFF_JESTERCANE_HELL@3:Expert's Leering Cane
+T5_OFF_JESTERCANE_HELL@4:Expert's Leering Cane
+T6_OFF_JESTERCANE_HELL:Master's Leering Cane
+T6_OFF_JESTERCANE_HELL@1:Master's Leering Cane
+T6_OFF_JESTERCANE_HELL@2:Master's Leering Cane
+T6_OFF_JESTERCANE_HELL@3:Master's Leering Cane
+T6_OFF_JESTERCANE_HELL@4:Master's Leering Cane
+T7_OFF_JESTERCANE_HELL:Grandmaster's Leering Cane
+T7_OFF_JESTERCANE_HELL@1:Grandmaster's Leering Cane
+T7_OFF_JESTERCANE_HELL@2:Grandmaster's Leering Cane
+T7_OFF_JESTERCANE_HELL@3:Grandmaster's Leering Cane
+T7_OFF_JESTERCANE_HELL@4:Grandmaster's Leering Cane
+T8_OFF_JESTERCANE_HELL:Elder's Leering Cane
+T8_OFF_JESTERCANE_HELL@1:Elder's Leering Cane
+T8_OFF_JESTERCANE_HELL@2:Elder's Leering Cane
+T8_OFF_JESTERCANE_HELL@3:Elder's Leering Cane
+T8_OFF_JESTERCANE_HELL@4:Elder's Leering Cane
+T4_OFF_TORCH_CRYSTAL:Adept's Blueflame Torch
+T4_OFF_TORCH_CRYSTAL@1:Adept's Blueflame Torch
+T4_OFF_TORCH_CRYSTAL@2:Adept's Blueflame Torch
+T4_OFF_TORCH_CRYSTAL@3:Adept's Blueflame Torch
+T4_OFF_TORCH_CRYSTAL@4:Adept's Blueflame Torch
+T5_OFF_TORCH_CRYSTAL:Expert's Blueflame Torch
+T5_OFF_TORCH_CRYSTAL@1:Expert's Blueflame Torch
+T5_OFF_TORCH_CRYSTAL@2:Expert's Blueflame Torch
+T5_OFF_TORCH_CRYSTAL@3:Expert's Blueflame Torch
+T5_OFF_TORCH_CRYSTAL@4:Expert's Blueflame Torch
+T6_OFF_TORCH_CRYSTAL:Master's Blueflame Torch
+T6_OFF_TORCH_CRYSTAL@1:Master's Blueflame Torch
+T6_OFF_TORCH_CRYSTAL@2:Master's Blueflame Torch
+T6_OFF_TORCH_CRYSTAL@3:Master's Blueflame Torch
+T6_OFF_TORCH_CRYSTAL@4:Master's Blueflame Torch
+T7_OFF_TORCH_CRYSTAL:Grandmaster's Blueflame Torch
+T7_OFF_TORCH_CRYSTAL@1:Grandmaster's Blueflame Torch
+T7_OFF_TORCH_CRYSTAL@2:Grandmaster's Blueflame Torch
+T7_OFF_TORCH_CRYSTAL@3:Grandmaster's Blueflame Torch
+T7_OFF_TORCH_CRYSTAL@4:Grandmaster's Blueflame Torch
+T8_OFF_TORCH_CRYSTAL:Elder's Blueflame Torch
+T8_OFF_TORCH_CRYSTAL@1:Elder's Blueflame Torch
+T8_OFF_TORCH_CRYSTAL@2:Elder's Blueflame Torch
+T8_OFF_TORCH_CRYSTAL@3:Elder's Blueflame Torch
+T8_OFF_TORCH_CRYSTAL@4:Elder's Blueflame Torch

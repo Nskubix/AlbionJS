@@ -1,0 +1,200 @@
+T4_2H_KNUCKLES_SET1:Adept's Brawler Gloves
+T4_2H_KNUCKLES_SET1@1:Adept's Brawler Gloves
+T4_2H_KNUCKLES_SET1@2:Adept's Brawler Gloves
+T4_2H_KNUCKLES_SET1@3:Adept's Brawler Gloves
+T4_2H_KNUCKLES_SET1@4:Adept's Brawler Gloves
+T5_2H_KNUCKLES_SET1:Expert's Brawler Gloves
+T5_2H_KNUCKLES_SET1@1:Expert's Brawler Gloves
+T5_2H_KNUCKLES_SET1@2:Expert's Brawler Gloves
+T5_2H_KNUCKLES_SET1@3:Expert's Brawler Gloves
+T5_2H_KNUCKLES_SET1@4:Expert's Brawler Gloves
+T6_2H_KNUCKLES_SET1:Master's Brawler Gloves
+T6_2H_KNUCKLES_SET1@1:Master's Brawler Gloves
+T6_2H_KNUCKLES_SET1@2:Master's Brawler Gloves
+T6_2H_KNUCKLES_SET1@3:Master's Brawler Gloves
+T6_2H_KNUCKLES_SET1@4:Master's Brawler Gloves
+T7_2H_KNUCKLES_SET1:Grandmaster's Brawler Gloves
+T7_2H_KNUCKLES_SET1@1:Grandmaster's Brawler Gloves
+T7_2H_KNUCKLES_SET1@2:Grandmaster's Brawler Gloves
+T7_2H_KNUCKLES_SET1@3:Grandmaster's Brawler Gloves
+T7_2H_KNUCKLES_SET1@4:Grandmaster's Brawler Gloves
+T8_2H_KNUCKLES_SET1:Elder's Brawler Gloves
+T8_2H_KNUCKLES_SET1@1:Elder's Brawler Gloves
+T8_2H_KNUCKLES_SET1@2:Elder's Brawler Gloves
+T8_2H_KNUCKLES_SET1@3:Elder's Brawler Gloves
+T8_2H_KNUCKLES_SET1@4:Elder's Brawler Gloves
+T4_2H_KNUCKLES_SET2:Adept's Battle Bracers
+T4_2H_KNUCKLES_SET2@1:Adept's Battle Bracers
+T4_2H_KNUCKLES_SET2@2:Adept's Battle Bracers
+T4_2H_KNUCKLES_SET2@3:Adept's Battle Bracers
+T4_2H_KNUCKLES_SET2@4:Adept's Battle Bracers
+T5_2H_KNUCKLES_SET2:Expert's Battle Bracers
+T5_2H_KNUCKLES_SET2@1:Expert's Battle Bracers
+T5_2H_KNUCKLES_SET2@2:Expert's Battle Bracers
+T5_2H_KNUCKLES_SET2@3:Expert's Battle Bracers
+T5_2H_KNUCKLES_SET2@4:Expert's Battle Bracers
+T6_2H_KNUCKLES_SET2:Master's Battle Bracers
+T6_2H_KNUCKLES_SET2@1:Master's Battle Bracers
+T6_2H_KNUCKLES_SET2@2:Master's Battle Bracers
+T6_2H_KNUCKLES_SET2@3:Master's Battle Bracers
+T6_2H_KNUCKLES_SET2@4:Master's Battle Bracers
+T7_2H_KNUCKLES_SET2:Grandmaster's Battle Bracers
+T7_2H_KNUCKLES_SET2@1:Grandmaster's Battle Bracers
+T7_2H_KNUCKLES_SET2@2:Grandmaster's Battle Bracers
+T7_2H_KNUCKLES_SET2@3:Grandmaster's Battle Bracers
+T7_2H_KNUCKLES_SET2@4:Grandmaster's Battle Bracers
+T8_2H_KNUCKLES_SET2:Elder's Battle Bracers
+T8_2H_KNUCKLES_SET2@1:Elder's Battle Bracers
+T8_2H_KNUCKLES_SET2@2:Elder's Battle Bracers
+T8_2H_KNUCKLES_SET2@3:Elder's Battle Bracers
+T8_2H_KNUCKLES_SET2@4:Elder's Battle Bracers
+T4_2H_KNUCKLES_SET3:Adept's Spiked Gauntlets
+T4_2H_KNUCKLES_SET3@1:Adept's Spiked Gauntlets
+T4_2H_KNUCKLES_SET3@2:Adept's Spiked Gauntlets
+T4_2H_KNUCKLES_SET3@3:Adept's Spiked Gauntlets
+T4_2H_KNUCKLES_SET3@4:Adept's Spiked Gauntlets
+T5_2H_KNUCKLES_SET3:Expert's Spiked Gauntlets
+T5_2H_KNUCKLES_SET3@1:Expert's Spiked Gauntlets
+T5_2H_KNUCKLES_SET3@2:Expert's Spiked Gauntlets
+T5_2H_KNUCKLES_SET3@3:Expert's Spiked Gauntlets
+T5_2H_KNUCKLES_SET3@4:Expert's Spiked Gauntlets
+T6_2H_KNUCKLES_SET3:Master's Spiked Gauntlets
+T6_2H_KNUCKLES_SET3@1:Master's Spiked Gauntlets
+T6_2H_KNUCKLES_SET3@2:Master's Spiked Gauntlets
+T6_2H_KNUCKLES_SET3@3:Master's Spiked Gauntlets
+T6_2H_KNUCKLES_SET3@4:Master's Spiked Gauntlets
+T7_2H_KNUCKLES_SET3:Grandmaster's Spiked Gauntlets
+T7_2H_KNUCKLES_SET3@1:Grandmaster's Spiked Gauntlets
+T7_2H_KNUCKLES_SET3@2:Grandmaster's Spiked Gauntlets
+T7_2H_KNUCKLES_SET3@3:Grandmaster's Spiked Gauntlets
+T7_2H_KNUCKLES_SET3@4:Grandmaster's Spiked Gauntlets
+T8_2H_KNUCKLES_SET3:Elder's Spiked Gauntlets
+T8_2H_KNUCKLES_SET3@1:Elder's Spiked Gauntlets
+T8_2H_KNUCKLES_SET3@2:Elder's Spiked Gauntlets
+T8_2H_KNUCKLES_SET3@3:Elder's Spiked Gauntlets
+T8_2H_KNUCKLES_SET3@4:Elder's Spiked Gauntlets
+T4_2H_KNUCKLES_KEEPER:Adept's Ursine Maulers
+T4_2H_KNUCKLES_KEEPER@1:Adept's Ursine Maulers
+T4_2H_KNUCKLES_KEEPER@2:Adept's Ursine Maulers
+T4_2H_KNUCKLES_KEEPER@3:Adept's Ursine Maulers
+T4_2H_KNUCKLES_KEEPER@4:Adept's Ursine Maulers
+T5_2H_KNUCKLES_KEEPER:Expert's Ursine Maulers
+T5_2H_KNUCKLES_KEEPER@1:Expert's Ursine Maulers
+T5_2H_KNUCKLES_KEEPER@2:Expert's Ursine Maulers
+T5_2H_KNUCKLES_KEEPER@3:Expert's Ursine Maulers
+T5_2H_KNUCKLES_KEEPER@4:Expert's Ursine Maulers
+T6_2H_KNUCKLES_KEEPER:Master's Ursine Maulers
+T6_2H_KNUCKLES_KEEPER@1:Master's Ursine Maulers
+T6_2H_KNUCKLES_KEEPER@2:Master's Ursine Maulers
+T6_2H_KNUCKLES_KEEPER@3:Master's Ursine Maulers
+T6_2H_KNUCKLES_KEEPER@4:Master's Ursine Maulers
+T7_2H_KNUCKLES_KEEPER:Grandmaster's Ursine Maulers
+T7_2H_KNUCKLES_KEEPER@1:Grandmaster's Ursine Maulers
+T7_2H_KNUCKLES_KEEPER@2:Grandmaster's Ursine Maulers
+T7_2H_KNUCKLES_KEEPER@3:Grandmaster's Ursine Maulers
+T7_2H_KNUCKLES_KEEPER@4:Grandmaster's Ursine Maulers
+T8_2H_KNUCKLES_KEEPER:Elder's Ursine Maulers
+T8_2H_KNUCKLES_KEEPER@1:Elder's Ursine Maulers
+T8_2H_KNUCKLES_KEEPER@2:Elder's Ursine Maulers
+T8_2H_KNUCKLES_KEEPER@3:Elder's Ursine Maulers
+T8_2H_KNUCKLES_KEEPER@4:Elder's Ursine Maulers
+T4_2H_KNUCKLES_HELL:Adept's Hellfire Hands
+T4_2H_KNUCKLES_HELL@1:Adept's Hellfire Hands
+T4_2H_KNUCKLES_HELL@2:Adept's Hellfire Hands
+T4_2H_KNUCKLES_HELL@3:Adept's Hellfire Hands
+T4_2H_KNUCKLES_HELL@4:Adept's Hellfire Hands
+T5_2H_KNUCKLES_HELL:Expert's Hellfire Hands
+T5_2H_KNUCKLES_HELL@1:Expert's Hellfire Hands
+T5_2H_KNUCKLES_HELL@2:Expert's Hellfire Hands
+T5_2H_KNUCKLES_HELL@3:Expert's Hellfire Hands
+T5_2H_KNUCKLES_HELL@4:Expert's Hellfire Hands
+T6_2H_KNUCKLES_HELL:Master's Hellfire Hands
+T6_2H_KNUCKLES_HELL@1:Master's Hellfire Hands
+T6_2H_KNUCKLES_HELL@2:Master's Hellfire Hands
+T6_2H_KNUCKLES_HELL@3:Master's Hellfire Hands
+T6_2H_KNUCKLES_HELL@4:Master's Hellfire Hands
+T7_2H_KNUCKLES_HELL:Grandmaster's Hellfire Hands
+T7_2H_KNUCKLES_HELL@1:Grandmaster's Hellfire Hands
+T7_2H_KNUCKLES_HELL@2:Grandmaster's Hellfire Hands
+T7_2H_KNUCKLES_HELL@3:Grandmaster's Hellfire Hands
+T7_2H_KNUCKLES_HELL@4:Grandmaster's Hellfire Hands
+T8_2H_KNUCKLES_HELL:Elder's Hellfire Hands
+T8_2H_KNUCKLES_HELL@1:Elder's Hellfire Hands
+T8_2H_KNUCKLES_HELL@2:Elder's Hellfire Hands
+T8_2H_KNUCKLES_HELL@3:Elder's Hellfire Hands
+T8_2H_KNUCKLES_HELL@4:Elder's Hellfire Hands
+T4_2H_KNUCKLES_MORGANA:Adept's Ravenstrike Cestus
+T4_2H_KNUCKLES_MORGANA@1:Adept's Ravenstrike Cestus
+T4_2H_KNUCKLES_MORGANA@2:Adept's Ravenstrike Cestus
+T4_2H_KNUCKLES_MORGANA@3:Adept's Ravenstrike Cestus
+T4_2H_KNUCKLES_MORGANA@4:Adept's Ravenstrike Cestus
+T5_2H_KNUCKLES_MORGANA:Expert's Ravenstrike Cestus
+T5_2H_KNUCKLES_MORGANA@1:Expert's Ravenstrike Cestus
+T5_2H_KNUCKLES_MORGANA@2:Expert's Ravenstrike Cestus
+T5_2H_KNUCKLES_MORGANA@3:Expert's Ravenstrike Cestus
+T5_2H_KNUCKLES_MORGANA@4:Expert's Ravenstrike Cestus
+T6_2H_KNUCKLES_MORGANA:Master's Ravenstrike Cestus
+T6_2H_KNUCKLES_MORGANA@1:Master's Ravenstrike Cestus
+T6_2H_KNUCKLES_MORGANA@2:Master's Ravenstrike Cestus
+T6_2H_KNUCKLES_MORGANA@3:Master's Ravenstrike Cestus
+T6_2H_KNUCKLES_MORGANA@4:Master's Ravenstrike Cestus
+T7_2H_KNUCKLES_MORGANA:Grandmaster's Ravenstrike Cestus
+T7_2H_KNUCKLES_MORGANA@1:Grandmaster's Ravenstrike Cestus
+T7_2H_KNUCKLES_MORGANA@2:Grandmaster's Ravenstrike Cestus
+T7_2H_KNUCKLES_MORGANA@3:Grandmaster's Ravenstrike Cestus
+T7_2H_KNUCKLES_MORGANA@4:Grandmaster's Ravenstrike Cestus
+T8_2H_KNUCKLES_MORGANA:Elder's Ravenstrike Cestus
+T8_2H_KNUCKLES_MORGANA@1:Elder's Ravenstrike Cestus
+T8_2H_KNUCKLES_MORGANA@2:Elder's Ravenstrike Cestus
+T8_2H_KNUCKLES_MORGANA@3:Elder's Ravenstrike Cestus
+T8_2H_KNUCKLES_MORGANA@4:Elder's Ravenstrike Cestus
+T4_2H_KNUCKLES_AVALON:Adept's Fists of Avalon
+T4_2H_KNUCKLES_AVALON@1:Adept's Fists of Avalon
+T4_2H_KNUCKLES_AVALON@2:Adept's Fists of Avalon
+T4_2H_KNUCKLES_AVALON@3:Adept's Fists of Avalon
+T4_2H_KNUCKLES_AVALON@4:Adept's Fists of Avalon
+T5_2H_KNUCKLES_AVALON:Expert's Fists of Avalon
+T5_2H_KNUCKLES_AVALON@1:Expert's Fists of Avalon
+T5_2H_KNUCKLES_AVALON@2:Expert's Fists of Avalon
+T5_2H_KNUCKLES_AVALON@3:Expert's Fists of Avalon
+T5_2H_KNUCKLES_AVALON@4:Expert's Fists of Avalon
+T6_2H_KNUCKLES_AVALON:Master's Fists of Avalon
+T6_2H_KNUCKLES_AVALON@1:Master's Fists of Avalon
+T6_2H_KNUCKLES_AVALON@2:Master's Fists of Avalon
+T6_2H_KNUCKLES_AVALON@3:Master's Fists of Avalon
+T6_2H_KNUCKLES_AVALON@4:Master's Fists of Avalon
+T7_2H_KNUCKLES_AVALON:Grandmaster's Fists of Avalon
+T7_2H_KNUCKLES_AVALON@1:Grandmaster's Fists of Avalon
+T7_2H_KNUCKLES_AVALON@2:Grandmaster's Fists of Avalon
+T7_2H_KNUCKLES_AVALON@3:Grandmaster's Fists of Avalon
+T7_2H_KNUCKLES_AVALON@4:Grandmaster's Fists of Avalon
+T8_2H_KNUCKLES_AVALON:Elder's Fists of Avalon
+T8_2H_KNUCKLES_AVALON@1:Elder's Fists of Avalon
+T8_2H_KNUCKLES_AVALON@2:Elder's Fists of Avalon
+T8_2H_KNUCKLES_AVALON@3:Elder's Fists of Avalon
+T8_2H_KNUCKLES_AVALON@4:Elder's Fists of Avalon
+T4_2H_KNUCKLES_CRYSTAL:Adept's Forcepulse Bracers
+T4_2H_KNUCKLES_CRYSTAL@1:Adept's Forcepulse Bracers
+T4_2H_KNUCKLES_CRYSTAL@2:Adept's Forcepulse Bracers
+T4_2H_KNUCKLES_CRYSTAL@3:Adept's Forcepulse Bracers
+T4_2H_KNUCKLES_CRYSTAL@4:Adept's Forcepulse Bracers
+T5_2H_KNUCKLES_CRYSTAL:Expert's Forcepulse Bracers
+T5_2H_KNUCKLES_CRYSTAL@1:Expert's Forcepulse Bracers
+T5_2H_KNUCKLES_CRYSTAL@2:Expert's Forcepulse Bracers
+T5_2H_KNUCKLES_CRYSTAL@3:Expert's Forcepulse Bracers
+T5_2H_KNUCKLES_CRYSTAL@4:Expert's Forcepulse Bracers
+T6_2H_KNUCKLES_CRYSTAL:Master's Forcepulse Bracers
+T6_2H_KNUCKLES_CRYSTAL@1:Master's Forcepulse Bracers
+T6_2H_KNUCKLES_CRYSTAL@2:Master's Forcepulse Bracers
+T6_2H_KNUCKLES_CRYSTAL@3:Master's Forcepulse Bracers
+T6_2H_KNUCKLES_CRYSTAL@4:Master's Forcepulse Bracers
+T7_2H_KNUCKLES_CRYSTAL:Grandmaster's Forcepulse Bracers
+T7_2H_KNUCKLES_CRYSTAL@1:Grandmaster's Forcepulse Bracers
+T7_2H_KNUCKLES_CRYSTAL@2:Grandmaster's Forcepulse Bracers
+T7_2H_KNUCKLES_CRYSTAL@3:Grandmaster's Forcepulse Bracers
+T7_2H_KNUCKLES_CRYSTAL@4:Grandmaster's Forcepulse Bracers
+T8_2H_KNUCKLES_CRYSTAL:Elder's Forcepulse Bracers
+T8_2H_KNUCKLES_CRYSTAL@1:Elder's Forcepulse Bracers
+T8_2H_KNUCKLES_CRYSTAL@2:Elder's Forcepulse Bracers
+T8_2H_KNUCKLES_CRYSTAL@3:Elder's Forcepulse Bracers
+T8_2H_KNUCKLES_CRYSTAL@4:Elder's Forcepulse Bracers

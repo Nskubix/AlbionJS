@@ -1,0 +1,115 @@
+T2_PLANKS:Birch Planks
+T3_PLANKS:Chestnut Planks
+T4_PLANKS:Pine Planks
+T5_PLANKS:Cedar Planks
+T6_PLANKS:Bloodoak Planks
+T7_PLANKS:Ashenbark Planks
+T8_PLANKS:Whitewood Planks
+T4_PLANKS_LEVEL1@1:Uncommon Pine Planks
+T5_PLANKS_LEVEL1@1:Uncommon Cedar Planks
+T6_PLANKS_LEVEL1@1:Uncommon Bloodoak Planks
+T7_PLANKS_LEVEL1@1:Uncommon Ashenbark Planks
+T8_PLANKS_LEVEL1@1:Uncommon Whitewood Planks
+T4_PLANKS_LEVEL2@2:Rare Pine Planks
+T5_PLANKS_LEVEL2@2:Rare Cedar Planks
+T6_PLANKS_LEVEL2@2:Rare Bloodoak Planks
+T7_PLANKS_LEVEL2@2:Rare Ashenbark Planks
+T8_PLANKS_LEVEL2@2:Rare Whitewood Planks
+T4_PLANKS_LEVEL3@3:Exceptional Pine Planks
+T5_PLANKS_LEVEL3@3:Exceptional Cedar Planks
+T6_PLANKS_LEVEL3@3:Exceptional Bloodoak Planks
+T7_PLANKS_LEVEL3@3:Exceptional Ashenbark Planks
+T8_PLANKS_LEVEL3@3:Exceptional Whitewood Planks
+T4_PLANKS_LEVEL4@4:Pristine Pine Planks
+T5_PLANKS_LEVEL4@4:Pristine Cedar Planks
+T6_PLANKS_LEVEL4@4:Pristine Bloodoak Planks
+T7_PLANKS_LEVEL4@4:Pristine Ashenbark Planks
+T8_PLANKS_LEVEL4@4:Pristine Whitewood Planks
+T2_STONEBLOCK:Limestone Block
+T3_STONEBLOCK:Sandstone Block
+T4_STONEBLOCK:Travertine Block
+T5_STONEBLOCK:Granite Block
+T6_STONEBLOCK:Slate Block
+T7_STONEBLOCK:Basalt Block
+T8_STONEBLOCK:Marble Block
+T2_METALBAR:Copper Bar
+T3_METALBAR:Bronze Bar
+T4_METALBAR:Steel Bar
+T5_METALBAR:Titanium Steel Bar
+T6_METALBAR:Runite Steel Bar
+T7_METALBAR:Meteorite Steel Bar
+T8_METALBAR:Adamantium Steel Bar
+T4_METALBAR_LEVEL1@1:Uncommon Steel Bar
+T5_METALBAR_LEVEL1@1:Uncommon Titanium Steel Bar
+T6_METALBAR_LEVEL1@1:Uncommon Runite Steel Bar
+T7_METALBAR_LEVEL1@1:Uncommon Meteorite Steel Bar
+T8_METALBAR_LEVEL1@1:Uncommon Adamantium Steel Bar
+T4_METALBAR_LEVEL2@2:Rare Steel Bar
+T5_METALBAR_LEVEL2@2:Rare Titanium Steel Bar
+T6_METALBAR_LEVEL2@2:Rare Runite Steel Bar
+T7_METALBAR_LEVEL2@2:Rare Meteorite Steel Bar
+T8_METALBAR_LEVEL2@2:Rare Adamantium Steel Bar
+T4_METALBAR_LEVEL3@3:Exceptional Steel Bar
+T5_METALBAR_LEVEL3@3:Exceptional Titanium Steel Bar
+T6_METALBAR_LEVEL3@3:Exceptional Runite Steel Bar
+T7_METALBAR_LEVEL3@3:Exceptional Meteorite Steel Bar
+T8_METALBAR_LEVEL3@3:Exceptional Adamantium Steel Bar
+T4_METALBAR_LEVEL4@4:Pristine Steel Bar
+T5_METALBAR_LEVEL4@4:Pristine Titanium Steel Bar
+T6_METALBAR_LEVEL4@4:Pristine Runite Steel Bar
+T7_METALBAR_LEVEL4@4:Pristine Meteorite Steel Bar
+T8_METALBAR_LEVEL4@4:Pristine Adamantium Steel Bar
+T2_LEATHER:Stiff Leather
+T3_LEATHER:Thick Leather
+T4_LEATHER:Worked Leather
+T5_LEATHER:Cured Leather
+T6_LEATHER:Hardened Leather
+T7_LEATHER:Reinforced Leather
+T8_LEATHER:Fortified Leather
+T4_LEATHER_LEVEL1@1:Uncommon Worked Leather
+T5_LEATHER_LEVEL1@1:Uncommon Cured Leather
+T6_LEATHER_LEVEL1@1:Uncommon Hardened Leather
+T7_LEATHER_LEVEL1@1:Uncommon Reinforced Leather
+T8_LEATHER_LEVEL1@1:Uncommon Fortified Leather
+T4_LEATHER_LEVEL2@2:Rare Worked Leather
+T5_LEATHER_LEVEL2@2:Rare Cured Leather
+T6_LEATHER_LEVEL2@2:Rare Hardened Leather
+T7_LEATHER_LEVEL2@2:Rare Reinforced Leather
+T8_LEATHER_LEVEL2@2:Rare Fortified Leather
+T4_LEATHER_LEVEL3@3:Exceptional Worked Leather
+T5_LEATHER_LEVEL3@3:Exceptional Cured Leather
+T6_LEATHER_LEVEL3@3:Exceptional Hardened Leather
+T7_LEATHER_LEVEL3@3:Exceptional Reinforced Leather
+T8_LEATHER_LEVEL3@3:Exceptional Fortified Leather
+T4_LEATHER_LEVEL4@4:Pristine Worked Leather
+T5_LEATHER_LEVEL4@4:Pristine Cured Leather
+T6_LEATHER_LEVEL4@4:Pristine Hardened Leather
+T7_LEATHER_LEVEL4@4:Pristine Reinforced Leather
+T8_LEATHER_LEVEL4@4:Pristine Fortified Leather
+T2_CLOTH:Simple Cloth
+T3_CLOTH:Neat Cloth
+T4_CLOTH:Fine Cloth
+T5_CLOTH:Ornate Cloth
+T6_CLOTH:Lavish Cloth
+T7_CLOTH:Opulent Cloth
+T8_CLOTH:Baroque Cloth
+T4_CLOTH_LEVEL1@1:Uncommon Fine Cloth
+T5_CLOTH_LEVEL1@1:Uncommon Ornate Cloth
+T6_CLOTH_LEVEL1@1:Uncommon Lavish Cloth
+T7_CLOTH_LEVEL1@1:Uncommon Opulent Cloth
+T8_CLOTH_LEVEL1@1:Uncommon Baroque Cloth
+T4_CLOTH_LEVEL2@2:Rare Fine Cloth
+T5_CLOTH_LEVEL2@2:Rare Ornate Cloth
+T6_CLOTH_LEVEL2@2:Rare Lavish Cloth
+T7_CLOTH_LEVEL2@2:Rare Opulent Cloth
+T8_CLOTH_LEVEL2@2:Rare Baroque Cloth
+T4_CLOTH_LEVEL3@3:Exceptional Fine Cloth
+T5_CLOTH_LEVEL3@3:Exceptional Ornate Cloth
+T6_CLOTH_LEVEL3@3:Exceptional Lavish Cloth
+T7_CLOTH_LEVEL3@3:Exceptional Opulent Cloth
+T8_CLOTH_LEVEL3@3:Exceptional Baroque Cloth
+T4_CLOTH_LEVEL4@4:Pristine Fine Cloth
+T5_CLOTH_LEVEL4@4:Pristine Ornate Cloth
+T6_CLOTH_LEVEL4@4:Pristine Lavish Cloth
+T7_CLOTH_LEVEL4@4:Pristine Opulent Cloth
+T8_CLOTH_LEVEL4@4:Pristine Baroque Cloth

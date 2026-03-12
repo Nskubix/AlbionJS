@@ -1,0 +1,200 @@
+T4_MAIN_SPEAR:Adept's Spear
+T4_MAIN_SPEAR@1:Adept's Spear
+T4_MAIN_SPEAR@2:Adept's Spear
+T4_MAIN_SPEAR@3:Adept's Spear
+T4_MAIN_SPEAR@4:Adept's Spear
+T5_MAIN_SPEAR:Expert's Spear
+T5_MAIN_SPEAR@1:Expert's Spear
+T5_MAIN_SPEAR@2:Expert's Spear
+T5_MAIN_SPEAR@3:Expert's Spear
+T5_MAIN_SPEAR@4:Expert's Spear
+T6_MAIN_SPEAR:Master's Spear
+T6_MAIN_SPEAR@1:Master's Spear
+T6_MAIN_SPEAR@2:Master's Spear
+T6_MAIN_SPEAR@3:Master's Spear
+T6_MAIN_SPEAR@4:Master's Spear
+T7_MAIN_SPEAR:Grandmaster's Spear
+T7_MAIN_SPEAR@1:Grandmaster's Spear
+T7_MAIN_SPEAR@2:Grandmaster's Spear
+T7_MAIN_SPEAR@3:Grandmaster's Spear
+T7_MAIN_SPEAR@4:Grandmaster's Spear
+T8_MAIN_SPEAR:Elder's Spear
+T8_MAIN_SPEAR@1:Elder's Spear
+T8_MAIN_SPEAR@2:Elder's Spear
+T8_MAIN_SPEAR@3:Elder's Spear
+T8_MAIN_SPEAR@4:Elder's Spear
+T4_2H_SPEAR:Adept's Pike
+T4_2H_SPEAR@1:Adept's Pike
+T4_2H_SPEAR@2:Adept's Pike
+T4_2H_SPEAR@3:Adept's Pike
+T4_2H_SPEAR@4:Adept's Pike
+T5_2H_SPEAR:Expert's Pike
+T5_2H_SPEAR@1:Expert's Pike
+T5_2H_SPEAR@2:Expert's Pike
+T5_2H_SPEAR@3:Expert's Pike
+T5_2H_SPEAR@4:Expert's Pike
+T6_2H_SPEAR:Master's Pike
+T6_2H_SPEAR@1:Master's Pike
+T6_2H_SPEAR@2:Master's Pike
+T6_2H_SPEAR@3:Master's Pike
+T6_2H_SPEAR@4:Master's Pike
+T7_2H_SPEAR:Grandmaster's Pike
+T7_2H_SPEAR@1:Grandmaster's Pike
+T7_2H_SPEAR@2:Grandmaster's Pike
+T7_2H_SPEAR@3:Grandmaster's Pike
+T7_2H_SPEAR@4:Grandmaster's Pike
+T8_2H_SPEAR:Elder's Pike
+T8_2H_SPEAR@1:Elder's Pike
+T8_2H_SPEAR@2:Elder's Pike
+T8_2H_SPEAR@3:Elder's Pike
+T8_2H_SPEAR@4:Elder's Pike
+T4_2H_GLAIVE:Adept's Glaive
+T4_2H_GLAIVE@1:Adept's Glaive
+T4_2H_GLAIVE@2:Adept's Glaive
+T4_2H_GLAIVE@3:Adept's Glaive
+T4_2H_GLAIVE@4:Adept's Glaive
+T5_2H_GLAIVE:Expert's Glaive
+T5_2H_GLAIVE@1:Expert's Glaive
+T5_2H_GLAIVE@2:Expert's Glaive
+T5_2H_GLAIVE@3:Expert's Glaive
+T5_2H_GLAIVE@4:Expert's Glaive
+T6_2H_GLAIVE:Master's Glaive
+T6_2H_GLAIVE@1:Master's Glaive
+T6_2H_GLAIVE@2:Master's Glaive
+T6_2H_GLAIVE@3:Master's Glaive
+T6_2H_GLAIVE@4:Master's Glaive
+T7_2H_GLAIVE:Grandmaster's Glaive
+T7_2H_GLAIVE@1:Grandmaster's Glaive
+T7_2H_GLAIVE@2:Grandmaster's Glaive
+T7_2H_GLAIVE@3:Grandmaster's Glaive
+T7_2H_GLAIVE@4:Grandmaster's Glaive
+T8_2H_GLAIVE:Elder's Glaive
+T8_2H_GLAIVE@1:Elder's Glaive
+T8_2H_GLAIVE@2:Elder's Glaive
+T8_2H_GLAIVE@3:Elder's Glaive
+T8_2H_GLAIVE@4:Elder's Glaive
+T4_MAIN_SPEAR_KEEPER:Adept's Heron Spear
+T4_MAIN_SPEAR_KEEPER@1:Adept's Heron Spear
+T4_MAIN_SPEAR_KEEPER@2:Adept's Heron Spear
+T4_MAIN_SPEAR_KEEPER@3:Adept's Heron Spear
+T4_MAIN_SPEAR_KEEPER@4:Adept's Heron Spear
+T5_MAIN_SPEAR_KEEPER:Expert's Heron Spear
+T5_MAIN_SPEAR_KEEPER@1:Expert's Heron Spear
+T5_MAIN_SPEAR_KEEPER@2:Expert's Heron Spear
+T5_MAIN_SPEAR_KEEPER@3:Expert's Heron Spear
+T5_MAIN_SPEAR_KEEPER@4:Expert's Heron Spear
+T6_MAIN_SPEAR_KEEPER:Master's Heron Spear
+T6_MAIN_SPEAR_KEEPER@1:Master's Heron Spear
+T6_MAIN_SPEAR_KEEPER@2:Master's Heron Spear
+T6_MAIN_SPEAR_KEEPER@3:Master's Heron Spear
+T6_MAIN_SPEAR_KEEPER@4:Master's Heron Spear
+T7_MAIN_SPEAR_KEEPER:Grandmaster's Heron Spear
+T7_MAIN_SPEAR_KEEPER@1:Grandmaster's Heron Spear
+T7_MAIN_SPEAR_KEEPER@2:Grandmaster's Heron Spear
+T7_MAIN_SPEAR_KEEPER@3:Grandmaster's Heron Spear
+T7_MAIN_SPEAR_KEEPER@4:Grandmaster's Heron Spear
+T8_MAIN_SPEAR_KEEPER:Elder's Heron Spear
+T8_MAIN_SPEAR_KEEPER@1:Elder's Heron Spear
+T8_MAIN_SPEAR_KEEPER@2:Elder's Heron Spear
+T8_MAIN_SPEAR_KEEPER@3:Elder's Heron Spear
+T8_MAIN_SPEAR_KEEPER@4:Elder's Heron Spear
+T4_2H_HARPOON_HELL:Adept's Spirithunter
+T4_2H_HARPOON_HELL@1:Adept's Spirithunter
+T4_2H_HARPOON_HELL@2:Adept's Spirithunter
+T4_2H_HARPOON_HELL@3:Adept's Spirithunter
+T4_2H_HARPOON_HELL@4:Adept's Spirithunter
+T5_2H_HARPOON_HELL:Expert's Spirithunter
+T5_2H_HARPOON_HELL@1:Expert's Spirithunter
+T5_2H_HARPOON_HELL@2:Expert's Spirithunter
+T5_2H_HARPOON_HELL@3:Expert's Spirithunter
+T5_2H_HARPOON_HELL@4:Expert's Spirithunter
+T6_2H_HARPOON_HELL:Master's Spirithunter
+T6_2H_HARPOON_HELL@1:Master's Spirithunter
+T6_2H_HARPOON_HELL@2:Master's Spirithunter
+T6_2H_HARPOON_HELL@3:Master's Spirithunter
+T6_2H_HARPOON_HELL@4:Master's Spirithunter
+T7_2H_HARPOON_HELL:Grandmaster's Spirithunter
+T7_2H_HARPOON_HELL@1:Grandmaster's Spirithunter
+T7_2H_HARPOON_HELL@2:Grandmaster's Spirithunter
+T7_2H_HARPOON_HELL@3:Grandmaster's Spirithunter
+T7_2H_HARPOON_HELL@4:Grandmaster's Spirithunter
+T8_2H_HARPOON_HELL:Elder's Spirithunter
+T8_2H_HARPOON_HELL@1:Elder's Spirithunter
+T8_2H_HARPOON_HELL@2:Elder's Spirithunter
+T8_2H_HARPOON_HELL@3:Elder's Spirithunter
+T8_2H_HARPOON_HELL@4:Elder's Spirithunter
+T4_2H_TRIDENT_UNDEAD:Adept's Trinity Spear
+T4_2H_TRIDENT_UNDEAD@1:Adept's Trinity Spear
+T4_2H_TRIDENT_UNDEAD@2:Adept's Trinity Spear
+T4_2H_TRIDENT_UNDEAD@3:Adept's Trinity Spear
+T4_2H_TRIDENT_UNDEAD@4:Adept's Trinity Spear
+T5_2H_TRIDENT_UNDEAD:Expert's Trinity Spear
+T5_2H_TRIDENT_UNDEAD@1:Expert's Trinity Spear
+T5_2H_TRIDENT_UNDEAD@2:Expert's Trinity Spear
+T5_2H_TRIDENT_UNDEAD@3:Expert's Trinity Spear
+T5_2H_TRIDENT_UNDEAD@4:Expert's Trinity Spear
+T6_2H_TRIDENT_UNDEAD:Master's Trinity Spear
+T6_2H_TRIDENT_UNDEAD@1:Master's Trinity Spear
+T6_2H_TRIDENT_UNDEAD@2:Master's Trinity Spear
+T6_2H_TRIDENT_UNDEAD@3:Master's Trinity Spear
+T6_2H_TRIDENT_UNDEAD@4:Master's Trinity Spear
+T7_2H_TRIDENT_UNDEAD:Grandmaster's Trinity Spear
+T7_2H_TRIDENT_UNDEAD@1:Grandmaster's Trinity Spear
+T7_2H_TRIDENT_UNDEAD@2:Grandmaster's Trinity Spear
+T7_2H_TRIDENT_UNDEAD@3:Grandmaster's Trinity Spear
+T7_2H_TRIDENT_UNDEAD@4:Grandmaster's Trinity Spear
+T8_2H_TRIDENT_UNDEAD:Elder's Trinity Spear
+T8_2H_TRIDENT_UNDEAD@1:Elder's Trinity Spear
+T8_2H_TRIDENT_UNDEAD@2:Elder's Trinity Spear
+T8_2H_TRIDENT_UNDEAD@3:Elder's Trinity Spear
+T8_2H_TRIDENT_UNDEAD@4:Elder's Trinity Spear
+T4_MAIN_SPEAR_LANCE_AVALON:Adept's Daybreaker
+T4_MAIN_SPEAR_LANCE_AVALON@1:Adept's Daybreaker
+T4_MAIN_SPEAR_LANCE_AVALON@2:Adept's Daybreaker
+T4_MAIN_SPEAR_LANCE_AVALON@3:Adept's Daybreaker
+T4_MAIN_SPEAR_LANCE_AVALON@4:Adept's Daybreaker
+T5_MAIN_SPEAR_LANCE_AVALON:Expert's Daybreaker
+T5_MAIN_SPEAR_LANCE_AVALON@1:Expert's Daybreaker
+T5_MAIN_SPEAR_LANCE_AVALON@2:Expert's Daybreaker
+T5_MAIN_SPEAR_LANCE_AVALON@3:Expert's Daybreaker
+T5_MAIN_SPEAR_LANCE_AVALON@4:Expert's Daybreaker
+T6_MAIN_SPEAR_LANCE_AVALON:Master's Daybreaker
+T6_MAIN_SPEAR_LANCE_AVALON@1:Master's Daybreaker
+T6_MAIN_SPEAR_LANCE_AVALON@2:Master's Daybreaker
+T6_MAIN_SPEAR_LANCE_AVALON@3:Master's Daybreaker
+T6_MAIN_SPEAR_LANCE_AVALON@4:Master's Daybreaker
+T7_MAIN_SPEAR_LANCE_AVALON:Grandmaster's Daybreaker
+T7_MAIN_SPEAR_LANCE_AVALON@1:Grandmaster's Daybreaker
+T7_MAIN_SPEAR_LANCE_AVALON@2:Grandmaster's Daybreaker
+T7_MAIN_SPEAR_LANCE_AVALON@3:Grandmaster's Daybreaker
+T7_MAIN_SPEAR_LANCE_AVALON@4:Grandmaster's Daybreaker
+T8_MAIN_SPEAR_LANCE_AVALON:Elder's Daybreaker
+T8_MAIN_SPEAR_LANCE_AVALON@1:Elder's Daybreaker
+T8_MAIN_SPEAR_LANCE_AVALON@2:Elder's Daybreaker
+T8_MAIN_SPEAR_LANCE_AVALON@3:Elder's Daybreaker
+T8_MAIN_SPEAR_LANCE_AVALON@4:Elder's Daybreaker
+T4_2H_GLAIVE_CRYSTAL:Adept's Rift Glaive
+T4_2H_GLAIVE_CRYSTAL@1:Adept's Rift Glaive
+T4_2H_GLAIVE_CRYSTAL@2:Adept's Rift Glaive
+T4_2H_GLAIVE_CRYSTAL@3:Adept's Rift Glaive
+T4_2H_GLAIVE_CRYSTAL@4:Adept's Rift Glaive
+T5_2H_GLAIVE_CRYSTAL:Expert's Rift Glaive
+T5_2H_GLAIVE_CRYSTAL@1:Expert's Rift Glaive
+T5_2H_GLAIVE_CRYSTAL@2:Expert's Rift Glaive
+T5_2H_GLAIVE_CRYSTAL@3:Expert's Rift Glaive
+T5_2H_GLAIVE_CRYSTAL@4:Expert's Rift Glaive
+T6_2H_GLAIVE_CRYSTAL:Master's Rift Glaive
+T6_2H_GLAIVE_CRYSTAL@1:Master's Rift Glaive
+T6_2H_GLAIVE_CRYSTAL@2:Master's Rift Glaive
+T6_2H_GLAIVE_CRYSTAL@3:Master's Rift Glaive
+T6_2H_GLAIVE_CRYSTAL@4:Master's Rift Glaive
+T7_2H_GLAIVE_CRYSTAL:Grandmaster's Rift Glaive
+T7_2H_GLAIVE_CRYSTAL@1:Grandmaster's Rift Glaive
+T7_2H_GLAIVE_CRYSTAL@2:Grandmaster's Rift Glaive
+T7_2H_GLAIVE_CRYSTAL@3:Grandmaster's Rift Glaive
+T7_2H_GLAIVE_CRYSTAL@4:Grandmaster's Rift Glaive
+T8_2H_GLAIVE_CRYSTAL:Elder's Rift Glaive
+T8_2H_GLAIVE_CRYSTAL@1:Elder's Rift Glaive
+T8_2H_GLAIVE_CRYSTAL@2:Elder's Rift Glaive
+T8_2H_GLAIVE_CRYSTAL@3:Elder's Rift Glaive
+T8_2H_GLAIVE_CRYSTAL@4:Elder's Rift Glaive

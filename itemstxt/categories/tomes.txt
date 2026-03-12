@@ -1,0 +1,150 @@
+T4_OFF_BOOK:Adept's Tome of Spells
+T4_OFF_BOOK@1:Adept's Tome of Spells
+T4_OFF_BOOK@2:Adept's Tome of Spells
+T4_OFF_BOOK@3:Adept's Tome of Spells
+T4_OFF_BOOK@4:Adept's Tome of Spells
+T5_OFF_BOOK:Expert's Tome of Spells
+T5_OFF_BOOK@1:Expert's Tome of Spells
+T5_OFF_BOOK@2:Expert's Tome of Spells
+T5_OFF_BOOK@3:Expert's Tome of Spells
+T5_OFF_BOOK@4:Expert's Tome of Spells
+T6_OFF_BOOK:Master's Tome of Spells
+T6_OFF_BOOK@1:Master's Tome of Spells
+T6_OFF_BOOK@2:Master's Tome of Spells
+T6_OFF_BOOK@3:Master's Tome of Spells
+T6_OFF_BOOK@4:Master's Tome of Spells
+T7_OFF_BOOK:Grandmaster's Tome of Spells
+T7_OFF_BOOK@1:Grandmaster's Tome of Spells
+T7_OFF_BOOK@2:Grandmaster's Tome of Spells
+T7_OFF_BOOK@3:Grandmaster's Tome of Spells
+T7_OFF_BOOK@4:Grandmaster's Tome of Spells
+T8_OFF_BOOK:Rosalia's Diary
+T8_OFF_BOOK@1:Rosalia's Diary
+T8_OFF_BOOK@2:Rosalia's Diary
+T8_OFF_BOOK@3:Rosalia's Diary
+T8_OFF_BOOK@4:Rosalia's Diary
+T4_OFF_ORB_MORGANA:Adept's Eye of Secrets
+T4_OFF_ORB_MORGANA@1:Adept's Eye of Secrets
+T4_OFF_ORB_MORGANA@2:Adept's Eye of Secrets
+T4_OFF_ORB_MORGANA@3:Adept's Eye of Secrets
+T4_OFF_ORB_MORGANA@4:Adept's Eye of Secrets
+T5_OFF_ORB_MORGANA:Expert's Eye of Secrets
+T5_OFF_ORB_MORGANA@1:Expert's Eye of Secrets
+T5_OFF_ORB_MORGANA@2:Expert's Eye of Secrets
+T5_OFF_ORB_MORGANA@3:Expert's Eye of Secrets
+T5_OFF_ORB_MORGANA@4:Expert's Eye of Secrets
+T6_OFF_ORB_MORGANA:Master's Eye of Secrets
+T6_OFF_ORB_MORGANA@1:Master's Eye of Secrets
+T6_OFF_ORB_MORGANA@2:Master's Eye of Secrets
+T6_OFF_ORB_MORGANA@3:Master's Eye of Secrets
+T6_OFF_ORB_MORGANA@4:Master's Eye of Secrets
+T7_OFF_ORB_MORGANA:Grandmaster's Eye of Secrets
+T7_OFF_ORB_MORGANA@1:Grandmaster's Eye of Secrets
+T7_OFF_ORB_MORGANA@2:Grandmaster's Eye of Secrets
+T7_OFF_ORB_MORGANA@3:Grandmaster's Eye of Secrets
+T7_OFF_ORB_MORGANA@4:Grandmaster's Eye of Secrets
+T8_OFF_ORB_MORGANA:Elder's Eye of Secrets
+T8_OFF_ORB_MORGANA@1:Elder's Eye of Secrets
+T8_OFF_ORB_MORGANA@2:Elder's Eye of Secrets
+T8_OFF_ORB_MORGANA@3:Elder's Eye of Secrets
+T8_OFF_ORB_MORGANA@4:Elder's Eye of Secrets
+T4_OFF_DEMONSKULL_HELL:Adept's Muisak
+T4_OFF_DEMONSKULL_HELL@1:Adept's Muisak
+T4_OFF_DEMONSKULL_HELL@2:Adept's Muisak
+T4_OFF_DEMONSKULL_HELL@3:Adept's Muisak
+T4_OFF_DEMONSKULL_HELL@4:Adept's Muisak
+T5_OFF_DEMONSKULL_HELL:Expert's Muisak
+T5_OFF_DEMONSKULL_HELL@1:Expert's Muisak
+T5_OFF_DEMONSKULL_HELL@2:Expert's Muisak
+T5_OFF_DEMONSKULL_HELL@3:Expert's Muisak
+T5_OFF_DEMONSKULL_HELL@4:Expert's Muisak
+T6_OFF_DEMONSKULL_HELL:Master's Muisak
+T6_OFF_DEMONSKULL_HELL@1:Master's Muisak
+T6_OFF_DEMONSKULL_HELL@2:Master's Muisak
+T6_OFF_DEMONSKULL_HELL@3:Master's Muisak
+T6_OFF_DEMONSKULL_HELL@4:Master's Muisak
+T7_OFF_DEMONSKULL_HELL:Grandmaster's Muisak
+T7_OFF_DEMONSKULL_HELL@1:Grandmaster's Muisak
+T7_OFF_DEMONSKULL_HELL@2:Grandmaster's Muisak
+T7_OFF_DEMONSKULL_HELL@3:Grandmaster's Muisak
+T7_OFF_DEMONSKULL_HELL@4:Grandmaster's Muisak
+T8_OFF_DEMONSKULL_HELL:Elder's Muisak
+T8_OFF_DEMONSKULL_HELL@1:Elder's Muisak
+T8_OFF_DEMONSKULL_HELL@2:Elder's Muisak
+T8_OFF_DEMONSKULL_HELL@3:Elder's Muisak
+T8_OFF_DEMONSKULL_HELL@4:Elder's Muisak
+T4_OFF_TOTEM_KEEPER:Adept's Taproot
+T4_OFF_TOTEM_KEEPER@1:Adept's Taproot
+T4_OFF_TOTEM_KEEPER@2:Adept's Taproot
+T4_OFF_TOTEM_KEEPER@3:Adept's Taproot
+T4_OFF_TOTEM_KEEPER@4:Adept's Taproot
+T5_OFF_TOTEM_KEEPER:Expert's Taproot
+T5_OFF_TOTEM_KEEPER@1:Expert's Taproot
+T5_OFF_TOTEM_KEEPER@2:Expert's Taproot
+T5_OFF_TOTEM_KEEPER@3:Expert's Taproot
+T5_OFF_TOTEM_KEEPER@4:Expert's Taproot
+T6_OFF_TOTEM_KEEPER:Master's Taproot
+T6_OFF_TOTEM_KEEPER@1:Master's Taproot
+T6_OFF_TOTEM_KEEPER@2:Master's Taproot
+T6_OFF_TOTEM_KEEPER@3:Master's Taproot
+T6_OFF_TOTEM_KEEPER@4:Master's Taproot
+T7_OFF_TOTEM_KEEPER:Grandmaster's Taproot
+T7_OFF_TOTEM_KEEPER@1:Grandmaster's Taproot
+T7_OFF_TOTEM_KEEPER@2:Grandmaster's Taproot
+T7_OFF_TOTEM_KEEPER@3:Grandmaster's Taproot
+T7_OFF_TOTEM_KEEPER@4:Grandmaster's Taproot
+T8_OFF_TOTEM_KEEPER:Elder's Taproot
+T8_OFF_TOTEM_KEEPER@1:Elder's Taproot
+T8_OFF_TOTEM_KEEPER@2:Elder's Taproot
+T8_OFF_TOTEM_KEEPER@3:Elder's Taproot
+T8_OFF_TOTEM_KEEPER@4:Elder's Taproot
+T4_OFF_CENSER_AVALON:Adept's Celestial Censer
+T4_OFF_CENSER_AVALON@1:Adept's Celestial Censer
+T4_OFF_CENSER_AVALON@2:Adept's Celestial Censer
+T4_OFF_CENSER_AVALON@3:Adept's Celestial Censer
+T4_OFF_CENSER_AVALON@4:Adept's Celestial Censer
+T5_OFF_CENSER_AVALON:Expert's Celestial Censer
+T5_OFF_CENSER_AVALON@1:Expert's Celestial Censer
+T5_OFF_CENSER_AVALON@2:Expert's Celestial Censer
+T5_OFF_CENSER_AVALON@3:Expert's Celestial Censer
+T5_OFF_CENSER_AVALON@4:Expert's Celestial Censer
+T6_OFF_CENSER_AVALON:Master's Celestial Censer
+T6_OFF_CENSER_AVALON@1:Master's Celestial Censer
+T6_OFF_CENSER_AVALON@2:Master's Celestial Censer
+T6_OFF_CENSER_AVALON@3:Master's Celestial Censer
+T6_OFF_CENSER_AVALON@4:Master's Celestial Censer
+T7_OFF_CENSER_AVALON:Grandmaster's Celestial Censer
+T7_OFF_CENSER_AVALON@1:Grandmaster's Celestial Censer
+T7_OFF_CENSER_AVALON@2:Grandmaster's Celestial Censer
+T7_OFF_CENSER_AVALON@3:Grandmaster's Celestial Censer
+T7_OFF_CENSER_AVALON@4:Grandmaster's Celestial Censer
+T8_OFF_CENSER_AVALON:Elder's Celestial Censer
+T8_OFF_CENSER_AVALON@1:Elder's Celestial Censer
+T8_OFF_CENSER_AVALON@2:Elder's Celestial Censer
+T8_OFF_CENSER_AVALON@3:Elder's Celestial Censer
+T8_OFF_CENSER_AVALON@4:Elder's Celestial Censer
+T4_OFF_TOME_CRYSTAL:Adept's Timelocked Grimoire
+T4_OFF_TOME_CRYSTAL@1:Adept's Timelocked Grimoire
+T4_OFF_TOME_CRYSTAL@2:Adept's Timelocked Grimoire
+T4_OFF_TOME_CRYSTAL@3:Adept's Timelocked Grimoire
+T4_OFF_TOME_CRYSTAL@4:Adept's Timelocked Grimoire
+T5_OFF_TOME_CRYSTAL:Expert's Timelocked Grimoire
+T5_OFF_TOME_CRYSTAL@1:Expert's Timelocked Grimoire
+T5_OFF_TOME_CRYSTAL@2:Expert's Timelocked Grimoire
+T5_OFF_TOME_CRYSTAL@3:Expert's Timelocked Grimoire
+T5_OFF_TOME_CRYSTAL@4:Expert's Timelocked Grimoire
+T6_OFF_TOME_CRYSTAL:Master's Timelocked Grimoire
+T6_OFF_TOME_CRYSTAL@1:Master's Timelocked Grimoire
+T6_OFF_TOME_CRYSTAL@2:Master's Timelocked Grimoire
+T6_OFF_TOME_CRYSTAL@3:Master's Timelocked Grimoire
+T6_OFF_TOME_CRYSTAL@4:Master's Timelocked Grimoire
+T7_OFF_TOME_CRYSTAL:Grandmaster's Timelocked Grimoire
+T7_OFF_TOME_CRYSTAL@1:Grandmaster's Timelocked Grimoire
+T7_OFF_TOME_CRYSTAL@2:Grandmaster's Timelocked Grimoire
+T7_OFF_TOME_CRYSTAL@3:Grandmaster's Timelocked Grimoire
+T7_OFF_TOME_CRYSTAL@4:Grandmaster's Timelocked Grimoire
+T8_OFF_TOME_CRYSTAL:Elder's Timelocked Grimoire
+T8_OFF_TOME_CRYSTAL@1:Elder's Timelocked Grimoire
+T8_OFF_TOME_CRYSTAL@2:Elder's Timelocked Grimoire
+T8_OFF_TOME_CRYSTAL@3:Elder's Timelocked Grimoire
+T8_OFF_TOME_CRYSTAL@4:Elder's Timelocked Grimoire

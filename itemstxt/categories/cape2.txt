@@ -1,0 +1,119 @@
+T8_CAPEITEM_UNDEAD:Elder's Undead Cape
+T8_CAPEITEM_UNDEAD@1:Elder's Undead Cape
+T8_CAPEITEM_UNDEAD@2:Elder's Undead Cape
+T8_CAPEITEM_UNDEAD@3:Elder's Undead Cape
+T8_CAPEITEM_UNDEAD@4:Elder's Undead Cape
+T4_CAPEITEM_KEEPER:Adept's Keeper Cape
+T4_CAPEITEM_KEEPER@1:Adept's Keeper Cape
+T4_CAPEITEM_KEEPER@2:Adept's Keeper Cape
+T4_CAPEITEM_KEEPER@3:Adept's Keeper Cape
+T4_CAPEITEM_KEEPER@4:Adept's Keeper Cape
+T5_CAPEITEM_KEEPER:Expert's Keeper Cape
+T5_CAPEITEM_KEEPER@1:Expert's Keeper Cape
+T5_CAPEITEM_KEEPER@2:Expert's Keeper Cape
+T5_CAPEITEM_KEEPER@3:Expert's Keeper Cape
+T5_CAPEITEM_KEEPER@4:Expert's Keeper Cape
+T6_CAPEITEM_KEEPER:Master's Keeper Cape
+T6_CAPEITEM_KEEPER@1:Master's Keeper Cape
+T6_CAPEITEM_KEEPER@2:Master's Keeper Cape
+T6_CAPEITEM_KEEPER@3:Master's Keeper Cape
+T6_CAPEITEM_KEEPER@4:Master's Keeper Cape
+T7_CAPEITEM_KEEPER:Grandmaster's Keeper Cape
+T7_CAPEITEM_KEEPER@1:Grandmaster's Keeper Cape
+T7_CAPEITEM_KEEPER@2:Grandmaster's Keeper Cape
+T7_CAPEITEM_KEEPER@3:Grandmaster's Keeper Cape
+T7_CAPEITEM_KEEPER@4:Grandmaster's Keeper Cape
+T8_CAPEITEM_KEEPER:Elder's Keeper Cape
+T8_CAPEITEM_KEEPER@1:Elder's Keeper Cape
+T8_CAPEITEM_KEEPER@2:Elder's Keeper Cape
+T8_CAPEITEM_KEEPER@3:Elder's Keeper Cape
+T8_CAPEITEM_KEEPER@4:Elder's Keeper Cape
+T4_CAPEITEM_MORGANA:Adept's Morgana Cape
+T4_CAPEITEM_MORGANA@1:Adept's Morgana Cape
+T4_CAPEITEM_MORGANA@2:Adept's Morgana Cape
+T4_CAPEITEM_MORGANA@3:Adept's Morgana Cape
+T4_CAPEITEM_MORGANA@4:Adept's Morgana Cape
+T5_CAPEITEM_MORGANA:Expert's Morgana Cape
+T5_CAPEITEM_MORGANA@1:Expert's Morgana Cape
+T5_CAPEITEM_MORGANA@2:Expert's Morgana Cape
+T5_CAPEITEM_MORGANA@3:Expert's Morgana Cape
+T5_CAPEITEM_MORGANA@4:Expert's Morgana Cape
+T6_CAPEITEM_MORGANA:Master's Morgana Cape
+T6_CAPEITEM_MORGANA@1:Master's Morgana Cape
+T6_CAPEITEM_MORGANA@2:Master's Morgana Cape
+T6_CAPEITEM_MORGANA@3:Master's Morgana Cape
+T6_CAPEITEM_MORGANA@4:Master's Morgana Cape
+T7_CAPEITEM_MORGANA:Grandmaster's Morgana Cape
+T7_CAPEITEM_MORGANA@1:Grandmaster's Morgana Cape
+T7_CAPEITEM_MORGANA@2:Grandmaster's Morgana Cape
+T7_CAPEITEM_MORGANA@3:Grandmaster's Morgana Cape
+T7_CAPEITEM_MORGANA@4:Grandmaster's Morgana Cape
+T8_CAPEITEM_MORGANA:Elder's Morgana Cape
+T8_CAPEITEM_MORGANA@1:Elder's Morgana Cape
+T8_CAPEITEM_MORGANA@2:Elder's Morgana Cape
+T8_CAPEITEM_MORGANA@3:Elder's Morgana Cape
+T8_CAPEITEM_MORGANA@4:Elder's Morgana Cape
+T4_CAPEITEM_DEMON:Adept's Demon Cape
+T4_CAPEITEM_DEMON@1:Adept's Demon Cape
+T4_CAPEITEM_DEMON@2:Adept's Demon Cape
+T4_CAPEITEM_DEMON@3:Adept's Demon Cape
+T4_CAPEITEM_DEMON@4:Adept's Demon Cape
+T5_CAPEITEM_DEMON:Expert's Demon Cape
+T5_CAPEITEM_DEMON@1:Expert's Demon Cape
+T5_CAPEITEM_DEMON@2:Expert's Demon Cape
+T5_CAPEITEM_DEMON@3:Expert's Demon Cape
+T5_CAPEITEM_DEMON@4:Expert's Demon Cape
+T6_CAPEITEM_DEMON:Master's Demon Cape
+T6_CAPEITEM_DEMON@1:Master's Demon Cape
+T6_CAPEITEM_DEMON@2:Master's Demon Cape
+T6_CAPEITEM_DEMON@3:Master's Demon Cape
+T6_CAPEITEM_DEMON@4:Master's Demon Cape
+T7_CAPEITEM_DEMON:Grandmaster's Demon Cape
+T7_CAPEITEM_DEMON@1:Grandmaster's Demon Cape
+T7_CAPEITEM_DEMON@2:Grandmaster's Demon Cape
+T7_CAPEITEM_DEMON@3:Grandmaster's Demon Cape
+T7_CAPEITEM_DEMON@4:Grandmaster's Demon Cape
+T8_CAPEITEM_DEMON:Elder's Demon Cape
+T8_CAPEITEM_DEMON@1:Elder's Demon Cape
+T8_CAPEITEM_DEMON@2:Elder's Demon Cape
+T8_CAPEITEM_DEMON@3:Elder's Demon Cape
+T8_CAPEITEM_DEMON@4:Elder's Demon Cape
+T4_CAPE:Adept's Cape
+T4_CAPE@1:Adept's Cape
+T4_CAPE@2:Adept's Cape
+T4_CAPE@3:Adept's Cape
+T4_CAPE@4:Adept's Cape
+T5_CAPE:Expert's Cape
+T5_CAPE@1:Expert's Cape
+T5_CAPE@2:Expert's Cape
+T5_CAPE@3:Expert's Cape
+T5_CAPE@4:Expert's Cape
+T6_CAPE:Master's Cape
+T6_CAPE@1:Master's Cape
+T6_CAPE@2:Master's Cape
+T6_CAPE@3:Master's Cape
+T6_CAPE@4:Master's Cape
+T7_CAPE:Grandmaster's Cape
+T7_CAPE@1:Grandmaster's Cape
+T7_CAPE@2:Grandmaster's Cape
+T7_CAPE@3:Grandmaster's Cape
+T7_CAPE@4:Grandmaster's Cape
+T8_CAPE:Elder's Cape
+T8_CAPE@1:Elder's Cape
+T8_CAPE@2:Elder's Cape
+T8_CAPE@3:Elder's Cape
+T8_CAPE@4:Elder's Cape
+T4_CAPEITEM_FW_BRIDGEWATCH:Adept's Bridgewatch Cape
+T4_CAPEITEM_FW_BRIDGEWATCH@1:Adept's Bridgewatch Cape
+T4_CAPEITEM_FW_BRIDGEWATCH@2:Adept's Bridgewatch Cape
+T4_CAPEITEM_FW_BRIDGEWATCH@3:Adept's Bridgewatch Cape
+T4_CAPEITEM_FW_BRIDGEWATCH@4:Adept's Bridgewatch Cape
+T5_CAPEITEM_FW_BRIDGEWATCH:Expert's Bridgewatch Cape
+T5_CAPEITEM_FW_BRIDGEWATCH@1:Expert's Bridgewatch Cape
+T5_CAPEITEM_FW_BRIDGEWATCH@2:Expert's Bridgewatch Cape
+T5_CAPEITEM_FW_BRIDGEWATCH@3:Expert's Bridgewatch Cape
+T5_CAPEITEM_FW_BRIDGEWATCH@4:Expert's Bridgewatch Cape
+T6_CAPEITEM_FW_BRIDGEWATCH:Master's Bridgewatch Cape
+T6_CAPEITEM_FW_BRIDGEWATCH@1:Master's Bridgewatch Cape
+T6_CAPEITEM_FW_BRIDGEWATCH@2:Master's Bridgewatch Cape
+T6_CAPEITEM_FW_BRIDGEWATCH@3:Master's Bridgewatch Cape

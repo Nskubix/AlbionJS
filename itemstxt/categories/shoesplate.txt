@@ -1,0 +1,225 @@
+T4_SHOES_PLATE_SET1:Adept's Soldier Boots
+T4_SHOES_PLATE_SET1@1:Adept's Soldier Boots
+T4_SHOES_PLATE_SET1@2:Adept's Soldier Boots
+T4_SHOES_PLATE_SET1@3:Adept's Soldier Boots
+T4_SHOES_PLATE_SET1@4:Adept's Soldier Boots
+T5_SHOES_PLATE_SET1:Expert's Soldier Boots
+T5_SHOES_PLATE_SET1@1:Expert's Soldier Boots
+T5_SHOES_PLATE_SET1@2:Expert's Soldier Boots
+T5_SHOES_PLATE_SET1@3:Expert's Soldier Boots
+T5_SHOES_PLATE_SET1@4:Expert's Soldier Boots
+T6_SHOES_PLATE_SET1:Master's Soldier Boots
+T6_SHOES_PLATE_SET1@1:Master's Soldier Boots
+T6_SHOES_PLATE_SET1@2:Master's Soldier Boots
+T6_SHOES_PLATE_SET1@3:Master's Soldier Boots
+T6_SHOES_PLATE_SET1@4:Master's Soldier Boots
+T7_SHOES_PLATE_SET1:Grandmaster's Soldier Boots
+T7_SHOES_PLATE_SET1@1:Grandmaster's Soldier Boots
+T7_SHOES_PLATE_SET1@2:Grandmaster's Soldier Boots
+T7_SHOES_PLATE_SET1@3:Grandmaster's Soldier Boots
+T7_SHOES_PLATE_SET1@4:Grandmaster's Soldier Boots
+T8_SHOES_PLATE_SET1:Elder's Soldier Boots
+T8_SHOES_PLATE_SET1@1:Elder's Soldier Boots
+T8_SHOES_PLATE_SET1@2:Elder's Soldier Boots
+T8_SHOES_PLATE_SET1@3:Elder's Soldier Boots
+T8_SHOES_PLATE_SET1@4:Elder's Soldier Boots
+T4_SHOES_PLATE_SET2:Adept's Knight Boots
+T4_SHOES_PLATE_SET2@1:Adept's Knight Boots
+T4_SHOES_PLATE_SET2@2:Adept's Knight Boots
+T4_SHOES_PLATE_SET2@3:Adept's Knight Boots
+T4_SHOES_PLATE_SET2@4:Adept's Knight Boots
+T5_SHOES_PLATE_SET2:Expert's Knight Boots
+T5_SHOES_PLATE_SET2@1:Expert's Knight Boots
+T5_SHOES_PLATE_SET2@2:Expert's Knight Boots
+T5_SHOES_PLATE_SET2@3:Expert's Knight Boots
+T5_SHOES_PLATE_SET2@4:Expert's Knight Boots
+T6_SHOES_PLATE_SET2:Master's Knight Boots
+T6_SHOES_PLATE_SET2@1:Master's Knight Boots
+T6_SHOES_PLATE_SET2@2:Master's Knight Boots
+T6_SHOES_PLATE_SET2@3:Master's Knight Boots
+T6_SHOES_PLATE_SET2@4:Master's Knight Boots
+T7_SHOES_PLATE_SET2:Grandmaster's Knight Boots
+T7_SHOES_PLATE_SET2@1:Grandmaster's Knight Boots
+T7_SHOES_PLATE_SET2@2:Grandmaster's Knight Boots
+T7_SHOES_PLATE_SET2@3:Grandmaster's Knight Boots
+T7_SHOES_PLATE_SET2@4:Grandmaster's Knight Boots
+T8_SHOES_PLATE_SET2:Elder's Knight Boots
+T8_SHOES_PLATE_SET2@1:Elder's Knight Boots
+T8_SHOES_PLATE_SET2@2:Elder's Knight Boots
+T8_SHOES_PLATE_SET2@3:Elder's Knight Boots
+T8_SHOES_PLATE_SET2@4:Elder's Knight Boots
+T4_SHOES_PLATE_SET3:Adept's Guardian Boots
+T4_SHOES_PLATE_SET3@1:Adept's Guardian Boots
+T4_SHOES_PLATE_SET3@2:Adept's Guardian Boots
+T4_SHOES_PLATE_SET3@3:Adept's Guardian Boots
+T4_SHOES_PLATE_SET3@4:Adept's Guardian Boots
+T5_SHOES_PLATE_SET3:Expert's Guardian Boots
+T5_SHOES_PLATE_SET3@1:Expert's Guardian Boots
+T5_SHOES_PLATE_SET3@2:Expert's Guardian Boots
+T5_SHOES_PLATE_SET3@3:Expert's Guardian Boots
+T5_SHOES_PLATE_SET3@4:Expert's Guardian Boots
+T6_SHOES_PLATE_SET3:Master's Guardian Boots
+T6_SHOES_PLATE_SET3@1:Master's Guardian Boots
+T6_SHOES_PLATE_SET3@2:Master's Guardian Boots
+T6_SHOES_PLATE_SET3@3:Master's Guardian Boots
+T6_SHOES_PLATE_SET3@4:Master's Guardian Boots
+T7_SHOES_PLATE_SET3:Grandmaster's Guardian Boots
+T7_SHOES_PLATE_SET3@1:Grandmaster's Guardian Boots
+T7_SHOES_PLATE_SET3@2:Grandmaster's Guardian Boots
+T7_SHOES_PLATE_SET3@3:Grandmaster's Guardian Boots
+T7_SHOES_PLATE_SET3@4:Grandmaster's Guardian Boots
+T8_SHOES_PLATE_SET3:Elder's Guardian Boots
+T8_SHOES_PLATE_SET3@1:Elder's Guardian Boots
+T8_SHOES_PLATE_SET3@2:Elder's Guardian Boots
+T8_SHOES_PLATE_SET3@3:Elder's Guardian Boots
+T8_SHOES_PLATE_SET3@4:Elder's Guardian Boots
+T4_SHOES_PLATE_UNDEAD:Adept's Graveguard Boots
+T4_SHOES_PLATE_UNDEAD@1:Adept's Graveguard Boots
+T4_SHOES_PLATE_UNDEAD@2:Adept's Graveguard Boots
+T4_SHOES_PLATE_UNDEAD@3:Adept's Graveguard Boots
+T4_SHOES_PLATE_UNDEAD@4:Adept's Graveguard Boots
+T5_SHOES_PLATE_UNDEAD:Expert's Graveguard Boots
+T5_SHOES_PLATE_UNDEAD@1:Expert's Graveguard Boots
+T5_SHOES_PLATE_UNDEAD@2:Expert's Graveguard Boots
+T5_SHOES_PLATE_UNDEAD@3:Expert's Graveguard Boots
+T5_SHOES_PLATE_UNDEAD@4:Expert's Graveguard Boots
+T6_SHOES_PLATE_UNDEAD:Master's Graveguard Boots
+T6_SHOES_PLATE_UNDEAD@1:Master's Graveguard Boots
+T6_SHOES_PLATE_UNDEAD@2:Master's Graveguard Boots
+T6_SHOES_PLATE_UNDEAD@3:Master's Graveguard Boots
+T6_SHOES_PLATE_UNDEAD@4:Master's Graveguard Boots
+T7_SHOES_PLATE_UNDEAD:Grandmaster's Graveguard Boots
+T7_SHOES_PLATE_UNDEAD@1:Grandmaster's Graveguard Boots
+T7_SHOES_PLATE_UNDEAD@2:Grandmaster's Graveguard Boots
+T7_SHOES_PLATE_UNDEAD@3:Grandmaster's Graveguard Boots
+T7_SHOES_PLATE_UNDEAD@4:Grandmaster's Graveguard Boots
+T8_SHOES_PLATE_UNDEAD:Elder's Graveguard Boots
+T8_SHOES_PLATE_UNDEAD@1:Elder's Graveguard Boots
+T8_SHOES_PLATE_UNDEAD@2:Elder's Graveguard Boots
+T8_SHOES_PLATE_UNDEAD@3:Elder's Graveguard Boots
+T8_SHOES_PLATE_UNDEAD@4:Elder's Graveguard Boots
+T4_SHOES_PLATE_HELL:Adept's Demon Boots
+T4_SHOES_PLATE_HELL@1:Adept's Demon Boots
+T4_SHOES_PLATE_HELL@2:Adept's Demon Boots
+T4_SHOES_PLATE_HELL@3:Adept's Demon Boots
+T4_SHOES_PLATE_HELL@4:Adept's Demon Boots
+T5_SHOES_PLATE_HELL:Expert's Demon Boots
+T5_SHOES_PLATE_HELL@1:Expert's Demon Boots
+T5_SHOES_PLATE_HELL@2:Expert's Demon Boots
+T5_SHOES_PLATE_HELL@3:Expert's Demon Boots
+T5_SHOES_PLATE_HELL@4:Expert's Demon Boots
+T6_SHOES_PLATE_HELL:Master's Demon Boots
+T6_SHOES_PLATE_HELL@1:Master's Demon Boots
+T6_SHOES_PLATE_HELL@2:Master's Demon Boots
+T6_SHOES_PLATE_HELL@3:Master's Demon Boots
+T6_SHOES_PLATE_HELL@4:Master's Demon Boots
+T7_SHOES_PLATE_HELL:Grandmaster's Demon Boots
+T7_SHOES_PLATE_HELL@1:Grandmaster's Demon Boots
+T7_SHOES_PLATE_HELL@2:Grandmaster's Demon Boots
+T7_SHOES_PLATE_HELL@3:Grandmaster's Demon Boots
+T7_SHOES_PLATE_HELL@4:Grandmaster's Demon Boots
+T8_SHOES_PLATE_HELL:Elder's Demon Boots
+T8_SHOES_PLATE_HELL@1:Elder's Demon Boots
+T8_SHOES_PLATE_HELL@2:Elder's Demon Boots
+T8_SHOES_PLATE_HELL@3:Elder's Demon Boots
+T8_SHOES_PLATE_HELL@4:Elder's Demon Boots
+T4_SHOES_PLATE_KEEPER:Adept's Judicator Boots
+T4_SHOES_PLATE_KEEPER@1:Adept's Judicator Boots
+T4_SHOES_PLATE_KEEPER@2:Adept's Judicator Boots
+T4_SHOES_PLATE_KEEPER@3:Adept's Judicator Boots
+T4_SHOES_PLATE_KEEPER@4:Adept's Judicator Boots
+T5_SHOES_PLATE_KEEPER:Expert's Judicator Boots
+T5_SHOES_PLATE_KEEPER@1:Expert's Judicator Boots
+T5_SHOES_PLATE_KEEPER@2:Expert's Judicator Boots
+T5_SHOES_PLATE_KEEPER@3:Expert's Judicator Boots
+T5_SHOES_PLATE_KEEPER@4:Expert's Judicator Boots
+T6_SHOES_PLATE_KEEPER:Master's Judicator Boots
+T6_SHOES_PLATE_KEEPER@1:Master's Judicator Boots
+T6_SHOES_PLATE_KEEPER@2:Master's Judicator Boots
+T6_SHOES_PLATE_KEEPER@3:Master's Judicator Boots
+T6_SHOES_PLATE_KEEPER@4:Master's Judicator Boots
+T7_SHOES_PLATE_KEEPER:Grandmaster's Judicator Boots
+T7_SHOES_PLATE_KEEPER@1:Grandmaster's Judicator Boots
+T7_SHOES_PLATE_KEEPER@2:Grandmaster's Judicator Boots
+T7_SHOES_PLATE_KEEPER@3:Grandmaster's Judicator Boots
+T7_SHOES_PLATE_KEEPER@4:Grandmaster's Judicator Boots
+T8_SHOES_PLATE_KEEPER:Elder's Judicator Boots
+T8_SHOES_PLATE_KEEPER@1:Elder's Judicator Boots
+T8_SHOES_PLATE_KEEPER@2:Elder's Judicator Boots
+T8_SHOES_PLATE_KEEPER@3:Elder's Judicator Boots
+T8_SHOES_PLATE_KEEPER@4:Elder's Judicator Boots
+T4_SHOES_PLATE_FEY:Adept's Duskweaver Boots
+T4_SHOES_PLATE_FEY@1:Adept's Duskweaver Boots
+T4_SHOES_PLATE_FEY@2:Adept's Duskweaver Boots
+T4_SHOES_PLATE_FEY@3:Adept's Duskweaver Boots
+T4_SHOES_PLATE_FEY@4:Adept's Duskweaver Boots
+T5_SHOES_PLATE_FEY:Expert's Duskweaver Boots
+T5_SHOES_PLATE_FEY@1:Expert's Duskweaver Boots
+T5_SHOES_PLATE_FEY@2:Expert's Duskweaver Boots
+T5_SHOES_PLATE_FEY@3:Expert's Duskweaver Boots
+T5_SHOES_PLATE_FEY@4:Expert's Duskweaver Boots
+T6_SHOES_PLATE_FEY:Master's Duskweaver Boots
+T6_SHOES_PLATE_FEY@1:Master's Duskweaver Boots
+T6_SHOES_PLATE_FEY@2:Master's Duskweaver Boots
+T6_SHOES_PLATE_FEY@3:Master's Duskweaver Boots
+T6_SHOES_PLATE_FEY@4:Master's Duskweaver Boots
+T7_SHOES_PLATE_FEY:Grandmaster's Duskweaver Boots
+T7_SHOES_PLATE_FEY@1:Grandmaster's Duskweaver Boots
+T7_SHOES_PLATE_FEY@2:Grandmaster's Duskweaver Boots
+T7_SHOES_PLATE_FEY@3:Grandmaster's Duskweaver Boots
+T7_SHOES_PLATE_FEY@4:Grandmaster's Duskweaver Boots
+T8_SHOES_PLATE_FEY:Elder's Duskweaver Boots
+T8_SHOES_PLATE_FEY@1:Elder's Duskweaver Boots
+T8_SHOES_PLATE_FEY@2:Elder's Duskweaver Boots
+T8_SHOES_PLATE_FEY@3:Elder's Duskweaver Boots
+T8_SHOES_PLATE_FEY@4:Elder's Duskweaver Boots
+T4_SHOES_PLATE_AVALON:Adept's Boots of Valor
+T4_SHOES_PLATE_AVALON@1:Adept's Boots of Valor
+T4_SHOES_PLATE_AVALON@2:Adept's Boots of Valor
+T4_SHOES_PLATE_AVALON@3:Adept's Boots of Valor
+T4_SHOES_PLATE_AVALON@4:Adept's Boots of Valor
+T5_SHOES_PLATE_AVALON:Expert's Boots of Valor
+T5_SHOES_PLATE_AVALON@1:Expert's Boots of Valor
+T5_SHOES_PLATE_AVALON@2:Expert's Boots of Valor
+T5_SHOES_PLATE_AVALON@3:Expert's Boots of Valor
+T5_SHOES_PLATE_AVALON@4:Expert's Boots of Valor
+T6_SHOES_PLATE_AVALON:Master's Boots of Valor
+T6_SHOES_PLATE_AVALON@1:Master's Boots of Valor
+T6_SHOES_PLATE_AVALON@2:Master's Boots of Valor
+T6_SHOES_PLATE_AVALON@3:Master's Boots of Valor
+T6_SHOES_PLATE_AVALON@4:Master's Boots of Valor
+T7_SHOES_PLATE_AVALON:Grandmaster's Boots of Valor
+T7_SHOES_PLATE_AVALON@1:Grandmaster's Boots of Valor
+T7_SHOES_PLATE_AVALON@2:Grandmaster's Boots of Valor
+T7_SHOES_PLATE_AVALON@3:Grandmaster's Boots of Valor
+T7_SHOES_PLATE_AVALON@4:Grandmaster's Boots of Valor
+T8_SHOES_PLATE_AVALON:Elder's Boots of Valor
+T8_SHOES_PLATE_AVALON@1:Elder's Boots of Valor
+T8_SHOES_PLATE_AVALON@2:Elder's Boots of Valor
+T8_SHOES_PLATE_AVALON@3:Elder's Boots of Valor
+T8_SHOES_PLATE_AVALON@4:Elder's Boots of Valor
+T4_SHOES_PLATE_ROYAL:Adept's Royal Boots
+T4_SHOES_PLATE_ROYAL@1:Adept's Royal Boots
+T4_SHOES_PLATE_ROYAL@2:Adept's Royal Boots
+T4_SHOES_PLATE_ROYAL@3:Adept's Royal Boots
+T4_SHOES_PLATE_ROYAL@4:Adept's Royal Boots
+T5_SHOES_PLATE_ROYAL:Expert's Royal Boots
+T5_SHOES_PLATE_ROYAL@1:Expert's Royal Boots
+T5_SHOES_PLATE_ROYAL@2:Expert's Royal Boots
+T5_SHOES_PLATE_ROYAL@3:Expert's Royal Boots
+T5_SHOES_PLATE_ROYAL@4:Expert's Royal Boots
+T6_SHOES_PLATE_ROYAL:Master's Royal Boots
+T6_SHOES_PLATE_ROYAL@1:Master's Royal Boots
+T6_SHOES_PLATE_ROYAL@2:Master's Royal Boots
+T6_SHOES_PLATE_ROYAL@3:Master's Royal Boots
+T6_SHOES_PLATE_ROYAL@4:Master's Royal Boots
+T7_SHOES_PLATE_ROYAL:Grandmaster's Royal Boots
+T7_SHOES_PLATE_ROYAL@1:Grandmaster's Royal Boots
+T7_SHOES_PLATE_ROYAL@2:Grandmaster's Royal Boots
+T7_SHOES_PLATE_ROYAL@3:Grandmaster's Royal Boots
+T7_SHOES_PLATE_ROYAL@4:Grandmaster's Royal Boots
+T8_SHOES_PLATE_ROYAL:Elder's Royal Boots
+T8_SHOES_PLATE_ROYAL@1:Elder's Royal Boots
+T8_SHOES_PLATE_ROYAL@2:Elder's Royal Boots
+T8_SHOES_PLATE_ROYAL@3:Elder's Royal Boots
+T8_SHOES_PLATE_ROYAL@4:Elder's Royal Boots

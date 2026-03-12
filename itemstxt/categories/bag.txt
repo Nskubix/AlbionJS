@@ -1,0 +1,50 @@
+T4_BAG:Adept's Bag
+T4_BAG@1:Adept's Bag
+T4_BAG@2:Adept's Bag
+T4_BAG@3:Adept's Bag
+T4_BAG@4:Adept's Bag
+T5_BAG:Expert's Bag
+T5_BAG@1:Expert's Bag
+T5_BAG@2:Expert's Bag
+T5_BAG@3:Expert's Bag
+T5_BAG@4:Expert's Bag
+T6_BAG:Master's Bag
+T6_BAG@1:Master's Bag
+T6_BAG@2:Master's Bag
+T6_BAG@3:Master's Bag
+T6_BAG@4:Master's Bag
+T7_BAG:Grandmaster's Bag
+T7_BAG@1:Grandmaster's Bag
+T7_BAG@2:Grandmaster's Bag
+T7_BAG@3:Grandmaster's Bag
+T7_BAG@4:Grandmaster's Bag
+T8_BAG:Elder's Bag
+T8_BAG@1:Elder's Bag
+T8_BAG@2:Elder's Bag
+T8_BAG@3:Elder's Bag
+T8_BAG@4:Elder's Bag
+T4_BAG_INSIGHT:Adept's Satchel of Insight
+T4_BAG_INSIGHT@1:Adept's Satchel of Insight
+T4_BAG_INSIGHT@2:Adept's Satchel of Insight
+T4_BAG_INSIGHT@3:Adept's Satchel of Insight
+T4_BAG_INSIGHT@4:Adept's Satchel of Insight
+T5_BAG_INSIGHT:Expert's Satchel of Insight
+T5_BAG_INSIGHT@1:Expert's Satchel of Insight
+T5_BAG_INSIGHT@2:Expert's Satchel of Insight
+T5_BAG_INSIGHT@3:Expert's Satchel of Insight
+T5_BAG_INSIGHT@4:Expert's Satchel of Insight
+T6_BAG_INSIGHT:Master's Satchel of Insight
+T6_BAG_INSIGHT@1:Master's Satchel of Insight
+T6_BAG_INSIGHT@2:Master's Satchel of Insight
+T6_BAG_INSIGHT@3:Master's Satchel of Insight
+T6_BAG_INSIGHT@4:Master's Satchel of Insight
+T7_BAG_INSIGHT:Grandmaster's Satchel of Insight
+T7_BAG_INSIGHT@1:Grandmaster's Satchel of Insight
+T7_BAG_INSIGHT@2:Grandmaster's Satchel of Insight
+T7_BAG_INSIGHT@3:Grandmaster's Satchel of Insight
+T7_BAG_INSIGHT@4:Grandmaster's Satchel of Insight
+T8_BAG_INSIGHT:Elder's Satchel of Insight
+T8_BAG_INSIGHT@1:Elder's Satchel of Insight
+T8_BAG_INSIGHT@2:Elder's Satchel of Insight
+T8_BAG_INSIGHT@3:Elder's Satchel of Insight
+T8_BAG_INSIGHT@4:Elder's Satchel of Insight

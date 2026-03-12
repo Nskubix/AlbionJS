@@ -1,0 +1,150 @@
+T4_OFF_SHIELD:Adept's Shield
+T4_OFF_SHIELD@1:Adept's Shield
+T4_OFF_SHIELD@2:Adept's Shield
+T4_OFF_SHIELD@3:Adept's Shield
+T4_OFF_SHIELD@4:Adept's Shield
+T5_OFF_SHIELD:Expert's Shield
+T5_OFF_SHIELD@1:Expert's Shield
+T5_OFF_SHIELD@2:Expert's Shield
+T5_OFF_SHIELD@3:Expert's Shield
+T5_OFF_SHIELD@4:Expert's Shield
+T6_OFF_SHIELD:Master's Shield
+T6_OFF_SHIELD@1:Master's Shield
+T6_OFF_SHIELD@2:Master's Shield
+T6_OFF_SHIELD@3:Master's Shield
+T6_OFF_SHIELD@4:Master's Shield
+T7_OFF_SHIELD:Grandmaster's Shield
+T7_OFF_SHIELD@1:Grandmaster's Shield
+T7_OFF_SHIELD@2:Grandmaster's Shield
+T7_OFF_SHIELD@3:Grandmaster's Shield
+T7_OFF_SHIELD@4:Grandmaster's Shield
+T8_OFF_SHIELD:Elder's Shield
+T8_OFF_SHIELD@1:Elder's Shield
+T8_OFF_SHIELD@2:Elder's Shield
+T8_OFF_SHIELD@3:Elder's Shield
+T8_OFF_SHIELD@4:Elder's Shield
+T4_OFF_TOWERSHIELD_UNDEAD:Adept's Sarcophagus
+T4_OFF_TOWERSHIELD_UNDEAD@1:Adept's Sarcophagus
+T4_OFF_TOWERSHIELD_UNDEAD@2:Adept's Sarcophagus
+T4_OFF_TOWERSHIELD_UNDEAD@3:Adept's Sarcophagus
+T4_OFF_TOWERSHIELD_UNDEAD@4:Adept's Sarcophagus
+T5_OFF_TOWERSHIELD_UNDEAD:Expert's Sarcophagus
+T5_OFF_TOWERSHIELD_UNDEAD@1:Expert's Sarcophagus
+T5_OFF_TOWERSHIELD_UNDEAD@2:Expert's Sarcophagus
+T5_OFF_TOWERSHIELD_UNDEAD@3:Expert's Sarcophagus
+T5_OFF_TOWERSHIELD_UNDEAD@4:Expert's Sarcophagus
+T6_OFF_TOWERSHIELD_UNDEAD:Master's Sarcophagus
+T6_OFF_TOWERSHIELD_UNDEAD@1:Master's Sarcophagus
+T6_OFF_TOWERSHIELD_UNDEAD@2:Master's Sarcophagus
+T6_OFF_TOWERSHIELD_UNDEAD@3:Master's Sarcophagus
+T6_OFF_TOWERSHIELD_UNDEAD@4:Master's Sarcophagus
+T7_OFF_TOWERSHIELD_UNDEAD:Grandmaster's Sarcophagus
+T7_OFF_TOWERSHIELD_UNDEAD@1:Grandmaster's Sarcophagus
+T7_OFF_TOWERSHIELD_UNDEAD@2:Grandmaster's Sarcophagus
+T7_OFF_TOWERSHIELD_UNDEAD@3:Grandmaster's Sarcophagus
+T7_OFF_TOWERSHIELD_UNDEAD@4:Grandmaster's Sarcophagus
+T8_OFF_TOWERSHIELD_UNDEAD:Elder's Sarcophagus
+T8_OFF_TOWERSHIELD_UNDEAD@1:Elder's Sarcophagus
+T8_OFF_TOWERSHIELD_UNDEAD@2:Elder's Sarcophagus
+T8_OFF_TOWERSHIELD_UNDEAD@3:Elder's Sarcophagus
+T8_OFF_TOWERSHIELD_UNDEAD@4:Elder's Sarcophagus
+T4_OFF_SHIELD_HELL:Adept's Caitiff Shield
+T4_OFF_SHIELD_HELL@1:Adept's Caitiff Shield
+T4_OFF_SHIELD_HELL@2:Adept's Caitiff Shield
+T4_OFF_SHIELD_HELL@3:Adept's Caitiff Shield
+T4_OFF_SHIELD_HELL@4:Adept's Caitiff Shield
+T5_OFF_SHIELD_HELL:Expert's Caitiff Shield
+T5_OFF_SHIELD_HELL@1:Expert's Caitiff Shield
+T5_OFF_SHIELD_HELL@2:Expert's Caitiff Shield
+T5_OFF_SHIELD_HELL@3:Expert's Caitiff Shield
+T5_OFF_SHIELD_HELL@4:Expert's Caitiff Shield
+T6_OFF_SHIELD_HELL:Master's Caitiff Shield
+T6_OFF_SHIELD_HELL@1:Master's Caitiff Shield
+T6_OFF_SHIELD_HELL@2:Master's Caitiff Shield
+T6_OFF_SHIELD_HELL@3:Master's Caitiff Shield
+T6_OFF_SHIELD_HELL@4:Master's Caitiff Shield
+T7_OFF_SHIELD_HELL:Grandmaster's Caitiff Shield
+T7_OFF_SHIELD_HELL@1:Grandmaster's Caitiff Shield
+T7_OFF_SHIELD_HELL@2:Grandmaster's Caitiff Shield
+T7_OFF_SHIELD_HELL@3:Grandmaster's Caitiff Shield
+T7_OFF_SHIELD_HELL@4:Grandmaster's Caitiff Shield
+T8_OFF_SHIELD_HELL:Elder's Caitiff Shield
+T8_OFF_SHIELD_HELL@1:Elder's Caitiff Shield
+T8_OFF_SHIELD_HELL@2:Elder's Caitiff Shield
+T8_OFF_SHIELD_HELL@3:Elder's Caitiff Shield
+T8_OFF_SHIELD_HELL@4:Elder's Caitiff Shield
+T4_OFF_SPIKEDSHIELD_MORGANA:Adept's Facebreaker
+T4_OFF_SPIKEDSHIELD_MORGANA@1:Adept's Facebreaker
+T4_OFF_SPIKEDSHIELD_MORGANA@2:Adept's Facebreaker
+T4_OFF_SPIKEDSHIELD_MORGANA@3:Adept's Facebreaker
+T4_OFF_SPIKEDSHIELD_MORGANA@4:Adept's Facebreaker
+T5_OFF_SPIKEDSHIELD_MORGANA:Expert's Facebreaker
+T5_OFF_SPIKEDSHIELD_MORGANA@1:Expert's Facebreaker
+T5_OFF_SPIKEDSHIELD_MORGANA@2:Expert's Facebreaker
+T5_OFF_SPIKEDSHIELD_MORGANA@3:Expert's Facebreaker
+T5_OFF_SPIKEDSHIELD_MORGANA@4:Expert's Facebreaker
+T6_OFF_SPIKEDSHIELD_MORGANA:Master's Facebreaker
+T6_OFF_SPIKEDSHIELD_MORGANA@1:Master's Facebreaker
+T6_OFF_SPIKEDSHIELD_MORGANA@2:Master's Facebreaker
+T6_OFF_SPIKEDSHIELD_MORGANA@3:Master's Facebreaker
+T6_OFF_SPIKEDSHIELD_MORGANA@4:Master's Facebreaker
+T7_OFF_SPIKEDSHIELD_MORGANA:Grandmaster's Facebreaker
+T7_OFF_SPIKEDSHIELD_MORGANA@1:Grandmaster's Facebreaker
+T7_OFF_SPIKEDSHIELD_MORGANA@2:Grandmaster's Facebreaker
+T7_OFF_SPIKEDSHIELD_MORGANA@3:Grandmaster's Facebreaker
+T7_OFF_SPIKEDSHIELD_MORGANA@4:Grandmaster's Facebreaker
+T8_OFF_SPIKEDSHIELD_MORGANA:Elder's Facebreaker
+T8_OFF_SPIKEDSHIELD_MORGANA@1:Elder's Facebreaker
+T8_OFF_SPIKEDSHIELD_MORGANA@2:Elder's Facebreaker
+T8_OFF_SPIKEDSHIELD_MORGANA@3:Elder's Facebreaker
+T8_OFF_SPIKEDSHIELD_MORGANA@4:Elder's Facebreaker
+T4_OFF_SHIELD_AVALON:Adept's Astral Aegis
+T4_OFF_SHIELD_AVALON@1:Adept's Astral Aegis
+T4_OFF_SHIELD_AVALON@2:Adept's Astral Aegis
+T4_OFF_SHIELD_AVALON@3:Adept's Astral Aegis
+T4_OFF_SHIELD_AVALON@4:Adept's Astral Aegis
+T5_OFF_SHIELD_AVALON:Expert's Astral Aegis
+T5_OFF_SHIELD_AVALON@1:Expert's Astral Aegis
+T5_OFF_SHIELD_AVALON@2:Expert's Astral Aegis
+T5_OFF_SHIELD_AVALON@3:Expert's Astral Aegis
+T5_OFF_SHIELD_AVALON@4:Expert's Astral Aegis
+T6_OFF_SHIELD_AVALON:Master's Astral Aegis
+T6_OFF_SHIELD_AVALON@1:Master's Astral Aegis
+T6_OFF_SHIELD_AVALON@2:Master's Astral Aegis
+T6_OFF_SHIELD_AVALON@3:Master's Astral Aegis
+T6_OFF_SHIELD_AVALON@4:Master's Astral Aegis
+T7_OFF_SHIELD_AVALON:Grandmaster's Astral Aegis
+T7_OFF_SHIELD_AVALON@1:Grandmaster's Astral Aegis
+T7_OFF_SHIELD_AVALON@2:Grandmaster's Astral Aegis
+T7_OFF_SHIELD_AVALON@3:Grandmaster's Astral Aegis
+T7_OFF_SHIELD_AVALON@4:Grandmaster's Astral Aegis
+T8_OFF_SHIELD_AVALON:Elder's Astral Aegis
+T8_OFF_SHIELD_AVALON@1:Elder's Astral Aegis
+T8_OFF_SHIELD_AVALON@2:Elder's Astral Aegis
+T8_OFF_SHIELD_AVALON@3:Elder's Astral Aegis
+T8_OFF_SHIELD_AVALON@4:Elder's Astral Aegis
+T4_OFF_SHIELD_CRYSTAL:Adept's Unbreakable Ward
+T4_OFF_SHIELD_CRYSTAL@1:Adept's Unbreakable Ward
+T4_OFF_SHIELD_CRYSTAL@2:Adept's Unbreakable Ward
+T4_OFF_SHIELD_CRYSTAL@3:Adept's Unbreakable Ward
+T4_OFF_SHIELD_CRYSTAL@4:Adept's Unbreakable Ward
+T5_OFF_SHIELD_CRYSTAL:Expert's Unbreakable Ward
+T5_OFF_SHIELD_CRYSTAL@1:Expert's Unbreakable Ward
+T5_OFF_SHIELD_CRYSTAL@2:Expert's Unbreakable Ward
+T5_OFF_SHIELD_CRYSTAL@3:Expert's Unbreakable Ward
+T5_OFF_SHIELD_CRYSTAL@4:Expert's Unbreakable Ward
+T6_OFF_SHIELD_CRYSTAL:Master's Unbreakable Ward
+T6_OFF_SHIELD_CRYSTAL@1:Master's Unbreakable Ward
+T6_OFF_SHIELD_CRYSTAL@2:Master's Unbreakable Ward
+T6_OFF_SHIELD_CRYSTAL@3:Master's Unbreakable Ward
+T6_OFF_SHIELD_CRYSTAL@4:Master's Unbreakable Ward
+T7_OFF_SHIELD_CRYSTAL:Grandmaster's Unbreakable Ward
+T7_OFF_SHIELD_CRYSTAL@1:Grandmaster's Unbreakable Ward
+T7_OFF_SHIELD_CRYSTAL@2:Grandmaster's Unbreakable Ward
+T7_OFF_SHIELD_CRYSTAL@3:Grandmaster's Unbreakable Ward
+T7_OFF_SHIELD_CRYSTAL@4:Grandmaster's Unbreakable Ward
+T8_OFF_SHIELD_CRYSTAL:Elder's Unbreakable Ward
+T8_OFF_SHIELD_CRYSTAL@1:Elder's Unbreakable Ward
+T8_OFF_SHIELD_CRYSTAL@2:Elder's Unbreakable Ward
+T8_OFF_SHIELD_CRYSTAL@3:Elder's Unbreakable Ward
+T8_OFF_SHIELD_CRYSTAL@4:Elder's Unbreakable Ward

@@ -1,0 +1,200 @@
+T4_2H_BOW:Adept's Bow
+T4_2H_BOW@1:Adept's Bow
+T4_2H_BOW@2:Adept's Bow
+T4_2H_BOW@3:Adept's Bow
+T4_2H_BOW@4:Adept's Bow
+T5_2H_BOW:Expert's Bow
+T5_2H_BOW@1:Expert's Bow
+T5_2H_BOW@2:Expert's Bow
+T5_2H_BOW@3:Expert's Bow
+T5_2H_BOW@4:Expert's Bow
+T6_2H_BOW:Master's Bow
+T6_2H_BOW@1:Master's Bow
+T6_2H_BOW@2:Master's Bow
+T6_2H_BOW@3:Master's Bow
+T6_2H_BOW@4:Master's Bow
+T7_2H_BOW:Grandmaster's Bow
+T7_2H_BOW@1:Grandmaster's Bow
+T7_2H_BOW@2:Grandmaster's Bow
+T7_2H_BOW@3:Grandmaster's Bow
+T7_2H_BOW@4:Grandmaster's Bow
+T8_2H_BOW:Elder's Bow
+T8_2H_BOW@1:Elder's Bow
+T8_2H_BOW@2:Elder's Bow
+T8_2H_BOW@3:Elder's Bow
+T8_2H_BOW@4:Elder's Bow
+T4_2H_WARBOW:Adept's Warbow
+T4_2H_WARBOW@1:Adept's Warbow
+T4_2H_WARBOW@2:Adept's Warbow
+T4_2H_WARBOW@3:Adept's Warbow
+T4_2H_WARBOW@4:Adept's Warbow
+T5_2H_WARBOW:Expert's Warbow
+T5_2H_WARBOW@1:Expert's Warbow
+T5_2H_WARBOW@2:Expert's Warbow
+T5_2H_WARBOW@3:Expert's Warbow
+T5_2H_WARBOW@4:Expert's Warbow
+T6_2H_WARBOW:Master's Warbow
+T6_2H_WARBOW@1:Master's Warbow
+T6_2H_WARBOW@2:Master's Warbow
+T6_2H_WARBOW@3:Master's Warbow
+T6_2H_WARBOW@4:Master's Warbow
+T7_2H_WARBOW:Grandmaster's Warbow
+T7_2H_WARBOW@1:Grandmaster's Warbow
+T7_2H_WARBOW@2:Grandmaster's Warbow
+T7_2H_WARBOW@3:Grandmaster's Warbow
+T7_2H_WARBOW@4:Grandmaster's Warbow
+T8_2H_WARBOW:Elder's Warbow
+T8_2H_WARBOW@1:Elder's Warbow
+T8_2H_WARBOW@2:Elder's Warbow
+T8_2H_WARBOW@3:Elder's Warbow
+T8_2H_WARBOW@4:Elder's Warbow
+T4_2H_LONGBOW:Adept's Longbow
+T4_2H_LONGBOW@1:Adept's Longbow
+T4_2H_LONGBOW@2:Adept's Longbow
+T4_2H_LONGBOW@3:Adept's Longbow
+T4_2H_LONGBOW@4:Adept's Longbow
+T5_2H_LONGBOW:Expert's Longbow
+T5_2H_LONGBOW@1:Expert's Longbow
+T5_2H_LONGBOW@2:Expert's Longbow
+T5_2H_LONGBOW@3:Expert's Longbow
+T5_2H_LONGBOW@4:Expert's Longbow
+T6_2H_LONGBOW:Master's Longbow
+T6_2H_LONGBOW@1:Master's Longbow
+T6_2H_LONGBOW@2:Master's Longbow
+T6_2H_LONGBOW@3:Master's Longbow
+T6_2H_LONGBOW@4:Master's Longbow
+T7_2H_LONGBOW:Grandmaster's Longbow
+T7_2H_LONGBOW@1:Grandmaster's Longbow
+T7_2H_LONGBOW@2:Grandmaster's Longbow
+T7_2H_LONGBOW@3:Grandmaster's Longbow
+T7_2H_LONGBOW@4:Grandmaster's Longbow
+T8_2H_LONGBOW:Elder's Longbow
+T8_2H_LONGBOW@1:Elder's Longbow
+T8_2H_LONGBOW@2:Elder's Longbow
+T8_2H_LONGBOW@3:Elder's Longbow
+T8_2H_LONGBOW@4:Elder's Longbow
+T4_2H_LONGBOW_UNDEAD:Adept's Whispering Bow
+T4_2H_LONGBOW_UNDEAD@1:Adept's Whispering Bow
+T4_2H_LONGBOW_UNDEAD@2:Adept's Whispering Bow
+T4_2H_LONGBOW_UNDEAD@3:Adept's Whispering Bow
+T4_2H_LONGBOW_UNDEAD@4:Adept's Whispering Bow
+T5_2H_LONGBOW_UNDEAD:Expert's Whispering Bow
+T5_2H_LONGBOW_UNDEAD@1:Expert's Whispering Bow
+T5_2H_LONGBOW_UNDEAD@2:Expert's Whispering Bow
+T5_2H_LONGBOW_UNDEAD@3:Expert's Whispering Bow
+T5_2H_LONGBOW_UNDEAD@4:Expert's Whispering Bow
+T6_2H_LONGBOW_UNDEAD:Master's Whispering Bow
+T6_2H_LONGBOW_UNDEAD@1:Master's Whispering Bow
+T6_2H_LONGBOW_UNDEAD@2:Master's Whispering Bow
+T6_2H_LONGBOW_UNDEAD@3:Master's Whispering Bow
+T6_2H_LONGBOW_UNDEAD@4:Master's Whispering Bow
+T7_2H_LONGBOW_UNDEAD:Grandmaster's Whispering Bow
+T7_2H_LONGBOW_UNDEAD@1:Grandmaster's Whispering Bow
+T7_2H_LONGBOW_UNDEAD@2:Grandmaster's Whispering Bow
+T7_2H_LONGBOW_UNDEAD@3:Grandmaster's Whispering Bow
+T7_2H_LONGBOW_UNDEAD@4:Grandmaster's Whispering Bow
+T8_2H_LONGBOW_UNDEAD:Elder's Whispering Bow
+T8_2H_LONGBOW_UNDEAD@1:Elder's Whispering Bow
+T8_2H_LONGBOW_UNDEAD@2:Elder's Whispering Bow
+T8_2H_LONGBOW_UNDEAD@3:Elder's Whispering Bow
+T8_2H_LONGBOW_UNDEAD@4:Elder's Whispering Bow
+T4_2H_BOW_HELL:Adept's Wailing Bow
+T4_2H_BOW_HELL@1:Adept's Wailing Bow
+T4_2H_BOW_HELL@2:Adept's Wailing Bow
+T4_2H_BOW_HELL@3:Adept's Wailing Bow
+T4_2H_BOW_HELL@4:Adept's Wailing Bow
+T5_2H_BOW_HELL:Expert's Wailing Bow
+T5_2H_BOW_HELL@1:Expert's Wailing Bow
+T5_2H_BOW_HELL@2:Expert's Wailing Bow
+T5_2H_BOW_HELL@3:Expert's Wailing Bow
+T5_2H_BOW_HELL@4:Expert's Wailing Bow
+T6_2H_BOW_HELL:Master's Wailing Bow
+T6_2H_BOW_HELL@1:Master's Wailing Bow
+T6_2H_BOW_HELL@2:Master's Wailing Bow
+T6_2H_BOW_HELL@3:Master's Wailing Bow
+T6_2H_BOW_HELL@4:Master's Wailing Bow
+T7_2H_BOW_HELL:Grandmaster's Wailing Bow
+T7_2H_BOW_HELL@1:Grandmaster's Wailing Bow
+T7_2H_BOW_HELL@2:Grandmaster's Wailing Bow
+T7_2H_BOW_HELL@3:Grandmaster's Wailing Bow
+T7_2H_BOW_HELL@4:Grandmaster's Wailing Bow
+T8_2H_BOW_HELL:Elder's Wailing Bow
+T8_2H_BOW_HELL@1:Elder's Wailing Bow
+T8_2H_BOW_HELL@2:Elder's Wailing Bow
+T8_2H_BOW_HELL@3:Elder's Wailing Bow
+T8_2H_BOW_HELL@4:Elder's Wailing Bow
+T4_2H_BOW_KEEPER:Adept's Bow of Badon
+T4_2H_BOW_KEEPER@1:Adept's Bow of Badon
+T4_2H_BOW_KEEPER@2:Adept's Bow of Badon
+T4_2H_BOW_KEEPER@3:Adept's Bow of Badon
+T4_2H_BOW_KEEPER@4:Adept's Bow of Badon
+T5_2H_BOW_KEEPER:Expert's Bow of Badon
+T5_2H_BOW_KEEPER@1:Expert's Bow of Badon
+T5_2H_BOW_KEEPER@2:Expert's Bow of Badon
+T5_2H_BOW_KEEPER@3:Expert's Bow of Badon
+T5_2H_BOW_KEEPER@4:Expert's Bow of Badon
+T6_2H_BOW_KEEPER:Master's Bow of Badon
+T6_2H_BOW_KEEPER@1:Master's Bow of Badon
+T6_2H_BOW_KEEPER@2:Master's Bow of Badon
+T6_2H_BOW_KEEPER@3:Master's Bow of Badon
+T6_2H_BOW_KEEPER@4:Master's Bow of Badon
+T7_2H_BOW_KEEPER:Grandmaster's Bow of Badon
+T7_2H_BOW_KEEPER@1:Grandmaster's Bow of Badon
+T7_2H_BOW_KEEPER@2:Grandmaster's Bow of Badon
+T7_2H_BOW_KEEPER@3:Grandmaster's Bow of Badon
+T7_2H_BOW_KEEPER@4:Grandmaster's Bow of Badon
+T8_2H_BOW_KEEPER:Elder's Bow of Badon
+T8_2H_BOW_KEEPER@1:Elder's Bow of Badon
+T8_2H_BOW_KEEPER@2:Elder's Bow of Badon
+T8_2H_BOW_KEEPER@3:Elder's Bow of Badon
+T8_2H_BOW_KEEPER@4:Elder's Bow of Badon
+T4_2H_BOW_AVALON:Adept's Mistpiercer
+T4_2H_BOW_AVALON@1:Adept's Mistpiercer
+T4_2H_BOW_AVALON@2:Adept's Mistpiercer
+T4_2H_BOW_AVALON@3:Adept's Mistpiercer
+T4_2H_BOW_AVALON@4:Adept's Mistpiercer
+T5_2H_BOW_AVALON:Expert's Mistpiercer
+T5_2H_BOW_AVALON@1:Expert's Mistpiercer
+T5_2H_BOW_AVALON@2:Expert's Mistpiercer
+T5_2H_BOW_AVALON@3:Expert's Mistpiercer
+T5_2H_BOW_AVALON@4:Expert's Mistpiercer
+T6_2H_BOW_AVALON:Master's Mistpiercer
+T6_2H_BOW_AVALON@1:Master's Mistpiercer
+T6_2H_BOW_AVALON@2:Master's Mistpiercer
+T6_2H_BOW_AVALON@3:Master's Mistpiercer
+T6_2H_BOW_AVALON@4:Master's Mistpiercer
+T7_2H_BOW_AVALON:Grandmaster's Mistpiercer
+T7_2H_BOW_AVALON@1:Grandmaster's Mistpiercer
+T7_2H_BOW_AVALON@2:Grandmaster's Mistpiercer
+T7_2H_BOW_AVALON@3:Grandmaster's Mistpiercer
+T7_2H_BOW_AVALON@4:Grandmaster's Mistpiercer
+T8_2H_BOW_AVALON:Elder's Mistpiercer
+T8_2H_BOW_AVALON@1:Elder's Mistpiercer
+T8_2H_BOW_AVALON@2:Elder's Mistpiercer
+T8_2H_BOW_AVALON@3:Elder's Mistpiercer
+T8_2H_BOW_AVALON@4:Elder's Mistpiercer
+T4_2H_BOW_CRYSTAL:Adept's Skystrider Bow
+T4_2H_BOW_CRYSTAL@1:Adept's Skystrider Bow
+T4_2H_BOW_CRYSTAL@2:Adept's Skystrider Bow
+T4_2H_BOW_CRYSTAL@3:Adept's Skystrider Bow
+T4_2H_BOW_CRYSTAL@4:Adept's Skystrider Bow
+T5_2H_BOW_CRYSTAL:Expert's Skystrider Bow
+T5_2H_BOW_CRYSTAL@1:Expert's Skystrider Bow
+T5_2H_BOW_CRYSTAL@2:Expert's Skystrider Bow
+T5_2H_BOW_CRYSTAL@3:Expert's Skystrider Bow
+T5_2H_BOW_CRYSTAL@4:Expert's Skystrider Bow
+T6_2H_BOW_CRYSTAL:Master's Skystrider Bow
+T6_2H_BOW_CRYSTAL@1:Master's Skystrider Bow
+T6_2H_BOW_CRYSTAL@2:Master's Skystrider Bow
+T6_2H_BOW_CRYSTAL@3:Master's Skystrider Bow
+T6_2H_BOW_CRYSTAL@4:Master's Skystrider Bow
+T7_2H_BOW_CRYSTAL:Grandmaster's Skystrider Bow
+T7_2H_BOW_CRYSTAL@1:Grandmaster's Skystrider Bow
+T7_2H_BOW_CRYSTAL@2:Grandmaster's Skystrider Bow
+T7_2H_BOW_CRYSTAL@3:Grandmaster's Skystrider Bow
+T7_2H_BOW_CRYSTAL@4:Grandmaster's Skystrider Bow
+T8_2H_BOW_CRYSTAL:Elder's Skystrider Bow
+T8_2H_BOW_CRYSTAL@1:Elder's Skystrider Bow
+T8_2H_BOW_CRYSTAL@2:Elder's Skystrider Bow
+T8_2H_BOW_CRYSTAL@3:Elder's Skystrider Bow
+T8_2H_BOW_CRYSTAL@4:Elder's Skystrider Bow

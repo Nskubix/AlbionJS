@@ -1,0 +1,200 @@
+T4_MAIN_CURSEDSTAFF:Adept's Cursed Staff
+T4_MAIN_CURSEDSTAFF@1:Adept's Cursed Staff
+T4_MAIN_CURSEDSTAFF@2:Adept's Cursed Staff
+T4_MAIN_CURSEDSTAFF@3:Adept's Cursed Staff
+T4_MAIN_CURSEDSTAFF@4:Adept's Cursed Staff
+T5_MAIN_CURSEDSTAFF:Expert's Cursed Staff
+T5_MAIN_CURSEDSTAFF@1:Expert's Cursed Staff
+T5_MAIN_CURSEDSTAFF@2:Expert's Cursed Staff
+T5_MAIN_CURSEDSTAFF@3:Expert's Cursed Staff
+T5_MAIN_CURSEDSTAFF@4:Expert's Cursed Staff
+T6_MAIN_CURSEDSTAFF:Master's Cursed Staff
+T6_MAIN_CURSEDSTAFF@1:Master's Cursed Staff
+T6_MAIN_CURSEDSTAFF@2:Master's Cursed Staff
+T6_MAIN_CURSEDSTAFF@3:Master's Cursed Staff
+T6_MAIN_CURSEDSTAFF@4:Master's Cursed Staff
+T7_MAIN_CURSEDSTAFF:Grandmaster's Cursed Staff
+T7_MAIN_CURSEDSTAFF@1:Grandmaster's Cursed Staff
+T7_MAIN_CURSEDSTAFF@2:Grandmaster's Cursed Staff
+T7_MAIN_CURSEDSTAFF@3:Grandmaster's Cursed Staff
+T7_MAIN_CURSEDSTAFF@4:Grandmaster's Cursed Staff
+T8_MAIN_CURSEDSTAFF:Elder's Cursed Staff
+T8_MAIN_CURSEDSTAFF@1:Elder's Cursed Staff
+T8_MAIN_CURSEDSTAFF@2:Elder's Cursed Staff
+T8_MAIN_CURSEDSTAFF@3:Elder's Cursed Staff
+T8_MAIN_CURSEDSTAFF@4:Elder's Cursed Staff
+T4_2H_CURSEDSTAFF:Adept's Great Cursed Staff
+T4_2H_CURSEDSTAFF@1:Adept's Great Cursed Staff
+T4_2H_CURSEDSTAFF@2:Adept's Great Cursed Staff
+T4_2H_CURSEDSTAFF@3:Adept's Great Cursed Staff
+T4_2H_CURSEDSTAFF@4:Adept's Great Cursed Staff
+T5_2H_CURSEDSTAFF:Expert's Great Cursed Staff
+T5_2H_CURSEDSTAFF@1:Expert's Great Cursed Staff
+T5_2H_CURSEDSTAFF@2:Expert's Great Cursed Staff
+T5_2H_CURSEDSTAFF@3:Expert's Great Cursed Staff
+T5_2H_CURSEDSTAFF@4:Expert's Great Cursed Staff
+T6_2H_CURSEDSTAFF:Master's Great Cursed Staff
+T6_2H_CURSEDSTAFF@1:Master's Great Cursed Staff
+T6_2H_CURSEDSTAFF@2:Master's Great Cursed Staff
+T6_2H_CURSEDSTAFF@3:Master's Great Cursed Staff
+T6_2H_CURSEDSTAFF@4:Master's Great Cursed Staff
+T7_2H_CURSEDSTAFF:Grandmaster's Great Cursed Staff
+T7_2H_CURSEDSTAFF@1:Grandmaster's Great Cursed Staff
+T7_2H_CURSEDSTAFF@2:Grandmaster's Great Cursed Staff
+T7_2H_CURSEDSTAFF@3:Grandmaster's Great Cursed Staff
+T7_2H_CURSEDSTAFF@4:Grandmaster's Great Cursed Staff
+T8_2H_CURSEDSTAFF:Elder's Great Cursed Staff
+T8_2H_CURSEDSTAFF@1:Elder's Great Cursed Staff
+T8_2H_CURSEDSTAFF@2:Elder's Great Cursed Staff
+T8_2H_CURSEDSTAFF@3:Elder's Great Cursed Staff
+T8_2H_CURSEDSTAFF@4:Elder's Great Cursed Staff
+T4_2H_DEMONICSTAFF:Adept's Demonic Staff
+T4_2H_DEMONICSTAFF@1:Adept's Demonic Staff
+T4_2H_DEMONICSTAFF@2:Adept's Demonic Staff
+T4_2H_DEMONICSTAFF@3:Adept's Demonic Staff
+T4_2H_DEMONICSTAFF@4:Adept's Demonic Staff
+T5_2H_DEMONICSTAFF:Expert's Demonic Staff
+T5_2H_DEMONICSTAFF@1:Expert's Demonic Staff
+T5_2H_DEMONICSTAFF@2:Expert's Demonic Staff
+T5_2H_DEMONICSTAFF@3:Expert's Demonic Staff
+T5_2H_DEMONICSTAFF@4:Expert's Demonic Staff
+T6_2H_DEMONICSTAFF:Master's Demonic Staff
+T6_2H_DEMONICSTAFF@1:Master's Demonic Staff
+T6_2H_DEMONICSTAFF@2:Master's Demonic Staff
+T6_2H_DEMONICSTAFF@3:Master's Demonic Staff
+T6_2H_DEMONICSTAFF@4:Master's Demonic Staff
+T7_2H_DEMONICSTAFF:Grandmaster's Demonic Staff
+T7_2H_DEMONICSTAFF@1:Grandmaster's Demonic Staff
+T7_2H_DEMONICSTAFF@2:Grandmaster's Demonic Staff
+T7_2H_DEMONICSTAFF@3:Grandmaster's Demonic Staff
+T7_2H_DEMONICSTAFF@4:Grandmaster's Demonic Staff
+T8_2H_DEMONICSTAFF:Elder's Demonic Staff
+T8_2H_DEMONICSTAFF@1:Elder's Demonic Staff
+T8_2H_DEMONICSTAFF@2:Elder's Demonic Staff
+T8_2H_DEMONICSTAFF@3:Elder's Demonic Staff
+T8_2H_DEMONICSTAFF@4:Elder's Demonic Staff
+T4_MAIN_CURSEDSTAFF_UNDEAD:Adept's Lifecurse Staff
+T4_MAIN_CURSEDSTAFF_UNDEAD@1:Adept's Lifecurse Staff
+T4_MAIN_CURSEDSTAFF_UNDEAD@2:Adept's Lifecurse Staff
+T4_MAIN_CURSEDSTAFF_UNDEAD@3:Adept's Lifecurse Staff
+T4_MAIN_CURSEDSTAFF_UNDEAD@4:Adept's Lifecurse Staff
+T5_MAIN_CURSEDSTAFF_UNDEAD:Expert's Lifecurse Staff
+T5_MAIN_CURSEDSTAFF_UNDEAD@1:Expert's Lifecurse Staff
+T5_MAIN_CURSEDSTAFF_UNDEAD@2:Expert's Lifecurse Staff
+T5_MAIN_CURSEDSTAFF_UNDEAD@3:Expert's Lifecurse Staff
+T5_MAIN_CURSEDSTAFF_UNDEAD@4:Expert's Lifecurse Staff
+T6_MAIN_CURSEDSTAFF_UNDEAD:Master's Lifecurse Staff
+T6_MAIN_CURSEDSTAFF_UNDEAD@1:Master's Lifecurse Staff
+T6_MAIN_CURSEDSTAFF_UNDEAD@2:Master's Lifecurse Staff
+T6_MAIN_CURSEDSTAFF_UNDEAD@3:Master's Lifecurse Staff
+T6_MAIN_CURSEDSTAFF_UNDEAD@4:Master's Lifecurse Staff
+T7_MAIN_CURSEDSTAFF_UNDEAD:Grandmaster's Lifecurse Staff
+T7_MAIN_CURSEDSTAFF_UNDEAD@1:Grandmaster's Lifecurse Staff
+T7_MAIN_CURSEDSTAFF_UNDEAD@2:Grandmaster's Lifecurse Staff
+T7_MAIN_CURSEDSTAFF_UNDEAD@3:Grandmaster's Lifecurse Staff
+T7_MAIN_CURSEDSTAFF_UNDEAD@4:Grandmaster's Lifecurse Staff
+T8_MAIN_CURSEDSTAFF_UNDEAD:Elder's Lifecurse Staff
+T8_MAIN_CURSEDSTAFF_UNDEAD@1:Elder's Lifecurse Staff
+T8_MAIN_CURSEDSTAFF_UNDEAD@2:Elder's Lifecurse Staff
+T8_MAIN_CURSEDSTAFF_UNDEAD@3:Elder's Lifecurse Staff
+T8_MAIN_CURSEDSTAFF_UNDEAD@4:Elder's Lifecurse Staff
+T4_2H_SKULLORB_HELL:Adept's Cursed Skull
+T4_2H_SKULLORB_HELL@1:Adept's Cursed Skull
+T4_2H_SKULLORB_HELL@2:Adept's Cursed Skull
+T4_2H_SKULLORB_HELL@3:Adept's Cursed Skull
+T4_2H_SKULLORB_HELL@4:Adept's Cursed Skull
+T5_2H_SKULLORB_HELL:Expert's Cursed Skull
+T5_2H_SKULLORB_HELL@1:Expert's Cursed Skull
+T5_2H_SKULLORB_HELL@2:Expert's Cursed Skull
+T5_2H_SKULLORB_HELL@3:Expert's Cursed Skull
+T5_2H_SKULLORB_HELL@4:Expert's Cursed Skull
+T6_2H_SKULLORB_HELL:Master's Cursed Skull
+T6_2H_SKULLORB_HELL@1:Master's Cursed Skull
+T6_2H_SKULLORB_HELL@2:Master's Cursed Skull
+T6_2H_SKULLORB_HELL@3:Master's Cursed Skull
+T6_2H_SKULLORB_HELL@4:Master's Cursed Skull
+T7_2H_SKULLORB_HELL:Grandmaster's Cursed Skull
+T7_2H_SKULLORB_HELL@1:Grandmaster's Cursed Skull
+T7_2H_SKULLORB_HELL@2:Grandmaster's Cursed Skull
+T7_2H_SKULLORB_HELL@3:Grandmaster's Cursed Skull
+T7_2H_SKULLORB_HELL@4:Grandmaster's Cursed Skull
+T8_2H_SKULLORB_HELL:Elder's Cursed Skull
+T8_2H_SKULLORB_HELL@1:Elder's Cursed Skull
+T8_2H_SKULLORB_HELL@2:Elder's Cursed Skull
+T8_2H_SKULLORB_HELL@3:Elder's Cursed Skull
+T8_2H_SKULLORB_HELL@4:Elder's Cursed Skull
+T4_2H_CURSEDSTAFF_MORGANA:Adept's Damnation Staff
+T4_2H_CURSEDSTAFF_MORGANA@1:Adept's Damnation Staff
+T4_2H_CURSEDSTAFF_MORGANA@2:Adept's Damnation Staff
+T4_2H_CURSEDSTAFF_MORGANA@3:Adept's Damnation Staff
+T4_2H_CURSEDSTAFF_MORGANA@4:Adept's Damnation Staff
+T5_2H_CURSEDSTAFF_MORGANA:Expert's Damnation Staff
+T5_2H_CURSEDSTAFF_MORGANA@1:Expert's Damnation Staff
+T5_2H_CURSEDSTAFF_MORGANA@2:Expert's Damnation Staff
+T5_2H_CURSEDSTAFF_MORGANA@3:Expert's Damnation Staff
+T5_2H_CURSEDSTAFF_MORGANA@4:Expert's Damnation Staff
+T6_2H_CURSEDSTAFF_MORGANA:Master's Damnation Staff
+T6_2H_CURSEDSTAFF_MORGANA@1:Master's Damnation Staff
+T6_2H_CURSEDSTAFF_MORGANA@2:Master's Damnation Staff
+T6_2H_CURSEDSTAFF_MORGANA@3:Master's Damnation Staff
+T6_2H_CURSEDSTAFF_MORGANA@4:Master's Damnation Staff
+T7_2H_CURSEDSTAFF_MORGANA:Grandmaster's Damnation Staff
+T7_2H_CURSEDSTAFF_MORGANA@1:Grandmaster's Damnation Staff
+T7_2H_CURSEDSTAFF_MORGANA@2:Grandmaster's Damnation Staff
+T7_2H_CURSEDSTAFF_MORGANA@3:Grandmaster's Damnation Staff
+T7_2H_CURSEDSTAFF_MORGANA@4:Grandmaster's Damnation Staff
+T8_2H_CURSEDSTAFF_MORGANA:Elder's Damnation Staff
+T8_2H_CURSEDSTAFF_MORGANA@1:Elder's Damnation Staff
+T8_2H_CURSEDSTAFF_MORGANA@2:Elder's Damnation Staff
+T8_2H_CURSEDSTAFF_MORGANA@3:Elder's Damnation Staff
+T8_2H_CURSEDSTAFF_MORGANA@4:Elder's Damnation Staff
+T4_MAIN_CURSEDSTAFF_AVALON:Adept's Shadowcaller
+T4_MAIN_CURSEDSTAFF_AVALON@1:Adept's Shadowcaller
+T4_MAIN_CURSEDSTAFF_AVALON@2:Adept's Shadowcaller
+T4_MAIN_CURSEDSTAFF_AVALON@3:Adept's Shadowcaller
+T4_MAIN_CURSEDSTAFF_AVALON@4:Adept's Shadowcaller
+T5_MAIN_CURSEDSTAFF_AVALON:Expert's Shadowcaller
+T5_MAIN_CURSEDSTAFF_AVALON@1:Expert's Shadowcaller
+T5_MAIN_CURSEDSTAFF_AVALON@2:Expert's Shadowcaller
+T5_MAIN_CURSEDSTAFF_AVALON@3:Expert's Shadowcaller
+T5_MAIN_CURSEDSTAFF_AVALON@4:Expert's Shadowcaller
+T6_MAIN_CURSEDSTAFF_AVALON:Master's Shadowcaller
+T6_MAIN_CURSEDSTAFF_AVALON@1:Master's Shadowcaller
+T6_MAIN_CURSEDSTAFF_AVALON@2:Master's Shadowcaller
+T6_MAIN_CURSEDSTAFF_AVALON@3:Master's Shadowcaller
+T6_MAIN_CURSEDSTAFF_AVALON@4:Master's Shadowcaller
+T7_MAIN_CURSEDSTAFF_AVALON:Grandmaster's Shadowcaller
+T7_MAIN_CURSEDSTAFF_AVALON@1:Grandmaster's Shadowcaller
+T7_MAIN_CURSEDSTAFF_AVALON@2:Grandmaster's Shadowcaller
+T7_MAIN_CURSEDSTAFF_AVALON@3:Grandmaster's Shadowcaller
+T7_MAIN_CURSEDSTAFF_AVALON@4:Grandmaster's Shadowcaller
+T8_MAIN_CURSEDSTAFF_AVALON:Elder's Shadowcaller
+T8_MAIN_CURSEDSTAFF_AVALON@1:Elder's Shadowcaller
+T8_MAIN_CURSEDSTAFF_AVALON@2:Elder's Shadowcaller
+T8_MAIN_CURSEDSTAFF_AVALON@3:Elder's Shadowcaller
+T8_MAIN_CURSEDSTAFF_AVALON@4:Elder's Shadowcaller
+T4_MAIN_CURSEDSTAFF_CRYSTAL:Adept's Rotcaller Staff
+T4_MAIN_CURSEDSTAFF_CRYSTAL@1:Adept's Rotcaller Staff
+T4_MAIN_CURSEDSTAFF_CRYSTAL@2:Adept's Rotcaller Staff
+T4_MAIN_CURSEDSTAFF_CRYSTAL@3:Adept's Rotcaller Staff
+T4_MAIN_CURSEDSTAFF_CRYSTAL@4:Adept's Rotcaller Staff
+T5_MAIN_CURSEDSTAFF_CRYSTAL:Expert's Rotcaller Staff
+T5_MAIN_CURSEDSTAFF_CRYSTAL@1:Expert's Rotcaller Staff
+T5_MAIN_CURSEDSTAFF_CRYSTAL@2:Expert's Rotcaller Staff
+T5_MAIN_CURSEDSTAFF_CRYSTAL@3:Expert's Rotcaller Staff
+T5_MAIN_CURSEDSTAFF_CRYSTAL@4:Expert's Rotcaller Staff
+T6_MAIN_CURSEDSTAFF_CRYSTAL:Master's Rotcaller Staff
+T6_MAIN_CURSEDSTAFF_CRYSTAL@1:Master's Rotcaller Staff
+T6_MAIN_CURSEDSTAFF_CRYSTAL@2:Master's Rotcaller Staff
+T6_MAIN_CURSEDSTAFF_CRYSTAL@3:Master's Rotcaller Staff
+T6_MAIN_CURSEDSTAFF_CRYSTAL@4:Master's Rotcaller Staff
+T7_MAIN_CURSEDSTAFF_CRYSTAL:Grandmaster's Rotcaller Staff
+T7_MAIN_CURSEDSTAFF_CRYSTAL@1:Grandmaster's Rotcaller Staff
+T7_MAIN_CURSEDSTAFF_CRYSTAL@2:Grandmaster's Rotcaller Staff
+T7_MAIN_CURSEDSTAFF_CRYSTAL@3:Grandmaster's Rotcaller Staff
+T7_MAIN_CURSEDSTAFF_CRYSTAL@4:Grandmaster's Rotcaller Staff
+T8_MAIN_CURSEDSTAFF_CRYSTAL:Elder's Rotcaller Staff
+T8_MAIN_CURSEDSTAFF_CRYSTAL@1:Elder's Rotcaller Staff
+T8_MAIN_CURSEDSTAFF_CRYSTAL@2:Elder's Rotcaller Staff
+T8_MAIN_CURSEDSTAFF_CRYSTAL@3:Elder's Rotcaller Staff
+T8_MAIN_CURSEDSTAFF_CRYSTAL@4:Elder's Rotcaller Staff

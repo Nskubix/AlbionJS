@@ -1,0 +1,200 @@
+T4_2H_QUARTERSTAFF:Adept's Quarterstaff
+T4_2H_QUARTERSTAFF@1:Adept's Quarterstaff
+T4_2H_QUARTERSTAFF@2:Adept's Quarterstaff
+T4_2H_QUARTERSTAFF@3:Adept's Quarterstaff
+T4_2H_QUARTERSTAFF@4:Adept's Quarterstaff
+T5_2H_QUARTERSTAFF:Expert's Quarterstaff
+T5_2H_QUARTERSTAFF@1:Expert's Quarterstaff
+T5_2H_QUARTERSTAFF@2:Expert's Quarterstaff
+T5_2H_QUARTERSTAFF@3:Expert's Quarterstaff
+T5_2H_QUARTERSTAFF@4:Expert's Quarterstaff
+T6_2H_QUARTERSTAFF:Master's Quarterstaff
+T6_2H_QUARTERSTAFF@1:Master's Quarterstaff
+T6_2H_QUARTERSTAFF@2:Master's Quarterstaff
+T6_2H_QUARTERSTAFF@3:Master's Quarterstaff
+T6_2H_QUARTERSTAFF@4:Master's Quarterstaff
+T7_2H_QUARTERSTAFF:Grandmaster's Quarterstaff
+T7_2H_QUARTERSTAFF@1:Grandmaster's Quarterstaff
+T7_2H_QUARTERSTAFF@2:Grandmaster's Quarterstaff
+T7_2H_QUARTERSTAFF@3:Grandmaster's Quarterstaff
+T7_2H_QUARTERSTAFF@4:Grandmaster's Quarterstaff
+T8_2H_QUARTERSTAFF:Elder's Quarterstaff
+T8_2H_QUARTERSTAFF@1:Elder's Quarterstaff
+T8_2H_QUARTERSTAFF@2:Elder's Quarterstaff
+T8_2H_QUARTERSTAFF@3:Elder's Quarterstaff
+T8_2H_QUARTERSTAFF@4:Elder's Quarterstaff
+T4_2H_IRONCLADEDSTAFF:Adept's Iron-clad Staff
+T4_2H_IRONCLADEDSTAFF@1:Adept's Iron-clad Staff
+T4_2H_IRONCLADEDSTAFF@2:Adept's Iron-clad Staff
+T4_2H_IRONCLADEDSTAFF@3:Adept's Iron-clad Staff
+T4_2H_IRONCLADEDSTAFF@4:Adept's Iron-clad Staff
+T5_2H_IRONCLADEDSTAFF:Expert's Iron-clad Staff
+T5_2H_IRONCLADEDSTAFF@1:Expert's Iron-clad Staff
+T5_2H_IRONCLADEDSTAFF@2:Expert's Iron-clad Staff
+T5_2H_IRONCLADEDSTAFF@3:Expert's Iron-clad Staff
+T5_2H_IRONCLADEDSTAFF@4:Expert's Iron-clad Staff
+T6_2H_IRONCLADEDSTAFF:Master's Iron-clad Staff
+T6_2H_IRONCLADEDSTAFF@1:Master's Iron-clad Staff
+T6_2H_IRONCLADEDSTAFF@2:Master's Iron-clad Staff
+T6_2H_IRONCLADEDSTAFF@3:Master's Iron-clad Staff
+T6_2H_IRONCLADEDSTAFF@4:Master's Iron-clad Staff
+T7_2H_IRONCLADEDSTAFF:Grandmaster's Iron-clad Staff
+T7_2H_IRONCLADEDSTAFF@1:Grandmaster's Iron-clad Staff
+T7_2H_IRONCLADEDSTAFF@2:Grandmaster's Iron-clad Staff
+T7_2H_IRONCLADEDSTAFF@3:Grandmaster's Iron-clad Staff
+T7_2H_IRONCLADEDSTAFF@4:Grandmaster's Iron-clad Staff
+T8_2H_IRONCLADEDSTAFF:Elder's Iron-clad Staff
+T8_2H_IRONCLADEDSTAFF@1:Elder's Iron-clad Staff
+T8_2H_IRONCLADEDSTAFF@2:Elder's Iron-clad Staff
+T8_2H_IRONCLADEDSTAFF@3:Elder's Iron-clad Staff
+T8_2H_IRONCLADEDSTAFF@4:Elder's Iron-clad Staff
+T4_2H_DOUBLEBLADEDSTAFF:Adept's Double Bladed Staff
+T4_2H_DOUBLEBLADEDSTAFF@1:Adept's Double Bladed Staff
+T4_2H_DOUBLEBLADEDSTAFF@2:Adept's Double Bladed Staff
+T4_2H_DOUBLEBLADEDSTAFF@3:Adept's Double Bladed Staff
+T4_2H_DOUBLEBLADEDSTAFF@4:Adept's Double Bladed Staff
+T5_2H_DOUBLEBLADEDSTAFF:Expert's Double Bladed Staff
+T5_2H_DOUBLEBLADEDSTAFF@1:Expert's Double Bladed Staff
+T5_2H_DOUBLEBLADEDSTAFF@2:Expert's Double Bladed Staff
+T5_2H_DOUBLEBLADEDSTAFF@3:Expert's Double Bladed Staff
+T5_2H_DOUBLEBLADEDSTAFF@4:Expert's Double Bladed Staff
+T6_2H_DOUBLEBLADEDSTAFF:Master's Double Bladed Staff
+T6_2H_DOUBLEBLADEDSTAFF@1:Master's Double Bladed Staff
+T6_2H_DOUBLEBLADEDSTAFF@2:Master's Double Bladed Staff
+T6_2H_DOUBLEBLADEDSTAFF@3:Master's Double Bladed Staff
+T6_2H_DOUBLEBLADEDSTAFF@4:Master's Double Bladed Staff
+T7_2H_DOUBLEBLADEDSTAFF:Grandmaster's Double Bladed Staff
+T7_2H_DOUBLEBLADEDSTAFF@1:Grandmaster's Double Bladed Staff
+T7_2H_DOUBLEBLADEDSTAFF@2:Grandmaster's Double Bladed Staff
+T7_2H_DOUBLEBLADEDSTAFF@3:Grandmaster's Double Bladed Staff
+T7_2H_DOUBLEBLADEDSTAFF@4:Grandmaster's Double Bladed Staff
+T8_2H_DOUBLEBLADEDSTAFF:Elder's Double Bladed Staff
+T8_2H_DOUBLEBLADEDSTAFF@1:Elder's Double Bladed Staff
+T8_2H_DOUBLEBLADEDSTAFF@2:Elder's Double Bladed Staff
+T8_2H_DOUBLEBLADEDSTAFF@3:Elder's Double Bladed Staff
+T8_2H_DOUBLEBLADEDSTAFF@4:Elder's Double Bladed Staff
+T4_2H_COMBATSTAFF_MORGANA:Adept's Black Monk Stave
+T4_2H_COMBATSTAFF_MORGANA@1:Adept's Black Monk Stave
+T4_2H_COMBATSTAFF_MORGANA@2:Adept's Black Monk Stave
+T4_2H_COMBATSTAFF_MORGANA@3:Adept's Black Monk Stave
+T4_2H_COMBATSTAFF_MORGANA@4:Adept's Black Monk Stave
+T5_2H_COMBATSTAFF_MORGANA:Expert's Black Monk Stave
+T5_2H_COMBATSTAFF_MORGANA@1:Expert's Black Monk Stave
+T5_2H_COMBATSTAFF_MORGANA@2:Expert's Black Monk Stave
+T5_2H_COMBATSTAFF_MORGANA@3:Expert's Black Monk Stave
+T5_2H_COMBATSTAFF_MORGANA@4:Expert's Black Monk Stave
+T6_2H_COMBATSTAFF_MORGANA:Master's Black Monk Stave
+T6_2H_COMBATSTAFF_MORGANA@1:Master's Black Monk Stave
+T6_2H_COMBATSTAFF_MORGANA@2:Master's Black Monk Stave
+T6_2H_COMBATSTAFF_MORGANA@3:Master's Black Monk Stave
+T6_2H_COMBATSTAFF_MORGANA@4:Master's Black Monk Stave
+T7_2H_COMBATSTAFF_MORGANA:Grandmaster's Black Monk Stave
+T7_2H_COMBATSTAFF_MORGANA@1:Grandmaster's Black Monk Stave
+T7_2H_COMBATSTAFF_MORGANA@2:Grandmaster's Black Monk Stave
+T7_2H_COMBATSTAFF_MORGANA@3:Grandmaster's Black Monk Stave
+T7_2H_COMBATSTAFF_MORGANA@4:Grandmaster's Black Monk Stave
+T8_2H_COMBATSTAFF_MORGANA:Elder's Black Monk Stave
+T8_2H_COMBATSTAFF_MORGANA@1:Elder's Black Monk Stave
+T8_2H_COMBATSTAFF_MORGANA@2:Elder's Black Monk Stave
+T8_2H_COMBATSTAFF_MORGANA@3:Elder's Black Monk Stave
+T8_2H_COMBATSTAFF_MORGANA@4:Elder's Black Monk Stave
+T4_2H_TWINSCYTHE_HELL:Adept's Soulscythe
+T4_2H_TWINSCYTHE_HELL@1:Adept's Soulscythe
+T4_2H_TWINSCYTHE_HELL@2:Adept's Soulscythe
+T4_2H_TWINSCYTHE_HELL@3:Adept's Soulscythe
+T4_2H_TWINSCYTHE_HELL@4:Adept's Soulscythe
+T5_2H_TWINSCYTHE_HELL:Expert's Soulscythe
+T5_2H_TWINSCYTHE_HELL@1:Expert's Soulscythe
+T5_2H_TWINSCYTHE_HELL@2:Expert's Soulscythe
+T5_2H_TWINSCYTHE_HELL@3:Expert's Soulscythe
+T5_2H_TWINSCYTHE_HELL@4:Expert's Soulscythe
+T6_2H_TWINSCYTHE_HELL:Master's Soulscythe
+T6_2H_TWINSCYTHE_HELL@1:Master's Soulscythe
+T6_2H_TWINSCYTHE_HELL@2:Master's Soulscythe
+T6_2H_TWINSCYTHE_HELL@3:Master's Soulscythe
+T6_2H_TWINSCYTHE_HELL@4:Master's Soulscythe
+T7_2H_TWINSCYTHE_HELL:Grandmaster's Soulscythe
+T7_2H_TWINSCYTHE_HELL@1:Grandmaster's Soulscythe
+T7_2H_TWINSCYTHE_HELL@2:Grandmaster's Soulscythe
+T7_2H_TWINSCYTHE_HELL@3:Grandmaster's Soulscythe
+T7_2H_TWINSCYTHE_HELL@4:Grandmaster's Soulscythe
+T8_2H_TWINSCYTHE_HELL:Elder's Soulscythe
+T8_2H_TWINSCYTHE_HELL@1:Elder's Soulscythe
+T8_2H_TWINSCYTHE_HELL@2:Elder's Soulscythe
+T8_2H_TWINSCYTHE_HELL@3:Elder's Soulscythe
+T8_2H_TWINSCYTHE_HELL@4:Elder's Soulscythe
+T4_2H_ROCKSTAFF_KEEPER:Adept's Staff of Balance
+T4_2H_ROCKSTAFF_KEEPER@1:Adept's Staff of Balance
+T4_2H_ROCKSTAFF_KEEPER@2:Adept's Staff of Balance
+T4_2H_ROCKSTAFF_KEEPER@3:Adept's Staff of Balance
+T4_2H_ROCKSTAFF_KEEPER@4:Adept's Staff of Balance
+T5_2H_ROCKSTAFF_KEEPER:Expert's Staff of Balance
+T5_2H_ROCKSTAFF_KEEPER@1:Expert's Staff of Balance
+T5_2H_ROCKSTAFF_KEEPER@2:Expert's Staff of Balance
+T5_2H_ROCKSTAFF_KEEPER@3:Expert's Staff of Balance
+T5_2H_ROCKSTAFF_KEEPER@4:Expert's Staff of Balance
+T6_2H_ROCKSTAFF_KEEPER:Master's Staff of Balance
+T6_2H_ROCKSTAFF_KEEPER@1:Master's Staff of Balance
+T6_2H_ROCKSTAFF_KEEPER@2:Master's Staff of Balance
+T6_2H_ROCKSTAFF_KEEPER@3:Master's Staff of Balance
+T6_2H_ROCKSTAFF_KEEPER@4:Master's Staff of Balance
+T7_2H_ROCKSTAFF_KEEPER:Grandmaster's Staff of Balance
+T7_2H_ROCKSTAFF_KEEPER@1:Grandmaster's Staff of Balance
+T7_2H_ROCKSTAFF_KEEPER@2:Grandmaster's Staff of Balance
+T7_2H_ROCKSTAFF_KEEPER@3:Grandmaster's Staff of Balance
+T7_2H_ROCKSTAFF_KEEPER@4:Grandmaster's Staff of Balance
+T8_2H_ROCKSTAFF_KEEPER:Elder's Staff of Balance
+T8_2H_ROCKSTAFF_KEEPER@1:Elder's Staff of Balance
+T8_2H_ROCKSTAFF_KEEPER@2:Elder's Staff of Balance
+T8_2H_ROCKSTAFF_KEEPER@3:Elder's Staff of Balance
+T8_2H_ROCKSTAFF_KEEPER@4:Elder's Staff of Balance
+T4_2H_QUARTERSTAFF_AVALON:Adept's Grailseeker
+T4_2H_QUARTERSTAFF_AVALON@1:Adept's Grailseeker
+T4_2H_QUARTERSTAFF_AVALON@2:Adept's Grailseeker
+T4_2H_QUARTERSTAFF_AVALON@3:Adept's Grailseeker
+T4_2H_QUARTERSTAFF_AVALON@4:Adept's Grailseeker
+T5_2H_QUARTERSTAFF_AVALON:Expert's Grailseeker
+T5_2H_QUARTERSTAFF_AVALON@1:Expert's Grailseeker
+T5_2H_QUARTERSTAFF_AVALON@2:Expert's Grailseeker
+T5_2H_QUARTERSTAFF_AVALON@3:Expert's Grailseeker
+T5_2H_QUARTERSTAFF_AVALON@4:Expert's Grailseeker
+T6_2H_QUARTERSTAFF_AVALON:Master's Grailseeker
+T6_2H_QUARTERSTAFF_AVALON@1:Master's Grailseeker
+T6_2H_QUARTERSTAFF_AVALON@2:Master's Grailseeker
+T6_2H_QUARTERSTAFF_AVALON@3:Master's Grailseeker
+T6_2H_QUARTERSTAFF_AVALON@4:Master's Grailseeker
+T7_2H_QUARTERSTAFF_AVALON:Grandmaster's Grailseeker
+T7_2H_QUARTERSTAFF_AVALON@1:Grandmaster's Grailseeker
+T7_2H_QUARTERSTAFF_AVALON@2:Grandmaster's Grailseeker
+T7_2H_QUARTERSTAFF_AVALON@3:Grandmaster's Grailseeker
+T7_2H_QUARTERSTAFF_AVALON@4:Grandmaster's Grailseeker
+T8_2H_QUARTERSTAFF_AVALON:Elder's Grailseeker
+T8_2H_QUARTERSTAFF_AVALON@1:Elder's Grailseeker
+T8_2H_QUARTERSTAFF_AVALON@2:Elder's Grailseeker
+T8_2H_QUARTERSTAFF_AVALON@3:Elder's Grailseeker
+T8_2H_QUARTERSTAFF_AVALON@4:Elder's Grailseeker
+T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL:Adept's Phantom Twinblade
+T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1:Adept's Phantom Twinblade
+T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2:Adept's Phantom Twinblade
+T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3:Adept's Phantom Twinblade
+T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4:Adept's Phantom Twinblade
+T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL:Expert's Phantom Twinblade
+T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1:Expert's Phantom Twinblade
+T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2:Expert's Phantom Twinblade
+T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3:Expert's Phantom Twinblade
+T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4:Expert's Phantom Twinblade
+T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL:Master's Phantom Twinblade
+T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1:Master's Phantom Twinblade
+T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2:Master's Phantom Twinblade
+T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3:Master's Phantom Twinblade
+T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4:Master's Phantom Twinblade
+T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL:Grandmaster's Phantom Twinblade
+T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1:Grandmaster's Phantom Twinblade
+T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2:Grandmaster's Phantom Twinblade
+T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3:Grandmaster's Phantom Twinblade
+T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4:Grandmaster's Phantom Twinblade
+T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL:Elder's Phantom Twinblade
+T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1:Elder's Phantom Twinblade
+T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2:Elder's Phantom Twinblade
+T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3:Elder's Phantom Twinblade
+T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4:Elder's Phantom Twinblade

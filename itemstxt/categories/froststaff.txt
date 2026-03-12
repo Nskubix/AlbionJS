@@ -1,0 +1,200 @@
+T4_MAIN_FROSTSTAFF:Adept's Frost Staff
+T4_MAIN_FROSTSTAFF@1:Adept's Frost Staff
+T4_MAIN_FROSTSTAFF@2:Adept's Frost Staff
+T4_MAIN_FROSTSTAFF@3:Adept's Frost Staff
+T4_MAIN_FROSTSTAFF@4:Adept's Frost Staff
+T5_MAIN_FROSTSTAFF:Expert's Frost Staff
+T5_MAIN_FROSTSTAFF@1:Expert's Frost Staff
+T5_MAIN_FROSTSTAFF@2:Expert's Frost Staff
+T5_MAIN_FROSTSTAFF@3:Expert's Frost Staff
+T5_MAIN_FROSTSTAFF@4:Expert's Frost Staff
+T6_MAIN_FROSTSTAFF:Master's Frost Staff
+T6_MAIN_FROSTSTAFF@1:Master's Frost Staff
+T6_MAIN_FROSTSTAFF@2:Master's Frost Staff
+T6_MAIN_FROSTSTAFF@3:Master's Frost Staff
+T6_MAIN_FROSTSTAFF@4:Master's Frost Staff
+T7_MAIN_FROSTSTAFF:Grandmaster's Frost Staff
+T7_MAIN_FROSTSTAFF@1:Grandmaster's Frost Staff
+T7_MAIN_FROSTSTAFF@2:Grandmaster's Frost Staff
+T7_MAIN_FROSTSTAFF@3:Grandmaster's Frost Staff
+T7_MAIN_FROSTSTAFF@4:Grandmaster's Frost Staff
+T8_MAIN_FROSTSTAFF:Elder's Frost Staff
+T8_MAIN_FROSTSTAFF@1:Elder's Frost Staff
+T8_MAIN_FROSTSTAFF@2:Elder's Frost Staff
+T8_MAIN_FROSTSTAFF@3:Elder's Frost Staff
+T8_MAIN_FROSTSTAFF@4:Elder's Frost Staff
+T4_2H_FROSTSTAFF:Adept's Great Frost Staff
+T4_2H_FROSTSTAFF@1:Adept's Great Frost Staff
+T4_2H_FROSTSTAFF@2:Adept's Great Frost Staff
+T4_2H_FROSTSTAFF@3:Adept's Great Frost Staff
+T4_2H_FROSTSTAFF@4:Adept's Great Frost Staff
+T5_2H_FROSTSTAFF:Expert's Great Frost Staff
+T5_2H_FROSTSTAFF@1:Expert's Great Frost Staff
+T5_2H_FROSTSTAFF@2:Expert's Great Frost Staff
+T5_2H_FROSTSTAFF@3:Expert's Great Frost Staff
+T5_2H_FROSTSTAFF@4:Expert's Great Frost Staff
+T6_2H_FROSTSTAFF:Master's Great Frost Staff
+T6_2H_FROSTSTAFF@1:Master's Great Frost Staff
+T6_2H_FROSTSTAFF@2:Master's Great Frost Staff
+T6_2H_FROSTSTAFF@3:Master's Great Frost Staff
+T6_2H_FROSTSTAFF@4:Master's Great Frost Staff
+T7_2H_FROSTSTAFF:Grandmaster's Great Frost Staff
+T7_2H_FROSTSTAFF@1:Grandmaster's Great Frost Staff
+T7_2H_FROSTSTAFF@2:Grandmaster's Great Frost Staff
+T7_2H_FROSTSTAFF@3:Grandmaster's Great Frost Staff
+T7_2H_FROSTSTAFF@4:Grandmaster's Great Frost Staff
+T8_2H_FROSTSTAFF:Elder's Great Frost Staff
+T8_2H_FROSTSTAFF@1:Elder's Great Frost Staff
+T8_2H_FROSTSTAFF@2:Elder's Great Frost Staff
+T8_2H_FROSTSTAFF@3:Elder's Great Frost Staff
+T8_2H_FROSTSTAFF@4:Elder's Great Frost Staff
+T4_2H_GLACIALSTAFF:Adept's Glacial Staff
+T4_2H_GLACIALSTAFF@1:Adept's Glacial Staff
+T4_2H_GLACIALSTAFF@2:Adept's Glacial Staff
+T4_2H_GLACIALSTAFF@3:Adept's Glacial Staff
+T4_2H_GLACIALSTAFF@4:Adept's Glacial Staff
+T5_2H_GLACIALSTAFF:Expert's Glacial Staff
+T5_2H_GLACIALSTAFF@1:Expert's Glacial Staff
+T5_2H_GLACIALSTAFF@2:Expert's Glacial Staff
+T5_2H_GLACIALSTAFF@3:Expert's Glacial Staff
+T5_2H_GLACIALSTAFF@4:Expert's Glacial Staff
+T6_2H_GLACIALSTAFF:Master's Glacial Staff
+T6_2H_GLACIALSTAFF@1:Master's Glacial Staff
+T6_2H_GLACIALSTAFF@2:Master's Glacial Staff
+T6_2H_GLACIALSTAFF@3:Master's Glacial Staff
+T6_2H_GLACIALSTAFF@4:Master's Glacial Staff
+T7_2H_GLACIALSTAFF:Grandmaster's Glacial Staff
+T7_2H_GLACIALSTAFF@1:Grandmaster's Glacial Staff
+T7_2H_GLACIALSTAFF@2:Grandmaster's Glacial Staff
+T7_2H_GLACIALSTAFF@3:Grandmaster's Glacial Staff
+T7_2H_GLACIALSTAFF@4:Grandmaster's Glacial Staff
+T8_2H_GLACIALSTAFF:Elder's Glacial Staff
+T8_2H_GLACIALSTAFF@1:Elder's Glacial Staff
+T8_2H_GLACIALSTAFF@2:Elder's Glacial Staff
+T8_2H_GLACIALSTAFF@3:Elder's Glacial Staff
+T8_2H_GLACIALSTAFF@4:Elder's Glacial Staff
+T4_MAIN_FROSTSTAFF_KEEPER:Adept's Hoarfrost Staff
+T4_MAIN_FROSTSTAFF_KEEPER@1:Adept's Hoarfrost Staff
+T4_MAIN_FROSTSTAFF_KEEPER@2:Adept's Hoarfrost Staff
+T4_MAIN_FROSTSTAFF_KEEPER@3:Adept's Hoarfrost Staff
+T4_MAIN_FROSTSTAFF_KEEPER@4:Adept's Hoarfrost Staff
+T5_MAIN_FROSTSTAFF_KEEPER:Expert's Hoarfrost Staff
+T5_MAIN_FROSTSTAFF_KEEPER@1:Expert's Hoarfrost Staff
+T5_MAIN_FROSTSTAFF_KEEPER@2:Expert's Hoarfrost Staff
+T5_MAIN_FROSTSTAFF_KEEPER@3:Expert's Hoarfrost Staff
+T5_MAIN_FROSTSTAFF_KEEPER@4:Expert's Hoarfrost Staff
+T6_MAIN_FROSTSTAFF_KEEPER:Master's Hoarfrost Staff
+T6_MAIN_FROSTSTAFF_KEEPER@1:Master's Hoarfrost Staff
+T6_MAIN_FROSTSTAFF_KEEPER@2:Master's Hoarfrost Staff
+T6_MAIN_FROSTSTAFF_KEEPER@3:Master's Hoarfrost Staff
+T6_MAIN_FROSTSTAFF_KEEPER@4:Master's Hoarfrost Staff
+T7_MAIN_FROSTSTAFF_KEEPER:Grandmaster's Hoarfrost Staff
+T7_MAIN_FROSTSTAFF_KEEPER@1:Grandmaster's Hoarfrost Staff
+T7_MAIN_FROSTSTAFF_KEEPER@2:Grandmaster's Hoarfrost Staff
+T7_MAIN_FROSTSTAFF_KEEPER@3:Grandmaster's Hoarfrost Staff
+T7_MAIN_FROSTSTAFF_KEEPER@4:Grandmaster's Hoarfrost Staff
+T8_MAIN_FROSTSTAFF_KEEPER:Elder's Hoarfrost Staff
+T8_MAIN_FROSTSTAFF_KEEPER@1:Elder's Hoarfrost Staff
+T8_MAIN_FROSTSTAFF_KEEPER@2:Elder's Hoarfrost Staff
+T8_MAIN_FROSTSTAFF_KEEPER@3:Elder's Hoarfrost Staff
+T8_MAIN_FROSTSTAFF_KEEPER@4:Elder's Hoarfrost Staff
+T4_2H_ICEGAUNTLETS_HELL:Adept's Icicle Staff
+T4_2H_ICEGAUNTLETS_HELL@1:Adept's Icicle Staff
+T4_2H_ICEGAUNTLETS_HELL@2:Adept's Icicle Staff
+T4_2H_ICEGAUNTLETS_HELL@3:Adept's Icicle Staff
+T4_2H_ICEGAUNTLETS_HELL@4:Adept's Icicle Staff
+T5_2H_ICEGAUNTLETS_HELL:Expert's Icicle Staff
+T5_2H_ICEGAUNTLETS_HELL@1:Expert's Icicle Staff
+T5_2H_ICEGAUNTLETS_HELL@2:Expert's Icicle Staff
+T5_2H_ICEGAUNTLETS_HELL@3:Expert's Icicle Staff
+T5_2H_ICEGAUNTLETS_HELL@4:Expert's Icicle Staff
+T6_2H_ICEGAUNTLETS_HELL:Master's Icicle Staff
+T6_2H_ICEGAUNTLETS_HELL@1:Master's Icicle Staff
+T6_2H_ICEGAUNTLETS_HELL@2:Master's Icicle Staff
+T6_2H_ICEGAUNTLETS_HELL@3:Master's Icicle Staff
+T6_2H_ICEGAUNTLETS_HELL@4:Master's Icicle Staff
+T7_2H_ICEGAUNTLETS_HELL:Grandmaster's Icicle Staff
+T7_2H_ICEGAUNTLETS_HELL@1:Grandmaster's Icicle Staff
+T7_2H_ICEGAUNTLETS_HELL@2:Grandmaster's Icicle Staff
+T7_2H_ICEGAUNTLETS_HELL@3:Grandmaster's Icicle Staff
+T7_2H_ICEGAUNTLETS_HELL@4:Grandmaster's Icicle Staff
+T8_2H_ICEGAUNTLETS_HELL:Elder's Icicle Staff
+T8_2H_ICEGAUNTLETS_HELL@1:Elder's Icicle Staff
+T8_2H_ICEGAUNTLETS_HELL@2:Elder's Icicle Staff
+T8_2H_ICEGAUNTLETS_HELL@3:Elder's Icicle Staff
+T8_2H_ICEGAUNTLETS_HELL@4:Elder's Icicle Staff
+T4_2H_ICECRYSTAL_UNDEAD:Adept's Permafrost Prism
+T4_2H_ICECRYSTAL_UNDEAD@1:Adept's Permafrost Prism
+T4_2H_ICECRYSTAL_UNDEAD@2:Adept's Permafrost Prism
+T4_2H_ICECRYSTAL_UNDEAD@3:Adept's Permafrost Prism
+T4_2H_ICECRYSTAL_UNDEAD@4:Adept's Permafrost Prism
+T5_2H_ICECRYSTAL_UNDEAD:Expert's Permafrost Prism
+T5_2H_ICECRYSTAL_UNDEAD@1:Expert's Permafrost Prism
+T5_2H_ICECRYSTAL_UNDEAD@2:Expert's Permafrost Prism
+T5_2H_ICECRYSTAL_UNDEAD@3:Expert's Permafrost Prism
+T5_2H_ICECRYSTAL_UNDEAD@4:Expert's Permafrost Prism
+T6_2H_ICECRYSTAL_UNDEAD:Master's Permafrost Prism
+T6_2H_ICECRYSTAL_UNDEAD@1:Master's Permafrost Prism
+T6_2H_ICECRYSTAL_UNDEAD@2:Master's Permafrost Prism
+T6_2H_ICECRYSTAL_UNDEAD@3:Master's Permafrost Prism
+T6_2H_ICECRYSTAL_UNDEAD@4:Master's Permafrost Prism
+T7_2H_ICECRYSTAL_UNDEAD:Grandmaster's Permafrost Prism
+T7_2H_ICECRYSTAL_UNDEAD@1:Grandmaster's Permafrost Prism
+T7_2H_ICECRYSTAL_UNDEAD@2:Grandmaster's Permafrost Prism
+T7_2H_ICECRYSTAL_UNDEAD@3:Grandmaster's Permafrost Prism
+T7_2H_ICECRYSTAL_UNDEAD@4:Grandmaster's Permafrost Prism
+T8_2H_ICECRYSTAL_UNDEAD:Elder's Permafrost Prism
+T8_2H_ICECRYSTAL_UNDEAD@1:Elder's Permafrost Prism
+T8_2H_ICECRYSTAL_UNDEAD@2:Elder's Permafrost Prism
+T8_2H_ICECRYSTAL_UNDEAD@3:Elder's Permafrost Prism
+T8_2H_ICECRYSTAL_UNDEAD@4:Elder's Permafrost Prism
+T4_MAIN_FROSTSTAFF_AVALON:Adept's Chillhowl
+T4_MAIN_FROSTSTAFF_AVALON@1:Adept's Chillhowl
+T4_MAIN_FROSTSTAFF_AVALON@2:Adept's Chillhowl
+T4_MAIN_FROSTSTAFF_AVALON@3:Adept's Chillhowl
+T4_MAIN_FROSTSTAFF_AVALON@4:Adept's Chillhowl
+T5_MAIN_FROSTSTAFF_AVALON:Expert's Chillhowl
+T5_MAIN_FROSTSTAFF_AVALON@1:Expert's Chillhowl
+T5_MAIN_FROSTSTAFF_AVALON@2:Expert's Chillhowl
+T5_MAIN_FROSTSTAFF_AVALON@3:Expert's Chillhowl
+T5_MAIN_FROSTSTAFF_AVALON@4:Expert's Chillhowl
+T6_MAIN_FROSTSTAFF_AVALON:Master's Chillhowl
+T6_MAIN_FROSTSTAFF_AVALON@1:Master's Chillhowl
+T6_MAIN_FROSTSTAFF_AVALON@2:Master's Chillhowl
+T6_MAIN_FROSTSTAFF_AVALON@3:Master's Chillhowl
+T6_MAIN_FROSTSTAFF_AVALON@4:Master's Chillhowl
+T7_MAIN_FROSTSTAFF_AVALON:Grandmaster's Chillhowl
+T7_MAIN_FROSTSTAFF_AVALON@1:Grandmaster's Chillhowl
+T7_MAIN_FROSTSTAFF_AVALON@2:Grandmaster's Chillhowl
+T7_MAIN_FROSTSTAFF_AVALON@3:Grandmaster's Chillhowl
+T7_MAIN_FROSTSTAFF_AVALON@4:Grandmaster's Chillhowl
+T8_MAIN_FROSTSTAFF_AVALON:Elder's Chillhowl
+T8_MAIN_FROSTSTAFF_AVALON@1:Elder's Chillhowl
+T8_MAIN_FROSTSTAFF_AVALON@2:Elder's Chillhowl
+T8_MAIN_FROSTSTAFF_AVALON@3:Elder's Chillhowl
+T8_MAIN_FROSTSTAFF_AVALON@4:Elder's Chillhowl
+T4_2H_FROSTSTAFF_CRYSTAL:Adept's Arctic Staff
+T4_2H_FROSTSTAFF_CRYSTAL@1:Adept's Arctic Staff
+T4_2H_FROSTSTAFF_CRYSTAL@2:Adept's Arctic Staff
+T4_2H_FROSTSTAFF_CRYSTAL@3:Adept's Arctic Staff
+T4_2H_FROSTSTAFF_CRYSTAL@4:Adept's Arctic Staff
+T5_2H_FROSTSTAFF_CRYSTAL:Expert's Arctic Staff
+T5_2H_FROSTSTAFF_CRYSTAL@1:Expert's Arctic Staff
+T5_2H_FROSTSTAFF_CRYSTAL@2:Expert's Arctic Staff
+T5_2H_FROSTSTAFF_CRYSTAL@3:Expert's Arctic Staff
+T5_2H_FROSTSTAFF_CRYSTAL@4:Expert's Arctic Staff
+T6_2H_FROSTSTAFF_CRYSTAL:Master's Arctic Staff
+T6_2H_FROSTSTAFF_CRYSTAL@1:Master's Arctic Staff
+T6_2H_FROSTSTAFF_CRYSTAL@2:Master's Arctic Staff
+T6_2H_FROSTSTAFF_CRYSTAL@3:Master's Arctic Staff
+T6_2H_FROSTSTAFF_CRYSTAL@4:Master's Arctic Staff
+T7_2H_FROSTSTAFF_CRYSTAL:Grandmaster's Arctic Staff
+T7_2H_FROSTSTAFF_CRYSTAL@1:Grandmaster's Arctic Staff
+T7_2H_FROSTSTAFF_CRYSTAL@2:Grandmaster's Arctic Staff
+T7_2H_FROSTSTAFF_CRYSTAL@3:Grandmaster's Arctic Staff
+T7_2H_FROSTSTAFF_CRYSTAL@4:Grandmaster's Arctic Staff
+T8_2H_FROSTSTAFF_CRYSTAL:Elder's Arctic Staff
+T8_2H_FROSTSTAFF_CRYSTAL@1:Elder's Arctic Staff
+T8_2H_FROSTSTAFF_CRYSTAL@2:Elder's Arctic Staff
+T8_2H_FROSTSTAFF_CRYSTAL@3:Elder's Arctic Staff
+T8_2H_FROSTSTAFF_CRYSTAL@4:Elder's Arctic Staff

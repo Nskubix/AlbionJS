@@ -1,0 +1,200 @@
+T4_MAIN_NATURESTAFF:Adept's Nature Staff
+T4_MAIN_NATURESTAFF@1:Adept's Nature Staff
+T4_MAIN_NATURESTAFF@2:Adept's Nature Staff
+T4_MAIN_NATURESTAFF@3:Adept's Nature Staff
+T4_MAIN_NATURESTAFF@4:Adept's Nature Staff
+T5_MAIN_NATURESTAFF:Expert's Nature Staff
+T5_MAIN_NATURESTAFF@1:Expert's Nature Staff
+T5_MAIN_NATURESTAFF@2:Expert's Nature Staff
+T5_MAIN_NATURESTAFF@3:Expert's Nature Staff
+T5_MAIN_NATURESTAFF@4:Expert's Nature Staff
+T6_MAIN_NATURESTAFF:Master's Nature Staff
+T6_MAIN_NATURESTAFF@1:Master's Nature Staff
+T6_MAIN_NATURESTAFF@2:Master's Nature Staff
+T6_MAIN_NATURESTAFF@3:Master's Nature Staff
+T6_MAIN_NATURESTAFF@4:Master's Nature Staff
+T7_MAIN_NATURESTAFF:Grandmaster's Nature Staff
+T7_MAIN_NATURESTAFF@1:Grandmaster's Nature Staff
+T7_MAIN_NATURESTAFF@2:Grandmaster's Nature Staff
+T7_MAIN_NATURESTAFF@3:Grandmaster's Nature Staff
+T7_MAIN_NATURESTAFF@4:Grandmaster's Nature Staff
+T8_MAIN_NATURESTAFF:Elder's Nature Staff
+T8_MAIN_NATURESTAFF@1:Elder's Nature Staff
+T8_MAIN_NATURESTAFF@2:Elder's Nature Staff
+T8_MAIN_NATURESTAFF@3:Elder's Nature Staff
+T8_MAIN_NATURESTAFF@4:Elder's Nature Staff
+T4_2H_NATURESTAFF:Adept's Great Nature Staff
+T4_2H_NATURESTAFF@1:Adept's Great Nature Staff
+T4_2H_NATURESTAFF@2:Adept's Great Nature Staff
+T4_2H_NATURESTAFF@3:Adept's Great Nature Staff
+T4_2H_NATURESTAFF@4:Adept's Great Nature Staff
+T5_2H_NATURESTAFF:Expert's Great Nature Staff
+T5_2H_NATURESTAFF@1:Expert's Great Nature Staff
+T5_2H_NATURESTAFF@2:Expert's Great Nature Staff
+T5_2H_NATURESTAFF@3:Expert's Great Nature Staff
+T5_2H_NATURESTAFF@4:Expert's Great Nature Staff
+T6_2H_NATURESTAFF:Master's Great Nature Staff
+T6_2H_NATURESTAFF@1:Master's Great Nature Staff
+T6_2H_NATURESTAFF@2:Master's Great Nature Staff
+T6_2H_NATURESTAFF@3:Master's Great Nature Staff
+T6_2H_NATURESTAFF@4:Master's Great Nature Staff
+T7_2H_NATURESTAFF:Grandmaster's Great Nature Staff
+T7_2H_NATURESTAFF@1:Grandmaster's Great Nature Staff
+T7_2H_NATURESTAFF@2:Grandmaster's Great Nature Staff
+T7_2H_NATURESTAFF@3:Grandmaster's Great Nature Staff
+T7_2H_NATURESTAFF@4:Grandmaster's Great Nature Staff
+T8_2H_NATURESTAFF:Elder's Great Nature Staff
+T8_2H_NATURESTAFF@1:Elder's Great Nature Staff
+T8_2H_NATURESTAFF@2:Elder's Great Nature Staff
+T8_2H_NATURESTAFF@3:Elder's Great Nature Staff
+T8_2H_NATURESTAFF@4:Elder's Great Nature Staff
+T4_2H_WILDSTAFF:Adept's Wild Staff
+T4_2H_WILDSTAFF@1:Adept's Wild Staff
+T4_2H_WILDSTAFF@2:Adept's Wild Staff
+T4_2H_WILDSTAFF@3:Adept's Wild Staff
+T4_2H_WILDSTAFF@4:Adept's Wild Staff
+T5_2H_WILDSTAFF:Expert's Wild Staff
+T5_2H_WILDSTAFF@1:Expert's Wild Staff
+T5_2H_WILDSTAFF@2:Expert's Wild Staff
+T5_2H_WILDSTAFF@3:Expert's Wild Staff
+T5_2H_WILDSTAFF@4:Expert's Wild Staff
+T6_2H_WILDSTAFF:Master's Wild Staff
+T6_2H_WILDSTAFF@1:Master's Wild Staff
+T6_2H_WILDSTAFF@2:Master's Wild Staff
+T6_2H_WILDSTAFF@3:Master's Wild Staff
+T6_2H_WILDSTAFF@4:Master's Wild Staff
+T7_2H_WILDSTAFF:Grandmaster's Wild Staff
+T7_2H_WILDSTAFF@1:Grandmaster's Wild Staff
+T7_2H_WILDSTAFF@2:Grandmaster's Wild Staff
+T7_2H_WILDSTAFF@3:Grandmaster's Wild Staff
+T7_2H_WILDSTAFF@4:Grandmaster's Wild Staff
+T8_2H_WILDSTAFF:Elder's Wild Staff
+T8_2H_WILDSTAFF@1:Elder's Wild Staff
+T8_2H_WILDSTAFF@2:Elder's Wild Staff
+T8_2H_WILDSTAFF@3:Elder's Wild Staff
+T8_2H_WILDSTAFF@4:Elder's Wild Staff
+T4_MAIN_NATURESTAFF_KEEPER:Adept's Druidic Staff
+T4_MAIN_NATURESTAFF_KEEPER@1:Adept's Druidic Staff
+T4_MAIN_NATURESTAFF_KEEPER@2:Adept's Druidic Staff
+T4_MAIN_NATURESTAFF_KEEPER@3:Adept's Druidic Staff
+T4_MAIN_NATURESTAFF_KEEPER@4:Adept's Druidic Staff
+T5_MAIN_NATURESTAFF_KEEPER:Expert's Druidic Staff
+T5_MAIN_NATURESTAFF_KEEPER@1:Expert's Druidic Staff
+T5_MAIN_NATURESTAFF_KEEPER@2:Expert's Druidic Staff
+T5_MAIN_NATURESTAFF_KEEPER@3:Expert's Druidic Staff
+T5_MAIN_NATURESTAFF_KEEPER@4:Expert's Druidic Staff
+T6_MAIN_NATURESTAFF_KEEPER:Master's Druidic Staff
+T6_MAIN_NATURESTAFF_KEEPER@1:Master's Druidic Staff
+T6_MAIN_NATURESTAFF_KEEPER@2:Master's Druidic Staff
+T6_MAIN_NATURESTAFF_KEEPER@3:Master's Druidic Staff
+T6_MAIN_NATURESTAFF_KEEPER@4:Master's Druidic Staff
+T7_MAIN_NATURESTAFF_KEEPER:Grandmaster's Druidic Staff
+T7_MAIN_NATURESTAFF_KEEPER@1:Grandmaster's Druidic Staff
+T7_MAIN_NATURESTAFF_KEEPER@2:Grandmaster's Druidic Staff
+T7_MAIN_NATURESTAFF_KEEPER@3:Grandmaster's Druidic Staff
+T7_MAIN_NATURESTAFF_KEEPER@4:Grandmaster's Druidic Staff
+T8_MAIN_NATURESTAFF_KEEPER:Elder's Druidic Staff
+T8_MAIN_NATURESTAFF_KEEPER@1:Elder's Druidic Staff
+T8_MAIN_NATURESTAFF_KEEPER@2:Elder's Druidic Staff
+T8_MAIN_NATURESTAFF_KEEPER@3:Elder's Druidic Staff
+T8_MAIN_NATURESTAFF_KEEPER@4:Elder's Druidic Staff
+T4_2H_NATURESTAFF_HELL:Adept's Blight Staff
+T4_2H_NATURESTAFF_HELL@1:Adept's Blight Staff
+T4_2H_NATURESTAFF_HELL@2:Adept's Blight Staff
+T4_2H_NATURESTAFF_HELL@3:Adept's Blight Staff
+T4_2H_NATURESTAFF_HELL@4:Adept's Blight Staff
+T5_2H_NATURESTAFF_HELL:Expert's Blight Staff
+T5_2H_NATURESTAFF_HELL@1:Expert's Blight Staff
+T5_2H_NATURESTAFF_HELL@2:Expert's Blight Staff
+T5_2H_NATURESTAFF_HELL@3:Expert's Blight Staff
+T5_2H_NATURESTAFF_HELL@4:Expert's Blight Staff
+T6_2H_NATURESTAFF_HELL:Master's Blight Staff
+T6_2H_NATURESTAFF_HELL@1:Master's Blight Staff
+T6_2H_NATURESTAFF_HELL@2:Master's Blight Staff
+T6_2H_NATURESTAFF_HELL@3:Master's Blight Staff
+T6_2H_NATURESTAFF_HELL@4:Master's Blight Staff
+T7_2H_NATURESTAFF_HELL:Grandmaster's Blight Staff
+T7_2H_NATURESTAFF_HELL@1:Grandmaster's Blight Staff
+T7_2H_NATURESTAFF_HELL@2:Grandmaster's Blight Staff
+T7_2H_NATURESTAFF_HELL@3:Grandmaster's Blight Staff
+T7_2H_NATURESTAFF_HELL@4:Grandmaster's Blight Staff
+T8_2H_NATURESTAFF_HELL:Elder's Blight Staff
+T8_2H_NATURESTAFF_HELL@1:Elder's Blight Staff
+T8_2H_NATURESTAFF_HELL@2:Elder's Blight Staff
+T8_2H_NATURESTAFF_HELL@3:Elder's Blight Staff
+T8_2H_NATURESTAFF_HELL@4:Elder's Blight Staff
+T4_2H_NATURESTAFF_KEEPER:Adept's Rampant Staff
+T4_2H_NATURESTAFF_KEEPER@1:Adept's Rampant Staff
+T4_2H_NATURESTAFF_KEEPER@2:Adept's Rampant Staff
+T4_2H_NATURESTAFF_KEEPER@3:Adept's Rampant Staff
+T4_2H_NATURESTAFF_KEEPER@4:Adept's Rampant Staff
+T5_2H_NATURESTAFF_KEEPER:Expert's Rampant Staff
+T5_2H_NATURESTAFF_KEEPER@1:Expert's Rampant Staff
+T5_2H_NATURESTAFF_KEEPER@2:Expert's Rampant Staff
+T5_2H_NATURESTAFF_KEEPER@3:Expert's Rampant Staff
+T5_2H_NATURESTAFF_KEEPER@4:Expert's Rampant Staff
+T6_2H_NATURESTAFF_KEEPER:Master's Rampant Staff
+T6_2H_NATURESTAFF_KEEPER@1:Master's Rampant Staff
+T6_2H_NATURESTAFF_KEEPER@2:Master's Rampant Staff
+T6_2H_NATURESTAFF_KEEPER@3:Master's Rampant Staff
+T6_2H_NATURESTAFF_KEEPER@4:Master's Rampant Staff
+T7_2H_NATURESTAFF_KEEPER:Grandmaster's Rampant Staff
+T7_2H_NATURESTAFF_KEEPER@1:Grandmaster's Rampant Staff
+T7_2H_NATURESTAFF_KEEPER@2:Grandmaster's Rampant Staff
+T7_2H_NATURESTAFF_KEEPER@3:Grandmaster's Rampant Staff
+T7_2H_NATURESTAFF_KEEPER@4:Grandmaster's Rampant Staff
+T8_2H_NATURESTAFF_KEEPER:Elder's Rampant Staff
+T8_2H_NATURESTAFF_KEEPER@1:Elder's Rampant Staff
+T8_2H_NATURESTAFF_KEEPER@2:Elder's Rampant Staff
+T8_2H_NATURESTAFF_KEEPER@3:Elder's Rampant Staff
+T8_2H_NATURESTAFF_KEEPER@4:Elder's Rampant Staff
+T4_MAIN_NATURESTAFF_AVALON:Adept's Ironroot Staff
+T4_MAIN_NATURESTAFF_AVALON@1:Adept's Ironroot Staff
+T4_MAIN_NATURESTAFF_AVALON@2:Adept's Ironroot Staff
+T4_MAIN_NATURESTAFF_AVALON@3:Adept's Ironroot Staff
+T4_MAIN_NATURESTAFF_AVALON@4:Adept's Ironroot Staff
+T5_MAIN_NATURESTAFF_AVALON:Expert's Ironroot Staff
+T5_MAIN_NATURESTAFF_AVALON@1:Expert's Ironroot Staff
+T5_MAIN_NATURESTAFF_AVALON@2:Expert's Ironroot Staff
+T5_MAIN_NATURESTAFF_AVALON@3:Expert's Ironroot Staff
+T5_MAIN_NATURESTAFF_AVALON@4:Expert's Ironroot Staff
+T6_MAIN_NATURESTAFF_AVALON:Master's Ironroot Staff
+T6_MAIN_NATURESTAFF_AVALON@1:Master's Ironroot Staff
+T6_MAIN_NATURESTAFF_AVALON@2:Master's Ironroot Staff
+T6_MAIN_NATURESTAFF_AVALON@3:Master's Ironroot Staff
+T6_MAIN_NATURESTAFF_AVALON@4:Master's Ironroot Staff
+T7_MAIN_NATURESTAFF_AVALON:Grandmaster's Ironroot Staff
+T7_MAIN_NATURESTAFF_AVALON@1:Grandmaster's Ironroot Staff
+T7_MAIN_NATURESTAFF_AVALON@2:Grandmaster's Ironroot Staff
+T7_MAIN_NATURESTAFF_AVALON@3:Grandmaster's Ironroot Staff
+T7_MAIN_NATURESTAFF_AVALON@4:Grandmaster's Ironroot Staff
+T8_MAIN_NATURESTAFF_AVALON:Elder's Ironroot Staff
+T8_MAIN_NATURESTAFF_AVALON@1:Elder's Ironroot Staff
+T8_MAIN_NATURESTAFF_AVALON@2:Elder's Ironroot Staff
+T8_MAIN_NATURESTAFF_AVALON@3:Elder's Ironroot Staff
+T8_MAIN_NATURESTAFF_AVALON@4:Elder's Ironroot Staff
+T4_MAIN_NATURESTAFF_CRYSTAL:Adept's Forgebark Staff
+T4_MAIN_NATURESTAFF_CRYSTAL@1:Adept's Forgebark Staff
+T4_MAIN_NATURESTAFF_CRYSTAL@2:Adept's Forgebark Staff
+T4_MAIN_NATURESTAFF_CRYSTAL@3:Adept's Forgebark Staff
+T4_MAIN_NATURESTAFF_CRYSTAL@4:Adept's Forgebark Staff
+T5_MAIN_NATURESTAFF_CRYSTAL:Expert's Forgebark Staff
+T5_MAIN_NATURESTAFF_CRYSTAL@1:Expert's Forgebark Staff
+T5_MAIN_NATURESTAFF_CRYSTAL@2:Expert's Forgebark Staff
+T5_MAIN_NATURESTAFF_CRYSTAL@3:Expert's Forgebark Staff
+T5_MAIN_NATURESTAFF_CRYSTAL@4:Expert's Forgebark Staff
+T6_MAIN_NATURESTAFF_CRYSTAL:Master's Forgebark Staff
+T6_MAIN_NATURESTAFF_CRYSTAL@1:Master's Forgebark Staff
+T6_MAIN_NATURESTAFF_CRYSTAL@2:Master's Forgebark Staff
+T6_MAIN_NATURESTAFF_CRYSTAL@3:Master's Forgebark Staff
+T6_MAIN_NATURESTAFF_CRYSTAL@4:Master's Forgebark Staff
+T7_MAIN_NATURESTAFF_CRYSTAL:Grandmaster's Forgebark Staff
+T7_MAIN_NATURESTAFF_CRYSTAL@1:Grandmaster's Forgebark Staff
+T7_MAIN_NATURESTAFF_CRYSTAL@2:Grandmaster's Forgebark Staff
+T7_MAIN_NATURESTAFF_CRYSTAL@3:Grandmaster's Forgebark Staff
+T7_MAIN_NATURESTAFF_CRYSTAL@4:Grandmaster's Forgebark Staff
+T8_MAIN_NATURESTAFF_CRYSTAL:Elder's Forgebark Staff
+T8_MAIN_NATURESTAFF_CRYSTAL@1:Elder's Forgebark Staff
+T8_MAIN_NATURESTAFF_CRYSTAL@2:Elder's Forgebark Staff
+T8_MAIN_NATURESTAFF_CRYSTAL@3:Elder's Forgebark Staff
+T8_MAIN_NATURESTAFF_CRYSTAL@4:Elder's Forgebark Staff

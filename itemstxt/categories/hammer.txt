@@ -1,0 +1,200 @@
+T4_MAIN_HAMMER:Adept's Hammer
+T4_MAIN_HAMMER@1:Adept's Hammer
+T4_MAIN_HAMMER@2:Adept's Hammer
+T4_MAIN_HAMMER@3:Adept's Hammer
+T4_MAIN_HAMMER@4:Adept's Hammer
+T5_MAIN_HAMMER:Expert's Hammer
+T5_MAIN_HAMMER@1:Expert's Hammer
+T5_MAIN_HAMMER@2:Expert's Hammer
+T5_MAIN_HAMMER@3:Expert's Hammer
+T5_MAIN_HAMMER@4:Expert's Hammer
+T6_MAIN_HAMMER:Master's Hammer
+T6_MAIN_HAMMER@1:Master's Hammer
+T6_MAIN_HAMMER@2:Master's Hammer
+T6_MAIN_HAMMER@3:Master's Hammer
+T6_MAIN_HAMMER@4:Master's Hammer
+T7_MAIN_HAMMER:Grandmaster's Hammer
+T7_MAIN_HAMMER@1:Grandmaster's Hammer
+T7_MAIN_HAMMER@2:Grandmaster's Hammer
+T7_MAIN_HAMMER@3:Grandmaster's Hammer
+T7_MAIN_HAMMER@4:Grandmaster's Hammer
+T8_MAIN_HAMMER:Elder's Hammer
+T8_MAIN_HAMMER@1:Elder's Hammer
+T8_MAIN_HAMMER@2:Elder's Hammer
+T8_MAIN_HAMMER@3:Elder's Hammer
+T8_MAIN_HAMMER@4:Elder's Hammer
+T4_2H_POLEHAMMER:Adept's Polehammer
+T4_2H_POLEHAMMER@1:Adept's Polehammer
+T4_2H_POLEHAMMER@2:Adept's Polehammer
+T4_2H_POLEHAMMER@3:Adept's Polehammer
+T4_2H_POLEHAMMER@4:Adept's Polehammer
+T5_2H_POLEHAMMER:Expert's Polehammer
+T5_2H_POLEHAMMER@1:Expert's Polehammer
+T5_2H_POLEHAMMER@2:Expert's Polehammer
+T5_2H_POLEHAMMER@3:Expert's Polehammer
+T5_2H_POLEHAMMER@4:Expert's Polehammer
+T6_2H_POLEHAMMER:Master's Polehammer
+T6_2H_POLEHAMMER@1:Master's Polehammer
+T6_2H_POLEHAMMER@2:Master's Polehammer
+T6_2H_POLEHAMMER@3:Master's Polehammer
+T6_2H_POLEHAMMER@4:Master's Polehammer
+T7_2H_POLEHAMMER:Grandmaster's Polehammer
+T7_2H_POLEHAMMER@1:Grandmaster's Polehammer
+T7_2H_POLEHAMMER@2:Grandmaster's Polehammer
+T7_2H_POLEHAMMER@3:Grandmaster's Polehammer
+T7_2H_POLEHAMMER@4:Grandmaster's Polehammer
+T8_2H_POLEHAMMER:Elder's Polehammer
+T8_2H_POLEHAMMER@1:Elder's Polehammer
+T8_2H_POLEHAMMER@2:Elder's Polehammer
+T8_2H_POLEHAMMER@3:Elder's Polehammer
+T8_2H_POLEHAMMER@4:Elder's Polehammer
+T4_2H_HAMMER:Adept's Great Hammer
+T4_2H_HAMMER@1:Adept's Great Hammer
+T4_2H_HAMMER@2:Adept's Great Hammer
+T4_2H_HAMMER@3:Adept's Great Hammer
+T4_2H_HAMMER@4:Adept's Great Hammer
+T5_2H_HAMMER:Expert's Great Hammer
+T5_2H_HAMMER@1:Expert's Great Hammer
+T5_2H_HAMMER@2:Expert's Great Hammer
+T5_2H_HAMMER@3:Expert's Great Hammer
+T5_2H_HAMMER@4:Expert's Great Hammer
+T6_2H_HAMMER:Master's Great Hammer
+T6_2H_HAMMER@1:Master's Great Hammer
+T6_2H_HAMMER@2:Master's Great Hammer
+T6_2H_HAMMER@3:Master's Great Hammer
+T6_2H_HAMMER@4:Master's Great Hammer
+T7_2H_HAMMER:Grandmaster's Great Hammer
+T7_2H_HAMMER@1:Grandmaster's Great Hammer
+T7_2H_HAMMER@2:Grandmaster's Great Hammer
+T7_2H_HAMMER@3:Grandmaster's Great Hammer
+T7_2H_HAMMER@4:Grandmaster's Great Hammer
+T8_2H_HAMMER:Elder's Great Hammer
+T8_2H_HAMMER@1:Elder's Great Hammer
+T8_2H_HAMMER@2:Elder's Great Hammer
+T8_2H_HAMMER@3:Elder's Great Hammer
+T8_2H_HAMMER@4:Elder's Great Hammer
+T4_2H_HAMMER_UNDEAD:Adept's Tombhammer
+T4_2H_HAMMER_UNDEAD@1:Adept's Tombhammer
+T4_2H_HAMMER_UNDEAD@2:Adept's Tombhammer
+T4_2H_HAMMER_UNDEAD@3:Adept's Tombhammer
+T4_2H_HAMMER_UNDEAD@4:Adept's Tombhammer
+T5_2H_HAMMER_UNDEAD:Expert's Tombhammer
+T5_2H_HAMMER_UNDEAD@1:Expert's Tombhammer
+T5_2H_HAMMER_UNDEAD@2:Expert's Tombhammer
+T5_2H_HAMMER_UNDEAD@3:Expert's Tombhammer
+T5_2H_HAMMER_UNDEAD@4:Expert's Tombhammer
+T6_2H_HAMMER_UNDEAD:Master's Tombhammer
+T6_2H_HAMMER_UNDEAD@1:Master's Tombhammer
+T6_2H_HAMMER_UNDEAD@2:Master's Tombhammer
+T6_2H_HAMMER_UNDEAD@3:Master's Tombhammer
+T6_2H_HAMMER_UNDEAD@4:Master's Tombhammer
+T7_2H_HAMMER_UNDEAD:Grandmaster's Tombhammer
+T7_2H_HAMMER_UNDEAD@1:Grandmaster's Tombhammer
+T7_2H_HAMMER_UNDEAD@2:Grandmaster's Tombhammer
+T7_2H_HAMMER_UNDEAD@3:Grandmaster's Tombhammer
+T7_2H_HAMMER_UNDEAD@4:Grandmaster's Tombhammer
+T8_2H_HAMMER_UNDEAD:Elder's Tombhammer
+T8_2H_HAMMER_UNDEAD@1:Elder's Tombhammer
+T8_2H_HAMMER_UNDEAD@2:Elder's Tombhammer
+T8_2H_HAMMER_UNDEAD@3:Elder's Tombhammer
+T8_2H_HAMMER_UNDEAD@4:Elder's Tombhammer
+T4_2H_DUALHAMMER_HELL:Adept's Forge Hammers
+T4_2H_DUALHAMMER_HELL@1:Adept's Forge Hammers
+T4_2H_DUALHAMMER_HELL@2:Adept's Forge Hammers
+T4_2H_DUALHAMMER_HELL@3:Adept's Forge Hammers
+T4_2H_DUALHAMMER_HELL@4:Adept's Forge Hammers
+T5_2H_DUALHAMMER_HELL:Expert's Forge Hammers
+T5_2H_DUALHAMMER_HELL@1:Expert's Forge Hammers
+T5_2H_DUALHAMMER_HELL@2:Expert's Forge Hammers
+T5_2H_DUALHAMMER_HELL@3:Expert's Forge Hammers
+T5_2H_DUALHAMMER_HELL@4:Expert's Forge Hammers
+T6_2H_DUALHAMMER_HELL:Master's Forge Hammers
+T6_2H_DUALHAMMER_HELL@1:Master's Forge Hammers
+T6_2H_DUALHAMMER_HELL@2:Master's Forge Hammers
+T6_2H_DUALHAMMER_HELL@3:Master's Forge Hammers
+T6_2H_DUALHAMMER_HELL@4:Master's Forge Hammers
+T7_2H_DUALHAMMER_HELL:Grandmaster's Forge Hammers
+T7_2H_DUALHAMMER_HELL@1:Grandmaster's Forge Hammers
+T7_2H_DUALHAMMER_HELL@2:Grandmaster's Forge Hammers
+T7_2H_DUALHAMMER_HELL@3:Grandmaster's Forge Hammers
+T7_2H_DUALHAMMER_HELL@4:Grandmaster's Forge Hammers
+T8_2H_DUALHAMMER_HELL:Elder's Forge Hammers
+T8_2H_DUALHAMMER_HELL@1:Elder's Forge Hammers
+T8_2H_DUALHAMMER_HELL@2:Elder's Forge Hammers
+T8_2H_DUALHAMMER_HELL@3:Elder's Forge Hammers
+T8_2H_DUALHAMMER_HELL@4:Elder's Forge Hammers
+T4_2H_RAM_KEEPER:Adept's Grovekeeper
+T4_2H_RAM_KEEPER@1:Adept's Grovekeeper
+T4_2H_RAM_KEEPER@2:Adept's Grovekeeper
+T4_2H_RAM_KEEPER@3:Adept's Grovekeeper
+T4_2H_RAM_KEEPER@4:Adept's Grovekeeper
+T5_2H_RAM_KEEPER:Expert's Grovekeeper
+T5_2H_RAM_KEEPER@1:Expert's Grovekeeper
+T5_2H_RAM_KEEPER@2:Expert's Grovekeeper
+T5_2H_RAM_KEEPER@3:Expert's Grovekeeper
+T5_2H_RAM_KEEPER@4:Expert's Grovekeeper
+T6_2H_RAM_KEEPER:Master's Grovekeeper
+T6_2H_RAM_KEEPER@1:Master's Grovekeeper
+T6_2H_RAM_KEEPER@2:Master's Grovekeeper
+T6_2H_RAM_KEEPER@3:Master's Grovekeeper
+T6_2H_RAM_KEEPER@4:Master's Grovekeeper
+T7_2H_RAM_KEEPER:Grandmaster's Grovekeeper
+T7_2H_RAM_KEEPER@1:Grandmaster's Grovekeeper
+T7_2H_RAM_KEEPER@2:Grandmaster's Grovekeeper
+T7_2H_RAM_KEEPER@3:Grandmaster's Grovekeeper
+T7_2H_RAM_KEEPER@4:Grandmaster's Grovekeeper
+T8_2H_RAM_KEEPER:Elder's Grovekeeper
+T8_2H_RAM_KEEPER@1:Elder's Grovekeeper
+T8_2H_RAM_KEEPER@2:Elder's Grovekeeper
+T8_2H_RAM_KEEPER@3:Elder's Grovekeeper
+T8_2H_RAM_KEEPER@4:Elder's Grovekeeper
+T4_2H_HAMMER_AVALON:Adept's Hand of Justice
+T4_2H_HAMMER_AVALON@1:Adept's Hand of Justice
+T4_2H_HAMMER_AVALON@2:Adept's Hand of Justice
+T4_2H_HAMMER_AVALON@3:Adept's Hand of Justice
+T4_2H_HAMMER_AVALON@4:Adept's Hand of Justice
+T5_2H_HAMMER_AVALON:Expert's Hand of Justice
+T5_2H_HAMMER_AVALON@1:Expert's Hand of Justice
+T5_2H_HAMMER_AVALON@2:Expert's Hand of Justice
+T5_2H_HAMMER_AVALON@3:Expert's Hand of Justice
+T5_2H_HAMMER_AVALON@4:Expert's Hand of Justice
+T6_2H_HAMMER_AVALON:Master's Hand of Justice
+T6_2H_HAMMER_AVALON@1:Master's Hand of Justice
+T6_2H_HAMMER_AVALON@2:Master's Hand of Justice
+T6_2H_HAMMER_AVALON@3:Master's Hand of Justice
+T6_2H_HAMMER_AVALON@4:Master's Hand of Justice
+T7_2H_HAMMER_AVALON:Grandmaster's Hand of Justice
+T7_2H_HAMMER_AVALON@1:Grandmaster's Hand of Justice
+T7_2H_HAMMER_AVALON@2:Grandmaster's Hand of Justice
+T7_2H_HAMMER_AVALON@3:Grandmaster's Hand of Justice
+T7_2H_HAMMER_AVALON@4:Grandmaster's Hand of Justice
+T8_2H_HAMMER_AVALON:Elder's Hand of Justice
+T8_2H_HAMMER_AVALON@1:Elder's Hand of Justice
+T8_2H_HAMMER_AVALON@2:Elder's Hand of Justice
+T8_2H_HAMMER_AVALON@3:Elder's Hand of Justice
+T8_2H_HAMMER_AVALON@4:Elder's Hand of Justice
+T4_2H_HAMMER_CRYSTAL:Adept's Truebolt Hammer
+T4_2H_HAMMER_CRYSTAL@1:Adept's Truebolt Hammer
+T4_2H_HAMMER_CRYSTAL@2:Adept's Truebolt Hammer
+T4_2H_HAMMER_CRYSTAL@3:Adept's Truebolt Hammer
+T4_2H_HAMMER_CRYSTAL@4:Adept's Truebolt Hammer
+T5_2H_HAMMER_CRYSTAL:Expert's Truebolt Hammer
+T5_2H_HAMMER_CRYSTAL@1:Expert's Truebolt Hammer
+T5_2H_HAMMER_CRYSTAL@2:Expert's Truebolt Hammer
+T5_2H_HAMMER_CRYSTAL@3:Expert's Truebolt Hammer
+T5_2H_HAMMER_CRYSTAL@4:Expert's Truebolt Hammer
+T6_2H_HAMMER_CRYSTAL:Master's Truebolt Hammer
+T6_2H_HAMMER_CRYSTAL@1:Master's Truebolt Hammer
+T6_2H_HAMMER_CRYSTAL@2:Master's Truebolt Hammer
+T6_2H_HAMMER_CRYSTAL@3:Master's Truebolt Hammer
+T6_2H_HAMMER_CRYSTAL@4:Master's Truebolt Hammer
+T7_2H_HAMMER_CRYSTAL:Grandmaster's Truebolt Hammer
+T7_2H_HAMMER_CRYSTAL@1:Grandmaster's Truebolt Hammer
+T7_2H_HAMMER_CRYSTAL@2:Grandmaster's Truebolt Hammer
+T7_2H_HAMMER_CRYSTAL@3:Grandmaster's Truebolt Hammer
+T7_2H_HAMMER_CRYSTAL@4:Grandmaster's Truebolt Hammer
+T8_2H_HAMMER_CRYSTAL:Elder's Truebolt Hammer
+T8_2H_HAMMER_CRYSTAL@1:Elder's Truebolt Hammer
+T8_2H_HAMMER_CRYSTAL@2:Elder's Truebolt Hammer
+T8_2H_HAMMER_CRYSTAL@3:Elder's Truebolt Hammer
+T8_2H_HAMMER_CRYSTAL@4:Elder's Truebolt Hammer

@@ -1,0 +1,200 @@
+T4_MAIN_FIRESTAFF:Adept's Fire Staff
+T4_MAIN_FIRESTAFF@1:Adept's Fire Staff
+T4_MAIN_FIRESTAFF@2:Adept's Fire Staff
+T4_MAIN_FIRESTAFF@3:Adept's Fire Staff
+T4_MAIN_FIRESTAFF@4:Adept's Fire Staff
+T5_MAIN_FIRESTAFF:Expert's Fire Staff
+T5_MAIN_FIRESTAFF@1:Expert's Fire Staff
+T5_MAIN_FIRESTAFF@2:Expert's Fire Staff
+T5_MAIN_FIRESTAFF@3:Expert's Fire Staff
+T5_MAIN_FIRESTAFF@4:Expert's Fire Staff
+T6_MAIN_FIRESTAFF:Master's Fire Staff
+T6_MAIN_FIRESTAFF@1:Master's Fire Staff
+T6_MAIN_FIRESTAFF@2:Master's Fire Staff
+T6_MAIN_FIRESTAFF@3:Master's Fire Staff
+T6_MAIN_FIRESTAFF@4:Master's Fire Staff
+T7_MAIN_FIRESTAFF:Grandmaster's Fire Staff
+T7_MAIN_FIRESTAFF@1:Grandmaster's Fire Staff
+T7_MAIN_FIRESTAFF@2:Grandmaster's Fire Staff
+T7_MAIN_FIRESTAFF@3:Grandmaster's Fire Staff
+T7_MAIN_FIRESTAFF@4:Grandmaster's Fire Staff
+T8_MAIN_FIRESTAFF:Elder's Fire Staff
+T8_MAIN_FIRESTAFF@1:Elder's Fire Staff
+T8_MAIN_FIRESTAFF@2:Elder's Fire Staff
+T8_MAIN_FIRESTAFF@3:Elder's Fire Staff
+T8_MAIN_FIRESTAFF@4:Elder's Fire Staff
+T4_2H_FIRESTAFF:Adept's Great Fire Staff
+T4_2H_FIRESTAFF@1:Adept's Great Fire Staff
+T4_2H_FIRESTAFF@2:Adept's Great Fire Staff
+T4_2H_FIRESTAFF@3:Adept's Great Fire Staff
+T4_2H_FIRESTAFF@4:Adept's Great Fire Staff
+T5_2H_FIRESTAFF:Expert's Great Fire Staff
+T5_2H_FIRESTAFF@1:Expert's Great Fire Staff
+T5_2H_FIRESTAFF@2:Expert's Great Fire Staff
+T5_2H_FIRESTAFF@3:Expert's Great Fire Staff
+T5_2H_FIRESTAFF@4:Expert's Great Fire Staff
+T6_2H_FIRESTAFF:Master's Great Fire Staff
+T6_2H_FIRESTAFF@1:Master's Great Fire Staff
+T6_2H_FIRESTAFF@2:Master's Great Fire Staff
+T6_2H_FIRESTAFF@3:Master's Great Fire Staff
+T6_2H_FIRESTAFF@4:Master's Great Fire Staff
+T7_2H_FIRESTAFF:Grandmaster's Great Fire Staff
+T7_2H_FIRESTAFF@1:Grandmaster's Great Fire Staff
+T7_2H_FIRESTAFF@2:Grandmaster's Great Fire Staff
+T7_2H_FIRESTAFF@3:Grandmaster's Great Fire Staff
+T7_2H_FIRESTAFF@4:Grandmaster's Great Fire Staff
+T8_2H_FIRESTAFF:Vendetta's Wrath
+T8_2H_FIRESTAFF@1:Vendetta's Wrath
+T8_2H_FIRESTAFF@2:Vendetta's Wrath
+T8_2H_FIRESTAFF@3:Vendetta's Wrath
+T8_2H_FIRESTAFF@4:Vendetta's Wrath
+T4_2H_INFERNOSTAFF:Adept's Infernal Staff
+T4_2H_INFERNOSTAFF@1:Adept's Infernal Staff
+T4_2H_INFERNOSTAFF@2:Adept's Infernal Staff
+T4_2H_INFERNOSTAFF@3:Adept's Infernal Staff
+T4_2H_INFERNOSTAFF@4:Adept's Infernal Staff
+T5_2H_INFERNOSTAFF:Expert's Infernal Staff
+T5_2H_INFERNOSTAFF@1:Expert's Infernal Staff
+T5_2H_INFERNOSTAFF@2:Expert's Infernal Staff
+T5_2H_INFERNOSTAFF@3:Expert's Infernal Staff
+T5_2H_INFERNOSTAFF@4:Expert's Infernal Staff
+T6_2H_INFERNOSTAFF:Master's Infernal Staff
+T6_2H_INFERNOSTAFF@1:Master's Infernal Staff
+T6_2H_INFERNOSTAFF@2:Master's Infernal Staff
+T6_2H_INFERNOSTAFF@3:Master's Infernal Staff
+T6_2H_INFERNOSTAFF@4:Master's Infernal Staff
+T7_2H_INFERNOSTAFF:Grandmaster's Infernal Staff
+T7_2H_INFERNOSTAFF@1:Grandmaster's Infernal Staff
+T7_2H_INFERNOSTAFF@2:Grandmaster's Infernal Staff
+T7_2H_INFERNOSTAFF@3:Grandmaster's Infernal Staff
+T7_2H_INFERNOSTAFF@4:Grandmaster's Infernal Staff
+T8_2H_INFERNOSTAFF:Elder's Infernal Staff
+T8_2H_INFERNOSTAFF@1:Elder's Infernal Staff
+T8_2H_INFERNOSTAFF@2:Elder's Infernal Staff
+T8_2H_INFERNOSTAFF@3:Elder's Infernal Staff
+T8_2H_INFERNOSTAFF@4:Elder's Infernal Staff
+T4_MAIN_FIRESTAFF_KEEPER:Adept's Wildfire Staff
+T4_MAIN_FIRESTAFF_KEEPER@1:Adept's Wildfire Staff
+T4_MAIN_FIRESTAFF_KEEPER@2:Adept's Wildfire Staff
+T4_MAIN_FIRESTAFF_KEEPER@3:Adept's Wildfire Staff
+T4_MAIN_FIRESTAFF_KEEPER@4:Adept's Wildfire Staff
+T5_MAIN_FIRESTAFF_KEEPER:Expert's Wildfire Staff
+T5_MAIN_FIRESTAFF_KEEPER@1:Expert's Wildfire Staff
+T5_MAIN_FIRESTAFF_KEEPER@2:Expert's Wildfire Staff
+T5_MAIN_FIRESTAFF_KEEPER@3:Expert's Wildfire Staff
+T5_MAIN_FIRESTAFF_KEEPER@4:Expert's Wildfire Staff
+T6_MAIN_FIRESTAFF_KEEPER:Master's Wildfire Staff
+T6_MAIN_FIRESTAFF_KEEPER@1:Master's Wildfire Staff
+T6_MAIN_FIRESTAFF_KEEPER@2:Master's Wildfire Staff
+T6_MAIN_FIRESTAFF_KEEPER@3:Master's Wildfire Staff
+T6_MAIN_FIRESTAFF_KEEPER@4:Master's Wildfire Staff
+T7_MAIN_FIRESTAFF_KEEPER:Grandmaster's Wildfire Staff
+T7_MAIN_FIRESTAFF_KEEPER@1:Grandmaster's Wildfire Staff
+T7_MAIN_FIRESTAFF_KEEPER@2:Grandmaster's Wildfire Staff
+T7_MAIN_FIRESTAFF_KEEPER@3:Grandmaster's Wildfire Staff
+T7_MAIN_FIRESTAFF_KEEPER@4:Grandmaster's Wildfire Staff
+T8_MAIN_FIRESTAFF_KEEPER:Elder's Wildfire Staff
+T8_MAIN_FIRESTAFF_KEEPER@1:Elder's Wildfire Staff
+T8_MAIN_FIRESTAFF_KEEPER@2:Elder's Wildfire Staff
+T8_MAIN_FIRESTAFF_KEEPER@3:Elder's Wildfire Staff
+T8_MAIN_FIRESTAFF_KEEPER@4:Elder's Wildfire Staff
+T4_2H_FIRESTAFF_HELL:Adept's Brimstone Staff
+T4_2H_FIRESTAFF_HELL@1:Adept's Brimstone Staff
+T4_2H_FIRESTAFF_HELL@2:Adept's Brimstone Staff
+T4_2H_FIRESTAFF_HELL@3:Adept's Brimstone Staff
+T4_2H_FIRESTAFF_HELL@4:Adept's Brimstone Staff
+T5_2H_FIRESTAFF_HELL:Expert's Brimstone Staff
+T5_2H_FIRESTAFF_HELL@1:Expert's Brimstone Staff
+T5_2H_FIRESTAFF_HELL@2:Expert's Brimstone Staff
+T5_2H_FIRESTAFF_HELL@3:Expert's Brimstone Staff
+T5_2H_FIRESTAFF_HELL@4:Expert's Brimstone Staff
+T6_2H_FIRESTAFF_HELL:Master's Brimstone Staff
+T6_2H_FIRESTAFF_HELL@1:Master's Brimstone Staff
+T6_2H_FIRESTAFF_HELL@2:Master's Brimstone Staff
+T6_2H_FIRESTAFF_HELL@3:Master's Brimstone Staff
+T6_2H_FIRESTAFF_HELL@4:Master's Brimstone Staff
+T7_2H_FIRESTAFF_HELL:Grandmaster's Brimstone Staff
+T7_2H_FIRESTAFF_HELL@1:Grandmaster's Brimstone Staff
+T7_2H_FIRESTAFF_HELL@2:Grandmaster's Brimstone Staff
+T7_2H_FIRESTAFF_HELL@3:Grandmaster's Brimstone Staff
+T7_2H_FIRESTAFF_HELL@4:Grandmaster's Brimstone Staff
+T8_2H_FIRESTAFF_HELL:Elder's Brimstone Staff
+T8_2H_FIRESTAFF_HELL@1:Elder's Brimstone Staff
+T8_2H_FIRESTAFF_HELL@2:Elder's Brimstone Staff
+T8_2H_FIRESTAFF_HELL@3:Elder's Brimstone Staff
+T8_2H_FIRESTAFF_HELL@4:Elder's Brimstone Staff
+T4_2H_INFERNOSTAFF_MORGANA:Adept's Blazing Staff
+T4_2H_INFERNOSTAFF_MORGANA@1:Adept's Blazing Staff
+T4_2H_INFERNOSTAFF_MORGANA@2:Adept's Blazing Staff
+T4_2H_INFERNOSTAFF_MORGANA@3:Adept's Blazing Staff
+T4_2H_INFERNOSTAFF_MORGANA@4:Adept's Blazing Staff
+T5_2H_INFERNOSTAFF_MORGANA:Expert's Blazing Staff
+T5_2H_INFERNOSTAFF_MORGANA@1:Expert's Blazing Staff
+T5_2H_INFERNOSTAFF_MORGANA@2:Expert's Blazing Staff
+T5_2H_INFERNOSTAFF_MORGANA@3:Expert's Blazing Staff
+T5_2H_INFERNOSTAFF_MORGANA@4:Expert's Blazing Staff
+T6_2H_INFERNOSTAFF_MORGANA:Master's Blazing Staff
+T6_2H_INFERNOSTAFF_MORGANA@1:Master's Blazing Staff
+T6_2H_INFERNOSTAFF_MORGANA@2:Master's Blazing Staff
+T6_2H_INFERNOSTAFF_MORGANA@3:Master's Blazing Staff
+T6_2H_INFERNOSTAFF_MORGANA@4:Master's Blazing Staff
+T7_2H_INFERNOSTAFF_MORGANA:Grandmaster's Blazing Staff
+T7_2H_INFERNOSTAFF_MORGANA@1:Grandmaster's Blazing Staff
+T7_2H_INFERNOSTAFF_MORGANA@2:Grandmaster's Blazing Staff
+T7_2H_INFERNOSTAFF_MORGANA@3:Grandmaster's Blazing Staff
+T7_2H_INFERNOSTAFF_MORGANA@4:Grandmaster's Blazing Staff
+T8_2H_INFERNOSTAFF_MORGANA:Elder's Blazing Staff
+T8_2H_INFERNOSTAFF_MORGANA@1:Elder's Blazing Staff
+T8_2H_INFERNOSTAFF_MORGANA@2:Elder's Blazing Staff
+T8_2H_INFERNOSTAFF_MORGANA@3:Elder's Blazing Staff
+T8_2H_INFERNOSTAFF_MORGANA@4:Elder's Blazing Staff
+T4_2H_FIRE_RINGPAIR_AVALON:Adept's Dawnsong
+T4_2H_FIRE_RINGPAIR_AVALON@1:Adept's Dawnsong
+T4_2H_FIRE_RINGPAIR_AVALON@2:Adept's Dawnsong
+T4_2H_FIRE_RINGPAIR_AVALON@3:Adept's Dawnsong
+T4_2H_FIRE_RINGPAIR_AVALON@4:Adept's Dawnsong
+T5_2H_FIRE_RINGPAIR_AVALON:Expert's Dawnsong
+T5_2H_FIRE_RINGPAIR_AVALON@1:Expert's Dawnsong
+T5_2H_FIRE_RINGPAIR_AVALON@2:Expert's Dawnsong
+T5_2H_FIRE_RINGPAIR_AVALON@3:Expert's Dawnsong
+T5_2H_FIRE_RINGPAIR_AVALON@4:Expert's Dawnsong
+T6_2H_FIRE_RINGPAIR_AVALON:Master's Dawnsong
+T6_2H_FIRE_RINGPAIR_AVALON@1:Master's Dawnsong
+T6_2H_FIRE_RINGPAIR_AVALON@2:Master's Dawnsong
+T6_2H_FIRE_RINGPAIR_AVALON@3:Master's Dawnsong
+T6_2H_FIRE_RINGPAIR_AVALON@4:Master's Dawnsong
+T7_2H_FIRE_RINGPAIR_AVALON:Grandmaster's Dawnsong
+T7_2H_FIRE_RINGPAIR_AVALON@1:Grandmaster's Dawnsong
+T7_2H_FIRE_RINGPAIR_AVALON@2:Grandmaster's Dawnsong
+T7_2H_FIRE_RINGPAIR_AVALON@3:Grandmaster's Dawnsong
+T7_2H_FIRE_RINGPAIR_AVALON@4:Grandmaster's Dawnsong
+T8_2H_FIRE_RINGPAIR_AVALON:Elder's Dawnsong
+T8_2H_FIRE_RINGPAIR_AVALON@1:Elder's Dawnsong
+T8_2H_FIRE_RINGPAIR_AVALON@2:Elder's Dawnsong
+T8_2H_FIRE_RINGPAIR_AVALON@3:Elder's Dawnsong
+T8_2H_FIRE_RINGPAIR_AVALON@4:Elder's Dawnsong
+T4_MAIN_FIRESTAFF_CRYSTAL:Adept's Flamewalker Staff
+T4_MAIN_FIRESTAFF_CRYSTAL@1:Adept's Flamewalker Staff
+T4_MAIN_FIRESTAFF_CRYSTAL@2:Adept's Flamewalker Staff
+T4_MAIN_FIRESTAFF_CRYSTAL@3:Adept's Flamewalker Staff
+T4_MAIN_FIRESTAFF_CRYSTAL@4:Adept's Flamewalker Staff
+T5_MAIN_FIRESTAFF_CRYSTAL:Expert's Flamewalker Staff
+T5_MAIN_FIRESTAFF_CRYSTAL@1:Expert's Flamewalker Staff
+T5_MAIN_FIRESTAFF_CRYSTAL@2:Expert's Flamewalker Staff
+T5_MAIN_FIRESTAFF_CRYSTAL@3:Expert's Flamewalker Staff
+T5_MAIN_FIRESTAFF_CRYSTAL@4:Expert's Flamewalker Staff
+T6_MAIN_FIRESTAFF_CRYSTAL:Master's Flamewalker Staff
+T6_MAIN_FIRESTAFF_CRYSTAL@1:Master's Flamewalker Staff
+T6_MAIN_FIRESTAFF_CRYSTAL@2:Master's Flamewalker Staff
+T6_MAIN_FIRESTAFF_CRYSTAL@3:Master's Flamewalker Staff
+T6_MAIN_FIRESTAFF_CRYSTAL@4:Master's Flamewalker Staff
+T7_MAIN_FIRESTAFF_CRYSTAL:Grandmaster's Flamewalker Staff
+T7_MAIN_FIRESTAFF_CRYSTAL@1:Grandmaster's Flamewalker Staff
+T7_MAIN_FIRESTAFF_CRYSTAL@2:Grandmaster's Flamewalker Staff
+T7_MAIN_FIRESTAFF_CRYSTAL@3:Grandmaster's Flamewalker Staff
+T7_MAIN_FIRESTAFF_CRYSTAL@4:Grandmaster's Flamewalker Staff
+T8_MAIN_FIRESTAFF_CRYSTAL:Elder's Flamewalker Staff
+T8_MAIN_FIRESTAFF_CRYSTAL@1:Elder's Flamewalker Staff
+T8_MAIN_FIRESTAFF_CRYSTAL@2:Elder's Flamewalker Staff
+T8_MAIN_FIRESTAFF_CRYSTAL@3:Elder's Flamewalker Staff
+T8_MAIN_FIRESTAFF_CRYSTAL@4:Elder's Flamewalker Staff

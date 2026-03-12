@@ -1,0 +1,220 @@
+T4_MAIN_DAGGER:Adept's Dagger
+T4_MAIN_DAGGER@1:Adept's Dagger
+T4_MAIN_DAGGER@2:Adept's Dagger
+T4_MAIN_DAGGER@3:Adept's Dagger
+T4_MAIN_DAGGER@4:Adept's Dagger
+T5_MAIN_DAGGER:Expert's Dagger
+T5_MAIN_DAGGER@1:Expert's Dagger
+T5_MAIN_DAGGER@2:Expert's Dagger
+T5_MAIN_DAGGER@3:Expert's Dagger
+T5_MAIN_DAGGER@4:Expert's Dagger
+T6_MAIN_DAGGER:Master's Dagger
+T6_MAIN_DAGGER@1:Master's Dagger
+T6_MAIN_DAGGER@2:Master's Dagger
+T6_MAIN_DAGGER@3:Master's Dagger
+T6_MAIN_DAGGER@4:Master's Dagger
+T7_MAIN_DAGGER:Grandmaster's Dagger
+T7_MAIN_DAGGER@1:Grandmaster's Dagger
+T7_MAIN_DAGGER@2:Grandmaster's Dagger
+T7_MAIN_DAGGER@3:Grandmaster's Dagger
+T7_MAIN_DAGGER@4:Grandmaster's Dagger
+T8_MAIN_DAGGER:Elder's Dagger
+T8_MAIN_DAGGER@1:Elder's Dagger
+T8_MAIN_DAGGER@2:Elder's Dagger
+T8_MAIN_DAGGER@3:Elder's Dagger
+T8_MAIN_DAGGER@4:Elder's Dagger
+T4_2H_DAGGERPAIR:Adept's Dagger Pair
+T4_2H_DAGGERPAIR@1:Adept's Dagger Pair
+T4_2H_DAGGERPAIR@2:Adept's Dagger Pair
+T4_2H_DAGGERPAIR@3:Adept's Dagger Pair
+T4_2H_DAGGERPAIR@4:Adept's Dagger Pair
+T5_2H_DAGGERPAIR:Expert's Dagger Pair
+T5_2H_DAGGERPAIR@1:Expert's Dagger Pair
+T5_2H_DAGGERPAIR@2:Expert's Dagger Pair
+T5_2H_DAGGERPAIR@3:Expert's Dagger Pair
+T5_2H_DAGGERPAIR@4:Expert's Dagger Pair
+T6_2H_DAGGERPAIR:Master's Dagger Pair
+T6_2H_DAGGERPAIR@1:Master's Dagger Pair
+T6_2H_DAGGERPAIR@2:Master's Dagger Pair
+T6_2H_DAGGERPAIR@3:Master's Dagger Pair
+T6_2H_DAGGERPAIR@4:Master's Dagger Pair
+T7_2H_DAGGERPAIR:Grandmaster's Dagger Pair
+T7_2H_DAGGERPAIR@1:Grandmaster's Dagger Pair
+T7_2H_DAGGERPAIR@2:Grandmaster's Dagger Pair
+T7_2H_DAGGERPAIR@3:Grandmaster's Dagger Pair
+T7_2H_DAGGERPAIR@4:Grandmaster's Dagger Pair
+T8_2H_DAGGERPAIR:Elder's Dagger Pair
+T8_2H_DAGGERPAIR@1:Elder's Dagger Pair
+T8_2H_DAGGERPAIR@2:Elder's Dagger Pair
+T8_2H_DAGGERPAIR@3:Elder's Dagger Pair
+T8_2H_DAGGERPAIR@4:Elder's Dagger Pair
+T4_2H_CLAWPAIR:Adept's Claws
+T4_2H_CLAWPAIR@1:Adept's Claws
+T4_2H_CLAWPAIR@2:Adept's Claws
+T4_2H_CLAWPAIR@3:Adept's Claws
+T4_2H_CLAWPAIR@4:Adept's Claws
+T5_2H_CLAWPAIR:Expert's Claws
+T5_2H_CLAWPAIR@1:Expert's Claws
+T5_2H_CLAWPAIR@2:Expert's Claws
+T5_2H_CLAWPAIR@3:Expert's Claws
+T5_2H_CLAWPAIR@4:Expert's Claws
+T6_2H_CLAWPAIR:Master's Claws
+T6_2H_CLAWPAIR@1:Master's Claws
+T6_2H_CLAWPAIR@2:Master's Claws
+T6_2H_CLAWPAIR@3:Master's Claws
+T6_2H_CLAWPAIR@4:Master's Claws
+T7_2H_CLAWPAIR:Grandmaster's Claws
+T7_2H_CLAWPAIR@1:Grandmaster's Claws
+T7_2H_CLAWPAIR@2:Grandmaster's Claws
+T7_2H_CLAWPAIR@3:Grandmaster's Claws
+T7_2H_CLAWPAIR@4:Grandmaster's Claws
+T8_2H_CLAWPAIR:Elder's Claws
+T8_2H_CLAWPAIR@1:Elder's Claws
+T8_2H_CLAWPAIR@2:Elder's Claws
+T8_2H_CLAWPAIR@3:Elder's Claws
+T8_2H_CLAWPAIR@4:Elder's Claws
+T4_MAIN_RAPIER_MORGANA:Adept's Bloodletter
+T4_MAIN_RAPIER_MORGANA@1:Adept's Bloodletter
+T4_MAIN_RAPIER_MORGANA@2:Adept's Bloodletter
+T4_MAIN_RAPIER_MORGANA@3:Adept's Bloodletter
+T4_MAIN_RAPIER_MORGANA@4:Adept's Bloodletter
+T5_MAIN_RAPIER_MORGANA:Expert's Bloodletter
+T5_MAIN_RAPIER_MORGANA@1:Expert's Bloodletter
+T5_MAIN_RAPIER_MORGANA@2:Expert's Bloodletter
+T5_MAIN_RAPIER_MORGANA@3:Expert's Bloodletter
+T5_MAIN_RAPIER_MORGANA@4:Expert's Bloodletter
+T6_MAIN_RAPIER_MORGANA:Master's Bloodletter
+T6_MAIN_RAPIER_MORGANA@1:Master's Bloodletter
+T6_MAIN_RAPIER_MORGANA@2:Master's Bloodletter
+T6_MAIN_RAPIER_MORGANA@3:Master's Bloodletter
+T6_MAIN_RAPIER_MORGANA@4:Master's Bloodletter
+T7_MAIN_RAPIER_MORGANA:Grandmaster's Bloodletter
+T7_MAIN_RAPIER_MORGANA@1:Grandmaster's Bloodletter
+T7_MAIN_RAPIER_MORGANA@2:Grandmaster's Bloodletter
+T7_MAIN_RAPIER_MORGANA@3:Grandmaster's Bloodletter
+T7_MAIN_RAPIER_MORGANA@4:Grandmaster's Bloodletter
+T8_MAIN_RAPIER_MORGANA:Elder's Bloodletter
+T8_MAIN_RAPIER_MORGANA@1:Elder's Bloodletter
+T8_MAIN_RAPIER_MORGANA@2:Elder's Bloodletter
+T8_MAIN_RAPIER_MORGANA@3:Elder's Bloodletter
+T8_MAIN_RAPIER_MORGANA@4:Elder's Bloodletter
+T4_MAIN_DAGGER_HELL:Adept's Demonfang
+T4_MAIN_DAGGER_HELL@1:Adept's Demonfang
+T4_MAIN_DAGGER_HELL@2:Adept's Demonfang
+T4_MAIN_DAGGER_HELL@3:Adept's Demonfang
+T4_MAIN_DAGGER_HELL@4:Adept's Demonfang
+T5_MAIN_DAGGER_HELL:Expert's Demonfang
+T5_MAIN_DAGGER_HELL@1:Expert's Demonfang
+T5_MAIN_DAGGER_HELL@2:Expert's Demonfang
+T5_MAIN_DAGGER_HELL@3:Expert's Demonfang
+T5_MAIN_DAGGER_HELL@4:Expert's Demonfang
+T6_MAIN_DAGGER_HELL:Master's Demonfang
+T6_MAIN_DAGGER_HELL@1:Master's Demonfang
+T6_MAIN_DAGGER_HELL@2:Master's Demonfang
+T6_MAIN_DAGGER_HELL@3:Master's Demonfang
+T6_MAIN_DAGGER_HELL@4:Master's Demonfang
+T7_MAIN_DAGGER_HELL:Grandmaster's Demonfang
+T7_MAIN_DAGGER_HELL@1:Grandmaster's Demonfang
+T7_MAIN_DAGGER_HELL@2:Grandmaster's Demonfang
+T7_MAIN_DAGGER_HELL@3:Grandmaster's Demonfang
+T7_MAIN_DAGGER_HELL@4:Grandmaster's Demonfang
+T8_MAIN_DAGGER_HELL:Elder's Demonfang
+T8_MAIN_DAGGER_HELL@1:Elder's Demonfang
+T8_MAIN_DAGGER_HELL@2:Elder's Demonfang
+T8_MAIN_DAGGER_HELL@3:Elder's Demonfang
+T8_MAIN_DAGGER_HELL@4:Elder's Demonfang
+T4_2H_IRONGAUNTLETS_HELL:Adept's Black Hands
+T4_2H_IRONGAUNTLETS_HELL@1:Adept's Black Hands
+T4_2H_IRONGAUNTLETS_HELL@2:Adept's Black Hands
+T4_2H_IRONGAUNTLETS_HELL@3:Adept's Black Hands
+T5_2H_IRONGAUNTLETS_HELL:Expert's Black Hands
+T5_2H_IRONGAUNTLETS_HELL@1:Expert's Black Hands
+T5_2H_IRONGAUNTLETS_HELL@2:Expert's Black Hands
+T5_2H_IRONGAUNTLETS_HELL@3:Expert's Black Hands
+T6_2H_IRONGAUNTLETS_HELL:Master's Black Hands
+T6_2H_IRONGAUNTLETS_HELL@1:Master's Black Hands
+T6_2H_IRONGAUNTLETS_HELL@2:Master's Black Hands
+T6_2H_IRONGAUNTLETS_HELL@3:Master's Black Hands
+T7_2H_IRONGAUNTLETS_HELL:Grandmaster's Black Hands
+T7_2H_IRONGAUNTLETS_HELL@1:Grandmaster's Black Hands
+T7_2H_IRONGAUNTLETS_HELL@2:Grandmaster's Black Hands
+T7_2H_IRONGAUNTLETS_HELL@3:Grandmaster's Black Hands
+T8_2H_IRONGAUNTLETS_HELL:Elder's Black Hands
+T8_2H_IRONGAUNTLETS_HELL@1:Elder's Black Hands
+T8_2H_IRONGAUNTLETS_HELL@2:Elder's Black Hands
+T8_2H_IRONGAUNTLETS_HELL@3:Elder's Black Hands
+T4_2H_DUALSICKLE_UNDEAD:Adept's Deathgivers
+T4_2H_DUALSICKLE_UNDEAD@1:Adept's Deathgivers
+T4_2H_DUALSICKLE_UNDEAD@2:Adept's Deathgivers
+T4_2H_DUALSICKLE_UNDEAD@3:Adept's Deathgivers
+T4_2H_DUALSICKLE_UNDEAD@4:Adept's Deathgivers
+T5_2H_DUALSICKLE_UNDEAD:Expert's Deathgivers
+T5_2H_DUALSICKLE_UNDEAD@1:Expert's Deathgivers
+T5_2H_DUALSICKLE_UNDEAD@2:Expert's Deathgivers
+T5_2H_DUALSICKLE_UNDEAD@3:Expert's Deathgivers
+T5_2H_DUALSICKLE_UNDEAD@4:Expert's Deathgivers
+T6_2H_DUALSICKLE_UNDEAD:Master's Deathgivers
+T6_2H_DUALSICKLE_UNDEAD@1:Master's Deathgivers
+T6_2H_DUALSICKLE_UNDEAD@2:Master's Deathgivers
+T6_2H_DUALSICKLE_UNDEAD@3:Master's Deathgivers
+T6_2H_DUALSICKLE_UNDEAD@4:Master's Deathgivers
+T7_2H_DUALSICKLE_UNDEAD:Grandmaster's Deathgivers
+T7_2H_DUALSICKLE_UNDEAD@1:Grandmaster's Deathgivers
+T7_2H_DUALSICKLE_UNDEAD@2:Grandmaster's Deathgivers
+T7_2H_DUALSICKLE_UNDEAD@3:Grandmaster's Deathgivers
+T7_2H_DUALSICKLE_UNDEAD@4:Grandmaster's Deathgivers
+T8_2H_DUALSICKLE_UNDEAD:Elder's Deathgivers
+T8_2H_DUALSICKLE_UNDEAD@1:Elder's Deathgivers
+T8_2H_DUALSICKLE_UNDEAD@2:Elder's Deathgivers
+T8_2H_DUALSICKLE_UNDEAD@3:Elder's Deathgivers
+T8_2H_DUALSICKLE_UNDEAD@4:Elder's Deathgivers
+T4_2H_DAGGER_KATAR_AVALON:Adept's Bridled Fury
+T4_2H_DAGGER_KATAR_AVALON@1:Adept's Bridled Fury
+T4_2H_DAGGER_KATAR_AVALON@2:Adept's Bridled Fury
+T4_2H_DAGGER_KATAR_AVALON@3:Adept's Bridled Fury
+T4_2H_DAGGER_KATAR_AVALON@4:Adept's Bridled Fury
+T5_2H_DAGGER_KATAR_AVALON:Expert's Bridled Fury
+T5_2H_DAGGER_KATAR_AVALON@1:Expert's Bridled Fury
+T5_2H_DAGGER_KATAR_AVALON@2:Expert's Bridled Fury
+T5_2H_DAGGER_KATAR_AVALON@3:Expert's Bridled Fury
+T5_2H_DAGGER_KATAR_AVALON@4:Expert's Bridled Fury
+T6_2H_DAGGER_KATAR_AVALON:Master's Bridled Fury
+T6_2H_DAGGER_KATAR_AVALON@1:Master's Bridled Fury
+T6_2H_DAGGER_KATAR_AVALON@2:Master's Bridled Fury
+T6_2H_DAGGER_KATAR_AVALON@3:Master's Bridled Fury
+T6_2H_DAGGER_KATAR_AVALON@4:Master's Bridled Fury
+T7_2H_DAGGER_KATAR_AVALON:Grandmaster's Bridled Fury
+T7_2H_DAGGER_KATAR_AVALON@1:Grandmaster's Bridled Fury
+T7_2H_DAGGER_KATAR_AVALON@2:Grandmaster's Bridled Fury
+T7_2H_DAGGER_KATAR_AVALON@3:Grandmaster's Bridled Fury
+T7_2H_DAGGER_KATAR_AVALON@4:Grandmaster's Bridled Fury
+T8_2H_DAGGER_KATAR_AVALON:Elder's Bridled Fury
+T8_2H_DAGGER_KATAR_AVALON@1:Elder's Bridled Fury
+T8_2H_DAGGER_KATAR_AVALON@2:Elder's Bridled Fury
+T8_2H_DAGGER_KATAR_AVALON@3:Elder's Bridled Fury
+T8_2H_DAGGER_KATAR_AVALON@4:Elder's Bridled Fury
+T4_2H_DAGGERPAIR_CRYSTAL:Adept's Twin Slayers
+T4_2H_DAGGERPAIR_CRYSTAL@1:Adept's Twin Slayers
+T4_2H_DAGGERPAIR_CRYSTAL@2:Adept's Twin Slayers
+T4_2H_DAGGERPAIR_CRYSTAL@3:Adept's Twin Slayers
+T4_2H_DAGGERPAIR_CRYSTAL@4:Adept's Twin Slayers
+T5_2H_DAGGERPAIR_CRYSTAL:Expert's Twin Slayers
+T5_2H_DAGGERPAIR_CRYSTAL@1:Expert's Twin Slayers
+T5_2H_DAGGERPAIR_CRYSTAL@2:Expert's Twin Slayers
+T5_2H_DAGGERPAIR_CRYSTAL@3:Expert's Twin Slayers
+T5_2H_DAGGERPAIR_CRYSTAL@4:Expert's Twin Slayers
+T6_2H_DAGGERPAIR_CRYSTAL:Master's Twin Slayers
+T6_2H_DAGGERPAIR_CRYSTAL@1:Master's Twin Slayers
+T6_2H_DAGGERPAIR_CRYSTAL@2:Master's Twin Slayers
+T6_2H_DAGGERPAIR_CRYSTAL@3:Master's Twin Slayers
+T6_2H_DAGGERPAIR_CRYSTAL@4:Master's Twin Slayers
+T7_2H_DAGGERPAIR_CRYSTAL:Grandmaster's Twin Slayers
+T7_2H_DAGGERPAIR_CRYSTAL@1:Grandmaster's Twin Slayers
+T7_2H_DAGGERPAIR_CRYSTAL@2:Grandmaster's Twin Slayers
+T7_2H_DAGGERPAIR_CRYSTAL@3:Grandmaster's Twin Slayers
+T7_2H_DAGGERPAIR_CRYSTAL@4:Grandmaster's Twin Slayers
+T8_2H_DAGGERPAIR_CRYSTAL:Elder's Twin Slayers
+T8_2H_DAGGERPAIR_CRYSTAL@1:Elder's Twin Slayers
+T8_2H_DAGGERPAIR_CRYSTAL@2:Elder's Twin Slayers
+T8_2H_DAGGERPAIR_CRYSTAL@3:Elder's Twin Slayers
+T8_2H_DAGGERPAIR_CRYSTAL@4:Elder's Twin Slayers

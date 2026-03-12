@@ -1,0 +1,225 @@
+T4_ARMOR_CLOTH_SET1:Adept's Scholar Robe
+T4_ARMOR_CLOTH_SET1@1:Adept's Scholar Robe
+T4_ARMOR_CLOTH_SET1@2:Adept's Scholar Robe
+T4_ARMOR_CLOTH_SET1@3:Adept's Scholar Robe
+T4_ARMOR_CLOTH_SET1@4:Adept's Scholar Robe
+T5_ARMOR_CLOTH_SET1:Expert's Scholar Robe
+T5_ARMOR_CLOTH_SET1@1:Expert's Scholar Robe
+T5_ARMOR_CLOTH_SET1@2:Expert's Scholar Robe
+T5_ARMOR_CLOTH_SET1@3:Expert's Scholar Robe
+T5_ARMOR_CLOTH_SET1@4:Expert's Scholar Robe
+T6_ARMOR_CLOTH_SET1:Master's Scholar Robe
+T6_ARMOR_CLOTH_SET1@1:Master's Scholar Robe
+T6_ARMOR_CLOTH_SET1@2:Master's Scholar Robe
+T6_ARMOR_CLOTH_SET1@3:Master's Scholar Robe
+T6_ARMOR_CLOTH_SET1@4:Master's Scholar Robe
+T7_ARMOR_CLOTH_SET1:Grandmaster's Scholar Robe
+T7_ARMOR_CLOTH_SET1@1:Grandmaster's Scholar Robe
+T7_ARMOR_CLOTH_SET1@2:Grandmaster's Scholar Robe
+T7_ARMOR_CLOTH_SET1@3:Grandmaster's Scholar Robe
+T7_ARMOR_CLOTH_SET1@4:Grandmaster's Scholar Robe
+T8_ARMOR_CLOTH_SET1:Elder's Scholar Robe
+T8_ARMOR_CLOTH_SET1@1:Elder's Scholar Robe
+T8_ARMOR_CLOTH_SET1@2:Elder's Scholar Robe
+T8_ARMOR_CLOTH_SET1@3:Elder's Scholar Robe
+T8_ARMOR_CLOTH_SET1@4:Elder's Scholar Robe
+T4_ARMOR_CLOTH_SET2:Adept's Cleric Robe
+T4_ARMOR_CLOTH_SET2@1:Adept's Cleric Robe
+T4_ARMOR_CLOTH_SET2@2:Adept's Cleric Robe
+T4_ARMOR_CLOTH_SET2@3:Adept's Cleric Robe
+T4_ARMOR_CLOTH_SET2@4:Adept's Cleric Robe
+T5_ARMOR_CLOTH_SET2:Expert's Cleric Robe
+T5_ARMOR_CLOTH_SET2@1:Expert's Cleric Robe
+T5_ARMOR_CLOTH_SET2@2:Expert's Cleric Robe
+T5_ARMOR_CLOTH_SET2@3:Expert's Cleric Robe
+T5_ARMOR_CLOTH_SET2@4:Expert's Cleric Robe
+T6_ARMOR_CLOTH_SET2:Master's Cleric Robe
+T6_ARMOR_CLOTH_SET2@1:Master's Cleric Robe
+T6_ARMOR_CLOTH_SET2@2:Master's Cleric Robe
+T6_ARMOR_CLOTH_SET2@3:Master's Cleric Robe
+T6_ARMOR_CLOTH_SET2@4:Master's Cleric Robe
+T7_ARMOR_CLOTH_SET2:Grandmaster's Cleric Robe
+T7_ARMOR_CLOTH_SET2@1:Grandmaster's Cleric Robe
+T7_ARMOR_CLOTH_SET2@2:Grandmaster's Cleric Robe
+T7_ARMOR_CLOTH_SET2@3:Grandmaster's Cleric Robe
+T7_ARMOR_CLOTH_SET2@4:Grandmaster's Cleric Robe
+T8_ARMOR_CLOTH_SET2:Elder's Cleric Robe
+T8_ARMOR_CLOTH_SET2@1:Elder's Cleric Robe
+T8_ARMOR_CLOTH_SET2@2:Elder's Cleric Robe
+T8_ARMOR_CLOTH_SET2@3:Elder's Cleric Robe
+T8_ARMOR_CLOTH_SET2@4:Elder's Cleric Robe
+T4_ARMOR_CLOTH_SET3:Adept's Mage Robe
+T4_ARMOR_CLOTH_SET3@1:Adept's Mage Robe
+T4_ARMOR_CLOTH_SET3@2:Adept's Mage Robe
+T4_ARMOR_CLOTH_SET3@3:Adept's Mage Robe
+T4_ARMOR_CLOTH_SET3@4:Adept's Mage Robe
+T5_ARMOR_CLOTH_SET3:Expert's Mage Robe
+T5_ARMOR_CLOTH_SET3@1:Expert's Mage Robe
+T5_ARMOR_CLOTH_SET3@2:Expert's Mage Robe
+T5_ARMOR_CLOTH_SET3@3:Expert's Mage Robe
+T5_ARMOR_CLOTH_SET3@4:Expert's Mage Robe
+T6_ARMOR_CLOTH_SET3:Master's Mage Robe
+T6_ARMOR_CLOTH_SET3@1:Master's Mage Robe
+T6_ARMOR_CLOTH_SET3@2:Master's Mage Robe
+T6_ARMOR_CLOTH_SET3@3:Master's Mage Robe
+T6_ARMOR_CLOTH_SET3@4:Master's Mage Robe
+T7_ARMOR_CLOTH_SET3:Grandmaster's Mage Robe
+T7_ARMOR_CLOTH_SET3@1:Grandmaster's Mage Robe
+T7_ARMOR_CLOTH_SET3@2:Grandmaster's Mage Robe
+T7_ARMOR_CLOTH_SET3@3:Grandmaster's Mage Robe
+T7_ARMOR_CLOTH_SET3@4:Grandmaster's Mage Robe
+T8_ARMOR_CLOTH_SET3:Elder's Mage Robe
+T8_ARMOR_CLOTH_SET3@1:Elder's Mage Robe
+T8_ARMOR_CLOTH_SET3@2:Elder's Mage Robe
+T8_ARMOR_CLOTH_SET3@3:Elder's Mage Robe
+T8_ARMOR_CLOTH_SET3@4:Elder's Mage Robe
+T4_ARMOR_CLOTH_KEEPER:Adept's Druid Robe
+T4_ARMOR_CLOTH_KEEPER@1:Adept's Druid Robe
+T4_ARMOR_CLOTH_KEEPER@2:Adept's Druid Robe
+T4_ARMOR_CLOTH_KEEPER@3:Adept's Druid Robe
+T4_ARMOR_CLOTH_KEEPER@4:Adept's Druid Robe
+T5_ARMOR_CLOTH_KEEPER:Expert's Druid Robe
+T5_ARMOR_CLOTH_KEEPER@1:Expert's Druid Robe
+T5_ARMOR_CLOTH_KEEPER@2:Expert's Druid Robe
+T5_ARMOR_CLOTH_KEEPER@3:Expert's Druid Robe
+T5_ARMOR_CLOTH_KEEPER@4:Expert's Druid Robe
+T6_ARMOR_CLOTH_KEEPER:Master's Druid Robe
+T6_ARMOR_CLOTH_KEEPER@1:Master's Druid Robe
+T6_ARMOR_CLOTH_KEEPER@2:Master's Druid Robe
+T6_ARMOR_CLOTH_KEEPER@3:Master's Druid Robe
+T6_ARMOR_CLOTH_KEEPER@4:Master's Druid Robe
+T7_ARMOR_CLOTH_KEEPER:Grandmaster's Druid Robe
+T7_ARMOR_CLOTH_KEEPER@1:Grandmaster's Druid Robe
+T7_ARMOR_CLOTH_KEEPER@2:Grandmaster's Druid Robe
+T7_ARMOR_CLOTH_KEEPER@3:Grandmaster's Druid Robe
+T7_ARMOR_CLOTH_KEEPER@4:Grandmaster's Druid Robe
+T8_ARMOR_CLOTH_KEEPER:Elder's Druid Robe
+T8_ARMOR_CLOTH_KEEPER@1:Elder's Druid Robe
+T8_ARMOR_CLOTH_KEEPER@2:Elder's Druid Robe
+T8_ARMOR_CLOTH_KEEPER@3:Elder's Druid Robe
+T8_ARMOR_CLOTH_KEEPER@4:Elder's Druid Robe
+T4_ARMOR_CLOTH_HELL:Adept's Fiend Robe
+T4_ARMOR_CLOTH_HELL@1:Adept's Fiend Robe
+T4_ARMOR_CLOTH_HELL@2:Adept's Fiend Robe
+T4_ARMOR_CLOTH_HELL@3:Adept's Fiend Robe
+T4_ARMOR_CLOTH_HELL@4:Adept's Fiend Robe
+T5_ARMOR_CLOTH_HELL:Expert's Fiend Robe
+T5_ARMOR_CLOTH_HELL@1:Expert's Fiend Robe
+T5_ARMOR_CLOTH_HELL@2:Expert's Fiend Robe
+T5_ARMOR_CLOTH_HELL@3:Expert's Fiend Robe
+T5_ARMOR_CLOTH_HELL@4:Expert's Fiend Robe
+T6_ARMOR_CLOTH_HELL:Master's Fiend Robe
+T6_ARMOR_CLOTH_HELL@1:Master's Fiend Robe
+T6_ARMOR_CLOTH_HELL@2:Master's Fiend Robe
+T6_ARMOR_CLOTH_HELL@3:Master's Fiend Robe
+T6_ARMOR_CLOTH_HELL@4:Master's Fiend Robe
+T7_ARMOR_CLOTH_HELL:Grandmaster's Fiend Robe
+T7_ARMOR_CLOTH_HELL@1:Grandmaster's Fiend Robe
+T7_ARMOR_CLOTH_HELL@2:Grandmaster's Fiend Robe
+T7_ARMOR_CLOTH_HELL@3:Grandmaster's Fiend Robe
+T7_ARMOR_CLOTH_HELL@4:Grandmaster's Fiend Robe
+T8_ARMOR_CLOTH_HELL:Elder's Fiend Robe
+T8_ARMOR_CLOTH_HELL@1:Elder's Fiend Robe
+T8_ARMOR_CLOTH_HELL@2:Elder's Fiend Robe
+T8_ARMOR_CLOTH_HELL@3:Elder's Fiend Robe
+T8_ARMOR_CLOTH_HELL@4:Elder's Fiend Robe
+T4_ARMOR_CLOTH_MORGANA:Adept's Cultist Robe
+T4_ARMOR_CLOTH_MORGANA@1:Adept's Cultist Robe
+T4_ARMOR_CLOTH_MORGANA@2:Adept's Cultist Robe
+T4_ARMOR_CLOTH_MORGANA@3:Adept's Cultist Robe
+T4_ARMOR_CLOTH_MORGANA@4:Adept's Cultist Robe
+T5_ARMOR_CLOTH_MORGANA:Expert's Cultist Robe
+T5_ARMOR_CLOTH_MORGANA@1:Expert's Cultist Robe
+T5_ARMOR_CLOTH_MORGANA@2:Expert's Cultist Robe
+T5_ARMOR_CLOTH_MORGANA@3:Expert's Cultist Robe
+T5_ARMOR_CLOTH_MORGANA@4:Expert's Cultist Robe
+T6_ARMOR_CLOTH_MORGANA:Master's Cultist Robe
+T6_ARMOR_CLOTH_MORGANA@1:Master's Cultist Robe
+T6_ARMOR_CLOTH_MORGANA@2:Master's Cultist Robe
+T6_ARMOR_CLOTH_MORGANA@3:Master's Cultist Robe
+T6_ARMOR_CLOTH_MORGANA@4:Master's Cultist Robe
+T7_ARMOR_CLOTH_MORGANA:Grandmaster's Cultist Robe
+T7_ARMOR_CLOTH_MORGANA@1:Grandmaster's Cultist Robe
+T7_ARMOR_CLOTH_MORGANA@2:Grandmaster's Cultist Robe
+T7_ARMOR_CLOTH_MORGANA@3:Grandmaster's Cultist Robe
+T7_ARMOR_CLOTH_MORGANA@4:Grandmaster's Cultist Robe
+T8_ARMOR_CLOTH_MORGANA:Elder's Cultist Robe
+T8_ARMOR_CLOTH_MORGANA@1:Elder's Cultist Robe
+T8_ARMOR_CLOTH_MORGANA@2:Elder's Cultist Robe
+T8_ARMOR_CLOTH_MORGANA@3:Elder's Cultist Robe
+T8_ARMOR_CLOTH_MORGANA@4:Elder's Cultist Robe
+T4_ARMOR_CLOTH_FEY:Adept's Feyscale Robe
+T4_ARMOR_CLOTH_FEY@1:Adept's Feyscale Robe
+T4_ARMOR_CLOTH_FEY@2:Adept's Feyscale Robe
+T4_ARMOR_CLOTH_FEY@3:Adept's Feyscale Robe
+T4_ARMOR_CLOTH_FEY@4:Adept's Feyscale Robe
+T5_ARMOR_CLOTH_FEY:Expert's Feyscale Robe
+T5_ARMOR_CLOTH_FEY@1:Expert's Feyscale Robe
+T5_ARMOR_CLOTH_FEY@2:Expert's Feyscale Robe
+T5_ARMOR_CLOTH_FEY@3:Expert's Feyscale Robe
+T5_ARMOR_CLOTH_FEY@4:Expert's Feyscale Robe
+T6_ARMOR_CLOTH_FEY:Master's Feyscale Robe
+T6_ARMOR_CLOTH_FEY@1:Master's Feyscale Robe
+T6_ARMOR_CLOTH_FEY@2:Master's Feyscale Robe
+T6_ARMOR_CLOTH_FEY@3:Master's Feyscale Robe
+T6_ARMOR_CLOTH_FEY@4:Master's Feyscale Robe
+T7_ARMOR_CLOTH_FEY:Grandmaster's Feyscale Robe
+T7_ARMOR_CLOTH_FEY@1:Grandmaster's Feyscale Robe
+T7_ARMOR_CLOTH_FEY@2:Grandmaster's Feyscale Robe
+T7_ARMOR_CLOTH_FEY@3:Grandmaster's Feyscale Robe
+T7_ARMOR_CLOTH_FEY@4:Grandmaster's Feyscale Robe
+T8_ARMOR_CLOTH_FEY:Elder's Feyscale Robe
+T8_ARMOR_CLOTH_FEY@1:Elder's Feyscale Robe
+T8_ARMOR_CLOTH_FEY@2:Elder's Feyscale Robe
+T8_ARMOR_CLOTH_FEY@3:Elder's Feyscale Robe
+T8_ARMOR_CLOTH_FEY@4:Elder's Feyscale Robe
+T4_ARMOR_CLOTH_AVALON:Adept's Robe of Purity
+T4_ARMOR_CLOTH_AVALON@1:Adept's Robe of Purity
+T4_ARMOR_CLOTH_AVALON@2:Adept's Robe of Purity
+T4_ARMOR_CLOTH_AVALON@3:Adept's Robe of Purity
+T4_ARMOR_CLOTH_AVALON@4:Adept's Robe of Purity
+T5_ARMOR_CLOTH_AVALON:Expert's Robe of Purity
+T5_ARMOR_CLOTH_AVALON@1:Expert's Robe of Purity
+T5_ARMOR_CLOTH_AVALON@2:Expert's Robe of Purity
+T5_ARMOR_CLOTH_AVALON@3:Expert's Robe of Purity
+T5_ARMOR_CLOTH_AVALON@4:Expert's Robe of Purity
+T6_ARMOR_CLOTH_AVALON:Master's Robe of Purity
+T6_ARMOR_CLOTH_AVALON@1:Master's Robe of Purity
+T6_ARMOR_CLOTH_AVALON@2:Master's Robe of Purity
+T6_ARMOR_CLOTH_AVALON@3:Master's Robe of Purity
+T6_ARMOR_CLOTH_AVALON@4:Master's Robe of Purity
+T7_ARMOR_CLOTH_AVALON:Grandmaster's Robe of Purity
+T7_ARMOR_CLOTH_AVALON@1:Grandmaster's Robe of Purity
+T7_ARMOR_CLOTH_AVALON@2:Grandmaster's Robe of Purity
+T7_ARMOR_CLOTH_AVALON@3:Grandmaster's Robe of Purity
+T7_ARMOR_CLOTH_AVALON@4:Grandmaster's Robe of Purity
+T8_ARMOR_CLOTH_AVALON:Elder's Robe of Purity
+T8_ARMOR_CLOTH_AVALON@1:Elder's Robe of Purity
+T8_ARMOR_CLOTH_AVALON@2:Elder's Robe of Purity
+T8_ARMOR_CLOTH_AVALON@3:Elder's Robe of Purity
+T8_ARMOR_CLOTH_AVALON@4:Elder's Robe of Purity
+T4_ARMOR_CLOTH_ROYAL:Adept's Royal Robe
+T4_ARMOR_CLOTH_ROYAL@1:Adept's Royal Robe
+T4_ARMOR_CLOTH_ROYAL@2:Adept's Royal Robe
+T4_ARMOR_CLOTH_ROYAL@3:Adept's Royal Robe
+T4_ARMOR_CLOTH_ROYAL@4:Adept's Royal Robe
+T5_ARMOR_CLOTH_ROYAL:Expert's Royal Robe
+T5_ARMOR_CLOTH_ROYAL@1:Expert's Royal Robe
+T5_ARMOR_CLOTH_ROYAL@2:Expert's Royal Robe
+T5_ARMOR_CLOTH_ROYAL@3:Expert's Royal Robe
+T5_ARMOR_CLOTH_ROYAL@4:Expert's Royal Robe
+T6_ARMOR_CLOTH_ROYAL:Master's Royal Robe
+T6_ARMOR_CLOTH_ROYAL@1:Master's Royal Robe
+T6_ARMOR_CLOTH_ROYAL@2:Master's Royal Robe
+T6_ARMOR_CLOTH_ROYAL@3:Master's Royal Robe
+T6_ARMOR_CLOTH_ROYAL@4:Master's Royal Robe
+T7_ARMOR_CLOTH_ROYAL:Grandmaster's Royal Robe
+T7_ARMOR_CLOTH_ROYAL@1:Grandmaster's Royal Robe
+T7_ARMOR_CLOTH_ROYAL@2:Grandmaster's Royal Robe
+T7_ARMOR_CLOTH_ROYAL@3:Grandmaster's Royal Robe
+T7_ARMOR_CLOTH_ROYAL@4:Grandmaster's Royal Robe
+T8_ARMOR_CLOTH_ROYAL:Elder's Royal Robe
+T8_ARMOR_CLOTH_ROYAL@1:Elder's Royal Robe
+T8_ARMOR_CLOTH_ROYAL@2:Elder's Royal Robe
+T8_ARMOR_CLOTH_ROYAL@3:Elder's Royal Robe
+T8_ARMOR_CLOTH_ROYAL@4:Elder's Royal Robe

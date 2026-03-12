@@ -1,0 +1,200 @@
+T4_MAIN_ARCANESTAFF:Adept's Arcane Staff
+T4_MAIN_ARCANESTAFF@1:Adept's Arcane Staff
+T4_MAIN_ARCANESTAFF@2:Adept's Arcane Staff
+T4_MAIN_ARCANESTAFF@3:Adept's Arcane Staff
+T4_MAIN_ARCANESTAFF@4:Adept's Arcane Staff
+T5_MAIN_ARCANESTAFF:Expert's Arcane Staff
+T5_MAIN_ARCANESTAFF@1:Expert's Arcane Staff
+T5_MAIN_ARCANESTAFF@2:Expert's Arcane Staff
+T5_MAIN_ARCANESTAFF@3:Expert's Arcane Staff
+T5_MAIN_ARCANESTAFF@4:Expert's Arcane Staff
+T6_MAIN_ARCANESTAFF:Master's Arcane Staff
+T6_MAIN_ARCANESTAFF@1:Master's Arcane Staff
+T6_MAIN_ARCANESTAFF@2:Master's Arcane Staff
+T6_MAIN_ARCANESTAFF@3:Master's Arcane Staff
+T6_MAIN_ARCANESTAFF@4:Master's Arcane Staff
+T7_MAIN_ARCANESTAFF:Grandmaster's Arcane Staff
+T7_MAIN_ARCANESTAFF@1:Grandmaster's Arcane Staff
+T7_MAIN_ARCANESTAFF@2:Grandmaster's Arcane Staff
+T7_MAIN_ARCANESTAFF@3:Grandmaster's Arcane Staff
+T7_MAIN_ARCANESTAFF@4:Grandmaster's Arcane Staff
+T8_MAIN_ARCANESTAFF:Elder's Arcane Staff
+T8_MAIN_ARCANESTAFF@1:Elder's Arcane Staff
+T8_MAIN_ARCANESTAFF@2:Elder's Arcane Staff
+T8_MAIN_ARCANESTAFF@3:Elder's Arcane Staff
+T8_MAIN_ARCANESTAFF@4:Elder's Arcane Staff
+T4_2H_ARCANESTAFF:Adept's Great Arcane Staff
+T4_2H_ARCANESTAFF@1:Adept's Great Arcane Staff
+T4_2H_ARCANESTAFF@2:Adept's Great Arcane Staff
+T4_2H_ARCANESTAFF@3:Adept's Great Arcane Staff
+T4_2H_ARCANESTAFF@4:Adept's Great Arcane Staff
+T5_2H_ARCANESTAFF:Expert's Great Arcane Staff
+T5_2H_ARCANESTAFF@1:Expert's Great Arcane Staff
+T5_2H_ARCANESTAFF@2:Expert's Great Arcane Staff
+T5_2H_ARCANESTAFF@3:Expert's Great Arcane Staff
+T5_2H_ARCANESTAFF@4:Expert's Great Arcane Staff
+T6_2H_ARCANESTAFF:Master's Great Arcane Staff
+T6_2H_ARCANESTAFF@1:Master's Great Arcane Staff
+T6_2H_ARCANESTAFF@2:Master's Great Arcane Staff
+T6_2H_ARCANESTAFF@3:Master's Great Arcane Staff
+T6_2H_ARCANESTAFF@4:Master's Great Arcane Staff
+T7_2H_ARCANESTAFF:Grandmaster's Great Arcane Staff
+T7_2H_ARCANESTAFF@1:Grandmaster's Great Arcane Staff
+T7_2H_ARCANESTAFF@2:Grandmaster's Great Arcane Staff
+T7_2H_ARCANESTAFF@3:Grandmaster's Great Arcane Staff
+T7_2H_ARCANESTAFF@4:Grandmaster's Great Arcane Staff
+T8_2H_ARCANESTAFF:Elder's Great Arcane Staff
+T8_2H_ARCANESTAFF@1:Elder's Great Arcane Staff
+T8_2H_ARCANESTAFF@2:Elder's Great Arcane Staff
+T8_2H_ARCANESTAFF@3:Elder's Great Arcane Staff
+T8_2H_ARCANESTAFF@4:Elder's Great Arcane Staff
+T4_2H_ENIGMATICSTAFF:Adept's Enigmatic Staff
+T4_2H_ENIGMATICSTAFF@1:Adept's Enigmatic Staff
+T4_2H_ENIGMATICSTAFF@2:Adept's Enigmatic Staff
+T4_2H_ENIGMATICSTAFF@3:Adept's Enigmatic Staff
+T4_2H_ENIGMATICSTAFF@4:Adept's Enigmatic Staff
+T5_2H_ENIGMATICSTAFF:Expert's Enigmatic Staff
+T5_2H_ENIGMATICSTAFF@1:Expert's Enigmatic Staff
+T5_2H_ENIGMATICSTAFF@2:Expert's Enigmatic Staff
+T5_2H_ENIGMATICSTAFF@3:Expert's Enigmatic Staff
+T5_2H_ENIGMATICSTAFF@4:Expert's Enigmatic Staff
+T6_2H_ENIGMATICSTAFF:Master's Enigmatic Staff
+T6_2H_ENIGMATICSTAFF@1:Master's Enigmatic Staff
+T6_2H_ENIGMATICSTAFF@2:Master's Enigmatic Staff
+T6_2H_ENIGMATICSTAFF@3:Master's Enigmatic Staff
+T6_2H_ENIGMATICSTAFF@4:Master's Enigmatic Staff
+T7_2H_ENIGMATICSTAFF:Grandmaster's Enigmatic Staff
+T7_2H_ENIGMATICSTAFF@1:Grandmaster's Enigmatic Staff
+T7_2H_ENIGMATICSTAFF@2:Grandmaster's Enigmatic Staff
+T7_2H_ENIGMATICSTAFF@3:Grandmaster's Enigmatic Staff
+T7_2H_ENIGMATICSTAFF@4:Grandmaster's Enigmatic Staff
+T8_2H_ENIGMATICSTAFF:Elder's Enigmatic Staff
+T8_2H_ENIGMATICSTAFF@1:Elder's Enigmatic Staff
+T8_2H_ENIGMATICSTAFF@2:Elder's Enigmatic Staff
+T8_2H_ENIGMATICSTAFF@3:Elder's Enigmatic Staff
+T8_2H_ENIGMATICSTAFF@4:Elder's Enigmatic Staff
+T4_MAIN_ARCANESTAFF_UNDEAD:Adept's Witchwork Staff
+T4_MAIN_ARCANESTAFF_UNDEAD@1:Adept's Witchwork Staff
+T4_MAIN_ARCANESTAFF_UNDEAD@2:Adept's Witchwork Staff
+T4_MAIN_ARCANESTAFF_UNDEAD@3:Adept's Witchwork Staff
+T4_MAIN_ARCANESTAFF_UNDEAD@4:Adept's Witchwork Staff
+T5_MAIN_ARCANESTAFF_UNDEAD:Expert's Witchwork Staff
+T5_MAIN_ARCANESTAFF_UNDEAD@1:Expert's Witchwork Staff
+T5_MAIN_ARCANESTAFF_UNDEAD@2:Expert's Witchwork Staff
+T5_MAIN_ARCANESTAFF_UNDEAD@3:Expert's Witchwork Staff
+T5_MAIN_ARCANESTAFF_UNDEAD@4:Expert's Witchwork Staff
+T6_MAIN_ARCANESTAFF_UNDEAD:Master's Witchwork Staff
+T6_MAIN_ARCANESTAFF_UNDEAD@1:Master's Witchwork Staff
+T6_MAIN_ARCANESTAFF_UNDEAD@2:Master's Witchwork Staff
+T6_MAIN_ARCANESTAFF_UNDEAD@3:Master's Witchwork Staff
+T6_MAIN_ARCANESTAFF_UNDEAD@4:Master's Witchwork Staff
+T7_MAIN_ARCANESTAFF_UNDEAD:Grandmaster's Witchwork Staff
+T7_MAIN_ARCANESTAFF_UNDEAD@1:Grandmaster's Witchwork Staff
+T7_MAIN_ARCANESTAFF_UNDEAD@2:Grandmaster's Witchwork Staff
+T7_MAIN_ARCANESTAFF_UNDEAD@3:Grandmaster's Witchwork Staff
+T7_MAIN_ARCANESTAFF_UNDEAD@4:Grandmaster's Witchwork Staff
+T8_MAIN_ARCANESTAFF_UNDEAD:Elder's Witchwork Staff
+T8_MAIN_ARCANESTAFF_UNDEAD@1:Elder's Witchwork Staff
+T8_MAIN_ARCANESTAFF_UNDEAD@2:Elder's Witchwork Staff
+T8_MAIN_ARCANESTAFF_UNDEAD@3:Elder's Witchwork Staff
+T8_MAIN_ARCANESTAFF_UNDEAD@4:Elder's Witchwork Staff
+T4_2H_ARCANESTAFF_HELL:Adept's Occult Staff
+T4_2H_ARCANESTAFF_HELL@1:Adept's Occult Staff
+T4_2H_ARCANESTAFF_HELL@2:Adept's Occult Staff
+T4_2H_ARCANESTAFF_HELL@3:Adept's Occult Staff
+T4_2H_ARCANESTAFF_HELL@4:Adept's Occult Staff
+T5_2H_ARCANESTAFF_HELL:Expert's Occult Staff
+T5_2H_ARCANESTAFF_HELL@1:Expert's Occult Staff
+T5_2H_ARCANESTAFF_HELL@2:Expert's Occult Staff
+T5_2H_ARCANESTAFF_HELL@3:Expert's Occult Staff
+T5_2H_ARCANESTAFF_HELL@4:Expert's Occult Staff
+T6_2H_ARCANESTAFF_HELL:Master's Occult Staff
+T6_2H_ARCANESTAFF_HELL@1:Master's Occult Staff
+T6_2H_ARCANESTAFF_HELL@2:Master's Occult Staff
+T6_2H_ARCANESTAFF_HELL@3:Master's Occult Staff
+T6_2H_ARCANESTAFF_HELL@4:Master's Occult Staff
+T7_2H_ARCANESTAFF_HELL:Grandmaster's Occult Staff
+T7_2H_ARCANESTAFF_HELL@1:Grandmaster's Occult Staff
+T7_2H_ARCANESTAFF_HELL@2:Grandmaster's Occult Staff
+T7_2H_ARCANESTAFF_HELL@3:Grandmaster's Occult Staff
+T7_2H_ARCANESTAFF_HELL@4:Grandmaster's Occult Staff
+T8_2H_ARCANESTAFF_HELL:Elder's Occult Staff
+T8_2H_ARCANESTAFF_HELL@1:Elder's Occult Staff
+T8_2H_ARCANESTAFF_HELL@2:Elder's Occult Staff
+T8_2H_ARCANESTAFF_HELL@3:Elder's Occult Staff
+T8_2H_ARCANESTAFF_HELL@4:Elder's Occult Staff
+T4_2H_ENIGMATICORB_MORGANA:Adept's Malevolent Locus
+T4_2H_ENIGMATICORB_MORGANA@1:Adept's Malevolent Locus
+T4_2H_ENIGMATICORB_MORGANA@2:Adept's Malevolent Locus
+T4_2H_ENIGMATICORB_MORGANA@3:Adept's Malevolent Locus
+T4_2H_ENIGMATICORB_MORGANA@4:Adept's Malevolent Locus
+T5_2H_ENIGMATICORB_MORGANA:Expert's Malevolent Locus
+T5_2H_ENIGMATICORB_MORGANA@1:Expert's Malevolent Locus
+T5_2H_ENIGMATICORB_MORGANA@2:Expert's Malevolent Locus
+T5_2H_ENIGMATICORB_MORGANA@3:Expert's Malevolent Locus
+T5_2H_ENIGMATICORB_MORGANA@4:Expert's Malevolent Locus
+T6_2H_ENIGMATICORB_MORGANA:Master's Malevolent Locus
+T6_2H_ENIGMATICORB_MORGANA@1:Master's Malevolent Locus
+T6_2H_ENIGMATICORB_MORGANA@2:Master's Malevolent Locus
+T6_2H_ENIGMATICORB_MORGANA@3:Master's Malevolent Locus
+T6_2H_ENIGMATICORB_MORGANA@4:Master's Malevolent Locus
+T7_2H_ENIGMATICORB_MORGANA:Grandmaster's Malevolent Locus
+T7_2H_ENIGMATICORB_MORGANA@1:Grandmaster's Malevolent Locus
+T7_2H_ENIGMATICORB_MORGANA@2:Grandmaster's Malevolent Locus
+T7_2H_ENIGMATICORB_MORGANA@3:Grandmaster's Malevolent Locus
+T7_2H_ENIGMATICORB_MORGANA@4:Grandmaster's Malevolent Locus
+T8_2H_ENIGMATICORB_MORGANA:Elder's Malevolent Locus
+T8_2H_ENIGMATICORB_MORGANA@1:Elder's Malevolent Locus
+T8_2H_ENIGMATICORB_MORGANA@2:Elder's Malevolent Locus
+T8_2H_ENIGMATICORB_MORGANA@3:Elder's Malevolent Locus
+T8_2H_ENIGMATICORB_MORGANA@4:Elder's Malevolent Locus
+T4_2H_ARCANE_RINGPAIR_AVALON:Adept's Evensong
+T4_2H_ARCANE_RINGPAIR_AVALON@1:Adept's Evensong
+T4_2H_ARCANE_RINGPAIR_AVALON@2:Adept's Evensong
+T4_2H_ARCANE_RINGPAIR_AVALON@3:Adept's Evensong
+T4_2H_ARCANE_RINGPAIR_AVALON@4:Adept's Evensong
+T5_2H_ARCANE_RINGPAIR_AVALON:Expert's Evensong
+T5_2H_ARCANE_RINGPAIR_AVALON@1:Expert's Evensong
+T5_2H_ARCANE_RINGPAIR_AVALON@2:Expert's Evensong
+T5_2H_ARCANE_RINGPAIR_AVALON@3:Expert's Evensong
+T5_2H_ARCANE_RINGPAIR_AVALON@4:Expert's Evensong
+T6_2H_ARCANE_RINGPAIR_AVALON:Master's Evensong
+T6_2H_ARCANE_RINGPAIR_AVALON@1:Master's Evensong
+T6_2H_ARCANE_RINGPAIR_AVALON@2:Master's Evensong
+T6_2H_ARCANE_RINGPAIR_AVALON@3:Master's Evensong
+T6_2H_ARCANE_RINGPAIR_AVALON@4:Master's Evensong
+T7_2H_ARCANE_RINGPAIR_AVALON:Grandmaster's Evensong
+T7_2H_ARCANE_RINGPAIR_AVALON@1:Grandmaster's Evensong
+T7_2H_ARCANE_RINGPAIR_AVALON@2:Grandmaster's Evensong
+T7_2H_ARCANE_RINGPAIR_AVALON@3:Grandmaster's Evensong
+T7_2H_ARCANE_RINGPAIR_AVALON@4:Grandmaster's Evensong
+T8_2H_ARCANE_RINGPAIR_AVALON:Elder's Evensong
+T8_2H_ARCANE_RINGPAIR_AVALON@1:Elder's Evensong
+T8_2H_ARCANE_RINGPAIR_AVALON@2:Elder's Evensong
+T8_2H_ARCANE_RINGPAIR_AVALON@3:Elder's Evensong
+T8_2H_ARCANE_RINGPAIR_AVALON@4:Elder's Evensong
+T4_2H_ARCANESTAFF_CRYSTAL:Adept's Astral Staff
+T4_2H_ARCANESTAFF_CRYSTAL@1:Adept's Astral Staff
+T4_2H_ARCANESTAFF_CRYSTAL@2:Adept's Astral Staff
+T4_2H_ARCANESTAFF_CRYSTAL@3:Adept's Astral Staff
+T4_2H_ARCANESTAFF_CRYSTAL@4:Adept's Astral Staff
+T5_2H_ARCANESTAFF_CRYSTAL:Expert's Astral Staff
+T5_2H_ARCANESTAFF_CRYSTAL@1:Expert's Astral Staff
+T5_2H_ARCANESTAFF_CRYSTAL@2:Expert's Astral Staff
+T5_2H_ARCANESTAFF_CRYSTAL@3:Expert's Astral Staff
+T5_2H_ARCANESTAFF_CRYSTAL@4:Expert's Astral Staff
+T6_2H_ARCANESTAFF_CRYSTAL:Master's Astral Staff
+T6_2H_ARCANESTAFF_CRYSTAL@1:Master's Astral Staff
+T6_2H_ARCANESTAFF_CRYSTAL@2:Master's Astral Staff
+T6_2H_ARCANESTAFF_CRYSTAL@3:Master's Astral Staff
+T6_2H_ARCANESTAFF_CRYSTAL@4:Master's Astral Staff
+T7_2H_ARCANESTAFF_CRYSTAL:Grandmaster's Astral Staff
+T7_2H_ARCANESTAFF_CRYSTAL@1:Grandmaster's Astral Staff
+T7_2H_ARCANESTAFF_CRYSTAL@2:Grandmaster's Astral Staff
+T7_2H_ARCANESTAFF_CRYSTAL@3:Grandmaster's Astral Staff
+T7_2H_ARCANESTAFF_CRYSTAL@4:Grandmaster's Astral Staff
+T8_2H_ARCANESTAFF_CRYSTAL:Elder's Astral Staff
+T8_2H_ARCANESTAFF_CRYSTAL@1:Elder's Astral Staff
+T8_2H_ARCANESTAFF_CRYSTAL@2:Elder's Astral Staff
+T8_2H_ARCANESTAFF_CRYSTAL@3:Elder's Astral Staff
+T8_2H_ARCANESTAFF_CRYSTAL@4:Elder's Astral Staff

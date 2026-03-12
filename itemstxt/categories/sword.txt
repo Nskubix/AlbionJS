@@ -1,0 +1,200 @@
+T4_MAIN_SWORD:Adept's Broadsword
+T4_MAIN_SWORD@1:Adept's Broadsword
+T4_MAIN_SWORD@2:Adept's Broadsword
+T4_MAIN_SWORD@3:Adept's Broadsword
+T4_MAIN_SWORD@4:Adept's Broadsword
+T5_MAIN_SWORD:Expert's Broadsword
+T5_MAIN_SWORD@1:Expert's Broadsword
+T5_MAIN_SWORD@2:Expert's Broadsword
+T5_MAIN_SWORD@3:Expert's Broadsword
+T5_MAIN_SWORD@4:Expert's Broadsword
+T6_MAIN_SWORD:Master's Broadsword
+T6_MAIN_SWORD@1:Master's Broadsword
+T6_MAIN_SWORD@2:Master's Broadsword
+T6_MAIN_SWORD@3:Master's Broadsword
+T6_MAIN_SWORD@4:Master's Broadsword
+T7_MAIN_SWORD:Grandmaster's Broadsword
+T7_MAIN_SWORD@1:Grandmaster's Broadsword
+T7_MAIN_SWORD@2:Grandmaster's Broadsword
+T7_MAIN_SWORD@3:Grandmaster's Broadsword
+T7_MAIN_SWORD@4:Grandmaster's Broadsword
+T8_MAIN_SWORD:Elder's Broadsword
+T8_MAIN_SWORD@1:Elder's Broadsword
+T8_MAIN_SWORD@2:Elder's Broadsword
+T8_MAIN_SWORD@3:Elder's Broadsword
+T8_MAIN_SWORD@4:Elder's Broadsword
+T4_2H_CLAYMORE:Adept's Claymore
+T4_2H_CLAYMORE@1:Adept's Claymore
+T4_2H_CLAYMORE@2:Adept's Claymore
+T4_2H_CLAYMORE@3:Adept's Claymore
+T4_2H_CLAYMORE@4:Adept's Claymore
+T5_2H_CLAYMORE:Expert's Claymore
+T5_2H_CLAYMORE@1:Expert's Claymore
+T5_2H_CLAYMORE@2:Expert's Claymore
+T5_2H_CLAYMORE@3:Expert's Claymore
+T5_2H_CLAYMORE@4:Expert's Claymore
+T6_2H_CLAYMORE:Master's Claymore
+T6_2H_CLAYMORE@1:Master's Claymore
+T6_2H_CLAYMORE@2:Master's Claymore
+T6_2H_CLAYMORE@3:Master's Claymore
+T6_2H_CLAYMORE@4:Master's Claymore
+T7_2H_CLAYMORE:Grandmaster's Claymore
+T7_2H_CLAYMORE@1:Grandmaster's Claymore
+T7_2H_CLAYMORE@2:Grandmaster's Claymore
+T7_2H_CLAYMORE@3:Grandmaster's Claymore
+T7_2H_CLAYMORE@4:Grandmaster's Claymore
+T8_2H_CLAYMORE:Elder's Claymore
+T8_2H_CLAYMORE@1:Elder's Claymore
+T8_2H_CLAYMORE@2:Elder's Claymore
+T8_2H_CLAYMORE@3:Elder's Claymore
+T8_2H_CLAYMORE@4:Elder's Claymore
+T4_2H_DUALSWORD:Adept's Dual Swords
+T4_2H_DUALSWORD@1:Adept's Dual Swords
+T4_2H_DUALSWORD@2:Adept's Dual Swords
+T4_2H_DUALSWORD@3:Adept's Dual Swords
+T4_2H_DUALSWORD@4:Adept's Dual Swords
+T5_2H_DUALSWORD:Expert's Dual Swords
+T5_2H_DUALSWORD@1:Expert's Dual Swords
+T5_2H_DUALSWORD@2:Expert's Dual Swords
+T5_2H_DUALSWORD@3:Expert's Dual Swords
+T5_2H_DUALSWORD@4:Expert's Dual Swords
+T6_2H_DUALSWORD:Master's Dual Swords
+T6_2H_DUALSWORD@1:Master's Dual Swords
+T6_2H_DUALSWORD@2:Master's Dual Swords
+T6_2H_DUALSWORD@3:Master's Dual Swords
+T6_2H_DUALSWORD@4:Master's Dual Swords
+T7_2H_DUALSWORD:Grandmaster's Dual Swords
+T7_2H_DUALSWORD@1:Grandmaster's Dual Swords
+T7_2H_DUALSWORD@2:Grandmaster's Dual Swords
+T7_2H_DUALSWORD@3:Grandmaster's Dual Swords
+T7_2H_DUALSWORD@4:Grandmaster's Dual Swords
+T8_2H_DUALSWORD:Elder's Dual Swords
+T8_2H_DUALSWORD@1:Elder's Dual Swords
+T8_2H_DUALSWORD@2:Elder's Dual Swords
+T8_2H_DUALSWORD@3:Elder's Dual Swords
+T8_2H_DUALSWORD@4:Elder's Dual Swords
+T4_MAIN_SCIMITAR_MORGANA:Adept's Clarent Blade
+T4_MAIN_SCIMITAR_MORGANA@1:Adept's Clarent Blade
+T4_MAIN_SCIMITAR_MORGANA@2:Adept's Clarent Blade
+T4_MAIN_SCIMITAR_MORGANA@3:Adept's Clarent Blade
+T4_MAIN_SCIMITAR_MORGANA@4:Adept's Clarent Blade
+T5_MAIN_SCIMITAR_MORGANA:Expert's Clarent Blade
+T5_MAIN_SCIMITAR_MORGANA@1:Expert's Clarent Blade
+T5_MAIN_SCIMITAR_MORGANA@2:Expert's Clarent Blade
+T5_MAIN_SCIMITAR_MORGANA@3:Expert's Clarent Blade
+T5_MAIN_SCIMITAR_MORGANA@4:Expert's Clarent Blade
+T6_MAIN_SCIMITAR_MORGANA:Master's Clarent Blade
+T6_MAIN_SCIMITAR_MORGANA@1:Master's Clarent Blade
+T6_MAIN_SCIMITAR_MORGANA@2:Master's Clarent Blade
+T6_MAIN_SCIMITAR_MORGANA@3:Master's Clarent Blade
+T6_MAIN_SCIMITAR_MORGANA@4:Master's Clarent Blade
+T7_MAIN_SCIMITAR_MORGANA:Grandmaster's Clarent Blade
+T7_MAIN_SCIMITAR_MORGANA@1:Grandmaster's Clarent Blade
+T7_MAIN_SCIMITAR_MORGANA@2:Grandmaster's Clarent Blade
+T7_MAIN_SCIMITAR_MORGANA@3:Grandmaster's Clarent Blade
+T7_MAIN_SCIMITAR_MORGANA@4:Grandmaster's Clarent Blade
+T8_MAIN_SCIMITAR_MORGANA:Elder's Clarent Blade
+T8_MAIN_SCIMITAR_MORGANA@1:Elder's Clarent Blade
+T8_MAIN_SCIMITAR_MORGANA@2:Elder's Clarent Blade
+T8_MAIN_SCIMITAR_MORGANA@3:Elder's Clarent Blade
+T8_MAIN_SCIMITAR_MORGANA@4:Elder's Clarent Blade
+T4_2H_CLEAVER_HELL:Adept's Carving Sword
+T4_2H_CLEAVER_HELL@1:Adept's Carving Sword
+T4_2H_CLEAVER_HELL@2:Adept's Carving Sword
+T4_2H_CLEAVER_HELL@3:Adept's Carving Sword
+T4_2H_CLEAVER_HELL@4:Adept's Carving Sword
+T5_2H_CLEAVER_HELL:Expert's Carving Sword
+T5_2H_CLEAVER_HELL@1:Expert's Carving Sword
+T5_2H_CLEAVER_HELL@2:Expert's Carving Sword
+T5_2H_CLEAVER_HELL@3:Expert's Carving Sword
+T5_2H_CLEAVER_HELL@4:Expert's Carving Sword
+T6_2H_CLEAVER_HELL:Master's Carving Sword
+T6_2H_CLEAVER_HELL@1:Master's Carving Sword
+T6_2H_CLEAVER_HELL@2:Master's Carving Sword
+T6_2H_CLEAVER_HELL@3:Master's Carving Sword
+T6_2H_CLEAVER_HELL@4:Master's Carving Sword
+T7_2H_CLEAVER_HELL:Grandmaster's Carving Sword
+T7_2H_CLEAVER_HELL@1:Grandmaster's Carving Sword
+T7_2H_CLEAVER_HELL@2:Grandmaster's Carving Sword
+T7_2H_CLEAVER_HELL@3:Grandmaster's Carving Sword
+T7_2H_CLEAVER_HELL@4:Grandmaster's Carving Sword
+T8_2H_CLEAVER_HELL:Elder's Carving Sword
+T8_2H_CLEAVER_HELL@1:Elder's Carving Sword
+T8_2H_CLEAVER_HELL@2:Elder's Carving Sword
+T8_2H_CLEAVER_HELL@3:Elder's Carving Sword
+T8_2H_CLEAVER_HELL@4:Elder's Carving Sword
+T4_2H_DUALSCIMITAR_UNDEAD:Adept's Galatine Pair
+T4_2H_DUALSCIMITAR_UNDEAD@1:Adept's Galatine Pair
+T4_2H_DUALSCIMITAR_UNDEAD@2:Adept's Galatine Pair
+T4_2H_DUALSCIMITAR_UNDEAD@3:Adept's Galatine Pair
+T4_2H_DUALSCIMITAR_UNDEAD@4:Adept's Galatine Pair
+T5_2H_DUALSCIMITAR_UNDEAD:Expert's Galatine Pair
+T5_2H_DUALSCIMITAR_UNDEAD@1:Expert's Galatine Pair
+T5_2H_DUALSCIMITAR_UNDEAD@2:Expert's Galatine Pair
+T5_2H_DUALSCIMITAR_UNDEAD@3:Expert's Galatine Pair
+T5_2H_DUALSCIMITAR_UNDEAD@4:Expert's Galatine Pair
+T6_2H_DUALSCIMITAR_UNDEAD:Master's Galatine Pair
+T6_2H_DUALSCIMITAR_UNDEAD@1:Master's Galatine Pair
+T6_2H_DUALSCIMITAR_UNDEAD@2:Master's Galatine Pair
+T6_2H_DUALSCIMITAR_UNDEAD@3:Master's Galatine Pair
+T6_2H_DUALSCIMITAR_UNDEAD@4:Master's Galatine Pair
+T7_2H_DUALSCIMITAR_UNDEAD:Grandmaster's Galatine Pair
+T7_2H_DUALSCIMITAR_UNDEAD@1:Grandmaster's Galatine Pair
+T7_2H_DUALSCIMITAR_UNDEAD@2:Grandmaster's Galatine Pair
+T7_2H_DUALSCIMITAR_UNDEAD@3:Grandmaster's Galatine Pair
+T7_2H_DUALSCIMITAR_UNDEAD@4:Grandmaster's Galatine Pair
+T8_2H_DUALSCIMITAR_UNDEAD:Elder's Galatine Pair
+T8_2H_DUALSCIMITAR_UNDEAD@1:Elder's Galatine Pair
+T8_2H_DUALSCIMITAR_UNDEAD@2:Elder's Galatine Pair
+T8_2H_DUALSCIMITAR_UNDEAD@3:Elder's Galatine Pair
+T8_2H_DUALSCIMITAR_UNDEAD@4:Elder's Galatine Pair
+T4_2H_CLAYMORE_AVALON:Adept's Kingmaker
+T4_2H_CLAYMORE_AVALON@1:Adept's Kingmaker
+T4_2H_CLAYMORE_AVALON@2:Adept's Kingmaker
+T4_2H_CLAYMORE_AVALON@3:Adept's Kingmaker
+T4_2H_CLAYMORE_AVALON@4:Adept's Kingmaker
+T5_2H_CLAYMORE_AVALON:Expert's Kingmaker
+T5_2H_CLAYMORE_AVALON@1:Expert's Kingmaker
+T5_2H_CLAYMORE_AVALON@2:Expert's Kingmaker
+T5_2H_CLAYMORE_AVALON@3:Expert's Kingmaker
+T5_2H_CLAYMORE_AVALON@4:Expert's Kingmaker
+T6_2H_CLAYMORE_AVALON:Master's Kingmaker
+T6_2H_CLAYMORE_AVALON@1:Master's Kingmaker
+T6_2H_CLAYMORE_AVALON@2:Master's Kingmaker
+T6_2H_CLAYMORE_AVALON@3:Master's Kingmaker
+T6_2H_CLAYMORE_AVALON@4:Master's Kingmaker
+T7_2H_CLAYMORE_AVALON:Grandmaster's Kingmaker
+T7_2H_CLAYMORE_AVALON@1:Grandmaster's Kingmaker
+T7_2H_CLAYMORE_AVALON@2:Grandmaster's Kingmaker
+T7_2H_CLAYMORE_AVALON@3:Grandmaster's Kingmaker
+T7_2H_CLAYMORE_AVALON@4:Grandmaster's Kingmaker
+T8_2H_CLAYMORE_AVALON:Elder's Kingmaker
+T8_2H_CLAYMORE_AVALON@1:Elder's Kingmaker
+T8_2H_CLAYMORE_AVALON@2:Elder's Kingmaker
+T8_2H_CLAYMORE_AVALON@3:Elder's Kingmaker
+T8_2H_CLAYMORE_AVALON@4:Elder's Kingmaker
+T4_MAIN_SWORD_CRYSTAL:Adept's Infinity Blade
+T4_MAIN_SWORD_CRYSTAL@1:Adept's Infinity Blade
+T4_MAIN_SWORD_CRYSTAL@2:Adept's Infinity Blade
+T4_MAIN_SWORD_CRYSTAL@3:Adept's Infinity Blade
+T4_MAIN_SWORD_CRYSTAL@4:Adept's Infinity Blade
+T5_MAIN_SWORD_CRYSTAL:Expert's Infinity Blade
+T5_MAIN_SWORD_CRYSTAL@1:Expert's Infinity Blade
+T5_MAIN_SWORD_CRYSTAL@2:Expert's Infinity Blade
+T5_MAIN_SWORD_CRYSTAL@3:Expert's Infinity Blade
+T5_MAIN_SWORD_CRYSTAL@4:Expert's Infinity Blade
+T6_MAIN_SWORD_CRYSTAL:Master's Infinity Blade
+T6_MAIN_SWORD_CRYSTAL@1:Master's Infinity Blade
+T6_MAIN_SWORD_CRYSTAL@2:Master's Infinity Blade
+T6_MAIN_SWORD_CRYSTAL@3:Master's Infinity Blade
+T6_MAIN_SWORD_CRYSTAL@4:Master's Infinity Blade
+T7_MAIN_SWORD_CRYSTAL:Grandmaster's Infinity Blade
+T7_MAIN_SWORD_CRYSTAL@1:Grandmaster's Infinity Blade
+T7_MAIN_SWORD_CRYSTAL@2:Grandmaster's Infinity Blade
+T7_MAIN_SWORD_CRYSTAL@3:Grandmaster's Infinity Blade
+T7_MAIN_SWORD_CRYSTAL@4:Grandmaster's Infinity Blade
+T8_MAIN_SWORD_CRYSTAL:Elder's Infinity Blade
+T8_MAIN_SWORD_CRYSTAL@1:Elder's Infinity Blade
+T8_MAIN_SWORD_CRYSTAL@2:Elder's Infinity Blade
+T8_MAIN_SWORD_CRYSTAL@3:Elder's Infinity Blade
+T8_MAIN_SWORD_CRYSTAL@4:Elder's Infinity Blade

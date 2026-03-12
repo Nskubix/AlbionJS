@@ -1,0 +1,200 @@
+T4_MAIN_MACE:Adept's Mace
+T4_MAIN_MACE@1:Adept's Mace
+T4_MAIN_MACE@2:Adept's Mace
+T4_MAIN_MACE@3:Adept's Mace
+T4_MAIN_MACE@4:Adept's Mace
+T5_MAIN_MACE:Expert's Mace
+T5_MAIN_MACE@1:Expert's Mace
+T5_MAIN_MACE@2:Expert's Mace
+T5_MAIN_MACE@3:Expert's Mace
+T5_MAIN_MACE@4:Expert's Mace
+T6_MAIN_MACE:Master's Mace
+T6_MAIN_MACE@1:Master's Mace
+T6_MAIN_MACE@2:Master's Mace
+T6_MAIN_MACE@3:Master's Mace
+T6_MAIN_MACE@4:Master's Mace
+T7_MAIN_MACE:Grandmaster's Mace
+T7_MAIN_MACE@1:Grandmaster's Mace
+T7_MAIN_MACE@2:Grandmaster's Mace
+T7_MAIN_MACE@3:Grandmaster's Mace
+T7_MAIN_MACE@4:Grandmaster's Mace
+T8_MAIN_MACE:Elder's Mace
+T8_MAIN_MACE@1:Elder's Mace
+T8_MAIN_MACE@2:Elder's Mace
+T8_MAIN_MACE@3:Elder's Mace
+T8_MAIN_MACE@4:Elder's Mace
+T4_2H_MACE:Adept's Heavy Mace
+T4_2H_MACE@1:Adept's Heavy Mace
+T4_2H_MACE@2:Adept's Heavy Mace
+T4_2H_MACE@3:Adept's Heavy Mace
+T4_2H_MACE@4:Adept's Heavy Mace
+T5_2H_MACE:Expert's Heavy Mace
+T5_2H_MACE@1:Expert's Heavy Mace
+T5_2H_MACE@2:Expert's Heavy Mace
+T5_2H_MACE@3:Expert's Heavy Mace
+T5_2H_MACE@4:Expert's Heavy Mace
+T6_2H_MACE:Master's Heavy Mace
+T6_2H_MACE@1:Master's Heavy Mace
+T6_2H_MACE@2:Master's Heavy Mace
+T6_2H_MACE@3:Master's Heavy Mace
+T6_2H_MACE@4:Master's Heavy Mace
+T7_2H_MACE:Grandmaster's Heavy Mace
+T7_2H_MACE@1:Grandmaster's Heavy Mace
+T7_2H_MACE@2:Grandmaster's Heavy Mace
+T7_2H_MACE@3:Grandmaster's Heavy Mace
+T7_2H_MACE@4:Grandmaster's Heavy Mace
+T8_2H_MACE:Elder's Heavy Mace
+T8_2H_MACE@1:Elder's Heavy Mace
+T8_2H_MACE@2:Elder's Heavy Mace
+T8_2H_MACE@3:Elder's Heavy Mace
+T8_2H_MACE@4:Elder's Heavy Mace
+T4_2H_FLAIL:Adept's Morning Star
+T4_2H_FLAIL@1:Adept's Morning Star
+T4_2H_FLAIL@2:Adept's Morning Star
+T4_2H_FLAIL@3:Adept's Morning Star
+T4_2H_FLAIL@4:Adept's Morning Star
+T5_2H_FLAIL:Expert's Morning Star
+T5_2H_FLAIL@1:Expert's Morning Star
+T5_2H_FLAIL@2:Expert's Morning Star
+T5_2H_FLAIL@3:Expert's Morning Star
+T5_2H_FLAIL@4:Expert's Morning Star
+T6_2H_FLAIL:Master's Morning Star
+T6_2H_FLAIL@1:Master's Morning Star
+T6_2H_FLAIL@2:Master's Morning Star
+T6_2H_FLAIL@3:Master's Morning Star
+T6_2H_FLAIL@4:Master's Morning Star
+T7_2H_FLAIL:Grandmaster's Morning Star
+T7_2H_FLAIL@1:Grandmaster's Morning Star
+T7_2H_FLAIL@2:Grandmaster's Morning Star
+T7_2H_FLAIL@3:Grandmaster's Morning Star
+T7_2H_FLAIL@4:Grandmaster's Morning Star
+T8_2H_FLAIL:Elder's Morning Star
+T8_2H_FLAIL@1:Elder's Morning Star
+T8_2H_FLAIL@2:Elder's Morning Star
+T8_2H_FLAIL@3:Elder's Morning Star
+T8_2H_FLAIL@4:Elder's Morning Star
+T4_MAIN_ROCKMACE_KEEPER:Adept's Bedrock Mace
+T4_MAIN_ROCKMACE_KEEPER@1:Adept's Bedrock Mace
+T4_MAIN_ROCKMACE_KEEPER@2:Adept's Bedrock Mace
+T4_MAIN_ROCKMACE_KEEPER@3:Adept's Bedrock Mace
+T4_MAIN_ROCKMACE_KEEPER@4:Adept's Bedrock Mace
+T5_MAIN_ROCKMACE_KEEPER:Expert's Bedrock Mace
+T5_MAIN_ROCKMACE_KEEPER@1:Expert's Bedrock Mace
+T5_MAIN_ROCKMACE_KEEPER@2:Expert's Bedrock Mace
+T5_MAIN_ROCKMACE_KEEPER@3:Expert's Bedrock Mace
+T5_MAIN_ROCKMACE_KEEPER@4:Expert's Bedrock Mace
+T6_MAIN_ROCKMACE_KEEPER:Master's Bedrock Mace
+T6_MAIN_ROCKMACE_KEEPER@1:Master's Bedrock Mace
+T6_MAIN_ROCKMACE_KEEPER@2:Master's Bedrock Mace
+T6_MAIN_ROCKMACE_KEEPER@3:Master's Bedrock Mace
+T6_MAIN_ROCKMACE_KEEPER@4:Master's Bedrock Mace
+T7_MAIN_ROCKMACE_KEEPER:Grandmaster's Bedrock Mace
+T7_MAIN_ROCKMACE_KEEPER@1:Grandmaster's Bedrock Mace
+T7_MAIN_ROCKMACE_KEEPER@2:Grandmaster's Bedrock Mace
+T7_MAIN_ROCKMACE_KEEPER@3:Grandmaster's Bedrock Mace
+T7_MAIN_ROCKMACE_KEEPER@4:Grandmaster's Bedrock Mace
+T8_MAIN_ROCKMACE_KEEPER:Elder's Bedrock Mace
+T8_MAIN_ROCKMACE_KEEPER@1:Elder's Bedrock Mace
+T8_MAIN_ROCKMACE_KEEPER@2:Elder's Bedrock Mace
+T8_MAIN_ROCKMACE_KEEPER@3:Elder's Bedrock Mace
+T8_MAIN_ROCKMACE_KEEPER@4:Elder's Bedrock Mace
+T4_MAIN_MACE_HELL:Adept's Incubus Mace
+T4_MAIN_MACE_HELL@1:Adept's Incubus Mace
+T4_MAIN_MACE_HELL@2:Adept's Incubus Mace
+T4_MAIN_MACE_HELL@3:Adept's Incubus Mace
+T4_MAIN_MACE_HELL@4:Adept's Incubus Mace
+T5_MAIN_MACE_HELL:Expert's Incubus Mace
+T5_MAIN_MACE_HELL@1:Expert's Incubus Mace
+T5_MAIN_MACE_HELL@2:Expert's Incubus Mace
+T5_MAIN_MACE_HELL@3:Expert's Incubus Mace
+T5_MAIN_MACE_HELL@4:Expert's Incubus Mace
+T6_MAIN_MACE_HELL:Master's Incubus Mace
+T6_MAIN_MACE_HELL@1:Master's Incubus Mace
+T6_MAIN_MACE_HELL@2:Master's Incubus Mace
+T6_MAIN_MACE_HELL@3:Master's Incubus Mace
+T6_MAIN_MACE_HELL@4:Master's Incubus Mace
+T7_MAIN_MACE_HELL:Grandmaster's Incubus Mace
+T7_MAIN_MACE_HELL@1:Grandmaster's Incubus Mace
+T7_MAIN_MACE_HELL@2:Grandmaster's Incubus Mace
+T7_MAIN_MACE_HELL@3:Grandmaster's Incubus Mace
+T7_MAIN_MACE_HELL@4:Grandmaster's Incubus Mace
+T8_MAIN_MACE_HELL:Elder's Incubus Mace
+T8_MAIN_MACE_HELL@1:Elder's Incubus Mace
+T8_MAIN_MACE_HELL@2:Elder's Incubus Mace
+T8_MAIN_MACE_HELL@3:Elder's Incubus Mace
+T8_MAIN_MACE_HELL@4:Elder's Incubus Mace
+T4_2H_MACE_MORGANA:Adept's Camlann Mace
+T4_2H_MACE_MORGANA@1:Adept's Camlann Mace
+T4_2H_MACE_MORGANA@2:Adept's Camlann Mace
+T4_2H_MACE_MORGANA@3:Adept's Camlann Mace
+T4_2H_MACE_MORGANA@4:Adept's Camlann Mace
+T5_2H_MACE_MORGANA:Expert's Camlann Mace
+T5_2H_MACE_MORGANA@1:Expert's Camlann Mace
+T5_2H_MACE_MORGANA@2:Expert's Camlann Mace
+T5_2H_MACE_MORGANA@3:Expert's Camlann Mace
+T5_2H_MACE_MORGANA@4:Expert's Camlann Mace
+T6_2H_MACE_MORGANA:Master's Camlann Mace
+T6_2H_MACE_MORGANA@1:Master's Camlann Mace
+T6_2H_MACE_MORGANA@2:Master's Camlann Mace
+T6_2H_MACE_MORGANA@3:Master's Camlann Mace
+T6_2H_MACE_MORGANA@4:Master's Camlann Mace
+T7_2H_MACE_MORGANA:Grandmaster's Camlann Mace
+T7_2H_MACE_MORGANA@1:Grandmaster's Camlann Mace
+T7_2H_MACE_MORGANA@2:Grandmaster's Camlann Mace
+T7_2H_MACE_MORGANA@3:Grandmaster's Camlann Mace
+T7_2H_MACE_MORGANA@4:Grandmaster's Camlann Mace
+T8_2H_MACE_MORGANA:Elder's Camlann Mace
+T8_2H_MACE_MORGANA@1:Elder's Camlann Mace
+T8_2H_MACE_MORGANA@2:Elder's Camlann Mace
+T8_2H_MACE_MORGANA@3:Elder's Camlann Mace
+T8_2H_MACE_MORGANA@4:Elder's Camlann Mace
+T4_2H_DUALMACE_AVALON:Adept's Oathkeepers
+T4_2H_DUALMACE_AVALON@1:Adept's Oathkeepers
+T4_2H_DUALMACE_AVALON@2:Adept's Oathkeepers
+T4_2H_DUALMACE_AVALON@3:Adept's Oathkeepers
+T4_2H_DUALMACE_AVALON@4:Adept's Oathkeepers
+T5_2H_DUALMACE_AVALON:Expert's Oathkeepers
+T5_2H_DUALMACE_AVALON@1:Expert's Oathkeepers
+T5_2H_DUALMACE_AVALON@2:Expert's Oathkeepers
+T5_2H_DUALMACE_AVALON@3:Expert's Oathkeepers
+T5_2H_DUALMACE_AVALON@4:Expert's Oathkeepers
+T6_2H_DUALMACE_AVALON:Master's Oathkeepers
+T6_2H_DUALMACE_AVALON@1:Master's Oathkeepers
+T6_2H_DUALMACE_AVALON@2:Master's Oathkeepers
+T6_2H_DUALMACE_AVALON@3:Master's Oathkeepers
+T6_2H_DUALMACE_AVALON@4:Master's Oathkeepers
+T7_2H_DUALMACE_AVALON:Grandmaster's Oathkeepers
+T7_2H_DUALMACE_AVALON@1:Grandmaster's Oathkeepers
+T7_2H_DUALMACE_AVALON@2:Grandmaster's Oathkeepers
+T7_2H_DUALMACE_AVALON@3:Grandmaster's Oathkeepers
+T7_2H_DUALMACE_AVALON@4:Grandmaster's Oathkeepers
+T8_2H_DUALMACE_AVALON:Elder's Oathkeepers
+T8_2H_DUALMACE_AVALON@1:Elder's Oathkeepers
+T8_2H_DUALMACE_AVALON@2:Elder's Oathkeepers
+T8_2H_DUALMACE_AVALON@3:Elder's Oathkeepers
+T8_2H_DUALMACE_AVALON@4:Elder's Oathkeepers
+T4_MAIN_MACE_CRYSTAL:Adept's Dreadstorm Monarch
+T4_MAIN_MACE_CRYSTAL@1:Adept's Dreadstorm Monarch
+T4_MAIN_MACE_CRYSTAL@2:Adept's Dreadstorm Monarch
+T4_MAIN_MACE_CRYSTAL@3:Adept's Dreadstorm Monarch
+T4_MAIN_MACE_CRYSTAL@4:Adept's Dreadstorm Monarch
+T5_MAIN_MACE_CRYSTAL:Expert's Dreadstorm Monarch
+T5_MAIN_MACE_CRYSTAL@1:Expert's Dreadstorm Monarch
+T5_MAIN_MACE_CRYSTAL@2:Expert's Dreadstorm Monarch
+T5_MAIN_MACE_CRYSTAL@3:Expert's Dreadstorm Monarch
+T5_MAIN_MACE_CRYSTAL@4:Expert's Dreadstorm Monarch
+T6_MAIN_MACE_CRYSTAL:Master's Dreadstorm Monarch
+T6_MAIN_MACE_CRYSTAL@1:Master's Dreadstorm Monarch
+T6_MAIN_MACE_CRYSTAL@2:Master's Dreadstorm Monarch
+T6_MAIN_MACE_CRYSTAL@3:Master's Dreadstorm Monarch
+T6_MAIN_MACE_CRYSTAL@4:Master's Dreadstorm Monarch
+T7_MAIN_MACE_CRYSTAL:Grandmaster's Dreadstorm Monarch
+T7_MAIN_MACE_CRYSTAL@1:Grandmaster's Dreadstorm Monarch
+T7_MAIN_MACE_CRYSTAL@2:Grandmaster's Dreadstorm Monarch
+T7_MAIN_MACE_CRYSTAL@3:Grandmaster's Dreadstorm Monarch
+T7_MAIN_MACE_CRYSTAL@4:Grandmaster's Dreadstorm Monarch
+T8_MAIN_MACE_CRYSTAL:Elder's Dreadstorm Monarch
+T8_MAIN_MACE_CRYSTAL@1:Elder's Dreadstorm Monarch
+T8_MAIN_MACE_CRYSTAL@2:Elder's Dreadstorm Monarch
+T8_MAIN_MACE_CRYSTAL@3:Elder's Dreadstorm Monarch
+T8_MAIN_MACE_CRYSTAL@4:Elder's Dreadstorm Monarch

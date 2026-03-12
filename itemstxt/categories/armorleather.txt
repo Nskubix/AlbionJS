@@ -1,0 +1,225 @@
+T4_ARMOR_LEATHER_SET1:Adept's Mercenary Jacket
+T4_ARMOR_LEATHER_SET1@1:Adept's Mercenary Jacket
+T4_ARMOR_LEATHER_SET1@2:Adept's Mercenary Jacket
+T4_ARMOR_LEATHER_SET1@3:Adept's Mercenary Jacket
+T4_ARMOR_LEATHER_SET1@4:Adept's Mercenary Jacket
+T5_ARMOR_LEATHER_SET1:Expert's Mercenary Jacket
+T5_ARMOR_LEATHER_SET1@1:Expert's Mercenary Jacket
+T5_ARMOR_LEATHER_SET1@2:Expert's Mercenary Jacket
+T5_ARMOR_LEATHER_SET1@3:Expert's Mercenary Jacket
+T5_ARMOR_LEATHER_SET1@4:Expert's Mercenary Jacket
+T6_ARMOR_LEATHER_SET1:Master's Mercenary Jacket
+T6_ARMOR_LEATHER_SET1@1:Master's Mercenary Jacket
+T6_ARMOR_LEATHER_SET1@2:Master's Mercenary Jacket
+T6_ARMOR_LEATHER_SET1@3:Master's Mercenary Jacket
+T6_ARMOR_LEATHER_SET1@4:Master's Mercenary Jacket
+T7_ARMOR_LEATHER_SET1:Grandmaster's Mercenary Jacket
+T7_ARMOR_LEATHER_SET1@1:Grandmaster's Mercenary Jacket
+T7_ARMOR_LEATHER_SET1@2:Grandmaster's Mercenary Jacket
+T7_ARMOR_LEATHER_SET1@3:Grandmaster's Mercenary Jacket
+T7_ARMOR_LEATHER_SET1@4:Grandmaster's Mercenary Jacket
+T8_ARMOR_LEATHER_SET1:Elder's Mercenary Jacket
+T8_ARMOR_LEATHER_SET1@1:Elder's Mercenary Jacket
+T8_ARMOR_LEATHER_SET1@2:Elder's Mercenary Jacket
+T8_ARMOR_LEATHER_SET1@3:Elder's Mercenary Jacket
+T8_ARMOR_LEATHER_SET1@4:Elder's Mercenary Jacket
+T4_ARMOR_LEATHER_SET2:Adept's Hunter Jacket
+T4_ARMOR_LEATHER_SET2@1:Adept's Hunter Jacket
+T4_ARMOR_LEATHER_SET2@2:Adept's Hunter Jacket
+T4_ARMOR_LEATHER_SET2@3:Adept's Hunter Jacket
+T4_ARMOR_LEATHER_SET2@4:Adept's Hunter Jacket
+T5_ARMOR_LEATHER_SET2:Expert's Hunter Jacket
+T5_ARMOR_LEATHER_SET2@1:Expert's Hunter Jacket
+T5_ARMOR_LEATHER_SET2@2:Expert's Hunter Jacket
+T5_ARMOR_LEATHER_SET2@3:Expert's Hunter Jacket
+T5_ARMOR_LEATHER_SET2@4:Expert's Hunter Jacket
+T6_ARMOR_LEATHER_SET2:Master's Hunter Jacket
+T6_ARMOR_LEATHER_SET2@1:Master's Hunter Jacket
+T6_ARMOR_LEATHER_SET2@2:Master's Hunter Jacket
+T6_ARMOR_LEATHER_SET2@3:Master's Hunter Jacket
+T6_ARMOR_LEATHER_SET2@4:Master's Hunter Jacket
+T7_ARMOR_LEATHER_SET2:Grandmaster's Hunter Jacket
+T7_ARMOR_LEATHER_SET2@1:Grandmaster's Hunter Jacket
+T7_ARMOR_LEATHER_SET2@2:Grandmaster's Hunter Jacket
+T7_ARMOR_LEATHER_SET2@3:Grandmaster's Hunter Jacket
+T7_ARMOR_LEATHER_SET2@4:Grandmaster's Hunter Jacket
+T8_ARMOR_LEATHER_SET2:Elder's Hunter Jacket
+T8_ARMOR_LEATHER_SET2@1:Elder's Hunter Jacket
+T8_ARMOR_LEATHER_SET2@2:Elder's Hunter Jacket
+T8_ARMOR_LEATHER_SET2@3:Elder's Hunter Jacket
+T8_ARMOR_LEATHER_SET2@4:Elder's Hunter Jacket
+T4_ARMOR_LEATHER_SET3:Adept's Assassin Jacket
+T4_ARMOR_LEATHER_SET3@1:Adept's Assassin Jacket
+T4_ARMOR_LEATHER_SET3@2:Adept's Assassin Jacket
+T4_ARMOR_LEATHER_SET3@3:Adept's Assassin Jacket
+T4_ARMOR_LEATHER_SET3@4:Adept's Assassin Jacket
+T5_ARMOR_LEATHER_SET3:Expert's Assassin Jacket
+T5_ARMOR_LEATHER_SET3@1:Expert's Assassin Jacket
+T5_ARMOR_LEATHER_SET3@2:Expert's Assassin Jacket
+T5_ARMOR_LEATHER_SET3@3:Expert's Assassin Jacket
+T5_ARMOR_LEATHER_SET3@4:Expert's Assassin Jacket
+T6_ARMOR_LEATHER_SET3:Master's Assassin Jacket
+T6_ARMOR_LEATHER_SET3@1:Master's Assassin Jacket
+T6_ARMOR_LEATHER_SET3@2:Master's Assassin Jacket
+T6_ARMOR_LEATHER_SET3@3:Master's Assassin Jacket
+T6_ARMOR_LEATHER_SET3@4:Master's Assassin Jacket
+T7_ARMOR_LEATHER_SET3:Grandmaster's Assassin Jacket
+T7_ARMOR_LEATHER_SET3@1:Grandmaster's Assassin Jacket
+T7_ARMOR_LEATHER_SET3@2:Grandmaster's Assassin Jacket
+T7_ARMOR_LEATHER_SET3@3:Grandmaster's Assassin Jacket
+T7_ARMOR_LEATHER_SET3@4:Grandmaster's Assassin Jacket
+T8_ARMOR_LEATHER_SET3:Elder's Assassin Jacket
+T8_ARMOR_LEATHER_SET3@1:Elder's Assassin Jacket
+T8_ARMOR_LEATHER_SET3@2:Elder's Assassin Jacket
+T8_ARMOR_LEATHER_SET3@3:Elder's Assassin Jacket
+T8_ARMOR_LEATHER_SET3@4:Elder's Assassin Jacket
+T4_ARMOR_LEATHER_MORGANA:Adept's Stalker Jacket
+T4_ARMOR_LEATHER_MORGANA@1:Adept's Stalker Jacket
+T4_ARMOR_LEATHER_MORGANA@2:Adept's Stalker Jacket
+T4_ARMOR_LEATHER_MORGANA@3:Adept's Stalker Jacket
+T4_ARMOR_LEATHER_MORGANA@4:Adept's Stalker Jacket
+T5_ARMOR_LEATHER_MORGANA:Expert's Stalker Jacket
+T5_ARMOR_LEATHER_MORGANA@1:Expert's Stalker Jacket
+T5_ARMOR_LEATHER_MORGANA@2:Expert's Stalker Jacket
+T5_ARMOR_LEATHER_MORGANA@3:Expert's Stalker Jacket
+T5_ARMOR_LEATHER_MORGANA@4:Expert's Stalker Jacket
+T6_ARMOR_LEATHER_MORGANA:Master's Stalker Jacket
+T6_ARMOR_LEATHER_MORGANA@1:Master's Stalker Jacket
+T6_ARMOR_LEATHER_MORGANA@2:Master's Stalker Jacket
+T6_ARMOR_LEATHER_MORGANA@3:Master's Stalker Jacket
+T6_ARMOR_LEATHER_MORGANA@4:Master's Stalker Jacket
+T7_ARMOR_LEATHER_MORGANA:Grandmaster's Stalker Jacket
+T7_ARMOR_LEATHER_MORGANA@1:Grandmaster's Stalker Jacket
+T7_ARMOR_LEATHER_MORGANA@2:Grandmaster's Stalker Jacket
+T7_ARMOR_LEATHER_MORGANA@3:Grandmaster's Stalker Jacket
+T7_ARMOR_LEATHER_MORGANA@4:Grandmaster's Stalker Jacket
+T8_ARMOR_LEATHER_MORGANA:Elder's Stalker Jacket
+T8_ARMOR_LEATHER_MORGANA@1:Elder's Stalker Jacket
+T8_ARMOR_LEATHER_MORGANA@2:Elder's Stalker Jacket
+T8_ARMOR_LEATHER_MORGANA@3:Elder's Stalker Jacket
+T8_ARMOR_LEATHER_MORGANA@4:Elder's Stalker Jac
+T4_ARMOR_LEATHER_HELL:Adept's Hellion Jacket
+T4_ARMOR_LEATHER_HELL@1:Adept's Hellion Jacket
+T4_ARMOR_LEATHER_HELL@2:Adept's Hellion Jacket
+T4_ARMOR_LEATHER_HELL@3:Adept's Hellion Jacket
+T4_ARMOR_LEATHER_HELL@4:Adept's Hellion Jacket
+T5_ARMOR_LEATHER_HELL:Expert's Hellion Jacket
+T5_ARMOR_LEATHER_HELL@1:Expert's Hellion Jacket
+T5_ARMOR_LEATHER_HELL@2:Expert's Hellion Jacket
+T5_ARMOR_LEATHER_HELL@3:Expert's Hellion Jacket
+T5_ARMOR_LEATHER_HELL@4:Expert's Hellion Jacket
+T6_ARMOR_LEATHER_HELL:Master's Hellion Jacket
+T6_ARMOR_LEATHER_HELL@1:Master's Hellion Jacket
+T6_ARMOR_LEATHER_HELL@2:Master's Hellion Jacket
+T6_ARMOR_LEATHER_HELL@3:Master's Hellion Jacket
+T6_ARMOR_LEATHER_HELL@4:Master's Hellion Jacket
+T7_ARMOR_LEATHER_HELL:Grandmaster's Hellion Jacket
+T7_ARMOR_LEATHER_HELL@1:Grandmaster's Hellion Jacket
+T7_ARMOR_LEATHER_HELL@2:Grandmaster's Hellion Jacket
+T7_ARMOR_LEATHER_HELL@3:Grandmaster's Hellion Jacket
+T7_ARMOR_LEATHER_HELL@4:Grandmaster's Hellion Jacket
+T8_ARMOR_LEATHER_HELL:Elder's Hellion Jacket
+T8_ARMOR_LEATHER_HELL@1:Elder's Hellion Jacket
+T8_ARMOR_LEATHER_HELL@2:Elder's Hellion Jacket
+T8_ARMOR_LEATHER_HELL@3:Elder's Hellion Jacket
+T8_ARMOR_LEATHER_HELL@4:Elder's Hellion Jacket
+T4_ARMOR_LEATHER_UNDEAD:Adept's Specter Jacket
+T4_ARMOR_LEATHER_UNDEAD@1:Adept's Specter Jacket
+T4_ARMOR_LEATHER_UNDEAD@2:Adept's Specter Jacket
+T4_ARMOR_LEATHER_UNDEAD@3:Adept's Specter Jacket
+T4_ARMOR_LEATHER_UNDEAD@4:Adept's Specter Jacket
+T5_ARMOR_LEATHER_UNDEAD:Expert's Specter Jacket
+T5_ARMOR_LEATHER_UNDEAD@1:Expert's Specter Jacket
+T5_ARMOR_LEATHER_UNDEAD@2:Expert's Specter Jacket
+T5_ARMOR_LEATHER_UNDEAD@3:Expert's Specter Jacket
+T5_ARMOR_LEATHER_UNDEAD@4:Expert's Specter Jacket
+T6_ARMOR_LEATHER_UNDEAD:Master's Specter Jacket
+T6_ARMOR_LEATHER_UNDEAD@1:Master's Specter Jacket
+T6_ARMOR_LEATHER_UNDEAD@2:Master's Specter Jacket
+T6_ARMOR_LEATHER_UNDEAD@3:Master's Specter Jacket
+T6_ARMOR_LEATHER_UNDEAD@4:Master's Specter Jacket
+T7_ARMOR_LEATHER_UNDEAD:Grandmaster's Specter Jacket
+T7_ARMOR_LEATHER_UNDEAD@1:Grandmaster's Specter Jacket
+T7_ARMOR_LEATHER_UNDEAD@2:Grandmaster's Specter Jacket
+T7_ARMOR_LEATHER_UNDEAD@3:Grandmaster's Specter Jacket
+T7_ARMOR_LEATHER_UNDEAD@4:Grandmaster's Specter Jacket
+T8_ARMOR_LEATHER_UNDEAD:Elder's Specter Jacket
+T8_ARMOR_LEATHER_UNDEAD@1:Elder's Specter Jacket
+T8_ARMOR_LEATHER_UNDEAD@2:Elder's Specter Jacket
+T8_ARMOR_LEATHER_UNDEAD@3:Elder's Specter Jacket
+T8_ARMOR_LEATHER_UNDEAD@4:Elder's Specter Jacket
+T4_ARMOR_LEATHER_FEY:Adept's Mistwalker Jacket
+T4_ARMOR_LEATHER_FEY@1:Adept's Mistwalker Jacket
+T4_ARMOR_LEATHER_FEY@2:Adept's Mistwalker Jacket
+T4_ARMOR_LEATHER_FEY@3:Adept's Mistwalker Jacket
+T4_ARMOR_LEATHER_FEY@4:Adept's Mistwalker Jacket
+T5_ARMOR_LEATHER_FEY:Expert's Mistwalker Jacket
+T5_ARMOR_LEATHER_FEY@1:Expert's Mistwalker Jacket
+T5_ARMOR_LEATHER_FEY@2:Expert's Mistwalker Jacket
+T5_ARMOR_LEATHER_FEY@3:Expert's Mistwalker Jacket
+T5_ARMOR_LEATHER_FEY@4:Expert's Mistwalker Jacket
+T6_ARMOR_LEATHER_FEY:Master's Mistwalker Jacket
+T6_ARMOR_LEATHER_FEY@1:Master's Mistwalker Jacket
+T6_ARMOR_LEATHER_FEY@2:Master's Mistwalker Jacket
+T6_ARMOR_LEATHER_FEY@3:Master's Mistwalker Jacket
+T6_ARMOR_LEATHER_FEY@4:Master's Mistwalker Jacket
+T7_ARMOR_LEATHER_FEY:Grandmaster's Mistwalker Jacket
+T7_ARMOR_LEATHER_FEY@1:Grandmaster's Mistwalker Jacket
+T7_ARMOR_LEATHER_FEY@2:Grandmaster's Mistwalker Jacket
+T7_ARMOR_LEATHER_FEY@3:Grandmaster's Mistwalker Jacket
+T7_ARMOR_LEATHER_FEY@4:Grandmaster's Mistwalker Jacket
+T8_ARMOR_LEATHER_FEY:Elder's Mistwalker Jacket
+T8_ARMOR_LEATHER_FEY@1:Elder's Mistwalker Jacket
+T8_ARMOR_LEATHER_FEY@2:Elder's Mistwalker Jacket
+T8_ARMOR_LEATHER_FEY@3:Elder's Mistwalker Jacket
+T8_ARMOR_LEATHER_FEY@4:Elder's Mistwalker Jacket
+T4_ARMOR_LEATHER_AVALON:Adept's Jacket of Tenacity
+T4_ARMOR_LEATHER_AVALON@1:Adept's Jacket of Tenacity
+T4_ARMOR_LEATHER_AVALON@2:Adept's Jacket of Tenacity
+T4_ARMOR_LEATHER_AVALON@3:Adept's Jacket of Tenacity
+T4_ARMOR_LEATHER_AVALON@4:Adept's Jacket of Tenacity
+T5_ARMOR_LEATHER_AVALON:Expert's Jacket of Tenacity
+T5_ARMOR_LEATHER_AVALON@1:Expert's Jacket of Tenacity
+T5_ARMOR_LEATHER_AVALON@2:Expert's Jacket of Tenacity
+T5_ARMOR_LEATHER_AVALON@3:Expert's Jacket of Tenacity
+T5_ARMOR_LEATHER_AVALON@4:Expert's Jacket of Tenacity
+T6_ARMOR_LEATHER_AVALON:Master's Jacket of Tenacity
+T6_ARMOR_LEATHER_AVALON@1:Master's Jacket of Tenacity
+T6_ARMOR_LEATHER_AVALON@2:Master's Jacket of Tenacity
+T6_ARMOR_LEATHER_AVALON@3:Master's Jacket of Tenacity
+T6_ARMOR_LEATHER_AVALON@4:Master's Jacket of Tenacity
+T7_ARMOR_LEATHER_AVALON:Grandmaster's Jacket of Tenacity
+T7_ARMOR_LEATHER_AVALON@1:Grandmaster's Jacket of Tenacity
+T7_ARMOR_LEATHER_AVALON@2:Grandmaster's Jacket of Tenacity
+T7_ARMOR_LEATHER_AVALON@3:Grandmaster's Jacket of Tenacity
+T7_ARMOR_LEATHER_AVALON@4:Grandmaster's Jacket of Tenacity
+T8_ARMOR_LEATHER_AVALON:Elder's Jacket of Tenacity
+T8_ARMOR_LEATHER_AVALON@1:Elder's Jacket of Tenacity
+T8_ARMOR_LEATHER_AVALON@2:Elder's Jacket of Tenacity
+T8_ARMOR_LEATHER_AVALON@3:Elder's Jacket of Tenacity
+T8_ARMOR_LEATHER_AVALON@4:Elder's Jacket of Tenacity
+T4_ARMOR_LEATHER_ROYAL:Adept's Royal Jacket
+T4_ARMOR_LEATHER_ROYAL@1:Adept's Royal Jacket
+T4_ARMOR_LEATHER_ROYAL@2:Adept's Royal Jacket
+T4_ARMOR_LEATHER_ROYAL@3:Adept's Royal Jacket
+T4_ARMOR_LEATHER_ROYAL@4:Adept's Royal Jacket
+T5_ARMOR_LEATHER_ROYAL:Expert's Royal Jacket
+T5_ARMOR_LEATHER_ROYAL@1:Expert's Royal Jacket
+T5_ARMOR_LEATHER_ROYAL@2:Expert's Royal Jacket
+T5_ARMOR_LEATHER_ROYAL@3:Expert's Royal Jacket
+T5_ARMOR_LEATHER_ROYAL@4:Expert's Royal Jacket
+T6_ARMOR_LEATHER_ROYAL:Master's Royal Jacket
+T6_ARMOR_LEATHER_ROYAL@1:Master's Royal Jacket
+T6_ARMOR_LEATHER_ROYAL@2:Master's Royal Jacket
+T6_ARMOR_LEATHER_ROYAL@3:Master's Royal Jacket
+T6_ARMOR_LEATHER_ROYAL@4:Master's Royal Jacket
+T7_ARMOR_LEATHER_ROYAL:Grandmaster's Royal Jacket
+T7_ARMOR_LEATHER_ROYAL@1:Grandmaster's Royal Jacket
+T7_ARMOR_LEATHER_ROYAL@2:Grandmaster's Royal Jacket
+T7_ARMOR_LEATHER_ROYAL@3:Grandmaster's Royal Jacket
+T7_ARMOR_LEATHER_ROYAL@4:Grandmaster's Royal Jacket
+T8_ARMOR_LEATHER_ROYAL:Elder's Royal Jacket
+T8_ARMOR_LEATHER_ROYAL@1:Elder's Royal Jacket
+T8_ARMOR_LEATHER_ROYAL@2:Elder's Royal Jacket
+T8_ARMOR_LEATHER_ROYAL@3:Elder's Royal Jacket
+T8_ARMOR_LEATHER_ROYAL@4:Elder's Royal Jacket

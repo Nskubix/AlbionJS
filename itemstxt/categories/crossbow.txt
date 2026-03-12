@@ -1,0 +1,200 @@
+T4_2H_CROSSBOW:Adept's Crossbow
+T4_2H_CROSSBOW@1:Adept's Crossbow
+T4_2H_CROSSBOW@2:Adept's Crossbow
+T4_2H_CROSSBOW@3:Adept's Crossbow
+T4_2H_CROSSBOW@4:Adept's Crossbow
+T5_2H_CROSSBOW:Expert's Crossbow
+T5_2H_CROSSBOW@1:Expert's Crossbow
+T5_2H_CROSSBOW@2:Expert's Crossbow
+T5_2H_CROSSBOW@3:Expert's Crossbow
+T5_2H_CROSSBOW@4:Expert's Crossbow
+T6_2H_CROSSBOW:Master's Crossbow
+T6_2H_CROSSBOW@1:Master's Crossbow
+T6_2H_CROSSBOW@2:Master's Crossbow
+T6_2H_CROSSBOW@3:Master's Crossbow
+T6_2H_CROSSBOW@4:Master's Crossbow
+T7_2H_CROSSBOW:Grandmaster's Crossbow
+T7_2H_CROSSBOW@1:Grandmaster's Crossbow
+T7_2H_CROSSBOW@2:Grandmaster's Crossbow
+T7_2H_CROSSBOW@3:Grandmaster's Crossbow
+T7_2H_CROSSBOW@4:Grandmaster's Crossbow
+T8_2H_CROSSBOW:Elder's Crossbow
+T8_2H_CROSSBOW@1:Elder's Crossbow
+T8_2H_CROSSBOW@2:Elder's Crossbow
+T8_2H_CROSSBOW@3:Elder's Crossbow
+T8_2H_CROSSBOW@4:Elder's Crossbow
+T4_2H_CROSSBOWLARGE:Adept's Heavy Crossbow
+T4_2H_CROSSBOWLARGE@1:Adept's Heavy Crossbow
+T4_2H_CROSSBOWLARGE@2:Adept's Heavy Crossbow
+T4_2H_CROSSBOWLARGE@3:Adept's Heavy Crossbow
+T4_2H_CROSSBOWLARGE@4:Adept's Heavy Crossbow
+T5_2H_CROSSBOWLARGE:Expert's Heavy Crossbow
+T5_2H_CROSSBOWLARGE@1:Expert's Heavy Crossbow
+T5_2H_CROSSBOWLARGE@2:Expert's Heavy Crossbow
+T5_2H_CROSSBOWLARGE@3:Expert's Heavy Crossbow
+T5_2H_CROSSBOWLARGE@4:Expert's Heavy Crossbow
+T6_2H_CROSSBOWLARGE:Master's Heavy Crossbow
+T6_2H_CROSSBOWLARGE@1:Master's Heavy Crossbow
+T6_2H_CROSSBOWLARGE@2:Master's Heavy Crossbow
+T6_2H_CROSSBOWLARGE@3:Master's Heavy Crossbow
+T6_2H_CROSSBOWLARGE@4:Master's Heavy Crossbow
+T7_2H_CROSSBOWLARGE:Grandmaster's Heavy Crossbow
+T7_2H_CROSSBOWLARGE@1:Grandmaster's Heavy Crossbow
+T7_2H_CROSSBOWLARGE@2:Grandmaster's Heavy Crossbow
+T7_2H_CROSSBOWLARGE@3:Grandmaster's Heavy Crossbow
+T7_2H_CROSSBOWLARGE@4:Grandmaster's Heavy Crossbow
+T8_2H_CROSSBOWLARGE:Elder's Heavy Crossbow
+T8_2H_CROSSBOWLARGE@1:Elder's Heavy Crossbow
+T8_2H_CROSSBOWLARGE@2:Elder's Heavy Crossbow
+T8_2H_CROSSBOWLARGE@3:Elder's Heavy Crossbow
+T8_2H_CROSSBOWLARGE@4:Elder's Heavy Crossbow
+T4_MAIN_1HCROSSBOW:Adept's Light Crossbow
+T4_MAIN_1HCROSSBOW@1:Adept's Light Crossbow
+T4_MAIN_1HCROSSBOW@2:Adept's Light Crossbow
+T4_MAIN_1HCROSSBOW@3:Adept's Light Crossbow
+T4_MAIN_1HCROSSBOW@4:Adept's Light Crossbow
+T5_MAIN_1HCROSSBOW:Expert's Light Crossbow
+T5_MAIN_1HCROSSBOW@1:Expert's Light Crossbow
+T5_MAIN_1HCROSSBOW@2:Expert's Light Crossbow
+T5_MAIN_1HCROSSBOW@3:Expert's Light Crossbow
+T5_MAIN_1HCROSSBOW@4:Expert's Light Crossbow
+T6_MAIN_1HCROSSBOW:Master's Light Crossbow
+T6_MAIN_1HCROSSBOW@1:Master's Light Crossbow
+T6_MAIN_1HCROSSBOW@2:Master's Light Crossbow
+T6_MAIN_1HCROSSBOW@3:Master's Light Crossbow
+T6_MAIN_1HCROSSBOW@4:Master's Light Crossbow
+T7_MAIN_1HCROSSBOW:Grandmaster's Light Crossbow
+T7_MAIN_1HCROSSBOW@1:Grandmaster's Light Crossbow
+T7_MAIN_1HCROSSBOW@2:Grandmaster's Light Crossbow
+T7_MAIN_1HCROSSBOW@3:Grandmaster's Light Crossbow
+T7_MAIN_1HCROSSBOW@4:Grandmaster's Light Crossbow
+T8_MAIN_1HCROSSBOW:Elder's Light Crossbow
+T8_MAIN_1HCROSSBOW@1:Elder's Light Crossbow
+T8_MAIN_1HCROSSBOW@2:Elder's Light Crossbow
+T8_MAIN_1HCROSSBOW@3:Elder's Light Crossbow
+T8_MAIN_1HCROSSBOW@4:Elder's Light Crossbow
+T4_2H_REPEATINGCROSSBOW_UNDEAD:Adept's Weeping Repeater
+T4_2H_REPEATINGCROSSBOW_UNDEAD@1:Adept's Weeping Repeater
+T4_2H_REPEATINGCROSSBOW_UNDEAD@2:Adept's Weeping Repeater
+T4_2H_REPEATINGCROSSBOW_UNDEAD@3:Adept's Weeping Repeater
+T4_2H_REPEATINGCROSSBOW_UNDEAD@4:Adept's Weeping Repeater
+T5_2H_REPEATINGCROSSBOW_UNDEAD:Expert's Weeping Repeater
+T5_2H_REPEATINGCROSSBOW_UNDEAD@1:Expert's Weeping Repeater
+T5_2H_REPEATINGCROSSBOW_UNDEAD@2:Expert's Weeping Repeater
+T5_2H_REPEATINGCROSSBOW_UNDEAD@3:Expert's Weeping Repeater
+T5_2H_REPEATINGCROSSBOW_UNDEAD@4:Expert's Weeping Repeater
+T6_2H_REPEATINGCROSSBOW_UNDEAD:Master's Weeping Repeater
+T6_2H_REPEATINGCROSSBOW_UNDEAD@1:Master's Weeping Repeater
+T6_2H_REPEATINGCROSSBOW_UNDEAD@2:Master's Weeping Repeater
+T6_2H_REPEATINGCROSSBOW_UNDEAD@3:Master's Weeping Repeater
+T6_2H_REPEATINGCROSSBOW_UNDEAD@4:Master's Weeping Repeater
+T7_2H_REPEATINGCROSSBOW_UNDEAD:Grandmaster's Weeping Repeater
+T7_2H_REPEATINGCROSSBOW_UNDEAD@1:Grandmaster's Weeping Repeater
+T7_2H_REPEATINGCROSSBOW_UNDEAD@2:Grandmaster's Weeping Repeater
+T7_2H_REPEATINGCROSSBOW_UNDEAD@3:Grandmaster's Weeping Repeater
+T7_2H_REPEATINGCROSSBOW_UNDEAD@4:Grandmaster's Weeping Repeater
+T8_2H_REPEATINGCROSSBOW_UNDEAD:Elder's Weeping Repeater
+T8_2H_REPEATINGCROSSBOW_UNDEAD@1:Elder's Weeping Repeater
+T8_2H_REPEATINGCROSSBOW_UNDEAD@2:Elder's Weeping Repeater
+T8_2H_REPEATINGCROSSBOW_UNDEAD@3:Elder's Weeping Repeater
+T8_2H_REPEATINGCROSSBOW_UNDEAD@4:Elder's Weeping Repeater
+T4_2H_DUALCROSSBOW_HELL:Adept's Boltcasters
+T4_2H_DUALCROSSBOW_HELL@1:Adept's Boltcasters
+T4_2H_DUALCROSSBOW_HELL@2:Adept's Boltcasters
+T4_2H_DUALCROSSBOW_HELL@3:Adept's Boltcasters
+T4_2H_DUALCROSSBOW_HELL@4:Adept's Boltcasters
+T5_2H_DUALCROSSBOW_HELL:Expert's Boltcasters
+T5_2H_DUALCROSSBOW_HELL@1:Expert's Boltcasters
+T5_2H_DUALCROSSBOW_HELL@2:Expert's Boltcasters
+T5_2H_DUALCROSSBOW_HELL@3:Expert's Boltcasters
+T5_2H_DUALCROSSBOW_HELL@4:Expert's Boltcasters
+T6_2H_DUALCROSSBOW_HELL:Master's Boltcasters
+T6_2H_DUALCROSSBOW_HELL@1:Master's Boltcasters
+T6_2H_DUALCROSSBOW_HELL@2:Master's Boltcasters
+T6_2H_DUALCROSSBOW_HELL@3:Master's Boltcasters
+T6_2H_DUALCROSSBOW_HELL@4:Master's Boltcasters
+T7_2H_DUALCROSSBOW_HELL:Grandmaster's Boltcasters
+T7_2H_DUALCROSSBOW_HELL@1:Grandmaster's Boltcasters
+T7_2H_DUALCROSSBOW_HELL@2:Grandmaster's Boltcasters
+T7_2H_DUALCROSSBOW_HELL@3:Grandmaster's Boltcasters
+T7_2H_DUALCROSSBOW_HELL@4:Grandmaster's Boltcasters
+T8_2H_DUALCROSSBOW_HELL:Elder's Boltcasters
+T8_2H_DUALCROSSBOW_HELL@1:Elder's Boltcasters
+T8_2H_DUALCROSSBOW_HELL@2:Elder's Boltcasters
+T8_2H_DUALCROSSBOW_HELL@3:Elder's Boltcasters
+T8_2H_DUALCROSSBOW_HELL@4:Elder's Boltcasters
+T4_2H_CROSSBOWLARGE_MORGANA:Adept's Siegebow
+T4_2H_CROSSBOWLARGE_MORGANA@1:Adept's Siegebow
+T4_2H_CROSSBOWLARGE_MORGANA@2:Adept's Siegebow
+T4_2H_CROSSBOWLARGE_MORGANA@3:Adept's Siegebow
+T4_2H_CROSSBOWLARGE_MORGANA@4:Adept's Siegebow
+T5_2H_CROSSBOWLARGE_MORGANA:Expert's Siegebow
+T5_2H_CROSSBOWLARGE_MORGANA@1:Expert's Siegebow
+T5_2H_CROSSBOWLARGE_MORGANA@2:Expert's Siegebow
+T5_2H_CROSSBOWLARGE_MORGANA@3:Expert's Siegebow
+T5_2H_CROSSBOWLARGE_MORGANA@4:Expert's Siegebow
+T6_2H_CROSSBOWLARGE_MORGANA:Master's Siegebow
+T6_2H_CROSSBOWLARGE_MORGANA@1:Master's Siegebow
+T6_2H_CROSSBOWLARGE_MORGANA@2:Master's Siegebow
+T6_2H_CROSSBOWLARGE_MORGANA@3:Master's Siegebow
+T6_2H_CROSSBOWLARGE_MORGANA@4:Master's Siegebow
+T7_2H_CROSSBOWLARGE_MORGANA:Grandmaster's Siegebow
+T7_2H_CROSSBOWLARGE_MORGANA@1:Grandmaster's Siegebow
+T7_2H_CROSSBOWLARGE_MORGANA@2:Grandmaster's Siegebow
+T7_2H_CROSSBOWLARGE_MORGANA@3:Grandmaster's Siegebow
+T7_2H_CROSSBOWLARGE_MORGANA@4:Grandmaster's Siegebow
+T8_2H_CROSSBOWLARGE_MORGANA:Elder's Siegebow
+T8_2H_CROSSBOWLARGE_MORGANA@1:Elder's Siegebow
+T8_2H_CROSSBOWLARGE_MORGANA@2:Elder's Siegebow
+T8_2H_CROSSBOWLARGE_MORGANA@3:Elder's Siegebow
+T8_2H_CROSSBOWLARGE_MORGANA@4:Elder's Siegebow
+T4_2H_CROSSBOW_CANNON_AVALON:Adept's Energy Shaper
+T4_2H_CROSSBOW_CANNON_AVALON@1:Adept's Energy Shaper
+T4_2H_CROSSBOW_CANNON_AVALON@2:Adept's Energy Shaper
+T4_2H_CROSSBOW_CANNON_AVALON@3:Adept's Energy Shaper
+T4_2H_CROSSBOW_CANNON_AVALON@4:Adept's Energy Shaper
+T5_2H_CROSSBOW_CANNON_AVALON:Expert's Energy Shaper
+T5_2H_CROSSBOW_CANNON_AVALON@1:Expert's Energy Shaper
+T5_2H_CROSSBOW_CANNON_AVALON@2:Expert's Energy Shaper
+T5_2H_CROSSBOW_CANNON_AVALON@3:Expert's Energy Shaper
+T5_2H_CROSSBOW_CANNON_AVALON@4:Expert's Energy Shaper
+T6_2H_CROSSBOW_CANNON_AVALON:Master's Energy Shaper
+T6_2H_CROSSBOW_CANNON_AVALON@1:Master's Energy Shaper
+T6_2H_CROSSBOW_CANNON_AVALON@2:Master's Energy Shaper
+T6_2H_CROSSBOW_CANNON_AVALON@3:Master's Energy Shaper
+T6_2H_CROSSBOW_CANNON_AVALON@4:Master's Energy Shaper
+T7_2H_CROSSBOW_CANNON_AVALON:Grandmaster's Energy Shaper
+T7_2H_CROSSBOW_CANNON_AVALON@1:Grandmaster's Energy Shaper
+T7_2H_CROSSBOW_CANNON_AVALON@2:Grandmaster's Energy Shaper
+T7_2H_CROSSBOW_CANNON_AVALON@3:Grandmaster's Energy Shaper
+T7_2H_CROSSBOW_CANNON_AVALON@4:Grandmaster's Energy Shaper
+T8_2H_CROSSBOW_CANNON_AVALON:Elder's Energy Shaper
+T8_2H_CROSSBOW_CANNON_AVALON@1:Elder's Energy Shaper
+T8_2H_CROSSBOW_CANNON_AVALON@2:Elder's Energy Shaper
+T8_2H_CROSSBOW_CANNON_AVALON@3:Elder's Energy Shaper
+T8_2H_CROSSBOW_CANNON_AVALON@4:Elder's Energy Shaper
+T4_2H_DUALCROSSBOW_CRYSTAL:Adept's Arclight Blasters
+T4_2H_DUALCROSSBOW_CRYSTAL@1:Adept's Arclight Blasters
+T4_2H_DUALCROSSBOW_CRYSTAL@2:Adept's Arclight Blasters
+T4_2H_DUALCROSSBOW_CRYSTAL@3:Adept's Arclight Blasters
+T4_2H_DUALCROSSBOW_CRYSTAL@4:Adept's Arclight Blasters
+T5_2H_DUALCROSSBOW_CRYSTAL:Expert's Arclight Blasters
+T5_2H_DUALCROSSBOW_CRYSTAL@1:Expert's Arclight Blasters
+T5_2H_DUALCROSSBOW_CRYSTAL@2:Expert's Arclight Blasters
+T5_2H_DUALCROSSBOW_CRYSTAL@3:Expert's Arclight Blasters
+T5_2H_DUALCROSSBOW_CRYSTAL@4:Expert's Arclight Blasters
+T6_2H_DUALCROSSBOW_CRYSTAL:Master's Arclight Blasters
+T6_2H_DUALCROSSBOW_CRYSTAL@1:Master's Arclight Blasters
+T6_2H_DUALCROSSBOW_CRYSTAL@2:Master's Arclight Blasters
+T6_2H_DUALCROSSBOW_CRYSTAL@3:Master's Arclight Blasters
+T6_2H_DUALCROSSBOW_CRYSTAL@4:Master's Arclight Blasters
+T7_2H_DUALCROSSBOW_CRYSTAL:Grandmaster's Arclight Blasters
+T7_2H_DUALCROSSBOW_CRYSTAL@1:Grandmaster's Arclight Blasters
+T7_2H_DUALCROSSBOW_CRYSTAL@2:Grandmaster's Arclight Blasters
+T7_2H_DUALCROSSBOW_CRYSTAL@3:Grandmaster's Arclight Blasters
+T7_2H_DUALCROSSBOW_CRYSTAL@4:Grandmaster's Arclight Blasters
+T8_2H_DUALCROSSBOW_CRYSTAL:Elder's Arclight Blasters
+T8_2H_DUALCROSSBOW_CRYSTAL@1:Elder's Arclight Blasters
+T8_2H_DUALCROSSBOW_CRYSTAL@2:Elder's Arclight Blasters
+T8_2H_DUALCROSSBOW_CRYSTAL@3:Elder's Arclight Blasters
+T8_2H_DUALCROSSBOW_CRYSTAL@4:Elder's Arclight Blasters

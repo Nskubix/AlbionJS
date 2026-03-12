@@ -1,0 +1,136 @@
+T6_CAPEITEM_FW_BRIDGEWATCH@4:Master's Bridgewatch Cape
+T7_CAPEITEM_FW_BRIDGEWATCH:Grandmaster's Bridgewatch Cape
+T7_CAPEITEM_FW_BRIDGEWATCH@1:Grandmaster's Bridgewatch Cape
+T7_CAPEITEM_FW_BRIDGEWATCH@2:Grandmaster's Bridgewatch Cape
+T7_CAPEITEM_FW_BRIDGEWATCH@3:Grandmaster's Bridgewatch Cape
+T7_CAPEITEM_FW_BRIDGEWATCH@4:Grandmaster's Bridgewatch Cape
+T8_CAPEITEM_FW_BRIDGEWATCH:Elder's Bridgewatch Cape
+T8_CAPEITEM_FW_BRIDGEWATCH@1:Elder's Bridgewatch Cape
+T8_CAPEITEM_FW_BRIDGEWATCH@2:Elder's Bridgewatch Cape
+T8_CAPEITEM_FW_BRIDGEWATCH@3:Elder's Bridgewatch Cape
+T8_CAPEITEM_FW_BRIDGEWATCH@4:Elder's Bridgewatch Cape
+T4_CAPEITEM_FW_FORTSTERLING:Adept's Fort Sterling Cape
+T4_CAPEITEM_FW_FORTSTERLING@1:Adept's Fort Sterling Cape
+T4_CAPEITEM_FW_FORTSTERLING@2:Adept's Fort Sterling Cape
+T4_CAPEITEM_FW_FORTSTERLING@3:Adept's Fort Sterling Cape
+T4_CAPEITEM_FW_FORTSTERLING@4:Adept's Fort Sterling Cape
+T5_CAPEITEM_FW_FORTSTERLING:Expert's Fort Sterling Cape
+T5_CAPEITEM_FW_FORTSTERLING@1:Expert's Fort Sterling Cape
+T5_CAPEITEM_FW_FORTSTERLING@2:Expert's Fort Sterling Cape
+T5_CAPEITEM_FW_FORTSTERLING@3:Expert's Fort Sterling Cape
+T5_CAPEITEM_FW_FORTSTERLING@4:Expert's Fort Sterling Cape
+T6_CAPEITEM_FW_FORTSTERLING:Master's Fort Sterling Cape
+T6_CAPEITEM_FW_FORTSTERLING@1:Master's Fort Sterling Cape
+T6_CAPEITEM_FW_FORTSTERLING@2:Master's Fort Sterling Cape
+T6_CAPEITEM_FW_FORTSTERLING@3:Master's Fort Sterling Cape
+T6_CAPEITEM_FW_FORTSTERLING@4:Master's Fort Sterling Cape
+T7_CAPEITEM_FW_FORTSTERLING:Grandmaster's Fort Sterling Cape
+T7_CAPEITEM_FW_FORTSTERLING@1:Grandmaster's Fort Sterling Cape
+T7_CAPEITEM_FW_FORTSTERLING@2:Grandmaster's Fort Sterling Cape
+T7_CAPEITEM_FW_FORTSTERLING@3:Grandmaster's Fort Sterling Cape
+T7_CAPEITEM_FW_FORTSTERLING@4:Grandmaster's Fort Sterling Cape
+T8_CAPEITEM_FW_FORTSTERLING:Elder's Fort Sterling Cape
+T8_CAPEITEM_FW_FORTSTERLING@1:Elder's Fort Sterling Cape
+T8_CAPEITEM_FW_FORTSTERLING@2:Elder's Fort Sterling Cape
+T8_CAPEITEM_FW_FORTSTERLING@3:Elder's Fort Sterling Cape
+T8_CAPEITEM_FW_FORTSTERLING@4:Elder's Fort Sterling Cape
+T4_CAPEITEM_FW_LYMHURST:Adept's Lymhurst Cape
+T4_CAPEITEM_FW_LYMHURST@1:Adept's Lymhurst Cape
+T4_CAPEITEM_FW_LYMHURST@2:Adept's Lymhurst Cape
+T4_CAPEITEM_FW_LYMHURST@3:Adept's Lymhurst Cape
+T4_CAPEITEM_FW_LYMHURST@4:Adept's Lymhurst Cape
+T5_CAPEITEM_FW_LYMHURST:Expert's Lymhurst Cape
+T5_CAPEITEM_FW_LYMHURST@1:Expert's Lymhurst Cape
+T5_CAPEITEM_FW_LYMHURST@2:Expert's Lymhurst Cape
+T5_CAPEITEM_FW_LYMHURST@3:Expert's Lymhurst Cape
+T5_CAPEITEM_FW_LYMHURST@4:Expert's Lymhurst Cape
+T6_CAPEITEM_FW_LYMHURST:Master's Lymhurst Cape
+T6_CAPEITEM_FW_LYMHURST@1:Master's Lymhurst Cape
+T6_CAPEITEM_FW_LYMHURST@2:Master's Lymhurst Cape
+T6_CAPEITEM_FW_LYMHURST@3:Master's Lymhurst Cape
+T6_CAPEITEM_FW_LYMHURST@4:Master's Lymhurst Cape
+T7_CAPEITEM_FW_LYMHURST:Grandmaster's Lymhurst Cape
+T7_CAPEITEM_FW_LYMHURST@1:Grandmaster's Lymhurst Cape
+T7_CAPEITEM_FW_LYMHURST@2:Grandmaster's Lymhurst Cape
+T7_CAPEITEM_FW_LYMHURST@3:Grandmaster's Lymhurst Cape
+T7_CAPEITEM_FW_LYMHURST@4:Grandmaster's Lymhurst Cape
+T8_CAPEITEM_FW_LYMHURST:Elder's Lymhurst Cape
+T8_CAPEITEM_FW_LYMHURST@1:Elder's Lymhurst Cape
+T8_CAPEITEM_FW_LYMHURST@2:Elder's Lymhurst Cape
+T8_CAPEITEM_FW_LYMHURST@3:Elder's Lymhurst Cape
+T8_CAPEITEM_FW_LYMHURST@4:Elder's Lymhurst Cape
+T4_CAPEITEM_FW_MARTLOCK:Adept's Martlock Cape
+T4_CAPEITEM_FW_MARTLOCK@1:Adept's Martlock Cape
+T4_CAPEITEM_FW_MARTLOCK@2:Adept's Martlock Cape
+T4_CAPEITEM_FW_MARTLOCK@3:Adept's Martlock Cape
+T4_CAPEITEM_FW_MARTLOCK@4:Adept's Martlock Cape
+T5_CAPEITEM_FW_MARTLOCK:Expert's Martlock Cape
+T5_CAPEITEM_FW_MARTLOCK@1:Expert's Martlock Cape
+T5_CAPEITEM_FW_MARTLOCK@2:Expert's Martlock Cape
+T5_CAPEITEM_FW_MARTLOCK@3:Expert's Martlock Cape
+T5_CAPEITEM_FW_MARTLOCK@4:Expert's Martlock Cape
+T6_CAPEITEM_FW_MARTLOCK:Master's Martlock Cape
+T6_CAPEITEM_FW_MARTLOCK@1:Master's Martlock Cape
+T6_CAPEITEM_FW_MARTLOCK@2:Master's Martlock Cape
+T6_CAPEITEM_FW_MARTLOCK@3:Master's Martlock Cape
+T6_CAPEITEM_FW_MARTLOCK@4:Master's Martlock Cape
+T7_CAPEITEM_FW_MARTLOCK:Grandmaster's Martlock Cape
+T7_CAPEITEM_FW_MARTLOCK@1:Grandmaster's Martlock Cape
+T7_CAPEITEM_FW_MARTLOCK@2:Grandmaster's Martlock Cape
+T7_CAPEITEM_FW_MARTLOCK@3:Grandmaster's Martlock Cape
+T7_CAPEITEM_FW_MARTLOCK@4:Grandmaster's Martlock Cape
+T8_CAPEITEM_FW_MARTLOCK:Elder's Martlock Cape
+T8_CAPEITEM_FW_MARTLOCK@1:Elder's Martlock Cape
+T8_CAPEITEM_FW_MARTLOCK@2:Elder's Martlock Cape
+T8_CAPEITEM_FW_MARTLOCK@3:Elder's Martlock Cape
+T8_CAPEITEM_FW_MARTLOCK@4:Elder's Martlock Cape
+T4_CAPEITEM_FW_THETFORD:Adept's Thetford Cape
+T4_CAPEITEM_FW_THETFORD@1:Adept's Thetford Cape
+T4_CAPEITEM_FW_THETFORD@2:Adept's Thetford Cape
+T4_CAPEITEM_FW_THETFORD@3:Adept's Thetford Cape
+T4_CAPEITEM_FW_THETFORD@4:Adept's Thetford Cape
+T5_CAPEITEM_FW_THETFORD:Expert's Thetford Cape
+T5_CAPEITEM_FW_THETFORD@1:Expert's Thetford Cape
+T5_CAPEITEM_FW_THETFORD@2:Expert's Thetford Cape
+T5_CAPEITEM_FW_THETFORD@3:Expert's Thetford Cape
+T5_CAPEITEM_FW_THETFORD@4:Expert's Thetford Cape
+T6_CAPEITEM_FW_THETFORD:Master's Thetford Cape
+T6_CAPEITEM_FW_THETFORD@1:Master's Thetford Cape
+T6_CAPEITEM_FW_THETFORD@2:Master's Thetford Cape
+T6_CAPEITEM_FW_THETFORD@3:Master's Thetford Cape
+T6_CAPEITEM_FW_THETFORD@4:Master's Thetford Cape
+T7_CAPEITEM_FW_THETFORD:Grandmaster's Thetford Cape
+T7_CAPEITEM_FW_THETFORD@1:Grandmaster's Thetford Cape
+T7_CAPEITEM_FW_THETFORD@2:Grandmaster's Thetford Cape
+T7_CAPEITEM_FW_THETFORD@3:Grandmaster's Thetford Cape
+T7_CAPEITEM_FW_THETFORD@4:Grandmaster's Thetford Cape
+T8_CAPEITEM_FW_THETFORD:Elder's Thetford Cape
+T8_CAPEITEM_FW_THETFORD@1:Elder's Thetford Cape
+T8_CAPEITEM_FW_THETFORD@2:Elder's Thetford Cape
+T8_CAPEITEM_FW_THETFORD@3:Elder's Thetford Cape
+T8_CAPEITEM_FW_THETFORD@4:Elder's Thetford Cape
+T4_CAPEITEM_FW_CAERLEON:Adept's Caerleon Cape
+T4_CAPEITEM_FW_CAERLEON@1:Adept's Caerleon Cape
+T4_CAPEITEM_FW_CAERLEON@2:Adept's Caerleon Cape
+T4_CAPEITEM_FW_CAERLEON@3:Adept's Caerleon Cape
+T4_CAPEITEM_FW_CAERLEON@4:Adept's Caerleon Cape
+T5_CAPEITEM_FW_CAERLEON:Expert's Caerleon Cape
+T5_CAPEITEM_FW_CAERLEON@1:Expert's Caerleon Cape
+T5_CAPEITEM_FW_CAERLEON@2:Expert's Caerleon Cape
+T5_CAPEITEM_FW_CAERLEON@3:Expert's Caerleon Cape
+T5_CAPEITEM_FW_CAERLEON@4:Expert's Caerleon Cape
+T6_CAPEITEM_FW_CAERLEON:Master's Caerleon Cape
+T6_CAPEITEM_FW_CAERLEON@1:Master's Caerleon Cape
+T6_CAPEITEM_FW_CAERLEON@2:Master's Caerleon Cape
+T6_CAPEITEM_FW_CAERLEON@3:Master's Caerleon Cape
+T6_CAPEITEM_FW_CAERLEON@4:Master's Caerleon Cape
+T7_CAPEITEM_FW_CAERLEON:Grandmaster's Caerleon Cape
+T7_CAPEITEM_FW_CAERLEON@1:Grandmaster's Caerleon Cape
+T7_CAPEITEM_FW_CAERLEON@2:Grandmaster's Caerleon Cape
+T7_CAPEITEM_FW_CAERLEON@3:Grandmaster's Caerleon Cape
+T7_CAPEITEM_FW_CAERLEON@4:Grandmaster's Caerleon Cape
+T8_CAPEITEM_FW_CAERLEON:Elder's Caerleon Cape
+T8_CAPEITEM_FW_CAERLEON@1:Elder's Caerleon Cape
+T8_CAPEITEM_FW_CAERLEON@2:Elder's Caerleon Cape
+T8_CAPEITEM_FW_CAERLEON@3:Elder's Caerleon Cape
+T8_CAPEITEM_FW_CAERLEON@4:Elder's Caerleon Cape

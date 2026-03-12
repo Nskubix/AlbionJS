@@ -1,0 +1,133 @@
+T1_WOOD                                                          : Rough Logs
+T2_WOOD                                                          : Birch Logs
+T3_WOOD                                                          : Chestnut Logs
+T4_WOOD                                                          : Pine Logs
+T5_WOOD                                                          : Cedar Logs
+T6_WOOD                                                          : Bloodoak Logs
+T7_WOOD                                                          : Ashenbark Logs
+T8_WOOD                                                          : Whitewood Logs
+T4_WOOD_LEVEL1@1                                                 : Uncommon Pine Logs
+T5_WOOD_LEVEL1@1                                                 : Uncommon Cedar Logs
+T6_WOOD_LEVEL1@1                                                 : Uncommon Bloodoak Logs
+T7_WOOD_LEVEL1@1                                                 : Uncommon Ashenbark Logs
+T8_WOOD_LEVEL1@1                                                 : Uncommon Whitewood Logs
+T4_WOOD_LEVEL2@2                                                 : Rare Pine Logs
+T5_WOOD_LEVEL2@2                                                 : Rare Cedar Logs
+T6_WOOD_LEVEL2@2                                                 : Rare Bloodoak Logs
+T7_WOOD_LEVEL2@2                                                 : Rare Ashenbark Logs
+T8_WOOD_LEVEL2@2                                                 : Rare Whitewood Logs
+T4_WOOD_LEVEL3@3                                                 : Exceptional Pine Logs
+T5_WOOD_LEVEL3@3                                                 : Exceptional Cedar Logs
+T6_WOOD_LEVEL3@3                                                 : Exceptional Bloodoak Logs
+T7_WOOD_LEVEL3@3                                                 : Exceptional Ashenbark Logs
+T8_WOOD_LEVEL3@3                                                 : Exceptional Whitewood Logs
+T4_WOOD_LEVEL4@4                                                 : Pristine Pine Logs
+T5_WOOD_LEVEL4@4                                                 : Pristine Cedar Logs
+T6_WOOD_LEVEL4@4                                                 : Pristine Bloodoak Logs
+T7_WOOD_LEVEL4@4                                                 : Pristine Ashenbark Logs
+T8_WOOD_LEVEL4@4                                                 : Pristine Whitewood Logs
+T1_ROCK                                                          : Rough Stone
+T2_ROCK                                                          : Limestone
+T3_ROCK                                                          : Sandstone
+T4_ROCK                                                          : Travertine
+T5_ROCK                                                          : Granite
+T6_ROCK                                                          : Slate
+T7_ROCK                                                          : Basalt
+T8_ROCK                                                          : Marble
+T4_ROCK_LEVEL1@1                                                 : Uncommon Travertine
+T5_ROCK_LEVEL1@1                                                 : Uncommon Granite
+T6_ROCK_LEVEL1@1                                                 : Uncommon Slate
+T7_ROCK_LEVEL1@1                                                 : Uncommon Basalt
+T8_ROCK_LEVEL1@1                                                 : Uncommon Marble
+T4_ROCK_LEVEL2@2                                                 : Rare Travertine
+T5_ROCK_LEVEL2@2                                                 : Rare Granite
+T6_ROCK_LEVEL2@2                                                 : Rare Slate
+T7_ROCK_LEVEL2@2                                                 : Rare Basalt
+T8_ROCK_LEVEL2@2                                                 : Rare Marble
+T4_ROCK_LEVEL3@3                                                 : Exceptional Travertine
+T5_ROCK_LEVEL3@3                                                 : Exceptional Granite
+T6_ROCK_LEVEL3@3                                                 : Exceptional Slate
+T7_ROCK_LEVEL3@3                                                 : Exceptional Basalt
+T8_ROCK_LEVEL3@3                                                 : Exceptional Marble
+T2_ORE                                                           : Copper Ore
+T3_ORE                                                           : Tin Ore
+T4_ORE                                                           : Iron Ore
+T5_ORE                                                           : Titanium Ore
+T6_ORE                                                           : Runite Ore
+T7_ORE                                                           : Meteorite Ore
+T8_ORE                                                           : Adamantium Ore
+T4_ORE_LEVEL1@1                                                  : Uncommon Iron Ore
+T5_ORE_LEVEL1@1                                                  : Uncommon Titanium Ore
+T6_ORE_LEVEL1@1                                                  : Uncommon Runite Ore
+T7_ORE_LEVEL1@1                                                  : Uncommon Meteorite Ore
+T8_ORE_LEVEL1@1                                                  : Uncommon Adamantium Ore
+T4_ORE_LEVEL2@2                                                  : Rare Iron Ore
+T5_ORE_LEVEL2@2                                                  : Rare Titanium Ore
+T6_ORE_LEVEL2@2                                                  : Rare Runite Ore
+T7_ORE_LEVEL2@2                                                  : Rare Meteorite Ore
+T8_ORE_LEVEL2@2                                                  : Rare Adamantium Ore
+T4_ORE_LEVEL3@3                                                  : Exceptional Iron Ore
+T5_ORE_LEVEL3@3                                                  : Exceptional Titanium Ore
+T6_ORE_LEVEL3@3                                                  : Exceptional Runite Ore
+T7_ORE_LEVEL3@3                                                  : Exceptional Meteorite Ore
+T8_ORE_LEVEL3@3                                                  : Exceptional Adamantium Ore
+T4_ORE_LEVEL4@4                                                  : Pristine Iron Ore
+T5_ORE_LEVEL4@4                                                  : Pristine Titanium Ore
+T6_ORE_LEVEL4@4                                                  : Pristine Runite Ore
+T7_ORE_LEVEL4@4                                                  : Pristine Meteorite Ore
+T8_ORE_LEVEL4@4                                                  : Pristine Adamantium Ore
+T1_HIDE                                                          : Scraps of Hide
+T2_HIDE                                                          : Rugged Hide
+T3_HIDE                                                          : Thin Hide
+T4_HIDE                                                          : Medium Hide
+T5_HIDE                                                          : Heavy Hide
+T6_HIDE                                                          : Robust Hide
+T7_HIDE                                                          : Thick Hide
+T8_HIDE                                                          : Resilient Hide
+T4_HIDE_LEVEL1@1                                                 : Uncommon Medium Hide
+T5_HIDE_LEVEL1@1                                                 : Uncommon Heavy Hide
+T6_HIDE_LEVEL1@1                                                 : Uncommon Robust Hide
+T7_HIDE_LEVEL1@1                                                 : Uncommon Thick Hide
+T8_HIDE_LEVEL1@1                                                 : Uncommon Resilient Hide
+T4_HIDE_LEVEL2@2                                                 : Rare Medium Hide
+T5_HIDE_LEVEL2@2                                                 : Rare Heavy Hide
+T6_HIDE_LEVEL2@2                                                 : Rare Robust Hide
+T7_HIDE_LEVEL2@2                                                 : Rare Thick Hide
+T8_HIDE_LEVEL2@2                                                 : Rare Resilient Hide
+T4_HIDE_LEVEL3@3                                                 : Exceptional Medium Hide
+T5_HIDE_LEVEL3@3                                                 : Exceptional Heavy Hide
+T6_HIDE_LEVEL3@3                                                 : Exceptional Robust Hide
+T7_HIDE_LEVEL3@3                                                 : Exceptional Thick Hide
+T8_HIDE_LEVEL3@3                                                 : Exceptional Resilient Hide
+T4_HIDE_LEVEL4@4                                                 : Pristine Medium Hide
+T5_HIDE_LEVEL4@4                                                 : Pristine Heavy Hide
+T6_HIDE_LEVEL4@4                                                 : Pristine Robust Hide
+T7_HIDE_LEVEL4@4                                                 : Pristine Thick Hide
+T8_HIDE_LEVEL4@4                                                 : Pristine Resilient Hide
+T2_FIBER                                                         : Cotton
+T3_FIBER                                                         : Flax
+T4_FIBER                                                         : Hemp
+T5_FIBER                                                         : Skyflower
+T6_FIBER                                                         : Amberleaf Cotton
+T7_FIBER                                                         : Sunflax
+T8_FIBER                                                         : Ghost Hemp
+T4_FIBER_LEVEL1@1                                                : Uncommon Hemp
+T5_FIBER_LEVEL1@1                                                : Uncommon Skyflower
+T6_FIBER_LEVEL1@1                                                : Uncommon Amberleaf Cotton
+T7_FIBER_LEVEL1@1                                                : Uncommon Sunflax
+T8_FIBER_LEVEL1@1                                                : Uncommon Ghost Hemp
+T4_FIBER_LEVEL2@2                                                : Rare Hemp
+T5_FIBER_LEVEL2@2                                                : Rare Skyflower
+T6_FIBER_LEVEL2@2                                                : Rare Amberleaf Cotton
+T7_FIBER_LEVEL2@2                                                : Rare Sunflax
+T8_FIBER_LEVEL2@2                                                : Rare Ghost Hemp
+T4_FIBER_LEVEL3@3                                                : Exceptional Hemp
+T5_FIBER_LEVEL3@3                                                : Exceptional Skyflower
+T6_FIBER_LEVEL3@3                                                : Exceptional Amberleaf Cotton
+T7_FIBER_LEVEL3@3                                                : Exceptional Sunflax
+T8_FIBER_LEVEL3@3                                                : Exceptional Ghost Hemp
+T4_FIBER_LEVEL4@4                                                : Pristine Hemp
+T5_FIBER_LEVEL4@4                                                : Pristine Skyflower
+T6_FIBER_LEVEL4@4                                                : Pristine Amberleaf Cotton
+T7_FIBER_LEVEL4@4                                                : Pristine Sunflax
+T8_FIBER_LEVEL4@4                                                : Pristine Ghost Hemp
