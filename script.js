@@ -21,7 +21,7 @@ const CRAFT_RETURN = 0.2480
 const ARTEFACT_FILES_COUNT = 9;
 const ATLEAST_THIS_DAYS = 18;
 const START_DAY_FOR_AVERAGE = 10;
-const ITEM_CATEGORY = "headcloth";
+// const ITEM_CATEGORY = "headcloth";
 const MARKET_TAX = 1.08;
 
 //! BASIC FUNCTIONS CONNECTED TO THE CORE CALCULATOR
@@ -189,14 +189,14 @@ async function equipmentCategoryItems(category, should_fetch){
 }
 //! -------------------------------------------------------------------------------------------------- INTERACT WITH API END
 
-async function main() {
+async function main(ITEM_CATEGORY) {
 
     //? GET PRICES
-    const resource_price_map = await basicResourcePricesFromBestCity(false);
-    const artefact_price_map = await allArtefactsPrices(false);
+    const resource_price_map = await basicResourcePricesFromBestCity(true);
+    const artefact_price_map = await allArtefactsPrices(true);
     const price_map = new Map([...resource_price_map,...artefact_price_map]);
     const recipe_map = await setRecipeMap();
-    let item_data = await equipmentCategoryItems(ITEM_CATEGORY,false);
+    let item_data = await equipmentCategoryItems(ITEM_CATEGORY,true);
 
     for(let i = 0; i < item_data.length; i++){
         if(item_data[i].data.length < ATLEAST_THIS_DAYS){
@@ -205,7 +205,7 @@ async function main() {
         setItemAdditionalData(item_data[i], recipe_map);
         if(item_data[i].recipe != undefined){
             calcProfit(item_data[i], price_map, CRAFT_RETURN)
-            // logConsoleInfoAboutItemProfit(item_data[i]);
+            logConsoleInfoAboutItemProfit(item_data[i]);
         }
         else{
             console.log(`No recipe for: ${item_data[i].item_id}`);
@@ -318,10 +318,10 @@ function setItemAdditionalData(item, recipe_map){
 }
 
 
-main();
 
 
-//! USER EXPIERIENCE
+
+//! Interfejs
 
 const title_underscore = document.querySelector(".title-underscore");
 
@@ -338,21 +338,90 @@ const allEquipmentButtons = document.querySelectorAll(".equipment-button");
 allEquipmentButtons.forEach(button =>{
     const buttonImg = button.querySelector("img");
     buttonImg.addEventListener("load", _ =>{
-        console.log(buttonImg.getAttribute("src"))
+        // console.log(buttonImg.getAttribute("src"))
         const newSrc = buttonImg.src.replace("?size=40", "?size=150");;
         const tempImg = new Image();
         tempImg.src = newSrc;
+        // console.log(tempImg);
+        console.log("halo");
+
+
+
         tempImg.addEventListener("load", _ =>{
             buttonImg.src = newSrc;
             button.classList.remove("blur-icons")
             button.classList.add("category-hover-right");
+            button.addEventListener("click", categoryClick)
         })
-        console.log(buttonImg.getAttribute("src"));
+        // console.log(buttonImg.getAttribute("src"));
 
     }, {once: true})
-    button.addEventListener("click", _ =>{
-        console.log("klik");
-    })
+
 })
 
 
+
+function categoryClick(e) {
+
+
+    const btn = e.target.closest(".equipment-button");
+    main(btn.dataset.apiName);
+
+
+
+}
+
+
+
+
+const category_nav = document.querySelector(".category-nav");
+document.querySelector(".category-arrow-right").addEventListener("click", e =>{
+    if(!arrowIsExpanded){
+        arrowExpand();
+    }
+    else{
+        arrowRetract();
+    }
+
+})
+
+const expand_arrow = document.querySelector(".category-arrow-right")
+let arrowIsExpanded = false;
+function arrowExpand(){
+    arrowIsExpanded = true;
+    category_nav.style.overflow = "visible";
+    category_nav.classList.add("category-nav-expand")
+    category_nav.classList.remove("category-nav-retract")
+    console.log(category_nav.style.overflow);
+    allEquipmentButtons.forEach(button =>{
+
+        button.insertAdjacentHTML("beforeend",`<span class="category-span">${button.dataset.itemName}</span>`)
+    })
+
+    expand_arrow.querySelector("img").classList.add("category-arrow-left");
+}
+
+
+function arrowRetract() {
+    arrowIsExpanded = false;
+
+    expand_arrow.querySelector("img").classList.remove("category-arrow-left");
+    const category_spans = document.querySelectorAll(".category-span")
+    category_nav.style.overflow = "hidden";
+    category_nav.classList.add("category-nav-retract")
+    category_nav.classList.remove("category-nav-expand")
+    console.log(category_nav.style.overflow);
+    category_spans.forEach(span =>{
+        span.remove();
+    })
+}
+
+//* NARAZIE A OUT
+// const znak = document.querySelector(".daj-znaka");
+// window.addEventListener("scroll", e =>{
+
+//     let topp = znak.getBoundingClientRect().top
+//     if(topp< 0){
+
+//     }
+// })

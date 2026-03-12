@@ -47,6 +47,7 @@ table {
 
 :root{
     scroll-behavior: smooth;
+    interpolate-size: allow-keywords;
 }
 
 @media screen and (prefers-reduced-motion: reduce) {
@@ -90,7 +91,7 @@ body{
     top: 0;
     border-color: var(--secondary);
     border-bottom: 2px solid;
-
+    z-index: 100;
 }
 
 .tool-link{
@@ -153,19 +154,13 @@ body{
     width: clamp(150px, 10vw, 200px);
     background-color: rgba(1,1,1,0.2);
     box-shadow: 3px 3px 3px var(--secondary);
-    height: 780px;
+    height: 850px;
     border-bottom-right-radius: 20px;
 
     overflow: hidden;
+    /* overflow: visible; */
 }
 
-.category-hover-right{
-    cursor: pointer;
-    transition: transform 0.3s ease-in-out;
-    &:hover{
-        transform: translateX(10%);
-    }
-}
 
 .category-nav-wrapper{
     display: flex;
@@ -174,11 +169,66 @@ body{
 }
 
 
-.category-arrow{
+.category-arrow-right{
     border: none;
     background-color: rgba(1,1,1,0.2);
     padding: 1rem;
     border: 4px solid var(--secondary);
     border-radius: 200px;
     cursor: pointer;
+}
+
+.category-nav-expand{
+    animation: category-nav-expand-anim 0.2s ease-in-out;
+    animation-fill-mode: forwards;
+}
+
+
+@keyframes category-nav-expand-anim {
+    100%{
+        height: auto;
+        min-width: clamp(400px,30%,600px);
+    }
+}
+
+.category-nav-retract{
+    animation: category-nav-retract-anim 0.2s ease-in-out;
+    animation-fill-mode: forwards;
+}
+
+
+@keyframes category-nav-retract-anim {
+    0%{
+        height: auto;
+        min-width: clamp(400px,30%,600px);
+    }
+    100%{
+        height: 850px;
+        width: clamp(150px, 10vw, 200px);
+    }
+}
+
+.equipment-button{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+    &:hover{
+        transform: translateX(10px);
+
+    }
+}
+
+
+.category-span{
+    color: var(--secondary);
+    font-size: 2.5rem;
+    /* text-align: center; */
+    font-family: "JetBrains Mono", monospace;
+    text-wrap-mode: nowrap;
+}
+
+
+.category-arrow-left{
+    transform: rotate(180deg);
 }
