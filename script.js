@@ -71,7 +71,7 @@ async function getApiData(item_array, params){
             throw new Error(`HTTP : ${res.status}`)
         }
         const res_json = await res.json();
-        console.log(res_json);
+        // console.log(res_json);
 
         return res_json;
     }
@@ -166,13 +166,13 @@ async function allArtefactsPrices(should_fetch){
 
 
 //? THE ITEMS THAT THE PLAYER SELLS AFTER CRAFT
-async function equipmentCategoryItems(category, should_fetch){
+async function equipmentCategoryItems(category, should_fetch, city="Brecilien"){
     let data = [];
     if(should_fetch){
         //* DOWNLOAD FROM API
-        const city = "Brecilien";
-        const bag_text = await textFromFile(`categories/${category}.txt`);
-        const item_array = textToArray(bag_text);
+        const file_text = await textFromFile(`categories/${category}.txt`);
+        const item_array = textToArray(file_text);
+
         if(item_array.length === 2){
             data = await getCombinedApiData(parseInt(item_array[0]),item_array[1],city);
         }
@@ -189,15 +189,29 @@ async function equipmentCategoryItems(category, should_fetch){
 }
 //! -------------------------------------------------------------------------------------------------- INTERACT WITH API END
 
-async function main(ITEM_CATEGORY) {
+async function main(category) {
 
     //? GET PRICES
+    let refined_data = [];
     const resource_price_map = await basicResourcePricesFromBestCity(true);
     const artefact_price_map = await allArtefactsPrices(true);
     const price_map = new Map([...resource_price_map,...artefact_price_map]);
     const recipe_map = await setRecipeMap();
-    let item_data = await equipmentCategoryItems(ITEM_CATEGORY,true);
+    let item_data = await equipmentCategoryItems(category,true);
 
+    //? SET DISPLAY NAME MAP
+    const file_text = await textFromFile(`categories/${category}.txt`);
+    const item_array = textToArray(file_text);
+    let display_item_map = new Map();
+    item_array.forEach(([id,name]) =>{
+        if(name == undefined){
+            name = "IDK"
+        }
+        display_item_map.set(id,name.trim());
+    })
+
+
+    //? SET REFINED DATA
     for(let i = 0; i < item_data.length; i++){
         if(item_data[i].data.length < ATLEAST_THIS_DAYS){
             continue
@@ -206,31 +220,48 @@ async function main(ITEM_CATEGORY) {
         if(item_data[i].recipe != undefined){
             calcProfit(item_data[i], price_map, CRAFT_RETURN)
             logConsoleInfoAboutItemProfit(item_data[i]);
+            if(!Number.isNaN(item_data[i].profit_quantity)){
+                    refined_data.push({
+                    quality: item_data[i].quality,
+                    quality_display: item_data[i].quality_display,
+                    average_price: item_data[i].average_price,
+                    average_quantity: item_data[i].average_quantity,
+                    crafting_cost_array: item_data[i].crafting_cost_array,
+                    enchantment: item_data[i].enchantment,
+                    item_id: item_data[i].item_id,
+                    profit: item_data[i].profit,
+                    profit_quantity: item_data[i].profit_quantity,
+                    crafting_cost: item_data[i].crafting_cost,
+                    display_name: display_item_map.get(item_data[i].item_id)
+                });
+            }
         }
         else{
             console.log(`No recipe for: ${item_data[i].item_id}`);
         }
     }
+    return refined_data;
 }
 
 function logConsoleInfoAboutItemProfit(item){
 
 
     if(Number.isNaN(item.profit_quantity)){
+        console.log("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
         console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT : ${item.profit} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array}`,"color: blue; font-weight: bold;");
     }
-    //? BIG PROFIT
-    else if(item.profit_quantity > 2500000){
-        console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT&QUANTITY : ${item.profit_quantity} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: pink; font-weight: bold;");
-    }
-    //? OK PROFIT
-    else if(item.profit_quantity > 1000000){
-        console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT&QUANTITY : ${item.profit_quantity} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: greenyellow; font-weight: bold;");
-    }
-    //? L PROFIT
-    else{
-        console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT : ${item.profit} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: red; font-weight: bold;");
-    }
+    // //? BIG PROFIT
+    // else if(item.profit_quantity > 2500000){
+    //     console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT&QUANTITY : ${item.profit_quantity} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: pink; font-weight: bold;");
+    // }
+    // //? OK PROFIT
+    // else if(item.profit_quantity > 1000000){
+    //     console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT&QUANTITY : ${item.profit_quantity} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: greenyellow; font-weight: bold;");
+    // }
+    // //? L PROFIT
+    // else{
+    //     console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT : ${item.profit} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: red; font-weight: bold;");
+    // }
 }
 
 async function setRecipeMap(){
@@ -338,22 +369,17 @@ const allEquipmentButtons = document.querySelectorAll(".equipment-button");
 allEquipmentButtons.forEach(button =>{
     const buttonImg = button.querySelector("img");
     buttonImg.addEventListener("load", _ =>{
-        // console.log(buttonImg.getAttribute("src"))
         const newSrc = buttonImg.src.replace("?size=40", "?size=150");;
         const tempImg = new Image();
         tempImg.src = newSrc;
-        // console.log(tempImg);
-        console.log("halo");
-
-
-
         tempImg.addEventListener("load", _ =>{
             buttonImg.src = newSrc;
             button.classList.remove("blur-icons")
             button.classList.add("category-hover-right");
-            button.addEventListener("click", categoryClick)
+            button.addEventListener("click", e=>{
+                categoryClick(e);
+            })
         })
-        // console.log(buttonImg.getAttribute("src"));
 
     }, {once: true})
 
@@ -361,13 +387,28 @@ allEquipmentButtons.forEach(button =>{
 
 
 
-function categoryClick(e) {
-
-
+async function categoryClick(e) {
     const btn = e.target.closest(".equipment-button");
-    main(btn.dataset.apiName);
-
-
+    arrowRetract();
+    const data = await main(btn.dataset.apiName);
+    data.sort((a,b) =>{
+        if(a.profit_quantity > b.profit_quantity){
+            return -1
+        }
+        else{
+            return 1;
+        }
+    })
+    for(v of data){
+        let color = ""
+        if(v.profit_quantity <= 100){
+            color = "rgb(230,10,10)"
+        }
+        else{
+            color = "rgb(20,230,20)"
+        }
+        console.log(`%c${v.display_name}@${v.enchantment}`,`color: ${color}`,v);
+    }
 
 }
 
@@ -392,7 +433,6 @@ function arrowExpand(){
     category_nav.style.overflow = "visible";
     category_nav.classList.add("category-nav-expand")
     category_nav.classList.remove("category-nav-retract")
-    console.log(category_nav.style.overflow);
     allEquipmentButtons.forEach(button =>{
 
         button.insertAdjacentHTML("beforeend",`<span class="category-span">${button.dataset.itemName}</span>`)
@@ -410,7 +450,6 @@ function arrowRetract() {
     category_nav.style.overflow = "hidden";
     category_nav.classList.add("category-nav-retract")
     category_nav.classList.remove("category-nav-expand")
-    console.log(category_nav.style.overflow);
     category_spans.forEach(span =>{
         span.remove();
     })
