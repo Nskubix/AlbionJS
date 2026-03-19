@@ -21,7 +21,6 @@ const CRAFT_RETURN = 0.2480
 const ARTEFACT_FILES_COUNT = 9;
 const ATLEAST_THIS_DAYS = 18;
 const START_DAY_FOR_AVERAGE = 10;
-// const ITEM_CATEGORY = "headcloth";
 const MARKET_TAX = 1.08;
 
 //! BASIC FUNCTIONS CONNECTED TO THE CORE CALCULATOR
@@ -62,7 +61,6 @@ function calcAverage(arr,days){
 
 //? HELPER FUNCTION
 async function getApiData(item_array, params){
-
     const url = `https://europe.albion-online-data.com/api/v2/stats/history/${item_array.map(x => x[0].trim()).join()}?${params}`;
 
     try{
@@ -80,8 +78,6 @@ async function getApiData(item_array, params){
         console.log("Failed to fetch from API!");
         return
     }
-
-
 }
 
 //? HELPER FUNCTION FOR NOW ONLY USED FOR CAPES MAY CHANGE WITH GAME UPDATES
@@ -112,9 +108,6 @@ async function basicResourcePricesFromBestCity(should_fetch){
         resource_json = await jsonFromFile("dev/resource.json");
     }
 
-
-
-
     let resource_map = new Map();
     for(let i = 0; i < resource_json.length; i++){
         [resource_json[i].average_quantity, resource_json[i].average_price] = calcAverage(resource_json[i].data,0)
@@ -130,8 +123,6 @@ async function basicResourcePricesFromBestCity(should_fetch){
         }
     }
     return resource_map
-
-
 }
 
 
@@ -151,10 +142,6 @@ async function allArtefactsPrices(should_fetch){
         //* LOCAL FILE FOR DEVELOPMENT TO NOT EXPLOIT THE API CONSTANTLY
         artefact_json = await jsonFromFile("dev/artefact.json");
     }
-
-
-
-
 
     let artefact_map = new Map();
     for(let i = 0; i < artefact_json.length; i++){
@@ -210,7 +197,6 @@ async function main(category) {
         display_item_map.set(id,name.trim());
     })
 
-
     //? SET REFINED DATA
     for(let i = 0; i < item_data.length; i++){
         if(item_data[i].data.length < ATLEAST_THIS_DAYS){
@@ -246,23 +232,10 @@ async function main(category) {
 
 function logConsoleInfoAboutItemProfit(item){
 
-
     if(Number.isNaN(item.profit_quantity)){
         console.log("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
         console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT : ${item.profit} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array}`,"color: blue; font-weight: bold;");
     }
-    // //? BIG PROFIT
-    // else if(item.profit_quantity > 2500000){
-    //     console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT&QUANTITY : ${item.profit_quantity} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: pink; font-weight: bold;");
-    // }
-    // //? OK PROFIT
-    // else if(item.profit_quantity > 1000000){
-    //     console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT&QUANTITY : ${item.profit_quantity} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: greenyellow; font-weight: bold;");
-    // }
-    // //? L PROFIT
-    // else{
-    //     console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT : ${item.profit} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array} // QUANTITY : ${item.average_quantity}`,"color: red; font-weight: bold;");
-    // }
 }
 
 async function setRecipeMap(){
@@ -317,8 +290,6 @@ function calcProfit(item, price_map, crafting_return){
         if(item.recipe["@maxreturnamount"] !== '0'){
             item.crafting_cost *= 1-crafting_return;
         }
-
-
     }
     item.crafting_cost = Math.floor(item.crafting_cost)
 
@@ -349,10 +320,7 @@ function setItemAdditionalData(item, recipe_map){
     }
 }
 
-
-
-
-
+//! ----------------------------------------------------------------------------------------------------------------------------------------
 //! Interfejs
 
 const title_underscore = document.querySelector(".title-underscore");
@@ -361,21 +329,14 @@ setInterval(() => {
     title_underscore.classList.toggle("hidden")
 }, 2000);
 
-
-
-
-
 const allEquipmentButtons = document.querySelectorAll(".equipment-button");
 
 allEquipmentButtons.forEach(button =>{
     const buttonImg = button.querySelector("img");
-    console.log(button);
     button.addEventListener("click", e=>{
-
             categoryClick(e);
         })
     buttonImg.addEventListener("load", _ =>{
-
         const newSrc = buttonImg.src.replace("?size=40", "?size=150");;
         const tempImg = new Image();
         tempImg.src = newSrc;
@@ -383,9 +344,7 @@ allEquipmentButtons.forEach(button =>{
             buttonImg.src = newSrc;
             button.classList.remove("blur-icons")
             button.classList.add("category-hover-right");
-
         })
-
     }, {once: true})
 
 })
@@ -407,22 +366,8 @@ async function categoryClick(e) {
             return 1;
         }
     })
-    // for(v of data){
-    //     let color = ""
-    //     if(v.profit_quantity <= 100){
-    //         color = "rgb(230,10,10)"
-    //     }
-    //     else{
-    //         color = "rgb(20,230,20)"
-    //     }
-    //     console.log(`%c${v.display_name}@${v.enchantment}`,`color: ${color}`,v);
-    // }
     displayData(data);
-
 }
-
-
-
 
 const category_nav = document.querySelector(".category-nav");
 document.querySelector(".category-arrow-right").addEventListener("click", e =>{
@@ -443,7 +388,6 @@ function arrowExpand(){
     category_nav.classList.add("category-nav-expand")
     category_nav.classList.remove("category-nav-retract")
     allEquipmentButtons.forEach(button =>{
-
         button.insertAdjacentHTML("beforeend",`<span class="category-span" style="width: 100%; text-align: left;">${button.dataset.itemName}</span>`)
     })
 
@@ -463,19 +407,6 @@ function arrowRetract() {
         span.remove();
     })
 }
-
-//* NARAZIE A OUT
-// const znak = document.querySelector(".daj-znaka");
-// window.addEventListener("scroll", e =>{
-
-//     let topp = znak.getBoundingClientRect().top
-//     if(topp< 0){
-
-//     }
-// })
-
-
-
 
 function displayData(data) {
     const mainContainer = document.querySelector("main");
