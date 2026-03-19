@@ -216,7 +216,7 @@ async function main(category) {
                     enchantment: item_data[i].enchantment,
                     item_id: item_data[i].item_id,
                     profit: item_data[i].profit,
-                    profit_quantity: item_data[i].profit_quantity,
+                    profit_quantity: Math.trunc(item_data[i].profit_quantity),
                     crafting_cost: item_data[i].crafting_cost,
                     display_name: display_item_map.get(item_data[i].item_id),
                     tier: +item_data[i].item_id[1],
