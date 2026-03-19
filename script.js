@@ -370,6 +370,9 @@ const allEquipmentButtons = document.querySelectorAll(".equipment-button");
 allEquipmentButtons.forEach(button =>{
     const buttonImg = button.querySelector("img");
     buttonImg.addEventListener("load", _ =>{
+        button.addEventListener("click", e=>{
+            categoryClick(e);
+        })
         const newSrc = buttonImg.src.replace("?size=40", "?size=150");;
         const tempImg = new Image();
         tempImg.src = newSrc;
@@ -377,9 +380,7 @@ allEquipmentButtons.forEach(button =>{
             buttonImg.src = newSrc;
             button.classList.remove("blur-icons")
             button.classList.add("category-hover-right");
-            button.addEventListener("click", e=>{
-                categoryClick(e);
-            })
+
         })
 
     }, {once: true})
