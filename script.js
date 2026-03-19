@@ -369,10 +369,13 @@ const allEquipmentButtons = document.querySelectorAll(".equipment-button");
 
 allEquipmentButtons.forEach(button =>{
     const buttonImg = button.querySelector("img");
-    buttonImg.addEventListener("load", _ =>{
-        button.addEventListener("click", e=>{
+    console.log(button);
+    button.addEventListener("click", e=>{
+
             categoryClick(e);
         })
+    buttonImg.addEventListener("load", _ =>{
+
         const newSrc = buttonImg.src.replace("?size=40", "?size=150");;
         const tempImg = new Image();
         tempImg.src = newSrc;
@@ -441,7 +444,7 @@ function arrowExpand(){
     category_nav.classList.remove("category-nav-retract")
     allEquipmentButtons.forEach(button =>{
 
-        button.insertAdjacentHTML("beforeend",`<span class="category-span">${button.dataset.itemName}</span>`)
+        button.insertAdjacentHTML("beforeend",`<span class="category-span" style="width: 100%; text-align: left;">${button.dataset.itemName}</span>`)
     })
 
     expand_arrow.querySelector("img").classList.add("category-arrow-left");
