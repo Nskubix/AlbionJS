@@ -187,7 +187,7 @@ body{
 @keyframes category-nav-expand-anim {
     100%{
         height: auto;
-        min-width: clamp(370px,25%,600px);
+        min-width: clamp(400px,25%,600px);
     }
 }
 
@@ -200,7 +200,7 @@ body{
 @keyframes category-nav-retract-anim {
     0%{
         height: auto;
-        min-width: clamp(370px,25%,600px);
+        min-width: clamp(400px,25%,600px);
     }
     100%{
         height: 850px;
@@ -222,7 +222,7 @@ body{
 
 .category-span{
     color: var(--secondary);
-    font-size: 2rem;
+    font-size: 1.8rem;
     /* text-align: center; */
     font-family: "JetBrains Mono", monospace;
     text-wrap-mode: nowrap;
@@ -231,4 +231,108 @@ body{
 
 .category-arrow-left{
     transform: rotate(180deg);
+}
+
+.flex-wrapper{
+    display: flex;
+    align-items: start;
+}
+
+
+.main{
+    width: 100%;
+    min-height: 150vh;
+    display: flex;
+    flex-flow: column;
+    gap: 30px;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.item-result{
+    width: 80%;
+    border-radius: 8px;
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    animation: appear 0.3s ease-out;
+}
+
+.item-title-div{
+    display: flex;
+    flex-flow: column;
+    height: 90px;
+    font-weight: bold;
+}
+
+.item-title{
+    font-size: 1.5rem;
+    color: #ddd;
+}
+
+.item-desc{
+    font-size: 0.9rem;
+    color: #aaa;
+}
+
+.stats{
+    flex-grow: 2;
+}
+.peritem{
+    display: flex;
+    flex-flow: column;
+    /* background-color: #111; */
+    color: #ddd;
+    height: 115px;
+    width: 50%;
+    font-size: 1.1rem;
+    gap: 5px;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.line{
+    width: 3px;
+    height: 150px;
+    background-color:  var(--primary-bg);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.t4{
+    background-color: rgba(19, 98, 187,0.7);
+    box-shadow: 2px 2px 5px rgb(12, 61, 116);
+}
+
+.t5{
+    background-color: rgba(187, 19, 19, 0.7);
+    box-shadow: 2px 2px 5px rgb(116, 12, 12);
+}
+
+.t6{
+    background-color: rgba(228, 118, 16, 0.7);
+    box-shadow: 2px 2px 5px rgb(116, 73, 12);
+}
+
+.t7{
+    background-color: rgba(229, 218, 12, 0.7);
+    box-shadow: 2px 2px 5px rgb(113, 116, 12);
+}
+
+.t8{
+    background-color: rgba(155, 172, 192, 0.7);
+    box-shadow: 2px 2px 5px rgb(112, 115, 119);
+}
+
+
+@keyframes appear {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
 }

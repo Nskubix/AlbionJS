@@ -224,15 +224,16 @@ async function main(category) {
                     refined_data.push({
                     quality: item_data[i].quality,
                     quality_display: item_data[i].quality_display,
-                    average_price: item_data[i].average_price,
-                    average_quantity: item_data[i].average_quantity,
+                    price: item_data[i].average_price,
+                    quantity: item_data[i].average_quantity,
                     crafting_cost_array: item_data[i].crafting_cost_array,
                     enchantment: item_data[i].enchantment,
                     item_id: item_data[i].item_id,
                     profit: item_data[i].profit,
                     profit_quantity: item_data[i].profit_quantity,
                     crafting_cost: item_data[i].crafting_cost,
-                    display_name: display_item_map.get(item_data[i].item_id)
+                    display_name: display_item_map.get(item_data[i].item_id),
+                    tier: +item_data[i].item_id[1],
                 });
             }
         }
@@ -388,6 +389,9 @@ allEquipmentButtons.forEach(button =>{
 
 
 async function categoryClick(e) {
+    const mainContainerr = document.querySelector("main");
+    mainContainerr.remove();
+    document.querySelector(".flex-wrapper").insertAdjacentHTML("beforeend",`<main class="main"></main>`)
     const btn = e.target.closest(".equipment-button");
     arrowRetract();
     const data = await main(btn.dataset.apiName);
@@ -399,16 +403,17 @@ async function categoryClick(e) {
             return 1;
         }
     })
-    for(v of data){
-        let color = ""
-        if(v.profit_quantity <= 100){
-            color = "rgb(230,10,10)"
-        }
-        else{
-            color = "rgb(20,230,20)"
-        }
-        console.log(`%c${v.display_name}@${v.enchantment}`,`color: ${color}`,v);
-    }
+    // for(v of data){
+    //     let color = ""
+    //     if(v.profit_quantity <= 100){
+    //         color = "rgb(230,10,10)"
+    //     }
+    //     else{
+    //         color = "rgb(20,230,20)"
+    //     }
+    //     console.log(`%c${v.display_name}@${v.enchantment}`,`color: ${color}`,v);
+    // }
+    displayData(data);
 
 }
 
@@ -464,3 +469,31 @@ function arrowRetract() {
 
 //     }
 // })
+
+
+
+
+function displayData(data) {
+    const mainContainer = document.querySelector("main");
+    data.forEach(item =>{
+        const html = `
+        <div class="t${item.tier} item-result">
+            <img src="https://render.albiononline.com/v1/item/${item.item_id}.png?size=120&quality=${item.quality}" alt="">
+            <div class="item-title-div">
+                <p class="item-title">${item.display_name}</p>
+                <p class="item-desc">TIER: ${item.tier}.${item.enchantment} QUALITY: ${item.quality_display}</p>
+            </div>
+            <div class="line"></div>
+            <div class="stats">
+                <div class="peritem">
+                    <span>Price: <span class="bold">${item.price}</span></span>
+                    <span>Craft: <span class="bold">${item.crafting_cost}</span></span>
+                    <span>Profit: <span class="boldg">${item.profit}</span></span>
+                    <span>Quantity: <span class="bold">${item.quantity}</span></span>
+                    <span>P*Q: <span class="bold">${item.profit_quantity}</span></span>
+                </div>
+            </div>
+        </div>`
+        mainContainer.insertAdjacentHTML("beforeend",html);
+    })
+}
