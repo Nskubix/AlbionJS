@@ -17,11 +17,16 @@ const cityRules = {
     "Bridgewatch": "STONE"
 };
 
-const CRAFT_RETURN = 0.2480
+
+const MARKET_TAX = 1.08;
+const CRAFT_RETURN = 0.2480;
+const ARTEFACT_CITY = "Lymhurst";
+const SELL_CITY = "Brecilien";
+
 const ARTEFACT_FILES_COUNT = 9;
 const ATLEAST_THIS_DAYS = 18;
 const START_DAY_FOR_AVERAGE = 10;
-const MARKET_TAX = 1.08;
+
 
 //! BASIC FUNCTIONS CONNECTED TO THE CORE CALCULATOR
 
@@ -135,7 +140,7 @@ async function allArtefactsPrices(should_fetch){
         for(let i = 1; i <= ARTEFACT_FILES_COUNT; i++){
             let artefact_text = await textFromFile(`artefact${i}.txt`);
             let artefact_arr = textToArray(artefact_text)
-            artefact_json = artefact_json.concat(await getApiData(artefact_arr,"time-scale=24&locations=Lymhurst"));
+            artefact_json = artefact_json.concat(await getApiData(artefact_arr,`time-scale=24&locations=${ARTEFACT_CITY}`));
         }
     }
     else{
@@ -184,7 +189,7 @@ async function main(category) {
     const artefact_price_map = await allArtefactsPrices(true);
     const price_map = new Map([...resource_price_map,...artefact_price_map]);
     const recipe_map = await setRecipeMap();
-    let item_data = await equipmentCategoryItems(category,true);
+    let item_data = await equipmentCategoryItems(category,true,SELL_CITY);
 
     //? SET DISPLAY NAME MAP
     const file_text = await textFromFile(`categories/${category}.txt`);
@@ -330,33 +335,24 @@ setInterval(() => {
 }, 2000);
 
 const allEquipmentButtons = document.querySelectorAll(".equipment-button");
-
 allEquipmentButtons.forEach(button =>{
-    const buttonImg = button.querySelector("img");
+    button.insertAdjacentHTML("beforeend",`<span class="category-span" style="width: 100%; text-align: left;">${button.dataset.itemName}</span>`)
     button.addEventListener("click", e=>{
-            categoryClick(e);
-        })
-    buttonImg.addEventListener("load", _ =>{
-        const newSrc = buttonImg.src.replace("?size=40", "?size=150");;
-        const tempImg = new Image();
-        tempImg.src = newSrc;
-        tempImg.addEventListener("load", _ =>{
-            buttonImg.src = newSrc;
-            button.classList.remove("blur-icons")
-            button.classList.add("category-hover-right");
-        })
-    }, {once: true})
-
+        categoryClick(e);
+    })
 })
-
-
-
+const loading_screen = document.querySelector(".loading-screen");
 async function categoryClick(e) {
+    loading_screen.classList.remove("hidden");
+    allEquipmentButtons.forEach(button =>{
+        button.classList.remove("selected")
+    })
     const mainContainerr = document.querySelector("main");
     mainContainerr.remove();
     document.querySelector(".flex-wrapper").insertAdjacentHTML("beforeend",`<main class="main"></main>`)
     const btn = e.target.closest(".equipment-button");
-    arrowRetract();
+    btn.classList.add("selected");
+    // arrowRetract();
     const data = await main(btn.dataset.apiName);
     data.sort((a,b) =>{
         if(a.profit_quantity > b.profit_quantity){
@@ -369,51 +365,12 @@ async function categoryClick(e) {
     displayData(data);
 }
 
-const category_nav = document.querySelector(".category-nav");
-document.querySelector(".category-arrow-right").addEventListener("click", e =>{
-    if(!arrowIsExpanded){
-        arrowExpand();
-    }
-    else{
-        arrowRetract();
-    }
-
-})
-
-const expand_arrow = document.querySelector(".category-arrow-right")
-let arrowIsExpanded = false;
-function arrowExpand(){
-    arrowIsExpanded = true;
-    category_nav.style.overflow = "visible";
-    category_nav.classList.add("category-nav-expand")
-    category_nav.classList.remove("category-nav-retract")
-    allEquipmentButtons.forEach(button =>{
-        button.insertAdjacentHTML("beforeend",`<span class="category-span" style="width: 100%; text-align: left;">${button.dataset.itemName}</span>`)
-    })
-
-    expand_arrow.querySelector("img").classList.add("category-arrow-left");
-}
-
-
-function arrowRetract() {
-    arrowIsExpanded = false;
-
-    expand_arrow.querySelector("img").classList.remove("category-arrow-left");
-    const category_spans = document.querySelectorAll(".category-span")
-    category_nav.style.overflow = "hidden";
-    category_nav.classList.add("category-nav-retract")
-    category_nav.classList.remove("category-nav-expand")
-    category_spans.forEach(span =>{
-        span.remove();
-    })
-}
-
 function displayData(data) {
     const mainContainer = document.querySelector("main");
     data.forEach(item =>{
         const html = `
         <div class="t${item.tier} item-result">
-            <img src="https://render.albiononline.com/v1/item/${item.item_id}.png?size=120&quality=${item.quality}" alt="">
+            <img src="https://render.albiononline.com/v1/item/${item.item_id}.png?size=110&quality=${item.quality}" alt="">
             <div class="item-title-div">
                 <p class="item-title">${item.display_name}</p>
                 <p class="item-desc">TIER: ${item.tier}.${item.enchantment} QUALITY: ${item.quality_display}</p>
@@ -431,4 +388,7 @@ function displayData(data) {
         </div>`
         mainContainer.insertAdjacentHTML("beforeend",html);
     })
+    setTimeout(() => {
+        loading_screen.classList.add("hidden");
+    }, 200);
 }
