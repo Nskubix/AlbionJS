@@ -113,11 +113,6 @@ body{
     display: inline;
 }
 
-.equipment-button{
-    background-color: rgba(1,1,1,0);
-    border: none;
-}
-
 .category-nav::-webkit-scrollbar-button:start:decrement,
 .category-nav::-webkit-scrollbar-button:end:increment {
     display: none;
@@ -131,9 +126,7 @@ body{
     gap: 10px;
     align-items: start;
     padding-left: 20px;
-    /* width: clamp(150px, 10vw, 200px); */
     background-color: #1C1B1B;
-    /* height: 850px; */
     border-end-end-radius: 40px;
     corner-shape: squircle;
     padding-right: 15px;
@@ -142,8 +135,6 @@ body{
     overflow-y: auto;
     overflow-x: hidden;
     scrollbar-color: #3a3939 transparent;
-    /* scrollbar-width: thin; */
-
 }
 
 
@@ -153,47 +144,9 @@ body{
     gap: 2rem;
 }
 
-
-.category-arrow-right{
-    border: none;
-    background-color: rgba(1,1,1,0.2);
-    padding: 1rem;
-    border: 4px solid var(--secondary);
-    border-radius: 200px;
-    cursor: pointer;
-}
-
-.category-nav-expand{
-    animation: category-nav-expand-anim 0.2s ease-in-out;
-    animation-fill-mode: forwards;
-}
-
-
-@keyframes category-nav-expand-anim {
-    100%{
-        height: auto;
-        min-width: clamp(400px,25%,600px);
-    }
-}
-
-.category-nav-retract{
-    animation: category-nav-retract-anim 0.2s ease-in-out;
-    animation-fill-mode: forwards;
-}
-
-
-@keyframes category-nav-retract-anim {
-    0%{
-        height: auto;
-        min-width: clamp(400px,25%,600px);
-    }
-    100%{
-        height: 850px;
-        width: clamp(150px, 10vw, 200px);
-    }
-}
-
 .equipment-button{
+    background-color: rgba(1,1,1,0);
+    border: none;
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -205,6 +158,9 @@ body{
     }
     width: 100%;
     margin-right: 20px;
+    *{
+        pointer-events: none;
+    }
 }
 
 
@@ -217,10 +173,6 @@ body{
 }
 
 
-.category-arrow-left{
-    transform: rotate(180deg);
-}
-
 .flex-wrapper{
     display: flex;
     align-items: start;
@@ -230,46 +182,32 @@ body{
 .main{
     width: 100%;
     min-height: 150vh;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-rows: 300px;
+    display: flex;
+    flex-flow: row wrap;
+    /* grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 300px; */
     margin-top: 50px;
     margin-left: 30px;
     gap: 30px;
 }
 
-.item-result2{
+.item-result{
+    width: 25rem;
     height: 300px;
     display: flex;
     border-radius: 20px;
-    z-index: 1;
     background: #1C1B1B;
-    /* background: #4d4020; */
-    /* background: linear-gradient(45deg, rgba(77, 64, 32, 0.2) 0%, rgba(25, 25, 25, 1) 30%, rgba(25, 25, 25, 1) 70%, rgba(77, 64, 32, 0.2) 100%); */
     flex-flow: column;
-    /* backdrop-filter: blur(1px); */
-    filter: drop-shadow(0 0 1rem rgba(19, 98, 187,0.9));
     &:hover{
         transform: translateY(-4px);
     }
     transition: all 0.2s ease-in-out;
 }
 
-.t52{
-    &::before{
-        content: '';
-        background-color: rgb(134, 61, 27);
-        height: 300px;
-        width: 20px;
-        transform: translateX(-10px);
-        border-radius: 10px;
-
-    }
-}
 
 .item-result-top{
     width: 100%;
-    height: 40%;
+    height: clamp(85px,25%,200px);
     display: flex;
     margin: 15px;
     gap: 15px;
@@ -296,31 +234,27 @@ body{
 
 .item-result-tier{
     display: block;
-    color: rgb(25, 115, 218);
+
     font-weight: bold;
     font-size: 20px;
-}
-
-.item-result{
-    border-radius: 8px;
-    height: 300px;
-    display: flex;
-    align-items: center;
-    padding-left: 10px;
-    animation: appear 0.3s ease-out;
-
 }
 
 .item-result-bottom{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    /* background-color: blue; */
+    grid-template-rows: 1fr 1fr 1fr;
+    max-height: 9rem;
+    grid-template-areas:
+    "price craft"
+    "profit quantity"
+    "pq pq"
+    ;
     height: 100%;
 }
 .label-value{
     /* background-color: #aaa; */
-    margin: 20px;
+    /* margin: 20px; */
+    margin-left: 1rem;
     display: flex;
     flex-flow: column;
     justify-content: center;
@@ -353,6 +287,33 @@ body{
     color: #aaa;
 }
 
+.price-div{
+    grid-area: price;
+
+}
+.craft-div{
+    grid-area: craft;
+
+}
+.profit-div{
+    grid-area:  profit;
+
+}
+.quantity-div{
+    grid-area: quantity;
+
+}
+
+.pq-div{
+    margin-top: 10px;
+    margin-left: 15px;
+    grid-area: pq;
+    color: white;
+    display: grid;
+    align-content: center;
+}
+
+
 .stats{
     flex-grow: 2;
 }
@@ -375,32 +336,6 @@ body{
     margin-right: 10px;
 }
 
-.t4{
-    background-color: rgba(19, 98, 187,0.7);
-    box-shadow: 2px 2px 5px rgb(12, 61, 116);
-}
-
-.t5{
-    background-color: rgba(187, 19, 19, 0.7);
-    box-shadow: 2px 2px 5px rgb(116, 12, 12);
-}
-
-.t6{
-    background-color: rgba(228, 118, 16, 0.7);
-    box-shadow: 2px 2px 5px rgb(116, 73, 12);
-}
-
-.t7{
-    background-color: rgba(229, 218, 12, 0.7);
-    box-shadow: 2px 2px 5px rgb(113, 116, 12);
-}
-
-.t8{
-    background-color: rgba(155, 172, 192, 0.7);
-    box-shadow: 2px 2px 5px rgb(112, 115, 119);
-}
-
-
 @keyframes appear {
     0%{
         opacity: 0;
@@ -410,9 +345,6 @@ body{
     }
 }
 
-.equipment-button * {
-    pointer-events: none;
-}
 
 
 .selected{
@@ -423,7 +355,6 @@ body{
     box-shadow: 1px 3px 10px rgba(197, 160, 89,0.4);
 
 }
-
 
 .loading-screen{
     position: fixed;
@@ -495,3 +426,47 @@ body{
   0% { transform: rotate(0deg) }
   100% { transform: rotate(360deg) }
 }
+
+
+/*! TIER COLORS*/
+.t4-glow{
+    filter: drop-shadow(0 0 1rem rgba(19, 98, 187,0.9));
+}
+
+.t5-glow{
+    filter: drop-shadow(0 0 1rem rgba(230, 24, 24, 0.9));
+}
+
+.t6-glow{
+    filter: drop-shadow(0 0 1rem rgba(228, 118, 16, 0.9));
+}
+
+.t7-glow{
+    filter: drop-shadow(0 0 1rem rgba(229, 218, 12, 0.9));
+}
+
+.t8-glow{
+    filter: drop-shadow(0 0 1rem rgba(155, 172, 192, 0.9));
+}
+
+.t4-text{
+    color: rgb(25, 115, 218);
+}
+
+.t5-text{
+    color: rgb(234, 38, 38);
+}
+
+.t6-text{
+    color: rgb(242, 127, 19);
+}
+
+.t7-text{
+    color: rgb(254, 242, 13);
+}
+
+.t8-text{
+    color: rgb(175, 193, 215);
+}
+
+/*! TIER COLOR END */

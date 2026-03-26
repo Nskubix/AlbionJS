@@ -369,21 +369,34 @@ function displayData(data) {
     const mainContainer = document.querySelector("main");
     data.forEach(item =>{
         const html = `
-        <div class="t${item.tier} item-result">
-            <img src="https://render.albiononline.com/v1/item/${item.item_id}.png?size=110&quality=${item.quality}" alt="">
-            <div class="item-title-div">
-                <p class="item-title">${item.display_name}</p>
-                <p class="item-desc">TIER: ${item.tier}.${item.enchantment} QUALITY: ${item.quality_display}</p>
-            </div>
-            <div class="line"></div>
-            <div class="stats">
-                <div class="peritem">
-                    <span>Price: <span class="bold">${item.price}</span></span>
-                    <span>Craft: <span class="bold">${item.crafting_cost}</span></span>
-                    <span>Profit: <span class="boldg">${item.profit}</span></span>
-                    <span>Quantity: <span class="bold">${item.quantity}</span></span>
-                    <span>P*Q: <span class="bold">${item.profit_quantity}</span></span>
+        <div class="item-result t${item.tier}-glow">
+            <div class="item-result-top">
+                <div class="item-result-img">
+                    <img src="https://render.albiononline.com/v1/item/${item.item_id}.png?size=100&quality=4" alt="">
                 </div>
+                <div class="item-result-title-div">
+                    <span class="item-result-title">${item.display_name}</span>
+                    <span class="item-result-tier t${item.tier}-text">TIER ${item.tier}.${item.enchantment}</span>
+                </div>
+            </div>
+            <div class="item-result-bottom">
+                <div class="label-value price-div">
+                    <span class="item-result-label">PRICE</span>
+                    <span class="item-result-value">${item.price}</span>
+                </div>
+                <div class="label-value craft-div">
+                    <span class="item-result-label">CRAFT</span>
+                    <span class="item-result-value">${item.crafting_cost}</span>
+                </div>
+                <div class="label-value profit-div">
+                    <span class="item-result-label">PROFIT</span>
+                    <span class="item-result-value">${item.profit}</span>
+                </div>
+                <div class="label-value quantity-div">
+                    <span class="item-result-label">QUANTITY</span>
+                    <span class="item-result-value">${item.quantity}</span>
+                </div>
+                <div class="pq-div"><span class="item-result-label">Net Value (Profit*Quantity):</span><span class="item-result-value">${item.profit_quantity}</span></div>
             </div>
         </div>`
         mainContainer.insertAdjacentHTML("beforeend",html);
