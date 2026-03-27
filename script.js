@@ -18,10 +18,10 @@ const cityRules = {
 };
 
 
-const MARKET_TAX = 1.08;
-const CRAFT_RETURN = 0.2480;
-const ARTEFACT_CITY = "Lymhurst";
-const SELL_CITY = "Brecilien";
+let MARKET_TAX = 1.08;
+let CRAFT_RETURN = 0.248;
+let ARTEFACT_CITY = "Lymhurst";
+let SELL_CITY = "Brecilien";
 
 const ARTEFACT_FILES_COUNT = 9;
 const ATLEAST_THIS_DAYS = 18;
@@ -185,23 +185,31 @@ async function main(category) {
 
     //? GET PRICES
     let refined_data = [];
+    console.log("fetching resources");
     const resource_price_map = await basicResourcePricesFromBestCity(true);
+    console.log("fetching artefacts");
     const artefact_price_map = await allArtefactsPrices(true);
+    console.log("fetching artefacts");
     const price_map = new Map([...resource_price_map,...artefact_price_map]);
     const recipe_map = await setRecipeMap();
     let item_data = await equipmentCategoryItems(category,true,SELL_CITY);
+    console.log("fetching weapons");
 
     //? SET DISPLAY NAME MAP
     const file_text = await textFromFile(`categories/${category}.txt`);
-    const item_array = textToArray(file_text);
-    let display_item_map = new Map();
-    item_array.forEach(([id,name]) =>{
-        if(name == undefined){
-            name = "IDK"
+    const item_display_array = textToArray(file_text);
+    let concat_item_arr = [];
+    //? Only for capes now due to being so many capes it needs to be split across multiple requests
+    if(item_display_array.length == 2){
+        const length = Number.parseInt(item_display_array[0]);
+        for (let i = 1; i <= length; i++) {
+            const concat_file_text = await textFromFile(`categories/${category}${i}.txt`);
+            console.log(concat_file_text);
+            const concat_display_item_arr = textToArray(concat_file_text);
+            concat_item_arr = concat_item_arr.concat(concat_display_item_arr)
         }
-        display_item_map.set(id,name.trim());
-    })
-
+    }
+    const display_item_map = setDisplayMap(concat_item_arr.length !== 0 ? concat_item_arr : item_display_array);
     //? SET REFINED DATA
     for(let i = 0; i < item_data.length; i++){
         if(item_data[i].data.length < ATLEAST_THIS_DAYS){
@@ -396,7 +404,7 @@ function displayData(data) {
                     <span class="item-result-label">QUANTITY</span>
                     <span class="item-result-value">${item.quantity}</span>
                 </div>
-                <div class="pq-div"><span class="item-result-label">Net Value (Profit*Quantity):</span><span class="item-result-value">${item.profit_quantity}</span></div>
+                <div class="pq-div"><span class="item-result-label">Net Value (Profit*Quantity):</span><span class="item-result-value">${numberWithCommas(item.profit_quantity)}</span></div>
             </div>
         </div>`
         mainContainer.insertAdjacentHTML("beforeend",html);
@@ -404,4 +412,20 @@ function displayData(data) {
     setTimeout(() => {
         loading_screen.classList.add("hidden");
     }, 200);
+}
+
+function numberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
+
+function setDisplayMap(item_array) {
+    let display_item_map = new Map();
+    item_array.forEach(([id,name]) =>{
+        if(name == undefined){
+            name = "IDK"
+        }
+        display_item_map.set(id,name.trim());
+    })
+    return display_item_map
 }

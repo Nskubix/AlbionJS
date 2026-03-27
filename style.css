@@ -53,7 +53,7 @@ footer, header, hgroup, menu, nav, section {
 body{
     line-height: 1;
     --primary-bg: #131313;
-    --secondary: #C5A059;
+    --secondary: #d39726;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     background-color: var(--primary-bg);
@@ -470,3 +470,22 @@ body{
 }
 
 /*! TIER COLOR END */
+
+
+.settings-btn{
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    width: 90px;
+    height: 90px;
+    background-color:var(--secondary);
+    border-radius: 30px;
+    corner-shape: squircle;
+    box-shadow: 0 0 20px var(--secondary);
+
+    transition: all 0.1s;
+    &:hover{
+        cursor: pointer;
+        transform: scale(1.03);
+    }
+}
