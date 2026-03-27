@@ -489,3 +489,51 @@ body{
         transform: scale(1.03);
     }
 }
+
+.settings{
+    width: clamp(10rem,30%,100rem);
+    height: 500px;
+    background-color:#1C1B1B;
+    border-radius: 20px;
+}
+
+.settings-wrapper *{
+    animation: appear 0.2s;
+}
+
+.settings-wrapper{
+    animation: appear 0.2s;
+}
+
+.settings-header{
+    height: 3rem;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    align-items: center;
+    span{
+        font-weight: bolder;
+        font-size: 1.5rem;
+    }
+    button{
+        width: 3rem;
+        height: 3rem;
+        border-radius: 100px;
+        background-color: var(--secondary);
+        box-shadow: 0 0 4px var(--secondary);
+        color: black;
+        transition: all 0.1s;
+        &:hover{
+            cursor: pointer;
+            transform: scale(1.03);
+        }
+        display: grid;
+        place-content: center;
+        img{
+            width: 1.5rem;
+        }
+    }
+}

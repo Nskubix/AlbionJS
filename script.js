@@ -429,3 +429,14 @@ function setDisplayMap(item_array) {
     })
     return display_item_map
 }
+
+const settings_btn = document.querySelector(".settings-btn")
+const settings_close_btn = document.querySelector(".settings-close-btn");
+const settings_wrapper = document.querySelector(".settings-wrapper")
+settings_btn.addEventListener("click", e=>{
+    settings_wrapper.classList.remove("hidden");
+})
+
+settings_close_btn.addEventListener("click", e=>{
+    settings_wrapper.classList.add("hidden");
+})
