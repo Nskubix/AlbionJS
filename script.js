@@ -337,19 +337,24 @@ function setItemAdditionalData(item, recipe_map){
 //! Interfejs
 
 const title_underscore = document.querySelector(".title-underscore");
+const loading_screen = document.querySelector(".loading-screen");
+const allEquipmentButtons = document.querySelectorAll(".equipment-button");
+const settings_btn = document.querySelector(".settings-btn")
+const settings_close_btn = document.querySelector(".settings-close-btn");
+const settings_wrapper = document.querySelector(".settings-wrapper")
 
 setInterval(() => {
     title_underscore.classList.toggle("hidden")
 }, 2000);
 
-const allEquipmentButtons = document.querySelectorAll(".equipment-button");
+
 allEquipmentButtons.forEach(button =>{
     button.insertAdjacentHTML("beforeend",`<span class="category-span" style="width: 100%; text-align: left;">${button.dataset.itemName}</span>`)
     button.addEventListener("click", e=>{
         categoryClick(e);
     })
 })
-const loading_screen = document.querySelector(".loading-screen");
+
 async function categoryClick(e) {
     loading_screen.classList.remove("hidden");
     allEquipmentButtons.forEach(button =>{
@@ -430,13 +435,30 @@ function setDisplayMap(item_array) {
     return display_item_map
 }
 
-const settings_btn = document.querySelector(".settings-btn")
-const settings_close_btn = document.querySelector(".settings-close-btn");
-const settings_wrapper = document.querySelector(".settings-wrapper")
+
 settings_btn.addEventListener("click", e=>{
     settings_wrapper.classList.remove("hidden");
 })
 
 settings_close_btn.addEventListener("click", e=>{
     settings_wrapper.classList.add("hidden");
+})
+
+const dropdown_btns = document.querySelectorAll(".btn-dropdown");
+
+dropdown_btns.forEach(btn =>{
+    btn.addEventListener("click", e=>{
+        console.log(btn.closest(".city-wrapper"));
+
+        btn.closest(".city-wrapper").querySelector(".city-dropdown").classList.toggle("hidden");
+    })
+})
+
+city_dropdown_select_btns = document.querySelectorAll(".city-dropdown-select-btn");
+
+city_dropdown_select_btns.forEach(btn =>{
+    btn.addEventListener("click", e=>{
+        btn.closest(".city-wrapper").querySelector(".btn-dropdown").querySelector("span").textContent = btn.textContent
+        btn.closest(".city-wrapper").querySelector(".city-dropdown").classList.toggle("hidden");
+    })
 })
