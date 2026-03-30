@@ -35,6 +35,7 @@
             <button class="equipment-button" data-item-name="Nature staffs" data-api-name="naturestaff"><img src="https://render.albiononline.com/v1/item/T4_MAIN_NATURESTAFF.png?size=90" alt="" width="90px" ></button>
             <button class="equipment-button" data-item-name="Quarterstaffs" data-api-name="quaterstaff"><img src="https://render.albiononline.com/v1/item/T4_2H_QUARTERSTAFF.png?size=90" alt="" width="90px" ></button>
             <button class="equipment-button" data-item-name="Spears" data-api-name="spear"><img src="https://render.albiononline.com/v1/item/T4_MAIN_SPEAR.png?size=90" alt="" width="90px"></button>
+            <button class="equipment-button" data-item-name="Sword" data-api-name="sword"><img src="https://render.albiononline.com/v1/item/T4_MAIN_SWORD.png?size=90" alt="" width="90px"></button>
             <button class="equipment-button" data-item-name="Cloth Cowls" data-api-name="headcloth"><img src="https://render.albiononline.com/v1/item/T4_HEAD_CLOTH_SET1.png?size=90" alt="" width="90px"></button>
             <button class="equipment-button" data-item-name="Cloth Robes" data-api-name="armorcloth"><img src="https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_SET1.png?size=90" alt="" width="90px"></button>
             <button class="equipment-button" data-item-name="Cloth Sandals" data-api-name="shoescloth"><img src="https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_SET1.png?size=90" alt="" width="90px"></button>
@@ -58,48 +59,63 @@
     <button class="settings-btn">
         <img src="img/gear3.svg" width="45px" alt="">
     </button>
-    <div class="loading-screen settings-wrapper">
+    <div class="loading-screen hidden settings-wrapper">
         <div class="settings">
             <div class="settings-header">
                 <span>Settings</span>
                 <button class="settings-close-btn"><img src="img/x.svg" alt=""></button>
             </div>
-            <div class="settings-body">
-                <div class="settings-city">
-                    <div class="sell-city-wrapper city-wrapper">
-                        <span class="city-label">Sell City</span>
-                        <div class="sell-city-btn-dropdown btn-dropdown">
-                            <span>Brecilien</span>
-                            <img src="img/arrow-down.svg" alt="">
-                        </div>
-                        <div class="city-dropdown hidden">
-                            <button class="city-dropdown-select-btn">Brecilien</button>
-                            <button class="city-dropdown-select-btn">Lymhurst</button>
-                            <button class="city-dropdown-select-btn">Thetford</button>
-                            <button class="city-dropdown-select-btn">Fort Sterling</button>
-                            <button class="city-dropdown-select-btn">Bridgewatch</button>
-                            <button class="city-dropdown-select-btn">Caerleon</button>
-                            <button class="city-dropdown-select-btn">Martlock</button>
-                        </div>
-                    </div>
 
-                    <div class="artefact-city-wrapper city-wrapper">
-                        <span class="city-label">Artefact Buy City</span>
-                        <div class="artefact-city-btn-dropdown btn-dropdown">
-                            <span>Lymhurst</span>
-                            <img src="img/arrow-down.svg" alt="">
-                        </div>
-                        <div class="city-dropdown hidden">
-                            <button class="city-dropdown-select-btn">Brecilien</button>
-                            <button class="city-dropdown-select-btn">Lymhurst</button>
-                            <button class="city-dropdown-select-btn">Thetford</button>
-                            <button class="city-dropdown-select-btn">Fort Sterling</button>
-                            <button class="city-dropdown-select-btn">Bridgewatch</button>
-                            <button class="city-dropdown-select-btn">Caerleon</button>
-                            <button class="city-dropdown-select-btn">Martlock</button>
-                        </div>
+            <div class="settings-city">
+                <div class="sell-city-wrapper city-wrapper">
+                    <span class="city-label">Sell City</span>
+                    <div class="sell-city-btn-dropdown btn-dropdown">
+                        <span>Brecilien</span>
+                        <img src="img/arrow-down.svg" alt="">
+                    </div>
+                    <div class="city-dropdown hidden">
+                        <button class="city-dropdown-select-btn">Brecilien</button>
+                        <button class="city-dropdown-select-btn">Lymhurst</button>
+                        <button class="city-dropdown-select-btn">Thetford</button>
+                        <button class="city-dropdown-select-btn">Fort Sterling</button>
+                        <button class="city-dropdown-select-btn">Bridgewatch</button>
+                        <button class="city-dropdown-select-btn">Caerleon</button>
+                        <button class="city-dropdown-select-btn">Martlock</button>
                     </div>
                 </div>
+
+                <div class="artefact-city-wrapper city-wrapper">
+                    <span class="city-label">Artefact Buy City</span>
+                    <div class="artefact-city-btn-dropdown btn-dropdown">
+                        <span>Lymhurst</span>
+                        <img src="img/arrow-down.svg" alt="">
+                    </div>
+                    <div class="city-dropdown hidden">
+                        <button class="city-dropdown-select-btn">Brecilien</button>
+                        <button class="city-dropdown-select-btn">Lymhurst</button>
+                        <button class="city-dropdown-select-btn">Thetford</button>
+                        <button class="city-dropdown-select-btn">Fort Sterling</button>
+                        <button class="city-dropdown-select-btn">Bridgewatch</button>
+                        <button class="city-dropdown-select-btn">Caerleon</button>
+                        <button class="city-dropdown-select-btn">Martlock</button>
+                    </div>
+                </div>
+            </div>
+            <div class="settings-checkbox-div">
+                <span class="checkbox-label">Premium Account</span>
+                <input type="checkbox" name="" id="premium-chkbox" class="settings-checkbox">
+                <span class="checkbox-label">Focus</span>
+                <input type="checkbox" name="" id="focus-chkbox" class="settings-checkbox">
+                <span class="checkbox-label">City Bonus</span>
+                <input type="checkbox" name="" id="city-chkbox" class="settings-checkbox" checked>
+            </div>
+            <div class="settings-bonus-div">
+                <span class="settings-bonus-label">Daily bonus (0,10,20)</span>
+                <input class="settings-bonus" type="number" name="" id="bonus-input" placeholder=" 0%">
+            </div>
+            <div class="settings-footer">
+                <button class="btn-save">Save Changes</button>
+            </div>
             </div>
         </div>
     </div>

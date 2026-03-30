@@ -30,6 +30,76 @@ const START_DAY_FOR_AVERAGE = 10;
 
 //! BASIC FUNCTIONS CONNECTED TO THE CORE CALCULATOR
 
+function calculateCraftReturn(focus,city_bonus,daily_bonus) {
+    let first_part = 0.152;
+    let second_part = 0;
+    if(city_bonus){
+        switch (daily_bonus) {
+            case 0:
+                first_part = 0.248;
+                break;
+            case 0.1:
+                first_part = 0.3;
+                break;
+            case 0.2:
+                first_part = 0.346;
+                break;
+            default:
+                break;
+        }
+    }
+    else{
+        switch (daily_bonus) {
+            case 0.1:
+                first_part = 0.218;
+                break;
+            case 0.2:
+                first_part = 0.275;
+                break;
+            default:
+                break;
+        }
+    }
+
+    if (focus) {
+        if(city_bonus){
+            switch (daily_bonus) {
+                case 0:
+                    second_part = 0.231;
+                    break;
+                case 0.1:
+                    second_part = 0.204;
+                    break;
+                case 0.2:
+                    second_part = 0.182;
+                    break;
+                default:
+                    break;
+            }
+        }
+        else{
+            switch (daily_bonus) {
+                case 0:
+                    second_part = 0.283;
+                    break;
+                case 0.1:
+                    second_part = 0.247;
+                    break;
+                case 0.2:
+                    second_part = 0.217;
+                    break;
+                default:
+                    second_part = 0;
+                    break;
+            }
+        }
+    }
+
+    return first_part+second_part;
+
+}
+
+
 async function textFromFile(file_name){
     const file = await fetch(`itemstxt/${file_name}`);
     return await file.text();
@@ -246,7 +316,7 @@ async function main(category) {
 function logConsoleInfoAboutItemProfit(item){
 
     if(Number.isNaN(item.profit_quantity)){
-        console.log("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        console.log("Go to market if you have Albion Data Client, go into buy order and update the item/artifact:");
         console.log(`%c${item.item_id} // ${item.quality_display} // PROFIT : ${item.profit} // AVERAGE PRICE: ${item.average_price} // CRAFTING COST : ${item.crafting_cost_array}`,"color: blue; font-weight: bold;");
     }
 }
@@ -375,44 +445,55 @@ async function categoryClick(e) {
             return 1;
         }
     })
-    displayData(data);
+    await displayData(data);
 }
 
-function displayData(data) {
+async function displayData(data) {
     const mainContainer = document.querySelector("main");
-    data.forEach(item =>{
+    data.forEach(async item =>{
+        let result = document.createElement("div");
+        result.classList.add("item-result");
+        result.classList.add(`t${item.tier}-glow`)
         const html = `
-        <div class="item-result t${item.tier}-glow">
-            <div class="item-result-top">
-                <div class="item-result-img">
-                    <img src="https://render.albiononline.com/v1/item/${item.item_id}.png?size=100&quality=4" alt="">
-                </div>
-                <div class="item-result-title-div">
-                    <span class="item-result-title">${item.display_name}</span>
-                    <span class="item-result-tier t${item.tier}-text">TIER ${item.tier}.${item.enchantment}</span>
-                </div>
+        <div class="item-result-top">
+            <div class="item-result-img">
+                <img class="result-img blur" src="img/download.svg" width="60px" alt="">
             </div>
-            <div class="item-result-bottom">
-                <div class="label-value price-div">
-                    <span class="item-result-label">PRICE</span>
-                    <span class="item-result-value">${item.price}</span>
-                </div>
-                <div class="label-value craft-div">
-                    <span class="item-result-label">CRAFT</span>
-                    <span class="item-result-value">${item.crafting_cost}</span>
-                </div>
-                <div class="label-value profit-div">
-                    <span class="item-result-label">PROFIT</span>
-                    <span class="item-result-value">${item.profit}</span>
-                </div>
-                <div class="label-value quantity-div">
-                    <span class="item-result-label">QUANTITY</span>
-                    <span class="item-result-value">${item.quantity}</span>
-                </div>
-                <div class="pq-div"><span class="item-result-label">Net Value (Profit*Quantity):</span><span class="item-result-value">${numberWithCommas(item.profit_quantity)}</span></div>
+            <div class="item-result-title-div">
+                <span class="item-result-title">${item.display_name}</span>
+                <span class="item-result-tier t${item.tier}-text">TIER ${item.tier}.${item.enchantment}</span>
             </div>
+        </div>
+        <div class="item-result-bottom">
+            <div class="label-value price-div">
+                <span class="item-result-label">PRICE</span>
+                <span class="item-result-value">${item.price}</span>
+            </div>
+            <div class="label-value craft-div">
+                <span class="item-result-label">CRAFT</span>
+                <span class="item-result-value">${item.crafting_cost}</span>
+            </div>
+            <div class="label-value profit-div">
+                <span class="item-result-label">PROFIT</span>
+                <span class="item-result-value">${item.profit}</span>
+            </div>
+            <div class="label-value quantity-div">
+                <span class="item-result-label">QUANTITY</span>
+                <span class="item-result-value">${item.quantity}</span>
+            </div>
+            <div class="pq-div"><span class="item-result-label">Net Value (Profit*Quantity):</span><span class="item-result-value">${numberWithCommas(item.profit_quantity)}</span></div>
         </div>`
-        mainContainer.insertAdjacentHTML("beforeend",html);
+        result.insertAdjacentHTML("beforeend",html);
+        mainContainer.appendChild(result);
+        let tempImg = new Image();
+        tempImg.src = `https://render.albiononline.com/v1/item/${item.item_id}.png?size=100&quality=4`;
+        await tempImg.decode();
+        console.log("abc");
+
+        result.querySelector(".result-img").replaceWith(tempImg);
+        tempImg.classList.remove("blur");
+
+
     })
     setTimeout(() => {
         loading_screen.classList.add("hidden");
@@ -444,12 +525,18 @@ settings_close_btn.addEventListener("click", e=>{
     settings_wrapper.classList.add("hidden");
 })
 
+const settings_bg = document.querySelector(".settings-wrapper")
+
+settings_bg.addEventListener("click", e=>{
+    if(e.target === settings_bg){
+        settings_wrapper.classList.add("hidden");
+    }
+})
+
 const dropdown_btns = document.querySelectorAll(".btn-dropdown");
 
 dropdown_btns.forEach(btn =>{
     btn.addEventListener("click", e=>{
-        console.log(btn.closest(".city-wrapper"));
-
         btn.closest(".city-wrapper").querySelector(".city-dropdown").classList.toggle("hidden");
     })
 })
@@ -461,4 +548,24 @@ city_dropdown_select_btns.forEach(btn =>{
         btn.closest(".city-wrapper").querySelector(".btn-dropdown").querySelector("span").textContent = btn.textContent
         btn.closest(".city-wrapper").querySelector(".city-dropdown").classList.toggle("hidden");
     })
+})
+
+const apply_btn = document.querySelector(".btn-save")
+const premium_chkbox = document.querySelector("#premium-chkbox");
+const focus_chkbox = document.querySelector("#focus-chkbox");
+const city_chkbox = document.querySelector("#city-chkbox");
+const bonus_input = document.querySelector("#bonus-input");
+apply_btn.addEventListener("click", e=>{
+    if(bonus_input.value == ""){
+
+    }
+    else if ((bonus_input.value != 0 && bonus_input.value != 10 && bonus_input.value != 20)) {
+        return;
+    }
+
+    MARKET_TAX = premium_chkbox.checked ? 1.04 : 1.08;
+    CRAFT_RETURN = calculateCraftReturn(focus_chkbox.checked,city_chkbox.checked,bonus_input.value/100);
+    ARTEFACT_CITY = document.querySelector(".artefact-city-btn-dropdown").querySelector("span").textContent;
+    SELL_CITY = document.querySelector(".sell-city-btn-dropdown").querySelector("span").textContent;
+    settings_wrapper.classList.add("hidden");
 })
