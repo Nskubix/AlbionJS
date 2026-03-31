@@ -225,6 +225,8 @@ body{
     /* background-color: #3a3939; */
     width: 100px;
     height: 100px;
+    display: grid;
+    place-content: center;
 }
 
 .item-result-title{
@@ -392,7 +394,7 @@ body{
   border-radius: 50%;
   position: relative;
   transform: translateZ(0);
-  animation: mltShdSpin 1.7s infinite ease, round 1.7s infinite ease;
+  animation: mltShdSpin 2s infinite ease, round 2s infinite ease;
   transition: all 0.2s ease-in-out;
 }
 

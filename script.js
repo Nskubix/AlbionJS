@@ -18,7 +18,7 @@ const cityRules = {
 };
 
 
-let MARKET_TAX = 1.08;
+let MARKET_TAX = 0.08;
 let CRAFT_RETURN = 0.248;
 let ARTEFACT_CITY = "Lymhurst";
 let SELL_CITY = "Brecilien";
@@ -299,7 +299,7 @@ async function main(category) {
                     enchantment: item_data[i].enchantment,
                     item_id: item_data[i].item_id,
                     profit: item_data[i].profit,
-                    profit_quantity: Math.trunc(item_data[i].profit_quantity),
+                    profit_quantity: item_data[i].profit_quantity,
                     crafting_cost: item_data[i].crafting_cost,
                     display_name: display_item_map.get(item_data[i].item_id),
                     tier: +item_data[i].item_id[1],
@@ -376,8 +376,8 @@ function calcProfit(item, price_map, crafting_return){
     }
     item.crafting_cost = Math.floor(item.crafting_cost)
 
-    item.profit = Math.floor((item.average_price * MARKET_TAX) - item.crafting_cost);
-    item.profit_quantity = item.profit * (item.average_quantity/4);
+    item.profit = Math.floor((item.average_price - (item.average_price*MARKET_TAX)) - item.crafting_cost);
+    item.profit_quantity = Math.trunc(item.profit * item.average_quantity/4);
 }
 
 function setItemAdditionalData(item, recipe_map){
@@ -445,6 +445,7 @@ async function categoryClick(e) {
             return 1;
         }
     })
+    console.log(data);
     await displayData(data);
 }
 
@@ -457,7 +458,7 @@ async function displayData(data) {
         const html = `
         <div class="item-result-top">
             <div class="item-result-img">
-                <img class="result-img blur" src="img/download.svg" width="60px" alt="">
+                <span class="loader result-img" style="font-size: 30px;"></span>
             </div>
             <div class="item-result-title-div">
                 <span class="item-result-title">${item.display_name}</span>
@@ -491,7 +492,7 @@ async function displayData(data) {
         console.log("abc");
 
         result.querySelector(".result-img").replaceWith(tempImg);
-        tempImg.classList.remove("blur");
+        // tempImg.classList.remove("blur");
 
 
     })
@@ -563,7 +564,7 @@ apply_btn.addEventListener("click", e=>{
         return;
     }
 
-    MARKET_TAX = premium_chkbox.checked ? 1.04 : 1.08;
+    MARKET_TAX = premium_chkbox.checked ? 0.04 : 0.08;
     CRAFT_RETURN = calculateCraftReturn(focus_chkbox.checked,city_chkbox.checked,bonus_input.value/100);
     ARTEFACT_CITY = document.querySelector(".artefact-city-btn-dropdown").querySelector("span").textContent;
     SELL_CITY = document.querySelector(".sell-city-btn-dropdown").querySelector("span").textContent;
