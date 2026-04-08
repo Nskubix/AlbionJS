@@ -65,8 +65,6 @@ body{
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     background-color: var(--primary-bg);
-    min-height: 150vh;
-
 }
 
 .title{
@@ -95,6 +93,7 @@ body{
         background: linear-gradient(180deg, rgba(197, 160, 89,0.04) 0%, rgba(255, 255, 255, 0) 100%);
         pointer-events: none;
     }
+    overflow: hidden;
 }
 
 .tool-link{
@@ -694,4 +693,162 @@ body{
     margin-right: 30%;
     border-radius: 6px;
     border: 10px solid #3a3939;
+}
+
+/* TABLET */
+@media (max-width: 1024px) {
+
+    .header {
+        flex-direction: column;
+        height: auto;
+        padding: 10px;
+        gap: 10px;
+    }
+
+    .title {
+        font-size: 2rem;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .link-tools {
+        margin-right: 0;
+        gap: 1.5rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .flex-wrapper {
+        flex-direction: column;
+    }
+
+    .category-nav-wrapper {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .category-nav {
+        flex-direction: row;
+        overflow-x: auto;
+        overflow-y: hidden;
+        height: auto;
+        width: 100%;
+        padding: 10px;
+        border-radius: 0;
+    }
+
+    .equipment-button {
+        flex-direction: column;
+        min-width: 90px;
+    }
+
+    .category-span {
+        font-size: 0.85rem;
+        text-align: center !important;
+    }
+
+    .main {
+        margin-left: 0;
+        justify-content: center;
+    }
+
+    .item-result {
+        width: 45%;
+    }
+
+    .settings {
+        width: 90%;
+    }
+}
+
+
+/* PHONE */
+@media (max-width: 600px) {
+
+    .title {
+        font-size: 1.5rem;
+    }
+
+    .tool-link {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .link-tools {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .category-nav {
+        gap: 5px;
+    }
+
+    .equipment-button img {
+        width: 60px;
+    }
+
+    .category-span {
+        font-size: 0.7rem;
+
+    }
+
+    .main {
+        gap: 15px;
+        margin-top: 20px;
+    }
+
+    .item-result {
+        width: 90%;
+        height: auto;
+    }
+
+    .item-result-top {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .item-result-title-div {
+        align-items: center;
+        height: auto;
+    }
+
+    .item-result-bottom {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+        "price"
+        "craft"
+        "profit"
+        "quantity"
+        "pq";
+    }
+
+    .settings-btn {
+        width: 60px;
+        height: 60px;
+    }
+
+    .settings {
+        height: auto;
+    }
+
+    .settings-city {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .settings-checkbox-div {
+        margin: 20px;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .settings-bonus {
+        width: 80%;
+    }
+}
+
+.settings-btn{
+    transform: translate3d(0,0,0);
+    will-change: transform;
+    backface-visibility: hidden;
 }

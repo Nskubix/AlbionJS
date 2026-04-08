@@ -207,11 +207,18 @@ async function allArtefactsPrices(should_fetch){
 
     if(should_fetch){
         //* DOWNLOAD FROM API
-        for(let i = 1; i <= ARTEFACT_FILES_COUNT; i++){
-            let artefact_text = await textFromFile(`artefact${i}.txt`);
-            let artefact_arr = textToArray(artefact_text)
-            artefact_json = artefact_json.concat(await getApiData(artefact_arr,`time-scale=24&locations=${ARTEFACT_CITY}`));
-        }
+        const promises = Array.from({length: ARTEFACT_FILES_COUNT}, async (_, i) => {
+            const index = i + 1;
+
+            const artefact_text = await textFromFile(`artefact${index}.txt`);
+            const artefact_arr = textToArray(artefact_text);
+
+            return await getApiData(artefact_arr, `time-scale=24&locations=${ARTEFACT_CITY}`);
+        });
+
+        const results = await Promise.all(promises);
+
+        artefact_json = results.flat();
     }
     else{
         //* LOCAL FILE FOR DEVELOPMENT TO NOT EXPLOIT THE API CONSTANTLY
@@ -407,7 +414,7 @@ function setItemAdditionalData(item, recipe_map){
 //! Interfejs
 
 const title_underscore = document.querySelector(".title-underscore");
-const loading_screen = document.querySelector(".loading-screen");
+const loading_screen = document.querySelector(".main-loading-screen");
 const allEquipmentButtons = document.querySelectorAll(".equipment-button");
 const settings_btn = document.querySelector(".settings-btn")
 const settings_close_btn = document.querySelector(".settings-close-btn");
@@ -427,6 +434,8 @@ allEquipmentButtons.forEach(button =>{
 
 async function categoryClick(e) {
     loading_screen.classList.remove("hidden");
+    loading_screen.style.width = "100%";
+    loading_screen.style.height = "100%";
     allEquipmentButtons.forEach(button =>{
         button.classList.remove("selected")
     })
