@@ -79,7 +79,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* gap: 2rem; */
     background-color: #121212;
     position: sticky;
     top: 0;
@@ -171,9 +170,7 @@ body{
 
 
 .category-span{
-    /* color: var(--secondary); */
     font-size: 1.8rem;
-    /* text-align: center; */
     font-family: "JetBrains Mono", monospace;
     text-wrap-mode: nowrap;
 }
@@ -190,8 +187,6 @@ body{
     min-height: 150vh;
     display: flex;
     flex-flow: row wrap;
-    /* grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-rows: 300px; */
     margin-top: 50px;
     margin-left: 30px;
     gap: 30px;
@@ -220,7 +215,6 @@ body{
 }
 
 .item-result-img{
-    /* background-color: #3a3939; */
     width: 100px;
     height: 100px;
     display: grid;
@@ -260,8 +254,6 @@ body{
     height: 100%;
 }
 .label-value{
-    /* background-color: #aaa; */
-    /* margin: 20px; */
     margin-left: 1em;
     display: flex;
     flex-flow: column;
@@ -328,7 +320,6 @@ body{
 .peritem{
     display: flex;
     flex-flow: column;
-    /* background-color: #111; */
     color: #ddd;
     height: 115px;
     width: 50%;
@@ -379,7 +370,7 @@ body{
     align-items: center;
     transition: all 0.2s ease-in-out;
     backdrop-filter: blur(2px);
-    z-index: 999999999999999;
+    z-index: 120;
 }
 
 .loader {
@@ -508,7 +499,9 @@ body{
 }
 
 .settings-wrapper *{
-
+    animation: appear 0.2s;
+}
+.help-pq-wrapper *{
     animation: appear 0.2s;
 }
 
@@ -520,7 +513,6 @@ body{
 
 .settings-header{
     height: 3rem;
-    /* background-color: blue; */
     display: flex;
     justify-content: space-between;
     margin-left: 1rem;
@@ -553,7 +545,6 @@ body{
 
 .settings-city{
     margin: clamp(10px,10%,30px);
-    /* background-color: blue; */
     display: flex;
     justify-content: space-around;
 }
@@ -694,6 +685,66 @@ body{
     border: 10px solid #3a3939;
 }
 
+.settings-btn{
+    transform: translate3d(0,0,0);
+    will-change: transform;
+    backface-visibility: hidden;
+}
+
+.help-pq{
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 5em;
+    display: inline-block;
+    background-color: rgba(1,1,1,0);
+    border: 2px solid #ddd;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    &:hover{
+        transform: scale(1.06);
+    }
+}
+
+.pq-label-div{
+    display: flex;
+    align-items: center;
+    gap: 0.3em;
+
+}
+
+
+.help-pq-content{
+    width: 25vw;
+    height: 30vh;
+    background-color: wheat;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #191919;
+    color: #ddd;
+    font-weight: bold;
+}
+.help-pq-top{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-flow: row-reverse;
+
+    align-items: center;
+    margin-bottom: 0.9em;
+}
+.settings-close-pq-help{
+    border-radius: 0.5em;
+    padding: 0.5em;
+    color: #131313;
+    background-color:#ddd;
+    cursor: pointer;
+    &:hover{
+        transform: scale(1.1);
+
+    }
+    transition: all 0.2s ease-in-out;
+}
+
 /* TABLET */
 @media (max-width: 1024px) {
 
@@ -762,60 +813,53 @@ body{
     .settings {
         width: 90%;
     }
+    .help-pq-content{
+        padding: 10px;
+        width: 70vw;
+        height: 30vh;
+    }
 }
 
 
 /* PHONE */
 @media (max-width: 600px) {
-
     .title {
         font-size: 1.5rem;
     }
-
     .tool-link {
         font-size: 1rem;
         text-align: center;
     }
-
     .link-tools {
         flex-direction: column;
         gap: 10px;
     }
-
     .category-nav {
         gap: 5px;
     }
-
     .equipment-button img {
         width: 60px;
     }
-
     .category-span {
         font-size: 0.7rem;
-
     }
-
     .main {
         gap: 15px;
         margin-top: 20px;
     }
-
     .item-result {
         width: 90%;
         height: auto;
     }
-
     .item-result-top {
         flex-direction: column;
         align-items: center;
         text-align: center;
     }
-
     .item-result-title-div {
         align-items: center;
         height: auto;
     }
-
     .item-result-bottom {
         grid-template-columns: 1fr;
         grid-template-areas:
@@ -825,112 +869,69 @@ body{
         "quantity"
         "pq";
     }
-
     .settings-btn {
         width: 60px;
         height: 60px;
     }
-
     .settings {
-        height: auto;
-    }
-
-    .settings-city {
-        flex-direction: column;
-        gap: 20px;
-    }
-
-    .settings-checkbox-div {
-        margin: 20px;
-        grid-template-columns: 1fr 1fr;
-    }
-
-    .settings-bonus {
-        width: 80%;
-    }
-}
-
-.settings-btn{
-    transform: translate3d(0,0,0);
-    will-change: transform;
-    backface-visibility: hidden;
-}
-
-@media (max-width: 600px){
-
-    .settings{
         width: 95%;
         height: auto;
         padding-bottom: 10px;
     }
-
-    .settings-header span{
+    .settings-header span {
         font-size: 1.2rem;
     }
-
-    .settings-header button{
+    .settings-header button {
         width: 2.5rem;
         height: 2.5rem;
     }
-
-    .settings-city{
+    .settings-city {
         flex-direction: column;
         align-items: stretch;
         gap: 15px;
         margin: 15px;
     }
-
-    .city-wrapper{
+    .city-wrapper {
         width: 100%;
     }
-
-    .btn-dropdown{
+    .btn-dropdown {
         height: 38px;
         font-size: 0.9rem;
         padding: 5px;
     }
-
-    .city-dropdown{
+    .city-dropdown {
         width: 100%;
         top: 65px;
         left: 0;
         z-index: 10;
     }
-
-    .settings-checkbox-div{
+    .settings-checkbox-div {
         margin: 15px;
         padding: 10px;
         height: auto;
         grid-template-columns: 2fr 1fr;
         row-gap: 10px;
     }
-
-    .checkbox-label{
+    .checkbox-label {
         font-size: 0.85rem;
         width: 100%;
     }
-
-    .settings-checkbox{
+    .settings-checkbox {
         margin: 10px;
         margin-right: 10px;
     }
-
-    .settings-bonus-div{
+    .settings-bonus-div {
         margin: 15px;
     }
-
-    .settings-bonus{
+    .settings-bonus {
         width: 100%;
         height: 36px;
         font-size: 0.9rem;
     }
-
-
-    .settings-footer{
+    .settings-footer {
         justify-content: center;
     }
-
-    .btn-save{
+    .btn-save {
         width: 90%;
         text-align: center;
         font-size: 0.95rem;

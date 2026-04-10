@@ -144,8 +144,6 @@ async function getApiData(item_array, params){
             throw new Error(`HTTP : ${res.status}`)
         }
         const res_json = await res.json();
-        // console.log(res_json);
-
         return res_json;
     }
     catch(e){
@@ -439,12 +437,11 @@ async function categoryClick(e) {
     allEquipmentButtons.forEach(button =>{
         button.classList.remove("selected")
     })
-    const mainContainerr = document.querySelector("main");
-    mainContainerr.remove();
+    const mainContainer = document.querySelector("main");
+    mainContainer.remove();
     document.querySelector(".flex-wrapper").insertAdjacentHTML("beforeend",`<main class="main"></main>`)
     const btn = e.target.closest(".equipment-button");
     btn.classList.add("selected");
-    // arrowRetract();
     const data = await main(btn.dataset.apiName);
     data.sort((a,b) =>{
         if(a.profit_quantity > b.profit_quantity){
@@ -465,44 +462,47 @@ async function displayData(data) {
         result.classList.add("item-result");
         result.classList.add(`t${item.tier}-glow`)
         const html = `
-        <div class="item-result-top">
-            <div class="item-result-img">
-                <span class="loader result-img" style="font-size: 30px;"></span>
+            <div class="item-result-top">
+                <div class="item-result-img">
+                    <span class="loader result-img" style="font-size: 30px;"></span>
+                </div>
+                <div class="item-result-title-div">
+                    <span class="item-result-title">${escapeHtml(item.display_name)}</span>
+                    <span class="item-result-tier t${escapeHtml(String(item.tier))}-text">TIER ${escapeHtml(String(item.tier))}.${escapeHtml(String(item.enchantment))}</span>
+                </div>
             </div>
-            <div class="item-result-title-div">
-                <span class="item-result-title">${item.display_name}</span>
-                <span class="item-result-tier t${item.tier}-text">TIER ${item.tier}.${item.enchantment}</span>
-            </div>
-        </div>
-        <div class="item-result-bottom">
-            <div class="label-value price-div">
-                <span class="item-result-label">PRICE</span>
-                <span class="item-result-value">${item.price}</span>
-            </div>
-            <div class="label-value craft-div">
-                <span class="item-result-label">CRAFT</span>
-                <span class="item-result-value">${item.crafting_cost}</span>
-            </div>
-            <div class="label-value profit-div">
-                <span class="item-result-label">PROFIT</span>
-                <span class="item-result-value">${item.profit}</span>
-            </div>
-            <div class="label-value quantity-div">
-                <span class="item-result-label">QUANTITY</span>
-                <span class="item-result-value">${item.quantity}</span>
-            </div>
-            <div class="pq-div"><span class="item-result-label">Net Value (Profit*Quantity):</span><span class="item-result-value">${numberWithCommas(item.profit_quantity)}</span></div>
-        </div>`
+            <div class="item-result-bottom">
+                <div class="label-value price-div">
+                    <span class="item-result-label">PRICE</span>
+                    <span class="item-result-value">${escapeHtml(String(item.price))}</span>
+                </div>
+                <div class="label-value craft-div">
+                    <span class="item-result-label">CRAFT</span>
+                    <span class="item-result-value">${escapeHtml(String(item.crafting_cost))}</span>
+                </div>
+                <div class="label-value profit-div">
+                    <span class="item-result-label">PROFIT</span>
+                    <span class="item-result-value">${escapeHtml(String(item.profit))}</span>
+                </div>
+                <div class="label-value quantity-div">
+                    <span class="item-result-label">QUANTITY</span>
+                    <span class="item-result-value">${escapeHtml(String(item.quantity))}</span>
+                </div>
+                <div class="pq-div">
+                    <div class="pq-label-div">
+                        <span class="item-result-label">Net Value</span>
+                        <button class="help-pq">?</button>
+                    </div>
+                    <span class="item-result-value">${escapeHtml(numberWithCommas(item.profit_quantity))}</span>
+                </div>
+            </div>`;
         result.insertAdjacentHTML("beforeend",html);
         mainContainer.appendChild(result);
         let tempImg = new Image();
         tempImg.src = `https://render.albiononline.com/v1/item/${item.item_id}.png?size=100&quality=4`;
         await tempImg.decode();
-        console.log("abc");
 
         result.querySelector(".result-img").replaceWith(tempImg);
-        // tempImg.classList.remove("blur");
-
 
     })
     setTimeout(() => {
@@ -551,7 +551,7 @@ dropdown_btns.forEach(btn =>{
     })
 })
 
-city_dropdown_select_btns = document.querySelectorAll(".city-dropdown-select-btn");
+const city_dropdown_select_btns = document.querySelectorAll(".city-dropdown-select-btn");
 
 city_dropdown_select_btns.forEach(btn =>{
     btn.addEventListener("click", e=>{
@@ -578,4 +578,25 @@ apply_btn.addEventListener("click", e=>{
     ARTEFACT_CITY = document.querySelector(".artefact-city-btn-dropdown").querySelector("span").textContent;
     SELL_CITY = document.querySelector(".sell-city-btn-dropdown").querySelector("span").textContent;
     settings_wrapper.classList.add("hidden");
+})
+
+function escapeHtml(str) {
+    if (str == null) return '';
+    return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
+
+
+document.querySelector("body").addEventListener("click", e=>{
+    const btn = e.target.closest(".help-pq")
+    if(!btn) return;
+    document.querySelector(".help-pq-wrapper").classList.remove("hidden");
+})
+
+document.querySelector(".settings-close-pq-help").addEventListener("click", e=>{
+    document.querySelector(".help-pq-wrapper").classList.add("hidden");
 })
