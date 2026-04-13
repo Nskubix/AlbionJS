@@ -22,10 +22,11 @@ let MARKET_TAX = 0.08;
 let CRAFT_RETURN = 0.248;
 let ARTEFACT_CITY = "Lymhurst";
 let SELL_CITY = "Brecilien";
-
+let USER_REGION = "europe";
 const ARTEFACT_FILES_COUNT = 9;
 const ATLEAST_THIS_DAYS = 18;
 const START_DAY_FOR_AVERAGE = 10;
+
 
 
 //! BASIC FUNCTIONS CONNECTED TO THE CORE CALCULATOR
@@ -136,7 +137,9 @@ function calcAverage(arr,days){
 
 //? HELPER FUNCTION
 async function getApiData(item_array, params){
-    const url = `https://europe.albion-online-data.com/api/v2/stats/history/${item_array.map(x => x[0].trim()).join()}?${params}`;
+
+    const url = `https://${USER_REGION}.albion-online-data.com/api/v2/stats/history/${item_array.map(x => x[0].trim()).join()}?${params}`;
+    console.log(url);
 
     try{
         const res = await fetch(url);
@@ -154,7 +157,7 @@ async function getApiData(item_array, params){
 }
 
 //? HELPER FUNCTION FOR NOW ONLY USED FOR CAPES MAY CHANGE WITH GAME UPDATES
-async function getCombinedApiData(length, name, city){
+async function getCombinedApiData(length, name, city, region = "europe"){
     let final_table = [];
     for(let i = 1; i <= length; i++){
         const item_text = await textFromFile(`categories/${name}${i}.txt`)
@@ -560,6 +563,15 @@ city_dropdown_select_btns.forEach(btn =>{
     })
 })
 
+const region_dropdown_select_btn = document.querySelectorAll(".region-dropdown-select-btn");
+region_dropdown_select_btn.forEach(btn =>{
+    btn.addEventListener("click", e=>{
+        btn.closest(".region-wrapper").querySelector(".region-btn-dropdown").dataset.region = btn.dataset.region;
+        btn.closest(".region-wrapper").querySelector(".btn-dropdown").querySelector("span").textContent = btn.textContent
+        btn.closest(".region-wrapper").querySelector(".city-dropdown").classList.toggle("hidden");
+    })
+})
+
 const apply_btn = document.querySelector(".btn-save")
 const premium_chkbox = document.querySelector("#premium-chkbox");
 const focus_chkbox = document.querySelector("#focus-chkbox");
@@ -577,7 +589,9 @@ apply_btn.addEventListener("click", e=>{
     CRAFT_RETURN = calculateCraftReturn(focus_chkbox.checked,city_chkbox.checked,bonus_input.value/100);
     ARTEFACT_CITY = document.querySelector(".artefact-city-btn-dropdown").querySelector("span").textContent;
     SELL_CITY = document.querySelector(".sell-city-btn-dropdown").querySelector("span").textContent;
+    USER_REGION = document.querySelector(".region-btn-dropdown").dataset.region;
     settings_wrapper.classList.add("hidden");
+
 })
 
 function escapeHtml(str) {

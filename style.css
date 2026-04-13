@@ -490,7 +490,7 @@ body{
 }
 
 .settings{
-    width: clamp(30rem,30%,100rem);
+    width: clamp(70rem,85%,100rem);
     height: clamp(580px,85vh,700px);
     background-color:#1C1B1B;
     border-radius: 15px;
@@ -544,9 +544,12 @@ body{
 }
 
 .settings-city{
-    margin: clamp(10px,10%,30px);
+    margin: clamp(10px,5%,30px);
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-around; */
+    flex-flow: column;
+    gap: 1rem;
+
 }
 
 .city-label{
@@ -580,7 +583,7 @@ body{
 
 .city-wrapper{
     position: relative;
-    width: clamp(50px,40%,500px);
+    width: clamp(5rem,33%,20rem);
     display: flex;
     flex-flow: column;
     justify-content: end;
@@ -598,9 +601,10 @@ body{
     border-radius: 5px;
     box-shadow: 0 0 10px rgb(39, 39, 39);
     left: 2px;
+    z-index: 9999;
 }
 
-.city-dropdown-select-btn{
+.city-dropdown-select-btn , .region-dropdown-select-btn{
     text-align: left;
     width: 100%;
     text-wrap: nowrap;
@@ -626,10 +630,19 @@ body{
 
 .settings-footer{
     background-color: #191919;
-    flex-grow: 1;
+    padding: 0.5rem 2rem;
     display: flex;
-    justify-content: end;
+    justify-content: space-between;
+    align-items: center;
     border-radius: 15px;
+}
+.settings-discord img{
+    width: 1.75rem;
+}
+.settings-discord{
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
 }
 
 .btn-save{
@@ -637,7 +650,7 @@ body{
     border-radius: 10px;
     color: #111;
     font-weight: bold;
-    padding: 10px;
+    padding: 20px;
 
     background-color: var(--secondary);
     transition: all 0.1s;
@@ -648,10 +661,17 @@ body{
     box-shadow: 0 0 10px var(--secondary);
 }
 
-.settings-bonus-div{
-    margin: 10px;
+.settings-body{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr 1fr;
     flex-grow: 1;
-    margin-left: 10%;
+}
+
+.settings-bonus-div{
+    margin: clamp(10px, 5%, 30px);
+    margin-top: 0;
+    flex-grow: 1;
 }
 .settings-bonus-label{
     color: #aaa;

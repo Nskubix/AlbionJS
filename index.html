@@ -63,43 +63,7 @@
         </nav>
     </div>
     <main class="main">
-        <!-- <div class="item-result t4-glow">
-            <div class="item-result-top">
-                <div class="item-result-img">
-                    <span class="loader result-img" style="font-size: 30px;"></span>
-                </div>
-                <div class="item-result-title-div">
-                    <span class="item-result-title">Arcane staff</span>
-                    <span class="item-result-tier t4-text">ahmelele</span>
-                </div>
-            </div>
-            <div class="item-result-bottom">
-                <div class="label-value price-div">
-                    <span class="item-result-label">PRICE</span>
-                    <span class="item-result-value">19000</span>
-                </div>
-                <div class="label-value craft-div">
-                    <span class="item-result-label">CRAFT</span>
-                    <span class="item-result-value">10000</span>
-                </div>
-                <div class="label-value profit-div">
-                    <span class="item-result-label">PROFIT</span>
-                    <span class="item-result-value">9000</span>
-                </div>
-                <div class="label-value quantity-div">
-                    <span class="item-result-label">QUANTITY</span>
-                    <span class="item-result-value">10</span>
-                </div>
-                <div class="pq-div">
-                    <div class="pq-label-div">
-                        <span class="item-result-label">Net Value</span>
-                        <button class="help-pq">?</button>
-                    </div>
 
-                    <span class="item-result-value">1900000</span>
-                </div>
-            </div>
-        </div> -->
     </main>
     </div>
     <div class="loading-screen hidden main-loading-screen"><span class="loader"></span style="text-align:center"><span>loading...</span></div>
@@ -112,55 +76,76 @@
                 <span>Settings</span>
                 <button class="settings-close-btn"><img src="img/x.svg" alt=""></button>
             </div>
+            <div class="settings-body">
+                <div class="settings-left">
 
-            <div class="settings-city">
-                <div class="sell-city-wrapper city-wrapper">
-                    <span class="city-label">Sell City</span>
-                    <div class="sell-city-btn-dropdown btn-dropdown">
-                        <span>Brecilien</span>
-                        <img src="img/arrow-down.svg" alt="">
+
+                    <div class="settings-city">
+                        <div class="region-wrapper city-wrapper">
+                            <span class="city-label">Server region</span>
+                            <div class="btn-dropdown region-btn-dropdown" data-region="europe">
+                                <span>Europe</span>
+                                <img src="img/arrow-down.svg" alt="">
+                            </div>
+                            <div class="city-dropdown hidden region-dropdown">
+                                <button class="region-dropdown-select-btn" data-region="europe">Europe</button>
+                                <button class="region-dropdown-select-btn" data-region="west">America (west)</button>
+                                <button class="region-dropdown-select-btn" data-region="east">Asia (east)</button>
+                            </div>
+                        </div>
+                        <div class="sell-city-wrapper city-wrapper">
+                            <span class="city-label">City to sell items</span>
+                            <div class="sell-city-btn-dropdown btn-dropdown">
+                                <span>Brecilien</span>
+                                <img src="img/arrow-down.svg" alt="">
+                            </div>
+                            <div class="city-dropdown hidden">
+                                <button class="city-dropdown-select-btn">Brecilien</button>
+                                <button class="city-dropdown-select-btn">Lymhurst</button>
+                                <button class="city-dropdown-select-btn">Thetford</button>
+                                <button class="city-dropdown-select-btn">Fort Sterling</button>
+                                <button class="city-dropdown-select-btn">Bridgewatch</button>
+                                <button class="city-dropdown-select-btn">Caerleon</button>
+                                <button class="city-dropdown-select-btn">Martlock</button>
+                            </div>
+                        </div>
+
+                        <div class="artefact-city-wrapper city-wrapper">
+                            <span class="city-label">City where you buy artefacts</span>
+                            <div class="artefact-city-btn-dropdown btn-dropdown">
+                                <span>Lymhurst</span>
+                                <img src="img/arrow-down.svg" alt="">
+                            </div>
+                            <div class="city-dropdown hidden">
+                                <button class="city-dropdown-select-btn">Brecilien</button>
+                                <button class="city-dropdown-select-btn">Lymhurst</button>
+                                <button class="city-dropdown-select-btn">Thetford</button>
+                                <button class="city-dropdown-select-btn">Fort Sterling</button>
+                                <button class="city-dropdown-select-btn">Bridgewatch</button>
+                                <button class="city-dropdown-select-btn">Caerleon</button>
+                                <button class="city-dropdown-select-btn">Martlock</button>
+                            </div>
+                        </div>
                     </div>
-                    <div class="city-dropdown hidden">
-                        <button class="city-dropdown-select-btn">Brecilien</button>
-                        <button class="city-dropdown-select-btn">Lymhurst</button>
-                        <button class="city-dropdown-select-btn">Thetford</button>
-                        <button class="city-dropdown-select-btn">Fort Sterling</button>
-                        <button class="city-dropdown-select-btn">Bridgewatch</button>
-                        <button class="city-dropdown-select-btn">Caerleon</button>
-                        <button class="city-dropdown-select-btn">Martlock</button>
+                    <div class="settings-bonus-div">
+                        <span class="settings-bonus-label">Daily bonus (0%,10%,20%)</span>
+                        <input class="settings-bonus" type="number" name="" id="bonus-input" placeholder=" 0%">
                     </div>
                 </div>
-
-                <div class="artefact-city-wrapper city-wrapper">
-                    <span class="city-label">Artefact Buy City</span>
-                    <div class="artefact-city-btn-dropdown btn-dropdown">
-                        <span>Lymhurst</span>
-                        <img src="img/arrow-down.svg" alt="">
-                    </div>
-                    <div class="city-dropdown hidden">
-                        <button class="city-dropdown-select-btn">Brecilien</button>
-                        <button class="city-dropdown-select-btn">Lymhurst</button>
-                        <button class="city-dropdown-select-btn">Thetford</button>
-                        <button class="city-dropdown-select-btn">Fort Sterling</button>
-                        <button class="city-dropdown-select-btn">Bridgewatch</button>
-                        <button class="city-dropdown-select-btn">Caerleon</button>
-                        <button class="city-dropdown-select-btn">Martlock</button>
-                    </div>
+                <div class="settings-checkbox-div">
+                    <span class="checkbox-label">Premium Account</span>
+                    <input type="checkbox" name="" id="premium-chkbox" class="settings-checkbox">
+                    <span class="checkbox-label">Focus</span>
+                    <input type="checkbox" name="" id="focus-chkbox" class="settings-checkbox">
+                    <span class="checkbox-label">City Bonus</span>
+                    <input type="checkbox" name="" id="city-chkbox" class="settings-checkbox" checked>
                 </div>
-            </div>
-            <div class="settings-checkbox-div">
-                <span class="checkbox-label">Premium Account</span>
-                <input type="checkbox" name="" id="premium-chkbox" class="settings-checkbox">
-                <span class="checkbox-label">Focus</span>
-                <input type="checkbox" name="" id="focus-chkbox" class="settings-checkbox">
-                <span class="checkbox-label">City Bonus</span>
-                <input type="checkbox" name="" id="city-chkbox" class="settings-checkbox" checked>
-            </div>
-            <div class="settings-bonus-div">
-                <span class="settings-bonus-label">Daily bonus (0,10,20)</span>
-                <input class="settings-bonus" type="number" name="" id="bonus-input" placeholder=" 0%">
             </div>
             <div class="settings-footer">
+                <div class="settings-discord">
+                    <img src="img/discord.svg" alt="discord" decoding="async" title="discord">
+                    <span>nskubix to give feedback</span>
+                </div>
                 <button class="btn-save">Save Changes</button>
             </div>
             </div>
