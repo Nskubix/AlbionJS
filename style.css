@@ -560,7 +560,7 @@ body{
 
 .btn-dropdown{
 
-    width: 100%;
+    width: 20rem;
     border-radius: 10px;
     height: 40px;
     background-color: #2a2929;
@@ -583,7 +583,7 @@ body{
 
 .city-wrapper{
     position: relative;
-    width: clamp(5rem,33%,20rem);
+    width: 100%;
     display: flex;
     flex-flow: column;
     justify-content: end;
@@ -679,11 +679,11 @@ body{
 }
 
 .settings-bonus{
+    margin-top: 5px;
     border: none;
     background-color: #2a2929;
     border: 1px solid #3a3939;
-    margin: 5px;
-    width: 40%;
+    width: 20.5rem;
     display: block;
     height: 2rem;
     border-radius: 3px;
@@ -699,8 +699,8 @@ body{
 
 
 .settings-checkbox{
-    margin: 20%;
-    margin-right: 30%;
+    margin: 1.3rem;
+    margin-right: 20%;
     border-radius: 6px;
     border: 10px solid #3a3939;
 }

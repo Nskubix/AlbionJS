@@ -24,9 +24,9 @@ let ARTEFACT_CITY = "Lymhurst";
 let SELL_CITY = "Brecilien";
 let USER_REGION = "europe";
 const ARTEFACT_FILES_COUNT = 9;
-const ATLEAST_THIS_DAYS = 18;
-const START_DAY_FOR_AVERAGE = 10;
 
+const START_DAY_FOR_AVERAGE = 10;
+const ATLEAST_THIS_DAYS = START_DAY_FOR_AVERAGE + 8;
 
 
 //! BASIC FUNCTIONS CONNECTED TO THE CORE CALCULATOR
@@ -577,13 +577,12 @@ const premium_chkbox = document.querySelector("#premium-chkbox");
 const focus_chkbox = document.querySelector("#focus-chkbox");
 const city_chkbox = document.querySelector("#city-chkbox");
 const bonus_input = document.querySelector("#bonus-input");
-apply_btn.addEventListener("click", e=>{
-    if(bonus_input.value == ""){
 
+apply_btn.addEventListener("click", e=>{
+    if (bonus_input.value != 0 && bonus_input.value != 10 && bonus_input.value != 20) {
+        bonus_input.value = 0;
     }
-    else if ((bonus_input.value != 0 && bonus_input.value != 10 && bonus_input.value != 20)) {
-        return;
-    }
+
 
     MARKET_TAX = premium_chkbox.checked ? 0.04 : 0.08;
     CRAFT_RETURN = calculateCraftReturn(focus_chkbox.checked,city_chkbox.checked,bonus_input.value/100);
