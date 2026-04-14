@@ -648,6 +648,7 @@ body{
     color: var(--secondary);
     font-weight: bold;
     cursor: pointer;
+    text-align: center;
 }
 
 .sort-option-div-active{
@@ -996,5 +997,13 @@ body{
         width: 90%;
         text-align: center;
         font-size: 0.95rem;
+    }
+    .settings-sort-div{
+        margin-left: 1rem;
+        margin-top: 2rem;
+    }
+    .sort-option-div{
+        padding: 0.3rem;
+
     }
 }
