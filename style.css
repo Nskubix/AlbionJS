@@ -529,7 +529,7 @@ body{
         border-radius: 100px;
         background-color: var(--secondary);
         box-shadow: 0 0 4px var(--secondary);
-        color: black;
+        color: #111;
         transition: all 0.1s;
         &:hover{
             cursor: pointer;
@@ -620,12 +620,42 @@ body{
 .settings-checkbox-div{
     background-color:#151515;
     height: 200px;
-    margin: 70px;
-    margin-top: 0px;
-    margin-bottom: 20px;
+    margin: 30px 70px 40px 0px;
     border-radius: 10px;
     display: grid;
     grid-template-columns: 4fr 1fr;
+}
+
+.sort-label{
+    position: absolute;
+    top: -1.5rem;
+    left: 0px;
+}
+
+.settings-sort-div{
+    margin-top: 1rem;
+    position: relative;
+    display: flex;
+    gap: 1rem;
+}
+
+.sort-option-div{
+    border: 4px solid var(--secondary);
+    box-shadow: 0 0 8px var(--secondary);
+    padding: 1rem;
+    border-radius: 3px;
+    /* color: #eee; */
+    color: var(--secondary);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.sort-option-div-active{
+    background-color: var(--secondary);
+    color: #111;
+    box-shadow: 0 0 10px #151515;
+    transform: scale(1.1);
+    transition: all 0.1s ease-in-out;
 }
 
 .settings-footer{
@@ -697,6 +727,14 @@ body{
     width: 80%;
 }
 
+.settings-right{
+    display: flex;
+    flex-flow: column;
+
+}
+
+
+
 
 .settings-checkbox{
     margin: 1.3rem;
@@ -736,7 +774,6 @@ body{
 .help-pq-content{
     width: 25vw;
     height: 30vh;
-    background-color: wheat;
     border-radius: 5px;
     padding: 20px;
     background-color: #191919;
@@ -841,8 +878,12 @@ body{
 }
 
 
+
 /* PHONE */
 @media (max-width: 600px) {
+    .settings-body{
+        overflow: scroll;
+    }
     .title {
         font-size: 1.5rem;
     }

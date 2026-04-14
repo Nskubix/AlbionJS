@@ -23,7 +23,7 @@
         <span class="title hover"><a href="#">Albion calculator</a><span class="title-underscore">_</span></span>
         <div class="link-tools">
             <a href="#" class="tool-link-active tool-link hover">CRAFTING SCOUT</a>
-            <a href="#" class="tool-link hover">REROLL CALCULATOR (WIP)</a>
+            <!-- <a href="#" class="tool-link hover">REROLL CALCULATOR (WIP)</a> -->
 
         </div>
     </header>
@@ -71,15 +71,13 @@
         <img src="img/gear.svg" width="45px" alt="">
     </button>
     <div class="loading-screen hidden settings-wrapper">
-        <div class="settings">
+        <div class="settings ">
             <div class="settings-header">
                 <span>Settings</span>
                 <button class="settings-close-btn"><img src="img/x.svg" alt=""></button>
             </div>
             <div class="settings-body">
                 <div class="settings-left">
-
-
                     <div class="settings-city">
                         <div class="region-wrapper city-wrapper">
                             <span class="city-label">Server region</span>
@@ -96,7 +94,7 @@
                         <div class="sell-city-wrapper city-wrapper">
                             <span class="city-label">City to sell items</span>
                             <div class="sell-city-btn-dropdown btn-dropdown">
-                                <span>Brecilien</span>
+                                <span></span>
                                 <img src="img/arrow-down.svg" alt="">
                             </div>
                             <div class="city-dropdown hidden">
@@ -113,7 +111,7 @@
                         <div class="artefact-city-wrapper city-wrapper">
                             <span class="city-label">City where you buy artefacts</span>
                             <div class="artefact-city-btn-dropdown btn-dropdown">
-                                <span>Lymhurst</span>
+                                <span></span>
                                 <img src="img/arrow-down.svg" alt="">
                             </div>
                             <div class="city-dropdown hidden">
@@ -132,13 +130,21 @@
                         <input class="settings-bonus" type="number" name="" id="bonus-input" placeholder=" 0%">
                     </div>
                 </div>
-                <div class="settings-checkbox-div">
-                    <span class="checkbox-label">Premium Account</span>
-                    <input type="checkbox" name="" id="premium-chkbox" class="settings-checkbox">
-                    <span class="checkbox-label">Focus</span>
-                    <input type="checkbox" name="" id="focus-chkbox" class="settings-checkbox">
-                    <span class="checkbox-label">City Bonus</span>
-                    <input type="checkbox" name="" id="city-chkbox" class="settings-checkbox" checked>
+                <div class="settings-right">
+                    <div class="settings-checkbox-div">
+                        <span class="checkbox-label">Premium Account</span>
+                        <input type="checkbox" name="" id="premium-chkbox" class="settings-checkbox">
+                        <span class="checkbox-label">Focus</span>
+                        <input type="checkbox" name="" id="focus-chkbox" class="settings-checkbox">
+                        <span class="checkbox-label">City Bonus</span>
+                        <input type="checkbox" name="" id="city-chkbox" class="settings-checkbox">
+                    </div>
+                    <div class="settings-sort-div">
+                        <span class="sort-label">Sort by</span>
+                        <div class="sort-option-div" id="netvalue" data-sortmode="profit_quantity">Net Value</div>
+                        <div class="sort-option-div" id="profit" data-sortmode="profit">Profit</div>
+                        <div class="sort-option-div" id="quantity" data-sortmode="quantity">Quantity</div>
+                    </div>
                 </div>
             </div>
             <div class="settings-footer">

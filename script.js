@@ -17,14 +17,52 @@ const cityRules = {
     "Bridgewatch": "STONE"
 };
 
+const regionMap = new Map([
+    ["europe", "Europe"],
+    ["west", "America (west)"],
+    ["east", "Asia (east)"]
+]);
 
-let MARKET_TAX = 0.08;
-let CRAFT_RETURN = 0.248;
-let ARTEFACT_CITY = "Lymhurst";
-let SELL_CITY = "Brecilien";
-let USER_REGION = "europe";
+function setStorage(tax,craftReturn,artefactCity,sellCity,region,sortMode,dailyBonus,premium,focus,cityBonus,sortModeBtn) {
+    localStorage.setItem("loadSettings",1);
+    localStorage.setItem("marketTax",tax);
+    localStorage.setItem("craftReturn", craftReturn);
+    localStorage.setItem("artefactCity",artefactCity);
+    localStorage.setItem("sellCity",sellCity);
+    localStorage.setItem("userRegion",region);
+    localStorage.setItem("sortMode",sortMode);
+    localStorage.setItem("dailyBonus",dailyBonus)
+    localStorage.setItem("hasPremium",premium);
+    localStorage.setItem("hasFocus",focus);
+    localStorage.setItem("hasCityBonus",cityBonus);
+    localStorage.setItem("sortModeBtn",sortModeBtn);
+}
+
+
+const should_load = localStorage.getItem("loadSettings");
+
+if(should_load == null){
+    setStorage(0.08,0.248,"Lymhurst","Brecilien","europe","profit_quantity",0,false,false,true,0);
+}
+
+let MARKET_TAX = localStorage.getItem("marketTax");
+let CRAFT_RETURN = localStorage.getItem("craftReturn");
+let ARTEFACT_CITY = localStorage.getItem("artefactCity");
+let SELL_CITY = localStorage.getItem("sellCity");
+let USER_REGION = localStorage.getItem("userRegion");
+let SORT_MODE = localStorage.getItem("sortMode");
+let DAILY_BONUS = localStorage.getItem("dailyBonus")
+
+document.querySelector(".artefact-city-btn-dropdown").querySelector("span").textContent = String(ARTEFACT_CITY).charAt(0).toUpperCase() + String(ARTEFACT_CITY).slice(1);
+document.querySelector(".sell-city-btn-dropdown").querySelector("span").textContent = String(SELL_CITY).charAt(0).toUpperCase() + String(SELL_CITY).slice(1);
+document.querySelector(".region-btn-dropdown").querySelector("span").textContent = regionMap.get(USER_REGION);
+document.querySelector("#bonus-input").value = DAILY_BONUS
+
+const sort_option_btns = document.querySelectorAll(".sort-option-div");
+[...sort_option_btns][localStorage.getItem("sortModeBtn")].classList.add("sort-option-div-active");
+
+
 const ARTEFACT_FILES_COUNT = 9;
-
 const START_DAY_FOR_AVERAGE = 10;
 const ATLEAST_THIS_DAYS = START_DAY_FOR_AVERAGE + 8;
 
@@ -152,6 +190,7 @@ async function getApiData(item_array, params){
     catch(e){
         console.log(e);
         console.log("Failed to fetch from API!");
+        alert("Error, please refresh the page and try again! \nPossible reasons: \n1. No internet connection\n2. You hit the API limit, please wait 1-5 minutes")
         return
     }
 }
@@ -446,8 +485,9 @@ async function categoryClick(e) {
     const btn = e.target.closest(".equipment-button");
     btn.classList.add("selected");
     const data = await main(btn.dataset.apiName);
+    console.log(SORT_MODE);
     data.sort((a,b) =>{
-        if(a.profit_quantity > b.profit_quantity){
+        if(a[`${SORT_MODE}`] > b[SORT_MODE]){
             return -1
         }
         else{
@@ -488,7 +528,7 @@ async function displayData(data) {
                     <span class="item-result-value">${escapeHtml(String(item.profit))}</span>
                 </div>
                 <div class="label-value quantity-div">
-                    <span class="item-result-label">QUANTITY</span>
+                    <span class="item-result-label">QUANTITY (24h)</span>
                     <span class="item-result-value">${escapeHtml(String(item.quantity))}</span>
                 </div>
                 <div class="pq-div">
@@ -502,7 +542,7 @@ async function displayData(data) {
         result.insertAdjacentHTML("beforeend",html);
         mainContainer.appendChild(result);
         let tempImg = new Image();
-        tempImg.src = `https://render.albiononline.com/v1/item/${item.item_id}.png?size=100&quality=4`;
+        tempImg.src = `https://render.albiononline.com/v1/item/${item.item_id}.png?size=100&quality=${item.quality}`;
         await tempImg.decode();
 
         result.querySelector(".result-img").replaceWith(tempImg);
@@ -578,18 +618,28 @@ const focus_chkbox = document.querySelector("#focus-chkbox");
 const city_chkbox = document.querySelector("#city-chkbox");
 const bonus_input = document.querySelector("#bonus-input");
 
+premium_chkbox.checked = (localStorage.getItem("hasPremium") === "true");
+focus_chkbox.checked = (localStorage.getItem("hasFocus") === "true");
+city_chkbox.checked = (localStorage.getItem("hasCityBonus") === "true");
+
+
+
 apply_btn.addEventListener("click", e=>{
     if (bonus_input.value != 0 && bonus_input.value != 10 && bonus_input.value != 20) {
         bonus_input.value = 0;
     }
 
-
+    const selected_sort = [...sort_option_btns].findIndex(btn => btn.classList.contains("sort-option-div-active"));
     MARKET_TAX = premium_chkbox.checked ? 0.04 : 0.08;
     CRAFT_RETURN = calculateCraftReturn(focus_chkbox.checked,city_chkbox.checked,bonus_input.value/100);
     ARTEFACT_CITY = document.querySelector(".artefact-city-btn-dropdown").querySelector("span").textContent;
     SELL_CITY = document.querySelector(".sell-city-btn-dropdown").querySelector("span").textContent;
     USER_REGION = document.querySelector(".region-btn-dropdown").dataset.region;
+    SORT_MODE = document.querySelector(".sort-option-div-active").dataset.sortmode;
+    setStorage(MARKET_TAX,CRAFT_RETURN,ARTEFACT_CITY,SELL_CITY,USER_REGION,SORT_MODE,bonus_input.value,premium_chkbox.checked,focus_chkbox.checked,city_chkbox.checked,selected_sort);
+
     settings_wrapper.classList.add("hidden");
+
 
 })
 
@@ -612,4 +662,13 @@ document.querySelector("body").addEventListener("click", e=>{
 
 document.querySelector(".settings-close-pq-help").addEventListener("click", e=>{
     document.querySelector(".help-pq-wrapper").classList.add("hidden");
+})
+
+sort_option_btns.forEach(btn =>{
+    btn.addEventListener("click", e =>{
+        sort_option_btns.forEach(b =>{
+            b.classList.remove("sort-option-div-active")
+        })
+        btn.classList.add("sort-option-div-active")
+    })
 })
